@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T21:10:00Z",
+  "generatedAt": "2026-07-22T21:25:00Z",
   "entries": [
     {
       "id": "nathanhigley-mgs2-hd-ui-2.2",
@@ -580,6 +580,23 @@
       "sizeBytes": 1214969655,
       "sha256": "3716675D1F7A50468DA630C9B6212B05E27E033B3EBC5404976BD30561D55976",
       "fileCount": 7859,
+      "previewUrls": []
+    },
+    {
+      "id": "panda-venom-phantasy-star-universe-20260722",
+      "name": "Phantasy Star Universe HD Remaster (WIP)",
+      "gameTitle": "Phantasy Star Universe",
+      "serials": ["SLUS-21194"],
+      "version": "30% WIP mirror",
+      "authors": ["Panda_Venom"],
+      "credits": "Work-in-progress HD remaster created and maintained by Panda_Venom; repacked to a texture-only ZIP and mirrored by EmuCoreX with the original source retained.",
+      "description": "Work-in-progress high-resolution texture remaster for the North American PS2 release; the author's PNACH display patch is intentionally excluded from this texture archive.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/PandaVenom-Phantasy-Star-Universe-SLUS-21194.zip",
+      "sourceUrl": "https://gbatemp.net/threads/phantasy-star-universe-usa-hd-remaster-work-in-progress-30-done.622913/",
+      "license": "See original author source terms",
+      "sizeBytes": 1794314364,
+      "sha256": "3A86968C13758135766BC83C7C3F6A5A23199D7E1AB4AA234B54D7B87638680A",
+      "fileCount": 7068,
       "previewUrls": []
     }
   ]
