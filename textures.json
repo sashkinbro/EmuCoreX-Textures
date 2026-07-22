@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-22T00:00:00Z",
+  "entries": [
+    {
+      "id": "nathanhigley-mgs2-hd-ui-2.2",
+      "name": "MGS2 HD UI",
+      "gameTitle": "Metal Gear Solid 2: Substance",
+      "serials": ["SLUS-20554"],
+      "version": "2.2",
+      "authors": ["NathanHigley"],
+      "credits": "Created and maintained by NathanHigley.",
+      "description": "High-resolution user-interface texture replacement pack.",
+      "downloadUrl": "https://github.com/NathanHigley/MGS2-HD-UI/releases/download/2.2/MGS2-HD-UI.zip",
+      "sourceUrl": "https://github.com/NathanHigley/MGS2-HD-UI",
+      "license": "See source repository terms",
+      "sizeBytes": 14808012,
+      "sha256": "A5254AF6033E62CE3872BB3515833D3E1301900371D4D9B329FC050D7CE8D250",
+      "fileCount": 848,
+      "previewUrls": []
+    },
+    {
+      "id": "asi-factory-gta-vcs-pc-textures-latest",
+      "name": "GTA Vice City Stories PC Texture Pack",
+      "gameTitle": "Grand Theft Auto: Vice City Stories",
+      "serials": ["SLUS-21590"],
+      "version": "latest",
+      "authors": ["ASI Factory"],
+      "credits": "Pack published by ASI Factory; textures adapted from the PC version.",
+      "description": "PC-derived texture replacement pack for the North American PS2 release.",
+      "downloadUrl": "https://github.com/ASI-Factory/GTA-VCS-Texture-Pack-PS2/releases/download/latest/GTA-VCS-Texure-Pack.zip",
+      "sourceUrl": "https://github.com/ASI-Factory/GTA-VCS-Texture-Pack-PS2",
+      "license": "See source repository terms",
+      "sizeBytes": 74099655,
+      "sha256": "09B1BFB989E4015BBE99296839AA5732B22108AC0094A821B993466C17565785",
+      "fileCount": 1781,
+      "previewUrls": [
+        "https://i.imgur.com/RRDySLw.png"
+      ]
+    }
+  ]
+}
