@@ -1,0 +1,2 @@
+# EmuCoreX-Textures
+Textures EmuCoreX
