@@ -83,11 +83,15 @@ function Get-ReleaseAssets {
     )
     for ($page = 1; ; $page++) {
         $uri = "https://api.github.com/repos/$owner/$repositoryName/releases/$ReleaseId/assets?per_page=100&page=$page"
-        $response = @(Invoke-RestMethod -Headers (Get-ApiHeaders -Token $Token) -Uri $uri)
-        foreach ($asset in $response) {
+        # Windows PowerShell can wrap a JSON array as one nested array when
+        # Invoke-RestMethod is called directly inside @(...). Flatten it
+        # explicitly so pagination continues once a release exceeds 100 assets.
+        $response = Invoke-RestMethod -Headers (Get-ApiHeaders -Token $Token) -Uri $uri
+        $responseItems = @($response | ForEach-Object { $_ })
+        foreach ($asset in $responseItems) {
             Write-Output $asset
         }
-        if ($response.Count -lt 100) {
+        if ($responseItems.Count -lt 100) {
             break
         }
     }

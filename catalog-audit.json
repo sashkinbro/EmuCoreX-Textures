@@ -505,6 +505,178 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-07-26-005",
+      "verifiedAt": "2026-07-26T18:55:57Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "callofcthuloo-wwe-all-stars-android-slus-21940-20260726",
+          "sourceArtifact": "WWE All Stars [SLUS-21940] ANDROID.zip",
+          "sourceSha256": "E127768D68C8D38AB1940058B15E4B03EB197D6D9E9FAB62EA479482ED2C3441",
+          "assetName": "wwe-all-stars-callofcthuloo-android-slus-21940.zip",
+          "normalizedSha256": "ED158AC37EBD16DBB3D4D958C6E8FBFC1B4BEEECE29180803E9A6C0E38EF7C5A",
+          "manifestSha256": "2ACCB1553178D06E0A679C32F9A4BB2BEC5BAE5FF236A65F2DDE6DD0791369B0",
+          "contentSetSha256": "79B008178420B0E251C75E3E45A0DE0031C701C8C363C4BB423028DD776C75DB",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "WWE All Stars HD ANDROID.zip (1080p)",
+              "sourceUrl": "https://www.mediafire.com/file_premium/u6mncrrd2mm0mnl/WWE_All_Stars_%255BSLUS-21940%255D_ANDROID.zip/file",
+              "manifestSha256": "2ACCB1553178D06E0A679C32F9A4BB2BEC5BAE5FF236A65F2DDE6DD0791369B0",
+              "contentSetSha256": "79B008178420B0E251C75E3E45A0DE0031C701C8C363C4BB423028DD776C75DB",
+              "relationToPublished": "exact"
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-avp-extinction-android-slus-20147-20260726",
+          "sourceArtifact": "Aliens Versus Predator - Extinction [SLUS-20147] ANDROID.zip",
+          "sourceSha256": "C4B4621B3BAFAA17D8DF8DB6A8631AC443731A03D6F5299373F7F987B053056B",
+          "assetName": "aliens-vs-predator-extinction-callofcthuloo-android-slus-20147.zip",
+          "normalizedSha256": "661C639909817BE0B08A9E157F9519771493FAEBBA7FF1A4A81BFF8E1DE8E98D",
+          "manifestSha256": "D01267002FEF04C936006709C7331858C5021B79741606977D46BEBA50B5AB9F",
+          "contentSetSha256": "DA78E1B4E497875D72E50D581A3B147F31F9615D1A6DB1A07C45F380532296BB",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "AvPE HD [SLUS-20147] ANDROID.zip (1080p)",
+              "sourceUrl": "https://www.mediafire.com/file/wm97632z1yac6ik/Aliens_Versus_Predator_-_Extinction_%255BSLUS-20147%255D_ANDROID.zip/file",
+              "manifestSha256": "D01267002FEF04C936006709C7331858C5021B79741606977D46BEBA50B5AB9F",
+              "contentSetSha256": "DA78E1B4E497875D72E50D581A3B147F31F9615D1A6DB1A07C45F380532296BB",
+              "relationToPublished": "exact"
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-journey-jaburo-android-slus-20175-20260726",
+          "sourceArtifact": "Mobile Suit Gundam - Journey to Jaburo [SLUS-20175] ANDROID.zip",
+          "sourceSha256": "8B55D38B2AB0759C79241A25520D961D43B8E112911CC19CB08F46757C2565A8",
+          "assetName": "gundam-journey-to-jaburo-callofcthuloo-android-slus-20175.zip",
+          "normalizedSha256": "CD17EFC551B194509DF3A5FE51B954FEA241F08DF4A3CE82C938A733A2D43903",
+          "manifestSha256": "F1004B37E9BA8EB378CC5011016A1A94AA7BBE0FC64B5DBDDF36CD17D514908D",
+          "contentSetSha256": "EADB20BF13E69B4792D0DAB1779FE79E36CBE9C606096FD1E79385AC2C53E4B5",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Journey to Jaburo HD [SLUS-20175] ANDROID.zip (1080p)",
+              "sourceUrl": "https://www.mediafire.com/file/jvinolcr7418ye5/Mobile_Suit_Gundam_-_Journey_to_Jaburo_%255BSLUS-20175%255D_ANDROID.zip/file",
+              "manifestSha256": "F1004B37E9BA8EB378CC5011016A1A94AA7BBE0FC64B5DBDDF36CD17D514908D",
+              "contentSetSha256": "EADB20BF13E69B4792D0DAB1779FE79E36CBE9C606096FD1E79385AC2C53E4B5",
+              "relationToPublished": "exact"
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-lost-war-chronicles-android-slps-25123-20260726",
+          "sourceArtifact": "Mobile Suit Gundam - Lost War Chronicles 機動戦士ガンダム戦記 [SLPS-25123] ANDROID.zip",
+          "sourceSha256": "64F81C558589D374E354B46BF8BE433D8A0FBE48920223FA1B064983BF054536",
+          "assetName": "gundam-lost-war-chronicles-callofcthuloo-android-slps-25123.zip",
+          "normalizedSha256": "F7ECBD76E693A7273A22658DD8448DA972D104FD978A6B51C70BB0023ED5E4E8",
+          "manifestSha256": "CC2A5DBD9838156300A34E0E0393598E679874BACE8FA1FD492098128F59092C",
+          "contentSetSha256": "5FC52EBB5691074D437378340DB79F8536332124A19FD1DF5FDA36D1A9BF3895",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Lost War Chronicles Android edition",
+              "sourceUrl": "https://www.mediafire.com/file_premium/irxlivgoye8c9b1/Mobile_Suit_Gundam_-_Lost_War_Chronicles_%25E6%25A9%259F%25E5%258B%2595%25E6%2588%25A6%25E5%25A3%25AB%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%25E6%2588%25A6%25E8%25A8%2598_%255BSLPS-25123%255D_ANDROID.zip/file",
+              "manifestSha256": "CC2A5DBD9838156300A34E0E0393598E679874BACE8FA1FD492098128F59092C",
+              "contentSetSha256": "5FC52EBB5691074D437378340DB79F8536332124A19FD1DF5FDA36D1A9BF3895",
+              "relationToPublished": "exact"
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-guitar-hero-android-slus-21224-20260726",
+          "sourceArtifact": "Guitar Hero [SLUS-21224] ANDROID.zip",
+          "sourceSha256": "0C9C253EA7194A88799DAEB72A85A968C30CCDD4F42E58EA8EB5DF8B106DA26D",
+          "assetName": "guitar-hero-callofcthuloo-android-slus-21224.zip",
+          "normalizedSha256": "8975FD572AA7633CDB3ABE52EBA88828E7C3C3BEE9061B7121E6E2275B83058C",
+          "manifestSha256": "67C82DB69B60062542EC534EDD633FA46F198225A4773EE2FBC3167E906748CE",
+          "contentSetSha256": "793E9413B122F7709A5A7E0E254E0405DA726C4168EDA98FC1CF6630256D4D47",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Guitar Hero Android edition",
+              "sourceUrl": "https://www.mediafire.com/file_premium/9fwbqbry0j0p0fg/Guitar_Hero_%255BSLUS-21224%255D_ANDROID.zip/file",
+              "manifestSha256": "67C82DB69B60062542EC534EDD633FA46F198225A4773EE2FBC3167E906748CE",
+              "contentSetSha256": "793E9413B122F7709A5A7E0E254E0405DA726C4168EDA98FC1CF6630256D4D47",
+              "relationToPublished": "exact"
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-guitar-hero-ii-android-slus-21447-20260726",
+          "sourceArtifact": "Guitar Hero II [SLUS-21447] ANDROID.zip",
+          "sourceSha256": "3A771268E8B7DF9C8805F8FCB6159D447A5ACC7E29536FC42367B0FFC5294489",
+          "assetName": "guitar-hero-ii-callofcthuloo-android-slus-21447.zip",
+          "normalizedSha256": "272C98AFE5836EF812C21785C2E1B9DB5E6E70366F96C9FAB5532778A6A78095",
+          "manifestSha256": "8B9492DF70E6DFA53DD2C02326615A32089582BEE23895C2DC4C53FF9D08D431",
+          "contentSetSha256": "53501B3B524A0834818E4023C15CBF78D404BD36CFC0B964CF7D2D9708CB49CA",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Guitar Hero II Android edition",
+              "sourceUrl": "https://www.mediafire.com/file_premium/ug0l62ilzxi6kez/Guitar_Hero_II_%255BSLUS-21447%255D_ANDROID.zip/file",
+              "manifestSha256": "8B9492DF70E6DFA53DD2C02326615A32089582BEE23895C2DC4C53FF9D08D431",
+              "contentSetSha256": "53501B3B524A0834818E4023C15CBF78D404BD36CFC0B964CF7D2D9708CB49CA",
+              "relationToPublished": "exact"
+            }
+          ]
+        },
+        {
+          "catalogId": "b-bugs-everybodys-golf-nethersx2-sces-52582-20260726",
+          "sourceArtifact": "replacements.zip",
+          "sourceSha256": "BF99CE6BE1C7C33378C24BC3A22C4FAB076C6B9B743DBE2DD3E0830475400C70",
+          "assetName": "everybodys-golf-b-bugs-nethersx2-sces-52582.zip",
+          "normalizedSha256": "A635B7E4D3690C8BD285C15D4E8C2EABF2D982D60C58E3C231800346198CF2F6",
+          "manifestSha256": "987435235F0EBB5841B1A729C7A83B1FCBC3EDB8AAA8AD44420B6447E3A70B5B",
+          "contentSetSha256": "99F6FDB551F07BEFF328C800EBCC188FA5A1ECE903879F33FDB883279E318837",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "replacements.zip (Nethersx2-compatible PAL edition)",
+              "sourceUrl": "https://drive.google.com/drive/folders/1XOvmnwxRfXL2IfRyMCRSQem1K9UnpL5A?usp=sharing",
+              "manifestSha256": "987435235F0EBB5841B1A729C7A83B1FCBC3EDB8AAA8AD44420B6447E3A70B5B",
+              "contentSetSha256": "99F6FDB551F07BEFF328C800EBCC188FA5A1ECE903879F33FDB883279E318837",
+              "relationToPublished": "exact"
+            }
+          ]
+        },
+        {
+          "catalogId": "xxtherockoxx-speed-racer-slus-21812-20260726",
+          "sourceArtifact": "S.R.HD.textures.xXThr.RockoXx.rar",
+          "sourceSha256": "16A823AD4658539ED68715142B81AB7BA01039A38BAC6902C397F14A8B889D9A",
+          "assetName": "speed-racer-xxtherockoxx-slus-21812.zip",
+          "normalizedSha256": "3526E9EB81035FE3480AADCE110BA26E3DA7E8C209F8A0BFF6D7135A5E750804",
+          "manifestSha256": "01954D0356FDC030D16E174FC0E60FE90B03E9E31B4E3495733D66D9CDCEF1D9",
+          "contentSetSha256": "870E90D1EED084B658B0170FE2C47398CD4016669B559A4C453BBF26FEF63F98",
+          "comparedAgainst": [
+            "bmt619-speed-racer-v1.0"
+          ]
+        },
+        {
+          "catalogId": "xxtherockoxx-call-of-duty-finest-hour-slus-20725-20260726",
+          "sourceArtifact": "Co.D.fh.hd.xXthe.RockoXx.rar",
+          "sourceSha256": "3A8547BF50AA72AC0798A2DECFF54275FD5BF638F72F3F67C102552305DCECAD",
+          "assetName": "call-of-duty-finest-hour-xxtherockoxx-slus-20725.zip",
+          "normalizedSha256": "8E752FECAFE824FE084CE7D1C226EA6B402E3829F928BC4AF9C6A33FAB16FAFC",
+          "manifestSha256": "747B91664B9E610EAB4C1E221DDCFB29B7432797A1E2144E0EBA897530B5B68D",
+          "contentSetSha256": "B8DAAFAF2E735C638F694813D58F3FDBD73E092A512FE1F4A4CD0436D8A96B97",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "xxtherockoxx-saint-seiya-sanctuary-sles-53201-slps-25476-20260726",
+          "sourceArtifact": "S.s.s.hd.xXthe.RockoXx.rar",
+          "sourceSha256": "84E01D3A56EB34051B91582966EE04C1D8C797F2BC940E640C449D3FDBB0F998",
+          "assetName": "saint-seiya-sanctuary-xxtherockoxx-sles-53201-slps-25476.zip",
+          "normalizedSha256": "7D746A7DF33A5DAAA5FD1125BFB48F72C39427B8AA08A239799DF7C904A311B5",
+          "manifestSha256": "D8258027CCB251DB31E621D4D172234FE4131A919741D866F8D93AB0E7125820",
+          "contentSetSha256": "525840E0B2D000A2A10CD7207D3D736A6B2A5721F7C9CE6F5A7A3E13CAB8DD28",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }
