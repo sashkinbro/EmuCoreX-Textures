@@ -104,6 +104,27 @@ def require_text(value: Any, label: str) -> str:
     return value.strip()
 
 
+def provenance_keys(
+    source_url: str,
+    serials: Any,
+    authors: Any,
+) -> set[tuple[str, str, str]]:
+    if not isinstance(serials, list) or not serials or not all(
+        isinstance(serial, str) and serial.strip() for serial in serials
+    ):
+        raise RegistrationError("catalog.serials must be non-empty text entries")
+    if not isinstance(authors, list) or not authors or not all(
+        isinstance(author, str) and author.strip() for author in authors
+    ):
+        raise RegistrationError("catalog.authors must be non-empty text entries")
+    normalized_url = source_url.strip().casefold()
+    return {
+        (normalized_url, serial.strip().upper(), author.strip().casefold())
+        for serial in serials
+        for author in authors
+    }
+
+
 def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
     catalog = load_json(args.catalog)
     audit = load_json(args.audit)
@@ -121,7 +142,20 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
     existing_ids = {entry["id"] for entry in catalog_entries}
     existing_urls = {entry["downloadUrl"] for entry in catalog_entries}
     existing_archive_hashes = {entry["sha256"].upper() for entry in catalog_entries}
-    existing_source_hashes: set[str] = set()
+    existing_provenance_keys: set[tuple[str, str, str]] = set()
+    for entry in catalog_entries:
+        existing_provenance_keys.update(
+            provenance_keys(
+                require_text(entry.get("sourceUrl"), "catalog.sourceUrl"),
+                entry.get("serials"),
+                entry.get("authors"),
+            )
+        )
+    # Older catalog entries predate the audit ledger and may store an upstream
+    # archive verbatim. Treat their published digest as a source digest too so
+    # renaming and re-normalizing the same public artifact cannot bypass the
+    # duplicate check.
+    existing_source_hashes: set[str] = set(existing_archive_hashes)
     existing_manifest_hashes: set[str] = set()
     existing_content_hashes: set[str] = set()
     for batch in audit_batches:
@@ -144,6 +178,26 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
             raise RegistrationError(f"{label}.catalog must be an object")
 
         catalog_id = require_text(catalog_fields.get("id"), f"{label}.catalog.id")
+        source_url = require_text(
+            catalog_fields.get("sourceUrl"), f"{label}.catalog.sourceUrl"
+        )
+        candidate_provenance = provenance_keys(
+            source_url,
+            catalog_fields.get("serials"),
+            catalog_fields.get("authors"),
+        )
+        provenance_overlap = candidate_provenance & existing_provenance_keys
+        variant_evidence = item.get("sourceVariantEvidence")
+        if provenance_overlap and not variant_evidence:
+            raise RegistrationError(
+                f"duplicate source/serial/author provenance: {catalog_id}; "
+                "provide sourceVariantEvidence only for a verified distinct variant"
+            )
+        if variant_evidence is not None:
+            if not isinstance(variant_evidence, list) or not variant_evidence:
+                raise RegistrationError(
+                    f"{label}.sourceVariantEvidence must be a non-empty array"
+                )
         source_path = args.source_dir / source_file
         archive_path = args.ready_dir / asset_name
         if not source_path.is_file():
@@ -183,7 +237,7 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
             "credits": catalog_fields["credits"],
             "description": catalog_fields["description"],
             "downloadUrl": download_url,
-            "sourceUrl": catalog_fields["sourceUrl"],
+            "sourceUrl": source_url,
             "license": catalog_fields["license"],
             "sizeBytes": summary.sizeBytes,
             "sha256": summary.sha256,
@@ -205,8 +259,8 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
                 "contentSetSha256": summary.contentSetSha256,
                 "comparedAgainst": item.get("comparedAgainst", []),
                 **(
-                    {"sourceVariantEvidence": item["sourceVariantEvidence"]}
-                    if "sourceVariantEvidence" in item
+                    {"sourceVariantEvidence": variant_evidence}
+                    if variant_evidence is not None
                     else {}
                 ),
             }
@@ -214,6 +268,7 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
         existing_ids.add(catalog_id)
         existing_urls.add(download_url)
         existing_archive_hashes.add(summary.sha256)
+        existing_provenance_keys.update(candidate_provenance)
         existing_source_hashes.add(source_sha256)
         existing_manifest_hashes.add(summary.manifestSha256)
         existing_content_hashes.add(summary.contentSetSha256)

@@ -369,6 +369,142 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "2026-07-26-004",
+      "verifiedAt": "2026-07-26T18:11:15Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "xxtherockoxx-kill-switch-slus-20706-20260726",
+          "sourceArtifact": "K.S.hd.textures.xXThe.RockoXx.rar",
+          "sourceSha256": "2A5FF62484E47472AA507FF10131B4F233A772317A65D9902F24EEA4980424C2",
+          "assetName": "kill-switch-xxtherockoxx-slus-20706.zip",
+          "normalizedSha256": "43C6532131EF0DBB8D363A2C704A192EBC4390468DC10046CECC7F897FAA24DA",
+          "manifestSha256": "D8253EC644DE095EA59F200183554DD7606353F4034C417B16914AF36AF6209B",
+          "contentSetSha256": "81BCC64B2E61B92B8B3A8092B22B7643E6796A60AA4452F40D8666706CDB07AA",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-maximo-army-of-zin-slus-20722-20260726",
+          "sourceArtifact": "Maximo vs Army of Zin.7z",
+          "sourceSha256": "8BDD07AD5EEF54628C70BC4693FEA39E1ECE69BC62732E655D4D896E316021B6",
+          "assetName": "maximo-army-of-zin-panda-venom-slus-20722.zip",
+          "normalizedSha256": "09B52F21BF693D0F1DF0005E1211FCF7C79728224C8B8D19A09D481F104D9E47",
+          "manifestSha256": "905183B6D6AD27E05996EFD1E9D4F0C9E5AB526B859DFC2929463956E51EE482",
+          "contentSetSha256": "A8E68BAF9ED03E6EB7C2E765DB9038C7FC3F202096CF615B6789B981E6833E96",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "funnynamexyz-motorstorm-arctic-edge-v2-scus-97654-20260726",
+          "sourceArtifact": "SCUS-97654-v2.zip",
+          "sourceSha256": "6488D76D4D46632EF132656A0B1922697598EA831A20F0DF9C5A2B41552034C9",
+          "assetName": "motorstorm-arctic-edge-funnynamexyz-v2-scus-97654.zip",
+          "normalizedSha256": "6ADE9891C896BE5A91B90F612DEC86368ABFF4CF2D3D6233D27515B02DA5DF55",
+          "manifestSha256": "95D0F6C74659690DCA2AB7925227048C48D94DF4BF6F7CFB301B1825CFA846ED",
+          "contentSetSha256": "973F4063B8781CE99AA534F4FC799ADF820380851E2CD3F9F22CA973F077C16F",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "teodor-max-constantine-slus-21142-20260726",
+          "sourceArtifact": "Constantine (USA) [SLUS-21142] HD Remaster.rar",
+          "sourceSha256": "41438A4EA2D3FDE7165AEBB01373CC010EF9B767E86BD1291FFFFC71996DF7E3",
+          "assetName": "constantine-teodor-max-slus-21142.zip",
+          "normalizedSha256": "39C0FB3E392736E1D00A603CFBF460BD2DC35BEFB465EE8DA60129B7FBAABF1F",
+          "manifestSha256": "E72C8B5670F91D641F73E864E83D82A0D83FF4C36B91CFB890B1CF8422B6D779",
+          "contentSetSha256": "D935ACCDE2199B6CA9393D19310536C66DF4F6F99D6166CA68D127F8756DC0E9",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "xxtherockoxx-gradius-v-slus-20712-20260726",
+          "sourceArtifact": "Grad.v.hd.textures.xXThe.RockoXx.rar",
+          "sourceSha256": "C5035D486FE8C1BD2EAD3EBFE62A2DC3296D71FE86286463F2BBA9D15EE05C63",
+          "assetName": "gradius-v-xxtherockoxx-slus-20712.zip",
+          "normalizedSha256": "A323CCF73DB52695BC76649898AB22E0AF6E47F44C67F653EC7F4E55766EEADE",
+          "manifestSha256": "D50A557F1A6010670178AA287DFA0E464A93FAD16B2B866E812AD268C1A857D6",
+          "contentSetSha256": "7E35D2E3548C941F78484CCC1AA7D44106F2AFB7CC097BAC70EB01448DD47F89",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-encounters-in-space-android-slus-20740-20260726",
+          "sourceArtifact": "Mobile Suit Gundam - Encounters in Space [SLUS-20740] ANDROID.zip",
+          "sourceSha256": "2B13EF3B1C57694611278212976359D6515E1CDC1EF3B64BED14735402C66A9F",
+          "assetName": "gundam-encounters-in-space-callofcthuloo-android-slus-20740.zip",
+          "normalizedSha256": "C9E9B1196EBF0C47A1C6D90FC99A7CA91672AB666C116A5D1C8B91D664C29171",
+          "manifestSha256": "6CC4200F4CF4BFFBFDD97A88DC4EBA5AE7BD134386A3681D1715C0DE1C7BE25B",
+          "contentSetSha256": "480AFC68ECD8BE66D6F5BB761D83DFE69DE0C82569A99D81F4CA4082250B7910",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "AetherSX2 / NetherSX2 Android edition (578 MB)",
+              "sourceUrl": "https://www.mediafire.com/file_premium/r95txaasv48dzhp/Mobile_Suit_Gundam_-_Encounters_in_Space_%255BSLUS-20740%255D_ANDROID.zip/file",
+              "manifestSha256": "6CC4200F4CF4BFFBFDD97A88DC4EBA5AE7BD134386A3681D1715C0DE1C7BE25B",
+              "contentSetSha256": "480AFC68ECD8BE66D6F5BB761D83DFE69DE0C82569A99D81F4CA4082250B7910",
+              "relationToPublished": "exact"
+            }
+          ]
+        },
+        {
+          "catalogId": "funnynamexyz-vice-city-stories-wip-slus-21590-20260726",
+          "sourceArtifact": "VCS-PCSX2Upscale.zip",
+          "sourceSha256": "791D9983EADE188B731911FA86EE7932E8FB5D2D31D1A1E6D261C3679679C6E0",
+          "assetName": "vice-city-stories-funnynamexyz-wip-slus-21590.zip",
+          "normalizedSha256": "F1C632DAAA773374D6209AE2F0FEEFC6C3888B23DCEDCD082DCF5F43702D4A84",
+          "manifestSha256": "D9BB8943161CF1BB728C2E3F06318F03D42B4BB3BB00628597A330D502B06072",
+          "contentSetSha256": "043EFF03684BC0C6C38D42029CCD7DE5E9226E09CA9807EAD835590B9F811AA8",
+          "comparedAgainst": [
+            "asi-factory-gta-vcs-pc-textures-latest"
+          ]
+        },
+        {
+          "catalogId": "funnynamexyz-naruto-ultimate-ninja-3-slus-21727-20260726",
+          "sourceArtifact": "SLUS-21727.zip",
+          "sourceSha256": "EFAB727076C293E20125493F47F7A4A3A4A5B2276FC4070A7A585E1FA102E997",
+          "assetName": "naruto-ultimate-ninja-3-funnynamexyz-slus-21727.zip",
+          "normalizedSha256": "B1F00D31B87477F918988F2EE434E7EBAA29F979DAB2FF5B80F3D7C549E41218",
+          "manifestSha256": "12E6998DF4F00FFC8A254F579C514505C51AA7C38247377B69F82D03D225FF15",
+          "contentSetSha256": "0123B536045F50FA630B8EEAC751D72C8DFDE8D74D404020C410E5C7EE38ACC7",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-gungriffon-blaze-android-slus-20080-20260726",
+          "sourceArtifact": "GunGriffon Blaze [SLUS-20080] ANDROID.zip",
+          "sourceSha256": "E9DEEAE8F644060ABDA631D3BB93EC16B1013E39215396EA20607FBFD698134A",
+          "assetName": "gungriffon-blaze-callofcthuloo-android-slus-20080.zip",
+          "normalizedSha256": "07DE33AA693AA1BD2538FC7F87582C87CA3312BB3893926CE018138C14619241",
+          "manifestSha256": "7EE35347CB18BB7B69BC06E4BDA31DA3C063DB6DE513666834AC8621048275CB",
+          "contentSetSha256": "7DDA818E052AC9182F727CEA8DFF589FBF27DFF67DA397B021A38CC42C236C04",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "AetherSX2 / NetherSX2 Android edition (773 MB)",
+              "sourceUrl": "https://www.mediafire.com/file/hu09acpyxigech3/GunGriffon_Blaze_ANDROID.zip/file",
+              "manifestSha256": "7EE35347CB18BB7B69BC06E4BDA31DA3C063DB6DE513666834AC8621048275CB",
+              "contentSetSha256": "7DDA818E052AC9182F727CEA8DFF589FBF27DFF67DA397B021A38CC42C236C04",
+              "relationToPublished": "exact"
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-federation-vs-zeon-android-slus-20382-20260726",
+          "sourceArtifact": "Mobile Suit Gundam - Federation vs. Zeon [SLUS-20382] ANDROID.zip",
+          "sourceSha256": "E719C72A32A8DD3CD2833A50E2816E37BBA9AF7E0297C1C3384545E60A0D50ED",
+          "assetName": "gundam-federation-vs-zeon-callofcthuloo-android-slus-20382.zip",
+          "normalizedSha256": "6FCD6F07919E140849768AE881ED3D7ABC6C419081B062300D88520BCC721190",
+          "manifestSha256": "4634D90426AC453FC8FA7B0550614AE09BC91B296D1F6FAF17F17B4563CF8336",
+          "contentSetSha256": "5F906E4B84872055F45AEF949F354E502DF41C329BACDD0DF3975472E87F320A",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "AetherSX2 / NetherSX2 Android edition (1.28 GB)",
+              "sourceUrl": "https://www.mediafire.com/file/id1tha0r8gxluan/Federation_vs_Zeon_ANDROID.zip/file",
+              "manifestSha256": "4634D90426AC453FC8FA7B0550614AE09BC91B296D1F6FAF17F17B4563CF8336",
+              "contentSetSha256": "5F906E4B84872055F45AEF949F354E502DF41C329BACDD0DF3975472E87F320A",
+              "relationToPublished": "exact"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

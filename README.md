@@ -21,8 +21,8 @@ repository's Releases. Git LFS must not be used.
 Every pack keeps its original author, credits, source link, immutable download
 URL, archive size, SHA-256 digest, and supported game serials.
 
-The current catalog contains 103 verified packs covering 120 regional game
-serials and 354,092 replacement texture files. Archives are inspected
+The current catalog contains 113 verified packs covering 129 regional game
+serials and 373,205 replacement texture files. Archives are inspected
 before publication; source-only projects, screenshots and emulator-incompatible
 dumps are not listed as downloadable packs.
 
