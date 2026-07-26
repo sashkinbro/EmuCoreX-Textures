@@ -132,6 +132,113 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "2026-07-26-002",
+      "verifiedAt": "2026-07-26T16:37:24Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-timesplitters-slus-20090-20260726",
+          "sourceArtifact": "timesplitters-retrogenerica-slus-20090.7z",
+          "sourceSha256": "54193DF0E46F44993B722A1768DAEA4FB269D2CD327D1BE2C22A60F436E7BC46",
+          "assetName": "timesplitters-retrogenerica-slus-20090.zip",
+          "normalizedSha256": "030B8FD5B57D261408D96DBD72ACA34964AAE07A0D42CEC0C588C35452A368BF",
+          "manifestSha256": "5D765CAF54BCAA9DE10B98300BC3631F895D434583629560318AAE89D14FA940",
+          "contentSetSha256": "24F3D2221051C30337DE00488CF402A1B0904FC97659A3AD4BA15917F86E565A",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-nightmare-before-christmas-oogies-revenge-slus-20860-20260726",
+          "sourceArtifact": "nightmare-before-christmas-oogies-revenge-retrogenerica-slus-20860.7z",
+          "sourceSha256": "31DCB6637FCB23903972C794EB0685AAA4BC4AE19A42BB2DE51929313660AF58",
+          "assetName": "nightmare-before-christmas-oogies-revenge-retrogenerica-slus-20860.zip",
+          "normalizedSha256": "9F52A9E18A22C419A8716BF111956951D6276880D0101D57E84E4BB96F9406B2",
+          "manifestSha256": "CF494CE080CFA3E6AA63FA82DBB4A5D4E6588AB437A3FEDC4856F08D16231E76",
+          "contentSetSha256": "D4E7E283A10647CEFE3214782D97E3688ABB2688DAE004983DC91E08C116FAE1",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-digimon-rumble-arena-2-slus-21067-20260726",
+          "sourceArtifact": "digimon-rumble-arena-2-retrogenerica-slus-21067.7z",
+          "sourceSha256": "0CE325BFD4F089A41166B0CC84D5C047FB2D4E5C65CBCFD6A0D457E31FE6F7AC",
+          "assetName": "digimon-rumble-arena-2-retrogenerica-slus-21067.zip",
+          "normalizedSha256": "BD71D3E5FAD97BEA8499C91252AE2B6158E2E7CAFE2F609E0BFEA95635727529",
+          "manifestSha256": "DEACDC0A5FDC7D0195B6141F93209E129F9DC43859EAAB2BB6A51F5C11246FB4",
+          "contentSetSha256": "A4EE376B868159A366701D8F07A01BDD2A3F2D5C35AD10CAFE239894FCA6C7EB",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-jackass-the-game-slus-21627-20260726",
+          "sourceArtifact": "jackass-the-game-retrogenerica-slus-21627.7z",
+          "sourceSha256": "7F16DE9152B839995EC73F2434C9994CEC05DA9C163D4C63314621E19682C272",
+          "assetName": "jackass-the-game-retrogenerica-slus-21627.zip",
+          "normalizedSha256": "1B77D34996A4BB9DFEC470C42BE11CC4F076B26E9FDE2823909B761CC2FAD271",
+          "manifestSha256": "ACC3B815C10EB1501948C9F10EA423923A494A2C55F7AA8B29506D48F9E4F8D8",
+          "contentSetSha256": "5CD6CEA89B1C6084A38EB28C869FACB11B364D94CD3BEDE552BC712664C876AA",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-rugrats-royal-ransom-slus-20443-20260726",
+          "sourceArtifact": "rugrats-royal-ransom-retrogenerica-slus-20443.7z",
+          "sourceSha256": "606F2EACB7605ED10AA84DDB1A6692223955310BB0B40CC5BE66F0FF677729DB",
+          "assetName": "rugrats-royal-ransom-retrogenerica-slus-20443.zip",
+          "normalizedSha256": "10127E6C961875AD0B6D8EF8814E13B24223502F23D9B927DCC9B0A2299A2330",
+          "manifestSha256": "ECB25345885E26E5E994CED22679BC603FDAB2F70EB4F04D78139FAAADDEF88F",
+          "contentSetSha256": "52789F4F6FF8764F275C14A3C2A847BD887C793473EC9C15EB9C21C58BC77767",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-backyard-wrestling-slus-20638-20260726",
+          "sourceArtifact": "backyard-wrestling-retrogenerica-slus-20638.7z",
+          "sourceSha256": "B8180B3A1BC48D9241FF6F5ABF3B583FA59661DA2B8F7D2B1209BF52C707AF9E",
+          "assetName": "backyard-wrestling-retrogenerica-slus-20638.zip",
+          "normalizedSha256": "D0E68B8D3B37D421D933D0440621D771C62C1E33BAD336706FD526160C0BC689",
+          "manifestSha256": "02FF55E06E259E34CFACC2DF91FA83966256DDF9A2DCFB3106737A83DBD8FC7D",
+          "contentSetSha256": "1F052AF5F965BE6BC099FCF3518FAFFDBCDDE2120A474FE4092BCAB4C23A6CF5",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-monsters-inc-scare-island-sces-50595-20260726",
+          "sourceArtifact": "monsters-inc-scare-island-retrogenerica-sces-50595.7z",
+          "sourceSha256": "DC665A71E86C1AB99F19AF147F2254BE693A58D7337869C6622C20F8F6EEBFD9",
+          "assetName": "monsters-inc-scare-island-retrogenerica-sces-50595.zip",
+          "normalizedSha256": "BCD15DA187B4134226ECFCF866B14294DDC3A0C07988DFF42EA1F90B6598CA8F",
+          "manifestSha256": "2EFCE267C12932D99A45171F94E622206628BB757DF0788CE2650C691E9249E7",
+          "contentSetSha256": "DD05026563220F0D707D8EF1886753A4EC7AC6C4F6F8A2BD39000D465295E8F3",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-looney-tunes-space-race-slus-20352-20260726",
+          "sourceArtifact": "looney-tunes-space-race-retrogenerica-slus-20352.7z",
+          "sourceSha256": "598054B1C44DF0151EDF26491A079211CA329B6FF188EA834C0EE72F252388D4",
+          "assetName": "looney-tunes-space-race-retrogenerica-slus-20352.zip",
+          "normalizedSha256": "87D277E315472A28CAE66C23F748036E3359D4AA8FD85F016BFBED0094EA43A0",
+          "manifestSha256": "112482EDF008545F244E58A407EAA3CA45EFC7D080132E8E9669B3F2D1606AB2",
+          "contentSetSha256": "93EB6C64D9637AB787A91FDB839B141D0B929E6C40D21B875F0BAEB2E56F0A39",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-winnie-the-pooh-rumbly-tumbly-slus-21084-20260726",
+          "sourceArtifact": "winnie-the-pooh-rumbly-tumbly-retrogenerica-slus-21084.7z",
+          "sourceSha256": "FB9E479A03DF133213080D8A9132390C5B1BA97D23F669837C0FD127793B39D5",
+          "assetName": "winnie-the-pooh-rumbly-tumbly-retrogenerica-slus-21084.zip",
+          "normalizedSha256": "F3AA8639AF6A93467379101526BE37E39BD04E43761F0A43D8EB02E9DD0784C7",
+          "manifestSha256": "2584F289274290732D084114C03A4798B3ED5F603569E6CBE603857D8A95CC0B",
+          "contentSetSha256": "E7DA6D4A9645DA90C37789679188B61010870DAF3E4AEDB43D1BCE91F76D669C",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-tom-and-jerry-war-of-the-whiskers-slus-20355-20260726",
+          "sourceArtifact": "tom-and-jerry-war-of-the-whiskers-retrogenerica-slus-20355.7z",
+          "sourceSha256": "9444A43EBD9AA8437DFCE02449CB593B51BD9897B3A90F86131AE649953129A3",
+          "assetName": "tom-and-jerry-war-of-the-whiskers-retrogenerica-slus-20355.zip",
+          "normalizedSha256": "1ADBAA368A1096D1AECE456214BF3D3924F5CD77450D689766073A99024C24F7",
+          "manifestSha256": "94862E4CC0FD52A5588AEF5AB3BA135C0C06F7DFFB23852D9F44900DE40B969F",
+          "contentSetSha256": "5B837C12B979C0D30306D5DCCD2204EBD3AE31BAD6C54C4673A5E3F1619EBFE3",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }

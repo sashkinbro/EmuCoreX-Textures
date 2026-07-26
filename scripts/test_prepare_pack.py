@@ -44,6 +44,23 @@ class PreparePackTest(unittest.TestCase):
                 )
             self.assertEqual(validate(output), summary)
 
+    def test_normalizes_legacy_serial_and_textures_roots(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            source = root / "source.zip"
+            output = root / "output.zip"
+            with zipfile.ZipFile(source, "w") as archive:
+                archive.writestr("wrapper/SLUS-12345/textures/ui/menu.PNG", png())
+
+            summary = prepare(source, output, strip_components=0)
+
+            self.assertEqual(summary.fileCount, 1)
+            with zipfile.ZipFile(output) as archive:
+                self.assertEqual(
+                    [entry.filename for entry in archive.infolist()],
+                    ["replacements/ui/menu.PNG"],
+                )
+
     def test_rejects_duplicate_normalized_paths(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)

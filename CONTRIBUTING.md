@@ -26,6 +26,14 @@ publication:
 python scripts/prepare_pack.py prepare SOURCE READY.zip
 ```
 
+For a public 7z source, validate paths, links, encryption, entry counts,
+expanded size, and archive integrity before extraction:
+
+```text
+python scripts/safe_extract_7z.py SOURCE.7z EXTRACTED \
+  --seven-zip PATH/TO/7z
+```
+
 The command keeps only PNG/DDS textures, writes a clean `replacements/...`
 archive, verifies texture headers and CRCs, enforces the Android install limits,
 and prints the exact `sizeBytes`, `sha256`, and `fileCount` catalog fields.
@@ -36,6 +44,16 @@ For every mirrored batch, append its upstream artifact SHA-256, normalized
 archive SHA-256, manifest fingerprint, and content-set fingerprint to
 `catalog-audit.json`. The catalog validator rejects repeated download URLs,
 archive digests, normalized manifests, and content sets.
+
+After all ten release assets have been uploaded and API-verified, a reviewed
+batch manifest can update the catalog and persistent audit ledger together:
+
+```text
+python scripts/register_batch.py --manifest BATCH/sources.json \
+  --source-dir BATCH/source --ready-dir BATCH/ready \
+  --release-tag TAG --batch-id YYYY-MM-DD-NNN \
+  --verified-at YYYY-MM-DDTHH:MM:SSZ --write
+```
 
 Run both validation suites before opening a pull request:
 

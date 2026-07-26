@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import os
 import re
 import shutil
 import struct
@@ -24,6 +25,7 @@ from pathlib import Path, PurePosixPath
 from typing import BinaryIO, Callable, ContextManager, Iterable, Iterator
 
 TEXTURE_EXTENSIONS = {".png", ".dds"}
+SERIAL_CHILD_ROOTS = {"replacements", "textures"}
 SERIAL_RE = re.compile(r"^[A-Z]{4}[-_ ]?\d{5}$", re.IGNORECASE)
 MAX_ARCHIVE_ENTRIES = 50_000
 MAX_TEXTURE_FILE_BYTES = 512 * 1024 * 1024
@@ -99,7 +101,7 @@ def texture_relative_path(parts: tuple[str, ...], strip_components: int) -> tupl
         serial_index = next((index for index, part in enumerate(parts) if is_serial(part)), None)
         if serial_index is not None:
             start = serial_index + 1
-            if start < len(parts) and lowered[start] == "replacements":
+            if start < len(parts) and lowered[start] in SERIAL_CHILD_ROOTS:
                 start += 1
             relative = parts[start:]
         else:
@@ -151,9 +153,20 @@ def iter_zip_source(archive: zipfile.ZipFile) -> Iterator[SourceFile]:
         )
 
 
+def filesystem_path(path: Path) -> Path:
+    """Return a Windows extended-length path without changing its target."""
+    resolved = str(path.resolve())
+    if os.name != "nt" or resolved.startswith("\\\\?\\"):
+        return Path(resolved)
+    if resolved.startswith("\\\\"):
+        return Path("\\\\?\\UNC\\" + resolved[2:])
+    return Path("\\\\?\\" + resolved)
+
+
 def iter_directory_source(path: Path) -> Iterator[SourceFile]:
-    for source in sorted((item for item in path.rglob("*") if item.is_file())):
-        relative = source.relative_to(path).as_posix()
+    scan_path = filesystem_path(path)
+    for source in sorted((item for item in scan_path.rglob("*") if item.is_file())):
+        relative = source.relative_to(scan_path).as_posix()
         yield SourceFile(
             name=relative,
             size=source.stat().st_size,
