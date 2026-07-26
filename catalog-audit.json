@@ -891,6 +891,113 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "2026-07-26-008",
+      "verifiedAt": "2026-07-26T20:33:29Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "sombershroud-taito-legends-slus-21122-sles-53438-slka-15056-20260726",
+          "sourceArtifact": "SLUS-21122.zip",
+          "sourceSha256": "3771A08030385E744EC202A18F283EB38F40DC2B81611EFE61CCC87F34908857",
+          "assetName": "taito-legends-sombershroud-slus-21122-sles-53438-slka-15056.zip",
+          "normalizedSha256": "D26B4F03A10C0FC53F4CD52FD9E7B2EBF949F7863C87A11D2A3C93C0347C0DFC",
+          "manifestSha256": "4D34FF94FF1330F4DC4B94A04A5C54ACD2D45C3D0F22BD58945CAE9CC772ACAD",
+          "contentSetSha256": "35058D8BC31DC0FA612AEC1024E212951333DBD7E35C3010111D8FA72D3079B5",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "paynexkiller-wwe-here-comes-the-pain-championships-slus-20787-20260726",
+          "sourceArtifact": "SLUS-20787.rar",
+          "sourceSha256": "F0EC9DA0332FBB7FC7A241E9EED5A4EC2D89F7E18519EA84EE0EE5F0FC0F7F79",
+          "assetName": "wwe-here-comes-the-pain-championships-paynexkiller-slus-20787.zip",
+          "normalizedSha256": "B7469903B95B443E515CD192A68AFEC052386D8AA63A159ED574D1EB307CAEB3",
+          "manifestSha256": "BBEEE2DC6F7DA5FC639698597F5B75F08E208E76A405AABB90B9D933C8E47A4E",
+          "contentSetSha256": "B7BA0034E7FAC044413982ACE1BD305BB0CE38A2C8A9C9EB878F82481562D3B2",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "paynexkiller-wwe-shut-your-mouth-championships-slus-20483-20260726",
+          "sourceArtifact": "WWE ShutYourMouth USA -SLUS-20483.rar",
+          "sourceSha256": "EB2D079B5D6E61EF51D553E56AFFEAB6D50828061DEA1B900D3752D770485F9C",
+          "assetName": "wwe-shut-your-mouth-championships-paynexkiller-slus-20483.zip",
+          "normalizedSha256": "4452BEBB57C613E27BD6A09D757710A750FA33B4DA80D9DD30F5A92231C0ADA9",
+          "manifestSha256": "03E7CB9EFF8EC7984A5AC36B8CE7F646AED0379AAB6CEF46C296718EF2139358",
+          "contentSetSha256": "BADDE2260934C41551EED02DEE01D058E364F75C2B8F82D0EBE02A0AF4EF5EB3",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-spiderwick-chronicles-slus-21716-20260726",
+          "sourceArtifact": "SLUS-21716.7z",
+          "sourceSha256": "79FB77D594CA5510B4A76178DD536373AA7104064DDB9E25BC74A8C05074E6A0",
+          "assetName": "spiderwick-chronicles-sombertwilight-slus-21716.zip",
+          "normalizedSha256": "E9178EFE54DDAE8FC83AB7F5A11AA971B76D020F2E59671C67D7714F1DDEB394",
+          "manifestSha256": "031C2E634CD88E021B29E123B62CABA730D795828F2B8F77EBB8FD8A705153DF",
+          "contentSetSha256": "345BFD43644BBAB9FF5E263F7EA60BDE3940B17439261ACD96CC2EF95D3A8258",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "texmaster-asterix-obelix-xxl2-sles-53725-20260726",
+          "sourceArtifact": "SLES-53725.rar",
+          "sourceSha256": "3D33E4ACD4E9BBA54CF11B8E7B26F4803E185A1E607B72FAA1B1806ECBD70A70",
+          "assetName": "asterix-obelix-xxl2-texmaster-sles-53725.zip",
+          "normalizedSha256": "569996DF4C962525F966F51017A7A3DD305437C06A4F463CA4523C76F385ED83",
+          "manifestSha256": "B32CDC3954D428CD6999BB187B1005EE5DCC099B22F6DFC91C89E80B58BEF2B2",
+          "contentSetSha256": "4EDA73873391AE7B774CCDC3F46D6BEA3DFA4EAE6896BA5A6B2C956707455B2E",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-the-sims-slus-20573-20260726",
+          "sourceArtifact": "SLUS-20573.7z",
+          "sourceSha256": "5073F6C2A219FA027739EE64F65C464E946A9119F1ED4384B36BC9DEC62AFC6A",
+          "assetName": "the-sims-sombertwilight-slus-20573.zip",
+          "normalizedSha256": "1125FA1225B5A6E8CE8396E6AA7D09176329783AF5263B9F4A4FDF7B50B39057",
+          "manifestSha256": "8B80902846059A4A91C6C7D0E1AD1E031748B255CE66B83304B7160B6986516A",
+          "contentSetSha256": "C56071C29D585AE4545592F99B98C8B63DD41F25DC466035E0D4FF2E43C72E10",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-the-sims-2-slus-21265-20260726",
+          "sourceArtifact": "SLUS-21265.7z",
+          "sourceSha256": "3015E25AE8A917B112F6B277BC301023D16D1986B02E90FBC5660B24642ED7F5",
+          "assetName": "the-sims-2-sombertwilight-slus-21265.zip",
+          "normalizedSha256": "AD3BABD4784327104234E8CF09DC5162A2BD0469B5D8F8919D295E63927E0559",
+          "manifestSha256": "FA80F1A07BC02B8EF53D8B7999495A0187229F6149F547241B67D24AE8FE73E0",
+          "contentSetSha256": "160CD0308D2347C25DB6F33D94F680EBC32E2453FD2CAAF4C8F2401F99E469D5",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-the-sims-2-pets-slus-21536-20260726",
+          "sourceArtifact": "SLUS-21536.7z",
+          "sourceSha256": "FF07818583B0DDDD14F9D5594CC4A322F959B449DE0ABA49BA689AD839844111",
+          "assetName": "the-sims-2-pets-sombertwilight-slus-21536.zip",
+          "normalizedSha256": "07DDC4FCF2230B8F7BA718AA93FB9D19017AE3DF3292D39839187D3FF6B1B509",
+          "manifestSha256": "A82625E693457CB73732EBDE775A4D9AB0DE13699A9E9F59FF1EC66D6F52A78C",
+          "contentSetSha256": "5F913CA4377A66031A0A02C593D79034B316F3DDDB9DAD4A4C95EE74ECD53837",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-the-sims-2-castaway-slus-21664-20260726",
+          "sourceArtifact": "SLUS-21664.7z",
+          "sourceSha256": "B34083E52E24E45D4043BA3FF64031EC5218488C51D2838510852DA9BCAD5952",
+          "assetName": "the-sims-2-castaway-sombertwilight-slus-21664.zip",
+          "normalizedSha256": "60CB78C366E723AFBCA739DE28E9D6624CC1EF4459690C807D5E666A5EA69ECC",
+          "manifestSha256": "3F89D61B41E23985CB38CA31F12A088AFFFE5F782E9A929CA4025C349A058361",
+          "contentSetSha256": "15340082081202C2F5991E2058E44FEBDB441C189115C3482E9C337C570D650F",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "curse-arms-shellshock-nam-67-slus-20828-20260726",
+          "sourceArtifact": "SLUS-20828.rar",
+          "sourceSha256": "E275BAA668A64EC023C683E9D77AC46ACA3B1BBE0BF17A430EB3C419A6BF8C3D",
+          "assetName": "shellshock-nam-67-curse-arms-slus-20828.zip",
+          "normalizedSha256": "3C31962A19EE3487D373FF0A4A2EAD93B17FC0927378C9C9B506FD0487C41DFC",
+          "manifestSha256": "989D5123B50CC279DB434A42C9CA2BCC21B70CCBBB18CACC384860EA9BC8AB8F",
+          "contentSetSha256": "E87E088A4AB11342045FBE06E48B1ED9315A746597C0E9039D5A226F46D9EB7C",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }
