@@ -784,6 +784,113 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "2026-07-26-007",
+      "verifiedAt": "2026-07-26T20:07:24Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "tylermods-army-men-sarges-heroes-2-slus-20132-20260726",
+          "sourceArtifact": "SLUS-20132.zip",
+          "sourceSha256": "7A675A662D4648071878962B7B4664583DE1B9B91BC68251E58590B5F9321F15",
+          "assetName": "army-men-sarges-heroes-2-tylermods-slus-20132.zip",
+          "normalizedSha256": "819819BB108EE844C0E4F2D9CA8AB03E052C50D0C9D805A0940EAEAE917A4E46",
+          "manifestSha256": "390705C3A6C0AC6733473E291512805D827FF0C400FA84F4A988F3696F3A0D7C",
+          "contentSetSha256": "36FDEA8DD6BB4121227DF7F3C74DB274001C6D0E8C2FB94D527C7A8BC292FE42",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "kevinmi-sombershroud-ben-10-protector-of-earth-mobile-sles-54952-20260726",
+          "sourceArtifact": "Ben 10 - Protector of Earth (PAL-M) HD Texture Pack [Mobile Version].zip",
+          "sourceSha256": "0220DECBECA6B52EC050DDE959DDDF268A6DD24CE3C3E0F5BB0006B714E5F805",
+          "assetName": "ben-10-protector-of-earth-mobile-kevinmi-somber-sles-54952.zip",
+          "normalizedSha256": "A70961491319FC0E81D890C7D92E315C89E63D1F1CD5554D1885C8F1410BD76F",
+          "manifestSha256": "F63BB74182C6AD6950112A942185498FCF98EA123F5C1F371BD658ECA5618144",
+          "contentSetSha256": "4EC6F48729ABDBBF75E8DF9EE4965F4B6BA5127668C13D67A818777448ECDD2C",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-death-by-degrees-slus-20934-20260726",
+          "sourceArtifact": "SLUS-20934.7z",
+          "sourceSha256": "1AAC1A9F2EB31DBFFAE329D1BE897C108E41A25831E8F1F6BB75DC67BCE872D3",
+          "assetName": "death-by-degrees-sombertwilight-slus-20934.zip",
+          "normalizedSha256": "6641E079D9228DA773E4BB1EF4151C56C73628567D10EFEAC7B2EAF5D5AB4F6C",
+          "manifestSha256": "3EE967D95544471A80120F2659C8444A273F74A3A25433E6EE2E5C9314BEFA8E",
+          "contentSetSha256": "FAC541ECE05A8AABE7E3B2E670ED119F740D91AA2FB7519B68049D276B529535",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-dynasty-warriors-2-purist-slus-20079-20260726",
+          "sourceArtifact": "SLUS-20079PURIST.7z",
+          "sourceSha256": "A799F1B8CA869E51479FD0A8B3CFA6547B426D9859C85D7002838DA31E145395",
+          "assetName": "dynasty-warriors-2-purist-sombertwilight-slus-20079.zip",
+          "normalizedSha256": "3EF759773B4972291FD0EC2489B1AFCDE598805E0CEBB283FB35B49BF38950E1",
+          "manifestSha256": "91063FE020BA12732DF9D4FF4C776977797B61B84882E86A72C0CE14A993BA09",
+          "contentSetSha256": "A216989B449381D7C179DE1AF0D878BE2C9BEC8CA2A504F42D57AB392367B1AF",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-rumble-roses-slpm-65885-slus-20970-20260726",
+          "sourceArtifact": "SLPM-65885.7z",
+          "sourceSha256": "3E63E80C933ABF5335E585F87F1BFD4BC3F1E0768F8DF7B36ACAA35ABE9B21A6",
+          "assetName": "rumble-roses-sombertwilight-slpm-65885-slus-20970.zip",
+          "normalizedSha256": "49653A67F684914EEEE012E9B6D63DEB96478E96525F29F18BE827AA19F0F16C",
+          "manifestSha256": "0E28C9FE6D8D495474003D9F43514281A9DFBB9EE9EF5ADCC9183A4449DEF1D9",
+          "contentSetSha256": "265CBF3AC28EB2D64B700F9E24C29D2D34D5808BA47C20BCD5988CAF42F87736",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-dawn-of-mana-slus-21574-20260726",
+          "sourceArtifact": "SLUS-21574_DoM_v1.7z",
+          "sourceSha256": "B4487D218723FBB373ECA6BB31A9EAAFE2ED7AAE7FBD0E3EFBC13283CD569093",
+          "assetName": "dawn-of-mana-panda-venom-slus-21574.zip",
+          "normalizedSha256": "5CB490FB584256BA591B32B4E3582A3CA26865E0B6FA8AF04A5F679961C5C0F2",
+          "manifestSha256": "27906CE3165E24E717AA3CB541A46CE1B8E60E4A40B484E269B78942A49F7D3A",
+          "contentSetSha256": "E0AB95B988F2B0BFDF3192BC924B41CE6AA700610017626AEF339A0A4FBE6E19",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-dead-or-alive-2-hardcore-slus-20071-20260726",
+          "sourceArtifact": "SLUS-20071_DoA2.7z",
+          "sourceSha256": "5414B6E20F6BA173B21463C558F8406B50A891447BE85B103468425B983D4E11",
+          "assetName": "dead-or-alive-2-hardcore-panda-venom-slus-20071.zip",
+          "normalizedSha256": "13F6A6A07EFC05AEE5142D88EDD1D736F1055C1F354C3A0996520BC881CDC855",
+          "manifestSha256": "4B503B6BB8C33263DF3ECDD18B5A3D904FC12DB9563C15B4252CAF81122ACDBC",
+          "contentSetSha256": "28798D8E02481137F486B796E934AFCA3B34DEEDA50E8D15609D51D082ED84F5",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-genji-ui-characters-slus-97471-20260726",
+          "sourceArtifact": "Genji.zip",
+          "sourceSha256": "E68A5757753E94185F1EE0DD25955B263702BF3647950AC1DCE5124361D89C3D",
+          "assetName": "genji-ui-characters-panda-venom-slus-97471.zip",
+          "normalizedSha256": "347280245BC50622BA5876343F6AE2F4533E0D59935999B0D29989C34CEA307F",
+          "manifestSha256": "D6D8AF7D8F00EC08704B63AC1D69D3EC996DE8AB660C0FADF00F1968766FEDB8",
+          "contentSetSha256": "E0BC28D4C6AE76BDA8B5ACB23738C6DE490647FFAC2D845630433A17C4D363FB",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombershroud-adventures-cookie-cream-slus-20170-sles-50224-slps-25013-20260726",
+          "sourceArtifact": "SLUS-20170.zip",
+          "sourceSha256": "EF92A78811DDD2BBB58A83A190715AF1E52FECDD41DF32309BD877BF7AC4ED3F",
+          "assetName": "adventures-cookie-cream-sombershroud-slus-20170-sles-50224-slps-25013.zip",
+          "normalizedSha256": "77F60778C84236A97079555BEA3631A0E34CF38AEE3CD49EF7132CEFD339B4B9",
+          "manifestSha256": "AFF137CBA958000B1481B0B6E36B341B167A7A3AD819C870F8679853579FD4C2",
+          "contentSetSha256": "1ACF53B4D671E3DA8EE9239D8E0979D3FB8D05F4BDDAEE6EE2E859768D805E59",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-the-sims-bustin-out-slus-20842-20260726",
+          "sourceArtifact": "SLUS-20842.7z",
+          "sourceSha256": "EAC477D05966AF50531883DFDAB0900E9B76DF63F06D14D6116CF30EC355D68E",
+          "assetName": "the-sims-bustin-out-sombertwilight-slus-20842.zip",
+          "normalizedSha256": "2EA90CA4C6E3A8BA877547CB546BB9018B6A8F2943B584DF05C913BCF88E7952",
+          "manifestSha256": "6191CD88D12B5418F1F2B77DD43DE83C80CA765276E4CD142E6E1A6CB34B3111",
+          "contentSetSha256": "44BA0B26637126E58210F0B27063F4D8000A889D335026FF2626F5975D6A1F8C",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }
