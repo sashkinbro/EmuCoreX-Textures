@@ -32,6 +32,16 @@ class SltListingTests(unittest.TestCase):
                 with self.assertRaises(ArchiveError):
                     parse_slt_listing(listing)
 
+    def test_accepts_blank_rar_link_fields(self):
+        listing = (
+            "Path = replacements/a.png\n"
+            "Size = 12\n"
+            "Attributes = A\n"
+            "Symbolic Link = \n"
+            "Hard Link = \n"
+        )
+        self.assertEqual(parse_slt_listing(listing), (1, 12))
+
 
 if __name__ == "__main__":
     unittest.main()

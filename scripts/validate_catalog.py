@@ -148,6 +148,29 @@ def main() -> None:
                             f"{audit_label}.comparedAgainst references unknown id: "
                             f"{compared_id}"
                         )
+                variant_evidence = audit_entry.get("sourceVariantEvidence", [])
+                if not isinstance(variant_evidence, list):
+                    errors.append(f"{audit_label}.sourceVariantEvidence must be an array")
+                    continue
+                for evidence_index, evidence in enumerate(variant_evidence):
+                    evidence_label = (
+                        f"{audit_label}.sourceVariantEvidence[{evidence_index}]"
+                    )
+                    if not isinstance(evidence, dict):
+                        errors.append(f"{evidence_label} must be an object")
+                        continue
+                    if not str(evidence.get("label", "")).strip():
+                        errors.append(f"{evidence_label}.label must be non-empty text")
+                    if not valid_https(evidence.get("sourceUrl")):
+                        errors.append(f"{evidence_label}.sourceUrl must be an HTTPS URL")
+                    for field in ("manifestSha256", "contentSetSha256"):
+                        value = str(evidence.get(field, "")).upper()
+                        if not HASH_RE.fullmatch(value):
+                            errors.append(f"{evidence_label}.{field} must be a SHA-256 digest")
+                    if evidence.get("relationToPublished") not in {"exact", "different"}:
+                        errors.append(
+                            f"{evidence_label}.relationToPublished must be exact or different"
+                        )
     if errors:
         raise SystemExit("\n".join(errors))
     print(f"Catalog valid: {len(entries)} entries")

@@ -194,13 +194,21 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
         audit_entries.append(
             {
                 "catalogId": catalog_id,
-                "sourceArtifact": source_file,
+                "sourceArtifact": require_text(
+                    item.get("sourceArtifact", source_file),
+                    f"{label}.sourceArtifact",
+                ),
                 "sourceSha256": source_sha256,
                 "assetName": asset_name,
                 "normalizedSha256": summary.sha256,
                 "manifestSha256": summary.manifestSha256,
                 "contentSetSha256": summary.contentSetSha256,
                 "comparedAgainst": item.get("comparedAgainst", []),
+                **(
+                    {"sourceVariantEvidence": item["sourceVariantEvidence"]}
+                    if "sourceVariantEvidence" in item
+                    else {}
+                ),
             }
         )
         existing_ids.add(catalog_id)

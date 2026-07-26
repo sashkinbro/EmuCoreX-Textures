@@ -77,7 +77,11 @@ def parse_slt_listing(output: str) -> tuple[int, int]:
         if fields.get("Encrypted") == "+":
             raise ArchiveError(f"encrypted entry is unsupported: {raw_path}")
         attributes = fields.get("Attributes", "")
-        if "Symbolic Link" in fields or "Hard Link" in fields or "L" in attributes.upper():
+        if (
+            fields.get("Symbolic Link")
+            or fields.get("Hard Link")
+            or attributes.casefold().startswith("l")
+        ):
             raise ArchiveError(f"link entry is unsupported: {raw_path}")
         is_directory = fields.get("Folder") == "+" or attributes.upper().startswith("D")
         if is_directory:

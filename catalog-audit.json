@@ -239,6 +239,136 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "2026-07-26-003",
+      "verifiedAt": "2026-07-26T17:11:19Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "mvp899-capcom-fighting-evolution-partial-slus-20950-20260726",
+          "sourceArtifact": "Capcom Fighting Evolution (USA) [SLUS-20950] HD Remaster.rar",
+          "sourceSha256": "8117C269985DBC06BBCF114945E667FD40C8B98FAD51EB8504B78B00E193A048",
+          "assetName": "capcom-fighting-evolution-mvp899-partial-slus-20950.zip",
+          "normalizedSha256": "BEFA66015F3675C1D4FDFBDA119B9100C5EF64B7E647E118065A58ADD2E8A56F",
+          "manifestSha256": "D0C5F4114D38318365321C63D42244F267A69704A244DF23311DBE07D225F8A8",
+          "contentSetSha256": "13F73AAFFE66498058BF66810CCEFEC3B5D2E4D0C10940B27B81D8E368180BDC",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-xena-warrior-princess-sles-54541-20260726",
+          "sourceArtifact": "Xena Warrior Princess (Europe) [SLES-54541] HD Remaster.rar",
+          "sourceSha256": "4B8AB395FB5A0E27C98DAECA7067486BE3ED8EADB27E27639B10A3D17D34A79B",
+          "assetName": "xena-warrior-princess-sombertwilight-sles-54541.zip",
+          "normalizedSha256": "6421C875C4E51B0F05D362D7A9378D449BC822F9AA389840298AF6AC9956DC0F",
+          "manifestSha256": "E2BF51B76F2E86BA1F87BAFD11D23FA06883F135717AA3396977FFADFD7CE070",
+          "contentSetSha256": "249E2BECC228E79B6B3D4A512D30328BAABEE42AD397A9C48831A392C8602720",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "xxtherockoxx-bloody-roar-3-v1-slus-20212-20260726",
+          "sourceArtifact": "Bloody Roar 3 (USA) [SLUS-20212] HD Remaster.rar",
+          "sourceSha256": "A60C72948708228372904ADE788C03E74949CAB715CC022E934AF18BF32517FE",
+          "assetName": "bloody-roar-3-xxtherockoxx-v1.0-slus-20212.zip",
+          "normalizedSha256": "557869F8E612B335B4FA8B82E733629E816E01BD37C889B79076D95C90F1188B",
+          "manifestSha256": "EFA617183056353626242814093FC051E54B8DB205D823D9C42289248D7BF7BC",
+          "contentSetSha256": "1579E10B8BA4A2572DEB64E3F43C60BA94B4A136284BFAAD6F17896D60A1E21C",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-beyond-good-and-evil-test-slus-20763-20260726",
+          "sourceArtifact": "Beyond Good & Evil (USA) [SLUS-20763] HD Remaster.rar",
+          "sourceSha256": "442AD793A4F8B39FC5250F790E8A206B8BD1C2B44C7804F86DA514866351FEE8",
+          "assetName": "beyond-good-and-evil-panda-venom-test-slus-20763.zip",
+          "normalizedSha256": "4B25CE3C7BB6607948E2BED1E9C9E528646ED118ED7059229130432CB88CC51D",
+          "manifestSha256": "E37B0D267783704CB7497AFA9B190EF5A5DCFB51B4754F92D0BE8FD2D928B109",
+          "contentSetSha256": "2ADAE3EB073CB3975BDA866E30E918E847AEAFAD28BED45E8A7AE80970CD2BF2",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "curse-arms-x-men-origins-wolverine-slus-21880-20260726",
+          "sourceArtifact": "X-Men Origins Wolverine (USA) [SLUS-21880] HD Remaster.rar",
+          "sourceSha256": "5210711D3C8F7FAF7106006E3E8C8C5B762C1A8EDEB89132B9A9BF462BE8FD3E",
+          "assetName": "x-men-origins-wolverine-curse-arms-slus-21880.zip",
+          "normalizedSha256": "0819666174F611D203E950A14BDBC38546BD71DD2858FE3ABD13D1D8E8041051",
+          "manifestSha256": "2AA80A36CC56A8796D0451E4AFFBD66BF0F4CCCEF70ACB383C67BC0106DA2CE9",
+          "contentSetSha256": "A8DF13A3337D297FA0CB744EEAE26D9AD85C87152BE9880C6E567CE05EF6E4C6",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "curse-arms-curse-eye-of-isis-sles-51934-20260726",
+          "sourceArtifact": "Curse The Eye of Isis (Europe) [SLES-51934] HD Remaster.rar",
+          "sourceSha256": "985E2E34088F39B1FE509F2725935C1DDB46AC5505B3ABDAEF5CB92E86A322F8",
+          "assetName": "curse-eye-of-isis-curse-arms-sles-51934.zip",
+          "normalizedSha256": "A9F659AF2C898887A6C8F99A03DB4EE80D3CA6B5D9AEE73EC823C60A7C7424F4",
+          "manifestSha256": "ABEF78A3161DBCB22A806B19806CD8DDFA5A39F01B05506E37421066BAD1F4E1",
+          "contentSetSha256": "CEBD0DEDC0B04D145D52AFD30B698BCC610A061C7AAA36B822D0BE7A1B4812A0",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "curse-arms-tomb-raider-underworld-slus-21858-20260726",
+          "sourceArtifact": "Tomb Raider Underworld (USA) [SLUS-21858] HD Remaster.rar",
+          "sourceSha256": "42C1C6A287409248D62BD8BA9C399A2D2A9A33AA1F365D0FE4E20F174303EFC5",
+          "assetName": "tomb-raider-underworld-curse-arms-slus-21858.zip",
+          "normalizedSha256": "DCCD6C054FFFCCB764C8981EE00A92D8BE1D5B3C9554FEA9C6F3181D36F88AE4",
+          "manifestSha256": "2E152100AC870C37C5F26B34B9FBB4403BC3D7CD8701D03AB67E32E35D2D8E7A",
+          "contentSetSha256": "1CDCB14924F8451B028B7A9E25B606F5AE80A02CCCC4FC20403937A48B000CBA",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "curse-arms-mark-of-kri-scus-97140-20260726",
+          "sourceArtifact": "The Mark of Kri (USA) [SCUS-97140] HD Remaster.rar",
+          "sourceSha256": "E7E4A77149B8AC4514A288361A742F6760A68CD4E694FD59E2580F56652E9C9F",
+          "assetName": "mark-of-kri-curse-arms-scus-97140.zip",
+          "normalizedSha256": "10A22228B551CFF08E877E4EB7F4FBD3584EFB940F37DE8D0A90406F406DCCE3",
+          "manifestSha256": "F9314FCFBB078B1549EEDD12B41DCC3F66859B9CC7344D319180775C86C256F8",
+          "contentSetSha256": "E5B365F070CD7DDE157252E1663EEA9C3432FD2407A6739DE421CDD09FC36D62",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "durindragon-legend-of-spyro-new-beginning-6x-extra-slus-21372-20260726",
+          "sourceArtifact": "The Legend of Spyro A New Beginning (USA) [SLUS-21372] HD Remaster.rar",
+          "sourceSha256": "740F2B2462DA739DAD63791723D6B40D3BE1733B7834A63B2983BDF91C71A9AC",
+          "assetName": "legend-of-spyro-new-beginning-durindragon-6x-extra-detail-slus-21372.zip",
+          "normalizedSha256": "B9D1036016A35397965D362E3F7C81CF4DD5FA581A93F94DE67026108AAAF6D4",
+          "manifestSha256": "9FB7434E1D26AE41DBF64BCE0A4333BE1DA3B5202686565E44DC317189C5B28C",
+          "contentSetSha256": "83628EF6EF9C2FD465FFF27864AED5F7E22C83141340354B22ED8074D7FAFD06",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "6x UPSCALE with EXTRA DETAIL",
+              "sourceUrl": "https://www.mediafire.com/file/y1057yt4l2ndobn/Spyro_ANB_SLUS-21372_HD_TEXTURE_PACK_6xUPSCALE_with_EXTRA_DETAIL.zip/file",
+              "manifestSha256": "9FB7434E1D26AE41DBF64BCE0A4333BE1DA3B5202686565E44DC317189C5B28C",
+              "contentSetSha256": "83628EF6EF9C2FD465FFF27864AED5F7E22C83141340354B22ED8074D7FAFD06",
+              "relationToPublished": "exact"
+            },
+            {
+              "label": "ONLY 6x UPSCALE",
+              "sourceUrl": "https://www.mediafire.com/file/vkkkunm8kj09bh3/Spyro_ANB_SLUS-21372_HD_Texture_Pack_ONLY_6x_UPSCALE.zip/file",
+              "manifestSha256": "828ADD3C55EBF22A0E12F5E1736B684EC197897D1E1BC678C054C2D64978DB59",
+              "contentSetSha256": "565C78977C8D957D57086041CEE957348E86481FF278B0F9F5B1F14361EF7739",
+              "relationToPublished": "different"
+            },
+            {
+              "label": "4x UPSCALE Anime Textures",
+              "sourceUrl": "https://www.mediafire.com/file/3jilfm7ahm6bs62/Spyro_ANB_SLUS-21372_HD_Texture_Pack_4x_UPSCALE_Anime_Textures.zip/file",
+              "manifestSha256": "D1B7BA26D8BE95B6C0F4FB3C818516C6EC7C7B9F941C34172A2FEB5B9552DF33",
+              "contentSetSha256": "50BFE042ABF64711121D3D572BB7BBE42DF9B4D2233D4D2F929B8FC42B81211B",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "mvp899-raiden-iii-2025-update-slus-21465-20260726",
+          "sourceArtifact": "Raiden III (USA) [SLUS-21465] HD Remaster.rar",
+          "sourceSha256": "2D81F51DB9560F86A81D147664C56566BD1E6F193C532385C25DA34B7827124E",
+          "assetName": "raiden-iii-mvp899-2025-update-slus-21465.zip",
+          "normalizedSha256": "E14005EC5B1D5638B148BFB32184FA5109CC815FF3987CACF1D0A98B83676C1C",
+          "manifestSha256": "11CBFF86B04821B6F572147AF85BD3051D595080EA25380DBEF72AF502837501",
+          "contentSetSha256": "9CEBE4DD1567E7FB3A3B0662990450A26326DFC393E73A6D1F694F2FA394F924",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }
