@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "batches": [
+    {
+      "id": "2026-07-26-001",
+      "verifiedAt": "2026-07-26T16:02:21Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "durindragon-spyro-eternal-night-6x-extra-slus-21607-20260726",
+          "sourceArtifact": "SPYRO_TEN_6x_TEXTURES_WITH_EXTRA_DETAILS.zip",
+          "sourceSha256": "694CF18B4E60FC3E95901CD0D7BFB60FD963214E42B40F63B47CEA01743435C9",
+          "assetName": "legend-of-spyro-eternal-night-6x-extra-detail-slus-21607.zip",
+          "normalizedSha256": "A86EF4F1A352809E973F51CF47E319D39AFDE7B9598F2B80C30ADD6E1D5C0020",
+          "manifestSha256": "ABF3C5F235A62431C081D24F24998A0004DFC7B84086BF57D2EEC9ACA541CC7D",
+          "contentSetSha256": "AE8B3DE4B7B1AD6A0BDDF87ECE3754012167810770A92277862166A8C478ED39",
+          "comparedAgainst": [
+            "durindragon-spyro-eternal-night-6x-faithful-slus-21607-20260726",
+            "durindragon-spyro-eternal-night-4x-anime-slus-21607-20260726"
+          ]
+        },
+        {
+          "catalogId": "durindragon-spyro-eternal-night-6x-faithful-slus-21607-20260726",
+          "sourceArtifact": "SPYRO_TEN_TEXTURES_6x_just_UPSCALE.zip",
+          "sourceSha256": "89BDA82A4E46A702EB20D72CF036B89852A6F631C487CC7B425F03A7E024AF5D",
+          "assetName": "legend-of-spyro-eternal-night-6x-faithful-slus-21607.zip",
+          "normalizedSha256": "1C0A5C468E6F44FFB31DFC4D3D120357B5B071617794492E634D89C9DE6A190F",
+          "manifestSha256": "5361EDD6F890680033D1701528E421CB50C2F1695E0AD1C26F27B969DDF35327",
+          "contentSetSha256": "69BEAA23E96370C922530EEBFEE7881F44E5F9016B974E02485551D2B28A4657",
+          "comparedAgainst": [
+            "durindragon-spyro-eternal-night-6x-extra-slus-21607-20260726",
+            "durindragon-spyro-eternal-night-4x-anime-slus-21607-20260726"
+          ]
+        },
+        {
+          "catalogId": "durindragon-spyro-eternal-night-4x-anime-slus-21607-20260726",
+          "sourceArtifact": "SPYRO_TEN_TEXTURES_4x_Anime_Textures.zip",
+          "sourceSha256": "48E42012D6F196AED1833B98E186194023ECB02FAFE4A00F87BD205E65CE48B8",
+          "assetName": "legend-of-spyro-eternal-night-4x-anime-slus-21607.zip",
+          "normalizedSha256": "F14E642C1F0F26F4D5497496CDF2458EDD45EED81F11C379586EFF8C4695258E",
+          "manifestSha256": "65FBFB7596D58968F4DA20FB65A11CDD3B1DF455D30AA3098926248C1C423FFC",
+          "contentSetSha256": "2E8CD98489229CCBD4B4D86433A3C040F4896FF3F847E7A72704106868A1E54D",
+          "comparedAgainst": [
+            "durindragon-spyro-eternal-night-6x-extra-slus-21607-20260726",
+            "durindragon-spyro-eternal-night-6x-faithful-slus-21607-20260726"
+          ]
+        },
+        {
+          "catalogId": "meskh4h4-bloody-roar-4-dds-vivid-slus-20795-v1",
+          "sourceArtifact": "SLUS-20795-DDS-VIVID.rar",
+          "sourceSha256": "EE82D860C2B77105367B9802723C7204DC80B216D379DB1DA587E634A181057E",
+          "assetName": "bloody-roar-4-meskh4h4-dds-vivid-slus-20795.zip",
+          "normalizedSha256": "367CA784327DC659215D181F37599CC9B2F9DF6314D536ACFA85304041A113DD",
+          "manifestSha256": "3768FB24E2BA4CDFAB74E0D1507626D2306971B99C48B70966747E0013386108",
+          "contentSetSha256": "4A91DEDA4F6D5DFF3BA0F1E66F8BD9C2CB7962FBAE74123EBA32507714F6632D",
+          "comparedAgainst": [
+            "panda-venom-bloody-roar-4-20260722",
+            "meskh4h4-bloody-roar-4-dds-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-png-vivid-slus-20795-v1"
+          ]
+        },
+        {
+          "catalogId": "meskh4h4-bloody-roar-4-dds-slus-20795-v1",
+          "sourceArtifact": "SLUS-20795-DDS.rar",
+          "sourceSha256": "FAF526412A6919454496271385062A23309312AF50E2A50E68AA49C5B0A7983F",
+          "assetName": "bloody-roar-4-meskh4h4-dds-slus-20795.zip",
+          "normalizedSha256": "AF82992392071BF014385E3700A72FAFE2E3B5D58DB46888615F9052A6FFD51E",
+          "manifestSha256": "5016B86168E620C4053CEDE4B7CC640DD8F5041923C3A9AA071EDD83C0D4ABCC",
+          "contentSetSha256": "9D03F051F43DC7DE01691845EC5F8EB192D829FC6B17CCA4CC17CC13F96664AE",
+          "comparedAgainst": [
+            "panda-venom-bloody-roar-4-20260722",
+            "meskh4h4-bloody-roar-4-dds-vivid-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-png-slus-20795-v1"
+          ]
+        },
+        {
+          "catalogId": "meskh4h4-bloody-roar-4-png-vivid-slus-20795-v1",
+          "sourceArtifact": "SLUS-20795-PNG-VIVID.rar",
+          "sourceSha256": "0B2685A4043F795F2B739477E66B42D4302B15E832EB0E70827DDFF4EC77AFF1",
+          "assetName": "bloody-roar-4-meskh4h4-png-vivid-slus-20795.zip",
+          "normalizedSha256": "6DFD180140B566F4DE4E537833BE5F9E51D44AA80B35F2C435EFAA2A697754A8",
+          "manifestSha256": "EEC60DF4AA4F81A2FEF198174D8DCAE32336056751E2E89F62E61F1B8440E4FF",
+          "contentSetSha256": "0B9ABE39A14E804C8209277D8773B51CBADA25ED64E8C1BCBC6D59B624BD9DBB",
+          "comparedAgainst": [
+            "panda-venom-bloody-roar-4-20260722",
+            "meskh4h4-bloody-roar-4-png-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-dds-vivid-slus-20795-v1"
+          ]
+        },
+        {
+          "catalogId": "meskh4h4-bloody-roar-4-png-slus-20795-v1",
+          "sourceArtifact": "SLUS-20795-PNG.rar",
+          "sourceSha256": "FC9C6E65149F4D134F6917B53A326A923880918851095181778EB8B501D015F1",
+          "assetName": "bloody-roar-4-meskh4h4-png-slus-20795.zip",
+          "normalizedSha256": "27F4DE11D6685B4F50E95C241CF1A6940DCF9B20FE804102B080C5311CDFC6DF",
+          "manifestSha256": "C491D4B6D41F09B26A6759502FCACF943F398F14EAB455D4B1BE1AA6272A4967",
+          "contentSetSha256": "A83B2278ACC5F5A6B872EB81D2F6EA73F63B43B30CBE454398A70C27B5A55483",
+          "comparedAgainst": [
+            "panda-venom-bloody-roar-4-20260722",
+            "meskh4h4-bloody-roar-4-png-vivid-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-dds-slus-20795-v1"
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-dual-hearts-beta-1-slus-20475-20260726",
+          "sourceArtifact": "Dual Hearts HD Remaster Beta 1.0.0.zip",
+          "sourceSha256": "4E67B3DAF951DCE136A8E485E2C57EE819451E5AC330B99330DCA1DB28DCF87B",
+          "assetName": "dual-hearts-retrogenerica-beta-1-0-0-slus-20475.zip",
+          "normalizedSha256": "D19DADE585A7AED44A121F23C870AF4A6189AECD6E249EB736DEE1F221CF1FA1",
+          "manifestSha256": "5243ECF18501A0A275F40AFCD06931B5E9AC9980EEC88D40418EDEE86B0524A9",
+          "contentSetSha256": "55780597643F5A5D6871862BA3537258600CC5E5ED63A6CB9D3384119C878795",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ridvan67-50-cent-bulletproof-wip-slus-21315-20260726",
+          "sourceArtifact": "SLUS-21315.rar",
+          "sourceSha256": "77BDBC525060AE454B63EF751802726FA66A8573987B21B003410846A3AD78DB",
+          "assetName": "50-cent-bulletproof-ridvan67-wip-slus-21315.zip",
+          "normalizedSha256": "37899DD8FC27D592D6B6F8BC2B1D8C40D8C847D77D639BDD36AF1CB7E626F418",
+          "manifestSha256": "994CF5E8BF12EDB1B20BEA1CADAD6014AF4CA195687E73F6A208DA1A7FC887CE",
+          "contentSetSha256": "D22508680A398207C176C5F70853A71320A3E4174A5A2591015C2058C8A93910",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "kaykwill13-jojo-golden-wind-slpm-65140-v1",
+          "sourceArtifact": "JoJo no Kimyou na Bouken Ougon no Kaze - HD AI Upscaling Texture Pack (Release v1.0.0).zip",
+          "sourceSha256": "B8273ECF07B897A408ABE2F88A15C49C7BE256B33468FAF68850E9ABA1CA80B5",
+          "assetName": "jojo-golden-wind-kaykwill13-v1-0-0-slpm-65140.zip",
+          "normalizedSha256": "A0F14F48BBD9D198A07660EE68C34EE8BB6C920DEE62FE52656C37BF74602870",
+          "manifestSha256": "168B0787F6E50A3CB1E67A2DD316533D64BA2989C0EEA5EC87BB68D3AFB86FA6",
+          "contentSetSha256": "5C4296026DFFE97EA7A89FAD759E2A241025AB12C1F5C54A663C059D3B0125C2",
+          "comparedAgainst": []
+        }
+      ]
+    }
+  ]
+}
