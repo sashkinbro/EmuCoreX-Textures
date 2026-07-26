@@ -998,6 +998,113 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "batch-009",
+      "verifiedAt": "2026-07-26T21:08:05Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "panda-venom-raidou-king-abaddon-slus-21845-20260726",
+          "sourceArtifact": "SLUS-21845_Raidou2_v0.5.7z",
+          "sourceSha256": "61A4773526C13BFE0C7810A81BC695575E9BA22A848A890CA9D9FCEEA061CA32",
+          "assetName": "raidou-king-abaddon-panda-venom-slus-21845.zip",
+          "normalizedSha256": "973E402B7CFC6D3A3EC72837553AF1CB7B2E32B13E8060638E4751A3438443C7",
+          "manifestSha256": "301CF155C270E95F3FC8D9194DAA332D2AE1DCE08ED28DB6A9BAF3809F767120",
+          "contentSetSha256": "76568B88DD6191118B35231A5EFA7E7AA307E9AE75D5D5B77F8D13C82CA4BCFF",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-persona-3-fes-slus-21621-20260726",
+          "sourceArtifact": "SLUS-21621_P3_FES_v0.97.7z",
+          "sourceSha256": "01905F81E4E1CBA37A58851A8E7BC2DACE7A0F64A72EFAE45B643B3E6CF03208",
+          "assetName": "persona-3-fes-panda-venom-slus-21621.zip",
+          "normalizedSha256": "CD37CEC766E21317B95A0A4F6EA6EC921EFF50B166FDC0964C38551D55E605DA",
+          "manifestSha256": "ACB193F5759F5B4A7D1EAC36C8B9964CBF9E65F134597D09684CCA9930D95444",
+          "contentSetSha256": "2E416F59869CB541A077A3FC58C8CAC64AB922FDCC315D1D47CEC342CC9FA4EC",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-raidou-soulless-army-slus-21431-20260726",
+          "sourceArtifact": "SLUS-21431.7z",
+          "sourceSha256": "8F532D5BF4D7BCB4D1E531D99CDA2FC3A43256DC2DF967FA39D9194DF5988F83",
+          "assetName": "raidou-soulless-army-panda-venom-slus-21431.zip",
+          "normalizedSha256": "82DEBE13C4CD5B623776F18BD7E3036DBB366F12C7052C87C2B7BE0720035D48",
+          "manifestSha256": "DBBF0AE24D15D23E856B4EC328E8B1AC8EC562476AE0375119E1208D3C18DEA3",
+          "contentSetSha256": "B2EE8D5A103C9882F29BFA6ED6B47528E07214AD23B91D3968E60732088EFA62",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-spyro-heros-tail-slus-20884-20260726",
+          "sourceArtifact": "SLUS-20884_Sypro_KT_0.1.7z",
+          "sourceSha256": "43EE47C9EB977C4DDA395337EF3B0371797B95A75AEA52DE3E364FBC2729FE07",
+          "assetName": "spyro-heros-tail-panda-venom-slus-20884.zip",
+          "normalizedSha256": "7A42762657CE0F0D116E6C21A0BB1A3D4EAA43091FF348E58B776AE139281D9E",
+          "manifestSha256": "49E54F588B8AFCC4C973BBE828D7AEBFA441B0D556B1034232B919F49119DDB7",
+          "contentSetSha256": "B0DF7492CE44CD8FE16770677BC3F0D1EEC65F7B5DC997EB35AE03B29914FAF4",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "wickedclown285-panda-venom-tales-of-rebirth-slps-25450-20260726",
+          "sourceArtifact": "ToR_SLPS-25450_v0.3.7z",
+          "sourceSha256": "F8BEFF2F80690C46EC7CEAF4A556EEB4FABF85688C763B1E67D42E891216A712",
+          "assetName": "tales-of-rebirth-wickedclown285-panda-venom-slps-25450.zip",
+          "normalizedSha256": "34D6532A8114B8329104908581BA3F32FF2EEDCA2C6AF002CCDE7451E1977C61",
+          "manifestSha256": "70962E89FBF8EF61CE309E1F7DBDAF65AE4E169F3936EC6F67CE9A92576E44A0",
+          "contentSetSha256": "D843726D34BA9EF8CE65989583C8C5DEF38EDF232067C2E84271A8C9202B3174",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-wild-arms-5-slus-21615-20260726",
+          "sourceArtifact": "Wild Arms 5 v0.8.zip",
+          "sourceSha256": "BD36108A513CFAC44D91BFBA35ABA8C5FD0F5AA52F0053D7DFD9A0972D8543A2",
+          "assetName": "wild-arms-5-panda-venom-slus-21615.zip",
+          "normalizedSha256": "E8C8B2B6FF6B16E0F7A2AE283F997DBAA962897FE51EC8E360560C048763B626",
+          "manifestSha256": "31BD52000172FA7FA515CED134F486EEEE1DD4436588C44BA850B450C782B8F2",
+          "contentSetSha256": "93064B1AB20E6863024406258AC69C244F4B89FF63F6514D99D544E4B35D330B",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-crazy-taxi-slus-20202-20260726",
+          "sourceArtifact": "Crazy Taxi.7z",
+          "sourceSha256": "F572ADE62D537A8C28351B4C35D9A2DCF7D7D2B7C4C8F46783E5BAD0B3D9935B",
+          "assetName": "crazy-taxi-ironhulk33-slus-20202.zip",
+          "normalizedSha256": "1704E6475C6C01AFBAE60EF6601E347EB3E6D74B430A39E8D9559F42CCB5FFB5",
+          "manifestSha256": "2DEF9BF6A5F3754499C67E014BE52870BFF2D99FBBC960C2ECFDC7BE83F87E9D",
+          "contentSetSha256": "0DFC4AC476350EB2F9FABCD8661036A2098056F4441E2DE867E745230D78F84A",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-pinball-hall-of-fame-gottlieb-slus-21038-20260726",
+          "sourceArtifact": "Pinball Hall of Fame The Gottlieb Collection.7z",
+          "sourceSha256": "9D2377016B6C41D51E06B4884241F468DD044C4FD2FAD589A722E8250978C408",
+          "assetName": "pinball-hall-of-fame-gottlieb-ironhulk33-slus-21038.zip",
+          "normalizedSha256": "E9BC387F2D6588D8025556E23E3F4AB0C793A70C79EC262C0751987A68787669",
+          "manifestSha256": "266371529515B394409584C56EA207D7D93B9B6548EB5B516DE935E3ACC56C13",
+          "contentSetSha256": "B2FB6B9F170316F3CD515068745350FEF4CBF2644C8A1FC42D5354B3F59EF1EB",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-resident-evil-outbreak-slpm-65428-20260726",
+          "sourceArtifact": "SLPM-65428.7z",
+          "sourceSha256": "A1427BA51A182EAB798CA46C98D2E0B8C3C51B805A43FE1CED441D14D513F3A7",
+          "assetName": "resident-evil-outbreak-sombertwilight-slpm-65428.zip",
+          "normalizedSha256": "B497502111987A831A440182767954D5F0715B8852536C553653F8B13BBB64A0",
+          "manifestSha256": "F4E39906C98DCB3087A967CC6EC3365D9EFB779A8A084669097973B507AAA67B",
+          "contentSetSha256": "35AA42AF6D455734741B53F32840090F816A4AC5047FEC2290F6FF4C95958934",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-gauntlet-seven-sorrows-slus-21077-20260726",
+          "sourceArtifact": "replacements.7z",
+          "sourceSha256": "95C9E3AA8058B483FDC407B77CABD3E92C986DB86292AD439D15141A3D72A637",
+          "assetName": "gauntlet-seven-sorrows-sombertwilight-slus-21077.zip",
+          "normalizedSha256": "5C0D043A0B9FC963F544782D40996A10406C0C685D52F7E291C54946F0FBAE7D",
+          "manifestSha256": "E85966C4DFFFD2D455E3D7033E15958B2D2EC7A1C52B7670CA8260FA261AEC96",
+          "contentSetSha256": "68EE8666968EDD983ACB865B6FA37C08B57BEAF5D5A22A55A55858348149F64E",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }
