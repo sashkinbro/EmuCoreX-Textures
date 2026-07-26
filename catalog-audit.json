@@ -677,6 +677,113 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "2026-07-26-006",
+      "verifiedAt": "2026-07-26T19:26:23Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "tylermods-barnyard-slus-21277-20260726",
+          "sourceArtifact": "SLUS-21277.zip",
+          "sourceSha256": "C35152ED88F74DA5338C0EBBB1CA878681DCCB5A8DD8B3DEE832514E771FD852",
+          "assetName": "barnyard-tylermods-slus-21277.zip",
+          "normalizedSha256": "132D45B489574F87330CAD6882805975FF7AA2BA1C522BEFC6C080EC4226F2EC",
+          "manifestSha256": "D3D2581742D8FEE883EFC9F29680F500A3B6F8305E3130CCC79F5691F46B4664",
+          "contentSetSha256": "F419F9AF0DCB06AB914D853A89F97143AF60D5FCD4D89E404FD43BAB0BE7A82B",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "tylermods-simpsons-hit-and-run-slus-20624-20260726",
+          "sourceArtifact": "SLUS-20624.zip",
+          "sourceSha256": "287BE441F9013F14F61EB5D588D7374CF04EB5CA69BC50E85B5FCC808FC94955",
+          "assetName": "simpsons-hit-and-run-tylermods-slus-20624.zip",
+          "normalizedSha256": "2789DE3B94D92532265253DCA6306E2918BDAC4F182059249C331B70AAA7D89E",
+          "manifestSha256": "A0F4431F9824424B039C2CA441518095078D258709EED36542A09090A6C759E8",
+          "contentSetSha256": "C355D950583FA89E60A56E3FCE5379C6A7A6FF577AF2A47A9BC3850FD176752F",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ryan1337-crazy-taxi-slus-20202-20260726",
+          "sourceArtifact": "Crazy Taxi HD Texture Pack [ryan1337] [PCSX2].zip",
+          "sourceSha256": "D92EC787EB7F272BA3EA6825ECD170DCF7FED3FBDABF189CD7461725485D9418",
+          "assetName": "crazy-taxi-ryan1337-slus-20202.zip",
+          "normalizedSha256": "6BB275EF115001DB91136584E9AB795517E64840840B22AA64CD3FF306460C72",
+          "manifestSha256": "FAC48ABB6DE6C652353A24FBE78EFD0B97352EE11BE7008EB9016ED40569372C",
+          "contentSetSha256": "7F13B42F91D99A655812D4D6AE1A5560AB214254D300CB6913E4D1E5857C8170",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-fighting-angels-sles-53408-20260726",
+          "sourceArtifact": "SLES-53408.7z",
+          "sourceSha256": "315F2462B5AAC282569EBC6F006C72E59EB94A22521E3ECD858EC01803BF22C6",
+          "assetName": "fighting-angels-sombertwilight-sles-53408.zip",
+          "normalizedSha256": "E529DCE65DBDD97DC8FE0A39B43890D6E93886B71980EEE92B07BBB5E2ECE355",
+          "manifestSha256": "76F944CF1C53FA2A86DFBEB583AB249E03292A56F0B5F37297C58650A4570B97",
+          "contentSetSha256": "F19B408252B41D2E0A665598997DB5B44BCAF48265B85550285E19DD1AD638DD",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "xxtherockoxx-silent-hill-origins-slus-21731-20260726",
+          "sourceArtifact": "S.h.O.hd.textures.xXThe.RockoXx.rar",
+          "sourceSha256": "8602C60C2BE8F20AA5898A2D58A6517286CFB252E10D445EFD21CD0D782EADA3",
+          "assetName": "silent-hill-origins-xxtherockoxx-slus-21731.zip",
+          "normalizedSha256": "EAD3FAA3BD8740D3D3BE052DA5B02342CC3E194C9D2737B94BB3F325DEA4FB1A",
+          "manifestSha256": "30B580F68B79074F5472A55EBC359517CC521AB827E13E702B2B7CC9440950D4",
+          "contentSetSha256": "DCA36F196332DA15383C6FA57FBEC50A713BEEE2056206A6FAAA2F82BDCE35BF",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "texmaster-peter-jackson-king-kong-sles-53703-20260726",
+          "sourceArtifact": "SLES-53703.rar",
+          "sourceSha256": "CADC893AD70AD6D9AEDCDD6B58DBA5B9942BDDE1044647982CC32DB39044CCD2",
+          "assetName": "peter-jackson-king-kong-texmaster-sles-53703.zip",
+          "normalizedSha256": "728839695668F64B20201D3CC379008EE12DDFCC7B6789B0C9278B3E061DEA33",
+          "manifestSha256": "5A8693534A2B8238D296283031AFC7A7A0A2B055BA34F26EB17EE46DC5258C3C",
+          "contentSetSha256": "B0A46BDB8AE0438286F03800536AEBFDD67544E28950708F74B607A2E1676663",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "playmulation-psi-ops-slus-20688-20260726",
+          "sourceArtifact": "Psi Ops --SLUS-20688.rar",
+          "sourceSha256": "8510CA4AEC8006AF5C9AA4B1EAF8532D1705B9D5757FF8CB497A2F61FF4E8CB0",
+          "assetName": "psi-ops-playmulation-slus-20688.zip",
+          "normalizedSha256": "EB8C8B0042448A3E9FB5F7A3776830B94777987617E839F8664466C8335647B3",
+          "manifestSha256": "23CE80539EA9885200585F358E9FD530CC321263B43873DAAB301B8BACFE2D0E",
+          "contentSetSha256": "A3D1BA52C00A009DBA634F1422ACFF192E3FE6A61C74C085B407E48CA028A67C",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "evil-is-alone-the-hulk-slus-20422-20260726",
+          "sourceArtifact": "The Hulk HD textures SLUS-20422.rar",
+          "sourceSha256": "28CB942474756C017D2C365F3077FC6B84372D7863DA754BEB0A9266F003D711",
+          "assetName": "the-hulk-evil-is-alone-slus-20422.zip",
+          "normalizedSha256": "166EB43F7C063499640F9EB8899D4A8C17EF568FF0717286B824BE31E8E1734C",
+          "manifestSha256": "054CEC8609974D7F2BF6D7239F52C7FBD69587A2771B42B65C169263DD793723",
+          "contentSetSha256": "9311A5BC0DBCC3F80C61747D351F23D1572B7FD7C8A1A24EDA31DB0D8325A1A1",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sal9im-teenage-mutant-ninja-turtles-slus-20716-20260726",
+          "sourceArtifact": "Teenage Ninja Mutant Turles.rar",
+          "sourceSha256": "D9F06147AED48A72DA0F9E6A4C97CD9B8A9D3A8E5EC700DE1D5AAE8EAE8610E6",
+          "assetName": "teenage-mutant-ninja-turtles-sal9im-slus-20716.zip",
+          "normalizedSha256": "807DA8E98E39FA8A1A1A8AEACDED7ABAD9C6370F0E511F7AC8F37BA296C2765F",
+          "manifestSha256": "FBD60C0125F7F31CF1659EB082B7EEE79D6237B31E4664D974C8D2EF3C751453",
+          "contentSetSha256": "C4DE20D75B9C7B7EBD0DADE198B68B723256FF18365529B0FF025AC9B58E0BA1",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "evil-is-alone-the-hobbit-slus-20655-sles-52247-20260726",
+          "sourceArtifact": "The Hobbit HD Textures.rar",
+          "sourceSha256": "CC32DA676351FB3BC7864EC80C20646637E451CBEBD6511A82B8616F01323A58",
+          "assetName": "the-hobbit-evil-is-alone-slus-20655-sles-52247.zip",
+          "normalizedSha256": "D603FD850375528CC0B70A0ECA78AEE6D86FEBCA941539843B29E111259F681A",
+          "manifestSha256": "55BDAE61CA2887C16ABBEB55B3268F86C093183286C7E268B547C74A9F9B1980",
+          "contentSetSha256": "6AC777BC5C0781FD02367DBC07D335EA08DB0CCEBAE9E8D5C342B1A8F72A6241",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }
