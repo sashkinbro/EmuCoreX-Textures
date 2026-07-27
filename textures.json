@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-27T08:03:00Z",
+  "generatedAt": "2026-07-27T09:17:23Z",
   "entries": [
     {
       "id": "xxtherockoxx-prince-of-persia-two-thrones-slus-21287-20260722",
@@ -2970,6 +2970,278 @@
       "sha256": "5D334F3CDC1DAED8A1BD9001B591FCA94679B07C087826D203FF43D3C7018E3A",
       "fileCount": 1206,
       "previewUrls": []
+    },
+    {
+      "id": "majidgaming-urban-reign-slus-21209-20260727",
+      "name": "Urban Reign Enhanced HD Texture Pack",
+      "gameTitle": "Urban Reign",
+      "serials": ["SLUS-21209"],
+      "version": "v1.7",
+      "authors": ["MajidGaming"],
+      "credits": "Enhanced HD texture pack created and maintained by MajidGaming; normalized and mirrored by EmuCoreX.",
+      "description": "Version 1.7 of the enhanced North American HD replacement pack, published for current PCSX2 builds.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/urban-reign-majidgaming-slus-21209.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/urban-reign-enhanced-hd-textures-pack-updated.665094/",
+      "license": "See source page terms",
+      "sizeBytes": 6216152982,
+      "sha256": "E717C454FBAE415BEF8BAEF3AFC408E6E90CCC7D71602914537F5BDC5DB0FD3A",
+      "fileCount": 3631,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/urban-reign-majidgaming-slus-21209.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "F3B46314A84CB8C1FC92851A318C62DD5EA3CD97CF6B9322FD51849BD2AA3227"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/urban-reign-majidgaming-slus-21209.zip.part002",
+          "sizeBytes": 1900000000,
+          "sha256": "A848EC0B2B1714452B0E6A44F0E3BC0B4C17D3430C5B7A3B91F02E86812DAAA6"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/urban-reign-majidgaming-slus-21209.zip.part003",
+          "sizeBytes": 1900000000,
+          "sha256": "BA0AE876E6EAE697305A69EBCD6F37BBEB958DD03FF1D4F974E41DD21A45BFA8"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/urban-reign-majidgaming-slus-21209.zip.part004",
+          "sizeBytes": 516152982,
+          "sha256": "2B5DC996278432B8F5F6D046A3FB98A5D26C3DF628752D502924628F790217A7"
+        }
+      ]
+    },
+    {
+      "id": "teodor-max-forgotten-realms-demon-stone-slus-20804-20260727",
+      "name": "Forgotten Realms: Demon Stone HD Texture Pack",
+      "gameTitle": "Forgotten Realms: Demon Stone",
+      "serials": ["SLUS-20804"],
+      "version": "Complete public source snapshot",
+      "authors": ["TEODOR_MAX"],
+      "credits": "HD texture pack created by TEODOR_MAX; normalized and mirrored by EmuCoreX.",
+      "description": "A complete North American HD texture replacement pack.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/forgotten-realms-demon-stone-teodor-max-slus-20804.zip",
+      "sourceUrl": "https://gbatemp.net/threads/forgotten-realms-demon-stone-hd-texture-pack.667852/",
+      "license": "See source page terms",
+      "sizeBytes": 1934674744,
+      "sha256": "59AE9BF3B9EDD7E123BEC3F48321D077D37B6B913214E8934153643BB772CD0A",
+      "fileCount": 3842,
+      "previewUrls": []
+    },
+    {
+      "id": "teodor-max-lord-of-the-rings-return-of-the-king-slus-20770-20260727",
+      "name": "The Lord of the Rings: The Return of the King HD Texture Pack",
+      "gameTitle": "The Lord of the Rings: The Return of the King",
+      "serials": ["SLUS-20770"],
+      "version": "Complete public source snapshot",
+      "authors": ["TEODOR_MAX"],
+      "credits": "HD texture pack created by TEODOR_MAX; normalized and mirrored by EmuCoreX.",
+      "description": "A complete North American HD texture replacement pack.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/lord-of-the-rings-return-of-the-king-teodor-max-slus-20770.zip",
+      "sourceUrl": "https://gbatemp.net/threads/the-lord-of-the-rings-the-return-of-the-king-hd-texture-pack.653386/",
+      "license": "See source page terms",
+      "sizeBytes": 752522969,
+      "sha256": "336A4306A420E3AB309562989DE0E03D4394FE76AD54558D7FC2CEA9DFB6D929",
+      "fileCount": 1811,
+      "previewUrls": []
+    },
+    {
+      "id": "callofcthuloo-gundam-journey-to-jaburo-slus-20175-20260727",
+      "name": "Mobile Suit Gundam: Journey to Jaburo 4K Texture Pack",
+      "gameTitle": "Mobile Suit Gundam: Journey to Jaburo",
+      "serials": ["SLUS-20175"],
+      "version": "4K public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "4K AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's 4K North American replacement variant, selected from the separately published HD and 4K archives.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-journey-to-jaburo-callofcthuloo-slus-20175.zip",
+      "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-journey-to-jaburo-slus-20175-hd-texture-pack-upscale.679168/",
+      "license": "See source page terms",
+      "sizeBytes": 1012331530,
+      "sha256": "5094DB3C04BFF99A51771D49B1F36BAB689C1CFF69DDFD62B9DA50F3D2B55386",
+      "fileCount": 6964,
+      "previewUrls": []
+    },
+    {
+      "id": "sombershroud-guitar-hero-3-slus-21672-20260727",
+      "name": "Guitar Hero III: Legends of Rock HD Texture Pack",
+      "gameTitle": "Guitar Hero III: Legends of Rock",
+      "serials": ["SLUS-21672"],
+      "version": "Complete public source snapshot",
+      "authors": ["SomberShroud"],
+      "credits": "HD texture pack created by SomberShroud using HDcube and RealisticRescaler models; normalized and mirrored by EmuCoreX.",
+      "description": "A North American replacement pack covering characters, artwork, menus and other game textures.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/guitar-hero-3-sombershroud-slus-21672.zip",
+      "sourceUrl": "https://gbatemp.net/threads/guitar-hero-iii-legends-of-rock-usa-hd-textures.671388/",
+      "license": "See source page terms",
+      "sizeBytes": 822222991,
+      "sha256": "4DAFB07570B1223ED2BB863B78C491CEEB9812640EA89FAFE12B5BBC558719CF",
+      "fileCount": 1566,
+      "previewUrls": []
+    },
+    {
+      "id": "callofcthuloo-dynasty-warriors-gundam-2-slus-21873-20260727",
+      "name": "Dynasty Warriors: Gundam 2 HD Texture Pack",
+      "gameTitle": "Dynasty Warriors: Gundam 2",
+      "serials": ["SLUS-21873"],
+      "version": "1080p AI-upscaled public snapshot",
+      "authors": ["callofcthuloo"],
+      "credits": "1080p AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "A North American 1080p replacement pack prepared for PCSX2 texture loading.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/dynasty-warriors-gundam-2-slus-21873-hd-texture-pack-upscale.675885/",
+      "license": "See source page terms",
+      "sizeBytes": 6993006502,
+      "sha256": "8D65EA9D479622A7D1BC255EAED0B790AF60B28A11345149A76C24C7A089648D",
+      "fileCount": 7312,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "30001FDF6C69E5B3D5C5D1C6E9834207EBB0B6B8F805009C2CA62C46C43D19A9"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip.part002",
+          "sizeBytes": 1900000000,
+          "sha256": "D781B480119F29697831F660D2A14A77BDCEE0D57A68698B98AACABA116613E0"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip.part003",
+          "sizeBytes": 1900000000,
+          "sha256": "34A77E11648E487F948056130DF97D82F0B43C7F4AE6A20EAB90DEE1D70BA3AB"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip.part004",
+          "sizeBytes": 1293006502,
+          "sha256": "C3ED508560D18B56271E05A35D6F8B4DE54BC69457FA2BA364C1BE8C33383EC0"
+        }
+      ]
+    },
+    {
+      "id": "callofcthuloo-gundam-zeonic-front-slus-20233-20260727",
+      "name": "Mobile Suit Gundam: Zeonic Front HD Texture Pack",
+      "gameTitle": "Mobile Suit Gundam: Zeonic Front",
+      "serials": ["SLUS-20233"],
+      "version": "Complete public source snapshot",
+      "authors": ["callofcthuloo"],
+      "credits": "AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "A complete North American HD texture replacement pack prepared for PCSX2 texture loading.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-zeonic-front-callofcthuloo-slus-20233.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-zeonic-front-slus-20233-hd-texture-pack-upscale.673501/",
+      "license": "See source page terms",
+      "sizeBytes": 5011635527,
+      "sha256": "C161162253D6E509C5712E06CE83427756670A364F4FF85896731E6A01D32E3D",
+      "fileCount": 15320,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-zeonic-front-callofcthuloo-slus-20233.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "EFEDECD967EFD054236AC1AE94575CA20D6EEE0AE56C68930008DBD881D216E1"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-zeonic-front-callofcthuloo-slus-20233.zip.part002",
+          "sizeBytes": 1900000000,
+          "sha256": "3BE90C00517F39DF3F4C1C8A871FBC7FF7F14612F046EC2DD71C1F9BD3F0FEFA"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-zeonic-front-callofcthuloo-slus-20233.zip.part003",
+          "sizeBytes": 1211635527,
+          "sha256": "841B58EB6BE889B98285282437685BFF91118EC2F62C5C0737C50C664560DD8A"
+        }
+      ]
+    },
+    {
+      "id": "callofcthuloo-gundam-vs-zeta-gundam-slus-20821-20260727",
+      "name": "Mobile Suit Gundam: Gundam vs. Zeta Gundam HD Texture Pack",
+      "gameTitle": "Mobile Suit Gundam: Gundam vs. Zeta Gundam",
+      "serials": ["SLUS-20821"],
+      "version": "Complete public source snapshot",
+      "authors": ["callofcthuloo"],
+      "credits": "AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "A complete North American HD texture replacement pack prepared for PCSX2 texture loading.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-vs-zeta-callofcthuloo-slus-20821.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-gundam-vs-zeta-gundam-slus-20821-hd-texture-pack-upscale.666702/",
+      "license": "See source page terms",
+      "sizeBytes": 3233060257,
+      "sha256": "905B959C1B2A326BA80A1B31D1A0B7E651372C24E8A80B7F28F4263E34B0C38D",
+      "fileCount": 4949,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-vs-zeta-callofcthuloo-slus-20821.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "02629FAD83FFFBD4F0C8CB35F352490F0E5385B9215FCCFFB117815630823D65"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-vs-zeta-callofcthuloo-slus-20821.zip.part002",
+          "sizeBytes": 1333060257,
+          "sha256": "6A8A54968690BAD1B7F16682579DAA8FA8ED0FA49690C2D7F507D033D363A67D"
+        }
+      ]
+    },
+    {
+      "id": "callofcthuloo-robot-alchemic-drive-slus-20445-20260727",
+      "name": "Robot Alchemic Drive HD Texture Pack",
+      "gameTitle": "Robot Alchemic Drive",
+      "serials": ["SLUS-20445"],
+      "version": "Complete public source snapshot",
+      "authors": ["callofcthuloo"],
+      "credits": "AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "A complete North American HD texture replacement pack prepared for PCSX2 texture loading.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/robot-alchemic-drive-callofcthuloo-slus-20445.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/robot-alchemic-drive-rad-slus-20445-hd-texture-pack-upscale.682128/",
+      "license": "See source page terms",
+      "sizeBytes": 4796441182,
+      "sha256": "A493838E136CA90C58462F1003F1DFEFF7ED11C683714B123B86F97CE1C27925",
+      "fileCount": 18003,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/robot-alchemic-drive-callofcthuloo-slus-20445.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "C02C4ECCF2FE2EC0BD6BA6BC2693FFCE14922615A68811BFCCD3A131D4A25F35"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/robot-alchemic-drive-callofcthuloo-slus-20445.zip.part002",
+          "sizeBytes": 1900000000,
+          "sha256": "630F96CC4BC4044C316170241B4E6E2D7E0FAF3C89993A6A5EFF9DC445DBA453"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/robot-alchemic-drive-callofcthuloo-slus-20445.zip.part003",
+          "sizeBytes": 996441182,
+          "sha256": "CA20E2EC9DF7259378AB0E3D37AA571B84A53F563A2AF7BFCC99EFBFB113C6F2"
+        }
+      ]
+    },
+    {
+      "id": "callofcthuloo-wwe-smackdown-vs-raw-2007-slus-21427-20260727",
+      "name": "WWE SmackDown! vs. RAW 2007 HD Texture Pack",
+      "gameTitle": "WWE SmackDown! vs. RAW 2007",
+      "serials": ["SLUS-21427"],
+      "version": "4K public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "4K AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's 4K North American replacement variant, selected from the separately published HD and 4K archives.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/wwe-smackdown-raw-2007-callofcthuloo-slus-21427.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/wwe-smackdown-vs-raw-2007-slus-21427-hd-texture-pack-upscale.681105/",
+      "license": "See source page terms",
+      "sizeBytes": 3761198870,
+      "sha256": "179E122D83F3BC8ADCAB8F75A9E278B6B5CA15488615AFA821E69060833AB7F7",
+      "fileCount": 9767,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/wwe-smackdown-raw-2007-callofcthuloo-slus-21427.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "7961B263368FEA6D400CF3454FEABCA4D8ED9FA104AF1D4507A54C914D618CBE"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/wwe-smackdown-raw-2007-callofcthuloo-slus-21427.zip.part002",
+          "sizeBytes": 1861198870,
+          "sha256": "B8AEB3DC7627254F4BF2DE8D4ED8CE3A3244872CF619F5F8F51D650CB1F841D6"
+        }
+      ]
     }
   ]
 }

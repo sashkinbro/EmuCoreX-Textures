@@ -1220,6 +1220,161 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "batch-011",
+      "verifiedAt": "2026-07-27T09:17:23Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "majidgaming-urban-reign-slus-21209-20260727",
+          "sourceArtifact": "Urban Reign SLUS-21209 - Enhanced HD Textures v1.7.rar",
+          "sourceSha256": "C2E4DE42F851709BE2377887E4BB3391F0A502124F7487F28D6D5B97123E212E",
+          "assetName": "urban-reign-majidgaming-slus-21209.zip",
+          "assetParts": [
+            "urban-reign-majidgaming-slus-21209.zip.part001",
+            "urban-reign-majidgaming-slus-21209.zip.part002",
+            "urban-reign-majidgaming-slus-21209.zip.part003",
+            "urban-reign-majidgaming-slus-21209.zip.part004"
+          ],
+          "normalizedSha256": "E717C454FBAE415BEF8BAEF3AFC408E6E90CCC7D71602914537F5BDC5DB0FD3A",
+          "manifestSha256": "77638FD5476A4BCC21800324BC8A4B762D4C5EC7BA475D2B6F99C6CBCF5C2D13",
+          "contentSetSha256": "4046C5945175E99D1ABEEDB688656031A6E5F3EE845109227396DACDF8DBE0AA",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "teodor-max-forgotten-realms-demon-stone-slus-20804-20260727",
+          "sourceArtifact": "Forgotten Realms - Demon Stone (USA).7z",
+          "sourceSha256": "1558618EFB9BE2541814FC0594357AD66B944B5E172EBEF9B7E5D9985B8D216E",
+          "assetName": "forgotten-realms-demon-stone-teodor-max-slus-20804.zip",
+          "normalizedSha256": "59AE9BF3B9EDD7E123BEC3F48321D077D37B6B913214E8934153643BB772CD0A",
+          "manifestSha256": "F661594FD02E0AC83D0B4EC29B82560E35F9528E8B70DE810784C16C280CBECA",
+          "contentSetSha256": "9E547D2CCA82B1DE94E524CAB6FC2E03E3FB60B5F0DB602F1B5953DF5E980519",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "teodor-max-lord-of-the-rings-return-of-the-king-slus-20770-20260727",
+          "sourceArtifact": "The Lord of the Rings - The Return of the King (USA).7z",
+          "sourceSha256": "6A303CC8A0D94F31AC31A5DB05673AB749114F5E8D936CB682765DC5677291BD",
+          "assetName": "lord-of-the-rings-return-of-the-king-teodor-max-slus-20770.zip",
+          "normalizedSha256": "336A4306A420E3AB309562989DE0E03D4394FE76AD54558D7FC2CEA9DFB6D929",
+          "manifestSha256": "5CB07894FC498513E013893A72387A0AA9BEB6B675E0D83877BC3084E8B7B594",
+          "contentSetSha256": "F856F20AA631F20469045B82926EFCDE12BE94819EE6B7849F58D3ABD957F2D2",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-journey-to-jaburo-slus-20175-20260727",
+          "sourceArtifact": "Mobile Suit Gundam - Journey to Jaburo [SLUS-20175].zip",
+          "sourceSha256": "7CB07AC4A29F1139A7683D6B5512CACCE6B96BF81DEDE630BE97136DE320BA8B",
+          "assetName": "gundam-journey-to-jaburo-callofcthuloo-slus-20175.zip",
+          "normalizedSha256": "5094DB3C04BFF99A51771D49B1F36BAB689C1CFF69DDFD62B9DA50F3D2B55386",
+          "manifestSha256": "E13AB58FBC2F0F8F715D5C2AAE46C6EA6EF85203B3AF0B2051190A18CC91C3C3",
+          "contentSetSha256": "5309817CAED8E6312E3814ADA73BDFF4D5FD8FD0BF29E72F4CE45C92EE960C8E",
+          "comparedAgainst": [
+            "callofcthuloo-gundam-journey-jaburo-android-slus-20175-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author-published 4K desktop variant versus existing Android 1080p variant",
+              "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-journey-to-jaburo-slus-20175-hd-texture-pack-upscale.679168/",
+              "manifestSha256": "E13AB58FBC2F0F8F715D5C2AAE46C6EA6EF85203B3AF0B2051190A18CC91C3C3",
+              "contentSetSha256": "5309817CAED8E6312E3814ADA73BDFF4D5FD8FD0BF29E72F4CE45C92EE960C8E",
+              "relationToPublished": "different",
+              "comparedCatalogId": "callofcthuloo-gundam-journey-jaburo-android-slus-20175-20260726",
+              "existingFileCount": 6926,
+              "candidateFileCount": 6964,
+              "sharedFileContents": 85,
+              "contentJaccard": 0.006157189424121695,
+              "exactManifestMatch": false,
+              "exactContentSetMatch": false
+            }
+          ]
+        },
+        {
+          "catalogId": "sombershroud-guitar-hero-3-slus-21672-20260727",
+          "sourceArtifact": "SLUS-21672.zip",
+          "sourceSha256": "2842F4C16DE5B37266539AB027DA0438B3965D261177CDD9B78DFF61CFB32719",
+          "assetName": "guitar-hero-3-sombershroud-slus-21672.zip",
+          "normalizedSha256": "4DAFB07570B1223ED2BB863B78C491CEEB9812640EA89FAFE12B5BBC558719CF",
+          "manifestSha256": "39C1E4441CFED36CFE9FF60F74A5101835D5B163F7A3955DB3B883B2D8F919DC",
+          "contentSetSha256": "E022DA1D124B94387CCD9296C42639C050A67D2858245EC5BD768AC8D6164E42",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-dynasty-warriors-gundam-2-slus-21873-20260727",
+          "sourceArtifact": "Dynasty Warriors - Gundam 2 [SLUS-21873].zip",
+          "sourceSha256": "06D30AFBBEA7539C019784480977CFF352B9E31D1697083F9F5AF8F0D3548A89",
+          "assetName": "dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip",
+          "assetParts": [
+            "dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip.part001",
+            "dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip.part002",
+            "dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip.part003",
+            "dynasty-warriors-gundam-2-callofcthuloo-slus-21873.zip.part004"
+          ],
+          "normalizedSha256": "8D65EA9D479622A7D1BC255EAED0B790AF60B28A11345149A76C24C7A089648D",
+          "manifestSha256": "93E143581DC595ECF800204993ABC13DF8A7D0FEEABE33EA0E6827BA5549CDFC",
+          "contentSetSha256": "CA6F5C35D90DCA195E708768D56FD1D995ECACFDC012ADADB00F429B945474F1",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-zeonic-front-slus-20233-20260727",
+          "sourceArtifact": "Mobile Suit Gundam - Zeonic Front [SLUS-20233].zip",
+          "sourceSha256": "8339386B7483F106DD2B192E4825E778A60BDDE5EF902183281D5C449B72AD68",
+          "assetName": "gundam-zeonic-front-callofcthuloo-slus-20233.zip",
+          "assetParts": [
+            "gundam-zeonic-front-callofcthuloo-slus-20233.zip.part001",
+            "gundam-zeonic-front-callofcthuloo-slus-20233.zip.part002",
+            "gundam-zeonic-front-callofcthuloo-slus-20233.zip.part003"
+          ],
+          "normalizedSha256": "C161162253D6E509C5712E06CE83427756670A364F4FF85896731E6A01D32E3D",
+          "manifestSha256": "ADCC9C670D28AA5A4134EAA7DD802D9F45D38DE5C4FDF53DA23B13DC9D72BCB4",
+          "contentSetSha256": "EEC639D070AF4B616D3F84C5BA1D7A66D8F5B3743B7474EB869117E2F2CC9822",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-vs-zeta-gundam-slus-20821-20260727",
+          "sourceArtifact": "Mobile Suit Gundam - Gundam vs. Zeta Gundam [SLUS-20821].zip",
+          "sourceSha256": "C5AF8F3249E762723317A124906F64CDE1F815C308715401B6999A5481951D1A",
+          "assetName": "gundam-vs-zeta-callofcthuloo-slus-20821.zip",
+          "assetParts": [
+            "gundam-vs-zeta-callofcthuloo-slus-20821.zip.part001",
+            "gundam-vs-zeta-callofcthuloo-slus-20821.zip.part002"
+          ],
+          "normalizedSha256": "905B959C1B2A326BA80A1B31D1A0B7E651372C24E8A80B7F28F4263E34B0C38D",
+          "manifestSha256": "8084770095E6D7D23A13146BA5C3FCAA7029F20496B18AAF850B46770291A2A1",
+          "contentSetSha256": "D1043E98B3E933CE9FF0BA0D12E03CCB244F658224E4450AD85F99AA994821CC",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-robot-alchemic-drive-slus-20445-20260727",
+          "sourceArtifact": "Robot Alchemic Drive - RAD [SLUS-20445].zip",
+          "sourceSha256": "A23490C4B79543BEFEEDEB0C0ED34838BE4B71CDDBDBEF3117D120159B7A833D",
+          "assetName": "robot-alchemic-drive-callofcthuloo-slus-20445.zip",
+          "assetParts": [
+            "robot-alchemic-drive-callofcthuloo-slus-20445.zip.part001",
+            "robot-alchemic-drive-callofcthuloo-slus-20445.zip.part002",
+            "robot-alchemic-drive-callofcthuloo-slus-20445.zip.part003"
+          ],
+          "normalizedSha256": "A493838E136CA90C58462F1003F1DFEFF7ED11C683714B123B86F97CE1C27925",
+          "manifestSha256": "92E1F34157285EA14AAB2BA1564D0BA3D2FC9D5C24B1F2979AEB0220C0B78516",
+          "contentSetSha256": "E49831958E152EB03CA545088B1C24C70535010D97A91C5BA13C8E3BE8CD682A",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-wwe-smackdown-vs-raw-2007-slus-21427-20260727",
+          "sourceArtifact": "WWE SmackDown! vs. RAW 2007 [SLUS-21427].zip",
+          "sourceSha256": "89AD03D30300A56D98A8E4864B102A29046278B6BCE3F8C8706F44FFE77D3E9B",
+          "assetName": "wwe-smackdown-raw-2007-callofcthuloo-slus-21427.zip",
+          "assetParts": [
+            "wwe-smackdown-raw-2007-callofcthuloo-slus-21427.zip.part001",
+            "wwe-smackdown-raw-2007-callofcthuloo-slus-21427.zip.part002"
+          ],
+          "normalizedSha256": "179E122D83F3BC8ADCAB8F75A9E278B6B5CA15488615AFA821E69060833AB7F7",
+          "manifestSha256": "3E5128909C641F8EC57F398BAEF372A47F5F96ACB52E33C7DE102DD7429F106F",
+          "contentSetSha256": "626964A372D48AF8178A41BB5F4D9C63D11132F5AD458A714D3601F881166ABE",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }
