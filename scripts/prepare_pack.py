@@ -30,7 +30,7 @@ SERIAL_RE = re.compile(r"^[A-Z]{4}[-_ ]?\d{5}$", re.IGNORECASE)
 MAX_ARCHIVE_ENTRIES = 50_000
 MAX_TEXTURE_FILE_BYTES = 512 * 1024 * 1024
 MAX_UNCOMPRESSED_BYTES = 8 * 1024 * 1024 * 1024
-MAX_GITHUB_ASSET_BYTES = 2 * 1024 * 1024 * 1024
+MAX_CATALOG_ARCHIVE_BYTES = 16 * 1024 * 1024 * 1024
 SUPPORTED_COMPRESSION = {zipfile.ZIP_STORED, zipfile.ZIP_DEFLATED}
 COPY_BUFFER_BYTES = 1024 * 1024
 FIXED_ZIP_TIMESTAMP = (2026, 1, 1, 0, 0, 0)
@@ -264,8 +264,8 @@ def prepare(input_path: Path, output_path: Path, strip_components: int) -> PackS
                         info, "w", force_zip64=True
                     ) as target:
                         copy_with_limit(input_stream, target, source.size)
-        if temp_path.stat().st_size >= MAX_GITHUB_ASSET_BYTES:
-            raise PackError("normalized ZIP reaches GitHub's 2 GiB per-asset limit")
+        if temp_path.stat().st_size > MAX_CATALOG_ARCHIVE_BYTES:
+            raise PackError("normalized ZIP exceeds the application's 16 GiB archive limit")
         shutil.move(str(temp_path), output_path)
         temp_path = None
         return validate(output_path)
@@ -294,8 +294,8 @@ def inspect(path: Path) -> tuple[PackSummary, dict[str, tuple[int, str]]]:
     if not path.is_file() or path.suffix.casefold() != ".zip":
         raise PackError("pack must be a ZIP file")
     size_bytes = path.stat().st_size
-    if size_bytes <= 0 or size_bytes >= MAX_GITHUB_ASSET_BYTES:
-        raise PackError("ZIP size must be between 1 byte and 2 GiB")
+    if size_bytes <= 0 or size_bytes > MAX_CATALOG_ARCHIVE_BYTES:
+        raise PackError("ZIP size must be between 1 byte and 16 GiB")
 
     seen: set[str] = set()
     extensions: Counter[str] = Counter()

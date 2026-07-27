@@ -1105,6 +1105,121 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "batch-010",
+      "verifiedAt": "2026-07-27T08:03:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "sombertwilight-drakan-ancients-gates-scus-97128-20260727",
+          "sourceArtifact": "SCUS-97128.7z",
+          "sourceSha256": "DF8DB8705B9C3726BC5EAC3FAA9FF8728051373DBE88C9B1370B929412B7E055",
+          "assetName": "drakan-sombertwilight-scus-97128.zip",
+          "normalizedSha256": "5E88AB401F0DF40DEBA83EFCBDFB7141494737D6A638469F18C5A7E271935DFD",
+          "manifestSha256": "BACA8F877D760D2AA7C6F17BCB6075AAF52AE63620EA43FED5D6A0978ABAE127",
+          "contentSetSha256": "DA0C20CA0AD11945DFFA34D86600F004DF1C5CF4A7528F64789AB7485F4B106B",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-hunter-wayward-slus-20511-20260727",
+          "sourceArtifact": "SLUS-20511.7z",
+          "sourceSha256": "F50871B722C8374ECB34904C716245CAC592B76F8B4C80DB214F4D4A2E340037",
+          "assetName": "hunter-wayward-sombertwilight-slus-20511.zip",
+          "normalizedSha256": "5E4D121E68B9860BCFF6B79C770213BCDA86E45E77E04C63BC214B0093B5ACBD",
+          "manifestSha256": "9C039D052223B712D9C762700FE3A298B7830B90F4E5B48365A40D15349198D0",
+          "contentSetSha256": "E5468CE95627F33A6EF2281FF96427463EF5CADD1EA89257D88D7A90328F1D72",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-kengo-master-bushido-slus-20021-20260727",
+          "sourceArtifact": "SLUS-20021.7z",
+          "sourceSha256": "8A24DDE0AFCF5A40168082C0D558715CAA35CF878E93329FC6926DF4DE642EF9",
+          "assetName": "kengo-sombertwilight-slus-20021.zip",
+          "normalizedSha256": "D2127A5A600E71830E04A30C06B2E8B4800B2ACE6B109C80EC29B2F903596D48",
+          "manifestSha256": "67C7187D32FF32A6639E244F95A94C319B62B1790EF600179B6BAF75C7ACB840",
+          "contentSetSha256": "7507877BF233C57580B25A8572072538AFC68F0B83321DB183E06B928BFE5390",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-soulcalibur-3-arcade-slus-21216-20260727",
+          "sourceArtifact": "SLUS-21216.7z",
+          "sourceSha256": "83756BF8FAA315BACD59447AB75C3EFBBE985F8AF30670173425BBFA2B32EE9B",
+          "assetName": "soulcalibur-3-arcade-sombertwilight-slus-21216.zip",
+          "normalizedSha256": "D40B2CBF6424C5B55D145903E43F4B61D7995B82D6E4FCA8465B5031A57163E4",
+          "manifestSha256": "516F06872099FDED3423A85473FB1F76795DA8C2F069CD2BE5E3AC76F8D82193",
+          "contentSetSha256": "88499EB40EA522FD2E19AC8460FBDAA881806567DEAE7E962D3937AF4DCE2415",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-kof-maximum-impact-slus-20923-20260727",
+          "sourceArtifact": "SLUS-20923.7z",
+          "sourceSha256": "E8E8631A01FE085752FC81BE90CC54E72D87255890A32FDC7E564B082514A277",
+          "assetName": "kof-maximum-impact-sombertwilight-slus-20923.zip",
+          "normalizedSha256": "E2C2D5121A053B7923C6C0DE2518BDC5D1D151A6C7D1BBBB25A4B7D667BEBD1F",
+          "manifestSha256": "EE82284F7064F02EAACB91392958724DFE1C6724DE9E604EC9BB4759E885177E",
+          "contentSetSha256": "7FC4EED5D9E4199217C99F7B4E0F3A7F9E320BEAD476A6ACF0F3798B01A4E298",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "thecoolpup-gitaroo-man-slus-20294-20260727",
+          "sourceArtifact": "SLUS-20294.zip",
+          "sourceSha256": "2802A79BD9B03E5E7C85EE84A2DCCACA30D36A2C7209F872143C3DF39ACEF6FA",
+          "assetName": "gitaroo-man-thecoolpup-slus-20294.zip",
+          "normalizedSha256": "A0CFFCC90E2E5BE58D86F4519F3AABF417DB7DF15B6CF7E2C437A1E8FDBDAF0F",
+          "manifestSha256": "B538156715D10D02BFDD1DB081F2C8F183108A0B027244EC1A2CD22C8D1F8E6B",
+          "contentSetSha256": "52C0FFF50168D01A04F0A06C3C53CD27BA97CAE6CD79F82FC688BD36CAF97472",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "quicksliver1-ape-escape-2-multi-region-20260727",
+          "sourceArtifact": "SLUS-20685_UHD Texture.7z",
+          "sourceSha256": "81CBCA0E2878F9770F17C5A6F755BF074AECD66583C3EDAD3EF660AACA698A63",
+          "assetName": "ape-escape-2-quicksliver1-slus-20685-sces-50885-scps-15025.zip",
+          "normalizedSha256": "04C18D118901B992A17623B9B44A791BF1D82947A9A1BAE02C9D47B4FE5817C8",
+          "manifestSha256": "277324B07E2E7460329F8A2B49993BC6273B84501173BB1780D03C0DBD758C48",
+          "contentSetSha256": "F6C7384426E2FF048C56F70916FDE403BEE798E5C02FFAC06A3E41E180CEE460",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "quicksliver1-ape-escape-3-multi-region-20260727",
+          "sourceArtifact": "SCUS-97501_UHD Texture.7z",
+          "sourceSha256": "BC0E11146C530A2857A6777506EEA38F06178507C96BC9B7E629790D7BF0A032",
+          "assetName": "ape-escape-3-quicksliver1-scus-97501-sces-53642-scps-15096.zip",
+          "assetParts": [
+            "ape-escape-3-quicksliver1-scus-97501-sces-53642-scps-15096.zip.part001",
+            "ape-escape-3-quicksliver1-scus-97501-sces-53642-scps-15096.zip.part002"
+          ],
+          "normalizedSha256": "77A46E48D29C003668C7A346720617AA2B32EEAE84C8CDFACB8FED1DBE17D917",
+          "manifestSha256": "F5EFFDDC8C3718D0611A07E1385C9E1E26C9276DBD01218FE9A055DAC36B7C44",
+          "contentSetSha256": "58895896A65E175AEFED77D14E23085CB2C0CD901EB8576ABD165A398BAE96F7",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-shrek-superslam-slus-21197-20260727",
+          "sourceArtifact": "Shrek SuperSlam (HD Texture Pack).7z",
+          "sourceSha256": "670C1489143F4D3D3EC213F8C4ECDFB2174103076047EF63FCA1D7ECE8E632AC",
+          "assetName": "shrek-superslam-retrogenerica-slus-21197.zip",
+          "assetParts": [
+            "shrek-superslam-retrogenerica-slus-21197.zip.part001",
+            "shrek-superslam-retrogenerica-slus-21197.zip.part002"
+          ],
+          "normalizedSha256": "1AC2C854E8132B8004378C65B65C1B86C60B55F974E4DB4635350C11FA63A6AF",
+          "manifestSha256": "605BCC78CEBB1D46542A3A74E3266E7EBFEC27F30959BA8F64A532433CE0B930",
+          "contentSetSha256": "0503374E255A372AB7697627EBB0D13FF6E69287BF070B6D0A3A8522CC79212E",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sombertwilight-onimusha-blade-warriors-slus-20710-20260727",
+          "sourceArtifact": "SLUS-20710.zip",
+          "sourceSha256": "6071167523B149C1FD77197B7C4841FED921D7438C1EED02D3D572F0DAE461E6",
+          "assetName": "onimusha-blade-warriors-sombertwilight-slus-20710.zip",
+          "normalizedSha256": "5D334F3CDC1DAED8A1BD9001B591FCA94679B07C087826D203FF43D3C7018E3A",
+          "manifestSha256": "31183036F86FDBBB9C5051CEF6A2FAF27E713B8AD76C5F569FCCBCCAD5F5FF63",
+          "contentSetSha256": "C4CF3D7F0B7FE17B5C6899C97DC7D8EB7620C363D46BE4C1FC87458BD84F14EB",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }

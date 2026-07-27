@@ -28,6 +28,20 @@
           "sha256": { "type": "string", "pattern": "^[0-9A-Fa-f]{64}$" },
           "fileCount": { "type": "integer", "minimum": 1 },
           "previewUrls": { "type": "array", "items": { "type": "string", "format": "uri" } },
+          "parts": {
+            "type": "array",
+            "minItems": 2,
+            "items": {
+              "type": "object",
+              "required": ["downloadUrl", "sizeBytes", "sha256"],
+              "properties": {
+                "downloadUrl": { "type": "string", "format": "uri" },
+                "sizeBytes": { "type": "integer", "minimum": 1, "maximum": 2147483647 },
+                "sha256": { "type": "string", "pattern": "^[0-9A-Fa-f]{64}$" }
+              },
+              "additionalProperties": false
+            }
+          },
           "updatedAt": { "type": "string", "format": "date-time" }
         },
         "additionalProperties": false

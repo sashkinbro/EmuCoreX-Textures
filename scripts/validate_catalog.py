@@ -10,7 +10,8 @@ ROOT = Path(__file__).resolve().parents[1]
 SERIAL_RE = re.compile(r"^[A-Z]{4}-\d{5}$")
 HASH_RE = re.compile(r"^[0-9A-Fa-f]{64}$")
 MAX_CATALOG_BYTES = 8 * 1024 * 1024
-MAX_TEXTURE_ARCHIVE_BYTES = 4 * 1024 * 1024 * 1024
+MAX_TEXTURE_ARCHIVE_BYTES = 16 * 1024 * 1024 * 1024
+MAX_TEXTURE_PART_BYTES = 2 * 1024 * 1024 * 1024
 MAX_TEXTURE_FILE_COUNT = 50_000
 
 
@@ -54,8 +55,43 @@ def main() -> None:
             if not valid_https(entry.get(field)):
                 errors.append(f"{label}.{field} must be an HTTPS URL")
         download_url = str(entry.get("downloadUrl", ""))
-        if not download_url.lower().endswith(".zip"):
+        parts = entry.get("parts", [])
+        if not isinstance(parts, list):
+            errors.append(f"{label}.parts must be an array")
+            parts = []
+        if parts and len(parts) < 2:
+            errors.append(f"{label}.parts must contain at least two parts")
+        if not parts and not download_url.lower().endswith(".zip"):
             errors.append(f"{label}.downloadUrl must point to a ZIP archive")
+        part_size_total = 0
+        part_urls: set[str] = set()
+        for part_index, part in enumerate(parts):
+            part_label = f"{label}.parts[{part_index}]"
+            if not isinstance(part, dict):
+                errors.append(f"{part_label} must be an object")
+                continue
+            part_url = str(part.get("downloadUrl", ""))
+            if not valid_https(part_url):
+                errors.append(f"{part_label}.downloadUrl must be an HTTPS URL")
+            if part_url.casefold() in part_urls:
+                errors.append(f"{label}.parts contains duplicate URLs")
+            part_urls.add(part_url.casefold())
+            part_size = part.get("sizeBytes")
+            if not isinstance(part_size, int) or part_size < 1 or part_size >= MAX_TEXTURE_PART_BYTES:
+                errors.append(f"{part_label}.sizeBytes must be below 2 GiB")
+            else:
+                part_size_total += part_size
+            if not HASH_RE.fullmatch(str(part.get("sha256", ""))):
+                errors.append(f"{part_label}.sha256 must be a SHA-256 digest")
+        first_part_url = (
+            str(parts[0].get("downloadUrl", ""))
+            if parts and isinstance(parts[0], dict)
+            else ""
+        )
+        if parts and download_url != first_part_url:
+            errors.append(f"{label}.downloadUrl must match the first multipart URL")
+        if parts and isinstance(entry.get("sizeBytes"), int) and part_size_total != entry["sizeBytes"]:
+            errors.append(f"{label}.parts sizes do not match sizeBytes")
         download_key = download_url.casefold()
         if download_key in download_urls:
             errors.append(
@@ -80,7 +116,7 @@ def main() -> None:
             if not isinstance(entry.get(field), int) or entry[field] < 1:
                 errors.append(f"{label}.{field} must be positive")
         if isinstance(entry.get("sizeBytes"), int) and entry["sizeBytes"] > MAX_TEXTURE_ARCHIVE_BYTES:
-            errors.append(f"{label}.sizeBytes exceeds the application's 4 GiB limit")
+            errors.append(f"{label}.sizeBytes exceeds the application's 16 GiB limit")
         if isinstance(entry.get("fileCount"), int) and entry["fileCount"] > MAX_TEXTURE_FILE_COUNT:
             errors.append(f"{label}.fileCount exceeds the application's 50,000-file limit")
         if not entry.get("authors"):
@@ -137,11 +173,20 @@ def main() -> None:
                 normalized_hash = str(audit_entry.get("normalizedSha256", "")).upper()
                 if normalized_hash != str(catalog_entry.get("sha256", "")).upper():
                     errors.append(f"{audit_label}.normalizedSha256 does not match textures.json")
-                expected_asset = unquote(
-                    urlparse(str(catalog_entry.get("downloadUrl", ""))).path.rsplit("/", 1)[-1]
-                )
-                if audit_entry.get("assetName") != expected_asset:
-                    errors.append(f"{audit_label}.assetName does not match downloadUrl")
+                catalog_parts = catalog_entry.get("parts", [])
+                if catalog_parts:
+                    expected_parts = [
+                        unquote(urlparse(str(part.get("downloadUrl", ""))).path.rsplit("/", 1)[-1])
+                        for part in catalog_parts
+                    ]
+                    if audit_entry.get("assetParts") != expected_parts:
+                        errors.append(f"{audit_label}.assetParts do not match parts URLs")
+                else:
+                    expected_asset = unquote(
+                        urlparse(str(catalog_entry.get("downloadUrl", ""))).path.rsplit("/", 1)[-1]
+                    )
+                    if audit_entry.get("assetName") != expected_asset:
+                        errors.append(f"{audit_label}.assetName does not match downloadUrl")
                 for compared_id in audit_entry.get("comparedAgainst", []):
                     if compared_id not in catalog_by_id:
                         errors.append(

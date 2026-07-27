@@ -14,6 +14,8 @@ from typing import Any
 
 from prepare_pack import PackError, validate
 
+MAX_GITHUB_ASSET_BYTES = 2 * 1024 * 1024 * 1024
+
 
 class RegistrationError(ValueError):
     pass
@@ -140,7 +142,18 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
         raise RegistrationError("catalog or audit has an unsupported structure")
 
     existing_ids = {entry["id"] for entry in catalog_entries}
-    existing_urls = {entry["downloadUrl"] for entry in catalog_entries}
+    existing_urls = {
+        url
+        for entry in catalog_entries
+        for url in (
+            [entry["downloadUrl"]]
+            + [
+                part["downloadUrl"]
+                for part in entry.get("parts", [])
+                if isinstance(part, dict) and "downloadUrl" in part
+            ]
+        )
+    }
     existing_archive_hashes = {entry["sha256"].upper() for entry in catalog_entries}
     existing_provenance_keys: set[tuple[str, str, str]] = set()
     for entry in catalog_entries:
@@ -173,6 +186,16 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
         slug = require_text(item.get("slug"), f"{label}.slug")
         source_file = require_text(item.get("sourceFile"), f"{label}.sourceFile")
         asset_name = require_text(item.get("assetName"), f"{label}.assetName")
+        asset_parts = item.get("assetParts", [])
+        if not isinstance(asset_parts, list) or not all(
+            isinstance(name, str) and name.strip() for name in asset_parts
+        ):
+            raise RegistrationError(f"{label}.assetParts must be an array of asset names")
+        asset_parts = [name.strip() for name in asset_parts]
+        if len(asset_parts) == 1:
+            raise RegistrationError(f"{label}.assetParts must contain at least two parts")
+        if len(asset_parts) != len(set(asset_parts)):
+            raise RegistrationError(f"{label}.assetParts contains duplicates")
         catalog_fields = item.get("catalog")
         if not isinstance(catalog_fields, dict):
             raise RegistrationError(f"{label}.catalog must be an object")
@@ -210,14 +233,28 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
 
         source_sha256 = sha256_file(source_path)
         summary = validate(archive_path)
-        download_url = (
+        physical_asset_names = asset_parts or [asset_name]
+        physical_assets = [args.ready_dir / name for name in physical_asset_names]
+        for physical_asset in physical_assets:
+            if not physical_asset.is_file():
+                raise RegistrationError(f"release asset is missing: {physical_asset}")
+            if physical_asset.stat().st_size >= MAX_GITHUB_ASSET_BYTES:
+                raise RegistrationError(
+                    f"release asset reaches GitHub's 2 GiB limit: {physical_asset.name}"
+                )
+        if asset_parts and sum(path.stat().st_size for path in physical_assets) != summary.sizeBytes:
+            raise RegistrationError(f"multipart size does not reconstruct: {asset_name}")
+        download_urls = [
             f"https://github.com/{args.repository}/releases/download/"
-            f"{args.release_tag}/{asset_name}"
-        )
+            f"{args.release_tag}/{name}"
+            for name in physical_asset_names
+        ]
+        download_url = download_urls[0]
         if catalog_id in existing_ids:
             raise RegistrationError(f"duplicate catalog id: {catalog_id}")
-        if download_url in existing_urls:
-            raise RegistrationError(f"duplicate download URL: {download_url}")
+        duplicate_url = next((url for url in download_urls if url in existing_urls), None)
+        if duplicate_url is not None:
+            raise RegistrationError(f"duplicate download URL: {duplicate_url}")
         if summary.sha256 in existing_archive_hashes:
             raise RegistrationError(f"duplicate normalized archive: {asset_name}")
         if source_sha256 in existing_source_hashes:
@@ -244,6 +281,15 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
             "fileCount": summary.fileCount,
             "previewUrls": catalog_fields.get("previewUrls", []),
         }
+        if asset_parts:
+            entry["parts"] = [
+                {
+                    "downloadUrl": url,
+                    "sizeBytes": path.stat().st_size,
+                    "sha256": sha256_file(path),
+                }
+                for url, path in zip(download_urls, physical_assets)
+            ]
         new_entries.append(entry)
         audit_entries.append(
             {
@@ -254,6 +300,7 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
                 ),
                 "sourceSha256": source_sha256,
                 "assetName": asset_name,
+                **({"assetParts": asset_parts} if asset_parts else {}),
                 "normalizedSha256": summary.sha256,
                 "manifestSha256": summary.manifestSha256,
                 "contentSetSha256": summary.contentSetSha256,
@@ -266,7 +313,7 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
             }
         )
         existing_ids.add(catalog_id)
-        existing_urls.add(download_url)
+        existing_urls.update(download_urls)
         existing_archive_hashes.add(summary.sha256)
         existing_provenance_keys.update(candidate_provenance)
         existing_source_hashes.add(source_sha256)

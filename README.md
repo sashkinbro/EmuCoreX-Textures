@@ -14,15 +14,17 @@ repository's Releases. Git LFS must not be used.
 - `schemas/texture-catalog.schema.json` - public format contract.
 - `scripts/validate_catalog.py` - dependency-free validation.
 - `scripts/prepare_pack.py` - safe normalization, inspection and comparison.
+- `scripts/split_pack.py` - deterministic binary splitting for normalized ZIPs
+  that exceed GitHub's per-asset limit.
 - `scripts/safe_extract_7z.py` - guarded integrity testing and extraction of
   public 7z sources.
 - `scripts/register_batch.py` - atomic ten-pack catalog and audit registration.
 
 Every pack keeps its original author, credits, source link, immutable download
-URL, archive size, SHA-256 digest, and supported game serials.
+URL or multipart URLs, archive size, SHA-256 digest, and supported game serials.
 
-The current catalog contains 163 verified packs covering 184 regional game
-serials and 516,269 replacement texture files. Archives are inspected
+The current catalog contains 173 verified packs covering 197 regional game
+serials and 598,429 replacement texture files. Archives are inspected
 before publication; source-only projects, screenshots and emulator-incompatible
 dumps are not listed as downloadable packs.
 

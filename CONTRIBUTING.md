@@ -40,6 +40,18 @@ and prints the exact `sizeBytes`, `sha256`, and `fileCount` catalog fields.
 Use `--strip-components N` only after inspecting a source that has extra wrapper
 directories without a recognizable serial or `replacements` folder.
 
+If the verified normalized ZIP is 2 GiB or larger, keep that full ZIP locally
+for inspection and duplicate fingerprints, then split it into release assets:
+
+```text
+python scripts/split_pack.py READY.zip BATCH/ready
+```
+
+List the generated asset names in the batch manifest's `assetParts`. Each part
+must stay below 2 GiB. The catalog retains the size and SHA-256 of the complete
+ZIP plus the URL, size and SHA-256 of every ordered part. EmuCoreX verifies each
+part, concatenates them, verifies the complete ZIP, and only then installs it.
+
 For every mirrored batch, append its upstream artifact SHA-256, normalized
 archive SHA-256, manifest fingerprint, and content-set fingerprint to
 `catalog-audit.json`. The catalog validator rejects repeated download URLs,

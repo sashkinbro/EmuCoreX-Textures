@@ -161,8 +161,15 @@ try {
     if ($manifestCount -ne $ExpectedCount) {
         throw "Expected $ExpectedCount manifest entries, found $manifestCount."
     }
-    $expectedNames = @($manifest | ForEach-Object { [string]$_.assetName })
-    if (($expectedNames | Sort-Object -Unique).Count -ne $ExpectedCount) {
+    $expectedNames = @($manifest | ForEach-Object {
+        $parts = if ($null -ne $_.assetParts) { @($_.assetParts) } else { @() }
+        if ($parts.Count -gt 0) {
+            $parts | ForEach-Object { [string]$_ }
+        } else {
+            [string]$_.assetName
+        }
+    })
+    if (($expectedNames | Sort-Object -Unique).Count -ne $expectedNames.Count) {
         throw "Manifest asset names are missing or duplicated."
     }
     $files = @($expectedNames | ForEach-Object {
@@ -172,6 +179,11 @@ try {
         }
         Get-Item -LiteralPath $path
     } | Sort-Object Length, Name)
+    foreach ($file in $files) {
+        if ([Convert]::ToInt64($file.Length) -ge 2GB) {
+            throw "Release asset reaches GitHub's 2 GiB limit: $($file.Name)"
+        }
+    }
 
     $release = Get-Release -Token $token
     $results = @()

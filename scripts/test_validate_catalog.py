@@ -110,6 +110,30 @@ class ValidateCatalogTest(unittest.TestCase):
 
         self.assertIn("relationToPublished must be exact or different", message)
 
+    def test_rejects_multipart_size_mismatch(self) -> None:
+        catalog_entry = entry(
+            "multipart-pack",
+            url="https://example.com/pack.zip.part001",
+            digest="A" * 64,
+        )
+        catalog_entry["sizeBytes"] = 3
+        catalog_entry["parts"] = [
+            {
+                "downloadUrl": "https://example.com/pack.zip.part001",
+                "sizeBytes": 1,
+                "sha256": "B" * 64,
+            },
+            {
+                "downloadUrl": "https://example.com/pack.zip.part002",
+                "sizeBytes": 1,
+                "sha256": "C" * 64,
+            },
+        ]
+
+        message = self.run_catalog([catalog_entry])
+
+        self.assertIn("parts sizes do not match sizeBytes", message)
+
 
 if __name__ == "__main__":
     unittest.main()
