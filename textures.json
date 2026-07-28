@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T07:14:24Z",
+  "generatedAt": "2026-07-28T08:21:30Z",
   "entries": [
     {
       "id": "xxtherockoxx-prince-of-persia-two-thrones-slus-21287-20260722",
@@ -3436,6 +3436,229 @@
       "sha256": "035A69F69EA34913D4AB1CBCE8085B9AF02B34654E87C34D9738F0375E6E1694",
       "fileCount": 2574,
       "previewUrls": []
+    },
+    {
+      "id": "panda-venom-di-gi-charat-fantasy-excellent-slpm-65395-20260728",
+      "name": "Di Gi Charat Fantasy Excellent HD Texture Pack",
+      "gameTitle": "Di Gi Charat Fantasy Excellent",
+      "serials": ["SLPM-65395"],
+      "version": "English-patched compatible public source snapshot",
+      "authors": ["Panda_Venom"],
+      "credits": "HD remaster texture pack created by Panda_Venom; normalized and mirrored by EmuCoreX.",
+      "description": "A Japanese high-resolution remaster covering backgrounds, events, sprites and effects, compatible with the public English patch.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/di-gi-charat-fantasy-excellent-panda-venom-slpm-65395.zip",
+      "sourceUrl": "https://gbatemp.net/threads/di-gi-charat-fantasy-excellent-english-patched-hd-remaster.678135/",
+      "license": "See source page terms",
+      "sizeBytes": 535046804,
+      "sha256": "ADA4C6172AACB1FB84920365C9191DE5EF5E54CC8C5B46A467B35C10D4558874",
+      "fileCount": 2049,
+      "previewUrls": []
+    },
+    {
+      "id": "panda-venom-legacy-of-kain-defiance-slus-20773-20260728",
+      "name": "Legacy of Kain: Defiance HD Texture Pack",
+      "gameTitle": "Legacy of Kain: Defiance",
+      "serials": ["SLUS-20773"],
+      "version": "Version 1 public source snapshot",
+      "authors": ["Panda_Venom"],
+      "credits": "HD texture pack created by Panda_Venom; normalized and mirrored by EmuCoreX.",
+      "description": "A playable North American high-resolution replacement pack covering the full game with documented emulator limitations.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/legacy-of-kain-defiance-panda-venom-slus-20773.zip",
+      "sourceUrl": "https://gbatemp.net/threads/legacy-of-kain-defiance-us-hd-textures.659800/",
+      "license": "See source page terms",
+      "sizeBytes": 709673468,
+      "sha256": "1D8330034D35B4B764BA6D2B608029E664369C1171F24BC39AD26C110CEA488D",
+      "fileCount": 5740,
+      "previewUrls": []
+    },
+    {
+      "id": "panda-venom-shadow-hearts-from-the-new-world-slus-21326-20260728",
+      "name": "Shadow Hearts: From the New World HD Texture Pack",
+      "gameTitle": "Shadow Hearts: From the New World",
+      "serials": ["SLUS-21326"],
+      "version": "Version 1 public source snapshot",
+      "authors": ["Panda_Venom"],
+      "credits": "HD background, monster and character texture pack created by Panda_Venom; normalized and mirrored by EmuCoreX.",
+      "description": "A North American high-resolution replacement pack covering backgrounds, monsters and characters, with the source author's documented UI dumping limitation.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/shadow-hearts-from-the-new-world-panda-venom-slus-21326.zip",
+      "sourceUrl": "https://gbatemp.net/threads/shadow-hearts-from-the-new-world-usa-hd-textures.646711/",
+      "license": "See source page terms",
+      "sizeBytes": 2023231167,
+      "sha256": "12DC17C23F57A58BCD1D8E640DE96C30A23E592B7A3B9321724A30B8F66AAD16",
+      "fileCount": 3592,
+      "previewUrls": []
+    },
+    {
+      "id": "panda-venom-yakuza-2-slus-21769-sles-55242-20260728",
+      "name": "Yakuza 2 HD Texture Pack",
+      "gameTitle": "Yakuza 2",
+      "serials": ["SLUS-21769", "SLES-55242"],
+      "version": "Public source snapshot",
+      "authors": ["Panda_Venom"],
+      "credits": "HD texture pack created by Panda_Venom; normalized and mirrored by EmuCoreX.",
+      "description": "A North American pack with completed UI, story cutscenes and main battle stages plus extensive Kamurocho, character and NPC coverage; the author notes optional PAL folder renaming.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/yakuza-2-panda-venom-slus-21769-sles-55242.zip",
+      "sourceUrl": "https://gbatemp.net/threads/yakuza-2-usa-hd-remaster.624885/",
+      "license": "See source page terms",
+      "sizeBytes": 1706914436,
+      "sha256": "B43661E0095CEDEDC850A860A99524EA717A2C25ED340F9ECC1F14419BFD4EC1",
+      "fileCount": 12548,
+      "previewUrls": []
+    },
+    {
+      "id": "teodor-max-king-arthur-slus-21046-20260728",
+      "name": "King Arthur HD Texture Pack",
+      "gameTitle": "King Arthur",
+      "serials": ["SLUS-21046"],
+      "version": "Complete public source snapshot",
+      "authors": ["TEODOR_MAX"],
+      "credits": "HD texture pack created by TEODOR_MAX; normalized and mirrored by EmuCoreX.",
+      "description": "A complete North American high-resolution replacement pack prepared for current PCSX2 builds.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/king-arthur-teodor-max-slus-21046.zip",
+      "sourceUrl": "https://gbatemp.net/threads/king-arthur-hd-texture-pack.641553/",
+      "license": "See source page terms",
+      "sizeBytes": 1476985255,
+      "sha256": "934287F4047B3DEC737033C18B8463C98EB3A6DCE9C2EF79EA9AA7D42A995F0C",
+      "fileCount": 1052,
+      "previewUrls": []
+    },
+    {
+      "id": "panda-venom-yakuza-slus-21348-sles-54171-20260728",
+      "name": "Yakuza HD Texture Pack",
+      "gameTitle": "Yakuza",
+      "serials": ["SLUS-21348", "SLES-54171"],
+      "version": "Public source snapshot",
+      "authors": ["Panda_Venom"],
+      "credits": "HD texture pack created by Panda_Venom; normalized and mirrored by EmuCoreX.",
+      "description": "A North American and undub-compatible pack with completed UI, story cutscenes and main battle stages plus broad Kamurocho, character and NPC coverage; the author notes optional PAL folder renaming.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/yakuza-panda-venom-slus-21348-sles-54171.zip",
+      "sourceUrl": "https://gbatemp.net/threads/yakuza-usa-hd-remaster.624509/",
+      "license": "See source page terms",
+      "sizeBytes": 1166675999,
+      "sha256": "BBF648F179FFB222684B8094336EF0829C9163F60CF9B7C658D425F38DE66D98",
+      "fileCount": 8494,
+      "previewUrls": []
+    },
+    {
+      "id": "teodor-max-van-helsing-slus-20738-20260728",
+      "name": "Van Helsing HD Texture Pack",
+      "gameTitle": "Van Helsing",
+      "serials": ["SLUS-20738"],
+      "version": "Complete public source snapshot",
+      "authors": ["TEODOR_MAX"],
+      "credits": "HD texture pack created by TEODOR_MAX; normalized and mirrored by EmuCoreX.",
+      "description": "A complete North American high-resolution replacement pack prepared for current PCSX2 builds.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/van-helsing-teodor-max-slus-20738.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/van-helsing-hd-texture-pack.640479/",
+      "license": "See source page terms",
+      "sizeBytes": 2329520984,
+      "sha256": "A4D61B2555690873FA7C5AE3DC7582004B269183D6593D310BA78DC91A44BD25",
+      "fileCount": 3339,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/van-helsing-teodor-max-slus-20738.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "E5C1BE0FF21778D131254020177CA3A5D8272FF5AD0E474BEF45A1796F2372BB"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/van-helsing-teodor-max-slus-20738.zip.part002",
+          "sizeBytes": 429520984,
+          "sha256": "F251DF4F5A59A1B567FA20D069EF9E5460507D38964D18A598DE88CBB306C9C9"
+        }
+      ]
+    },
+    {
+      "id": "retrogenerica-state-of-emergency-slus-20214-20260728",
+      "name": "State of Emergency HD Texture Pack",
+      "gameTitle": "State of Emergency",
+      "serials": ["SLUS-20214"],
+      "version": "100% complete public source snapshot",
+      "authors": ["RetroGenerica"],
+      "credits": "Complete HD texture pack created by RetroGenerica; normalized and mirrored by EmuCoreX.",
+      "description": "A complete North American high-resolution replacement pack covering the full game, published separately from the author's optional Xbox button pack.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/state-of-emergency-retrogenerica-slus-20214.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/state-of-emergency-ps2-hd-remaster-xbox-button-texture-pack-100-complete.661457/",
+      "license": "See source page terms",
+      "sizeBytes": 5496347806,
+      "sha256": "C7D315BECBD0FD546E27380D23253EE1AA891CA77DC55484D0E5236509258B45",
+      "fileCount": 8763,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/state-of-emergency-retrogenerica-slus-20214.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "240CC7D1F6A3E39D77EB51E15514C89808CC82EC7B90723DA35CDAD675616571"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/state-of-emergency-retrogenerica-slus-20214.zip.part002",
+          "sizeBytes": 1900000000,
+          "sha256": "39C742E3F7864AF507FEAEA0B79AB827903E7969CCEA934B1FAAF708F9BAAF0A"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/state-of-emergency-retrogenerica-slus-20214.zip.part003",
+          "sizeBytes": 1696347806,
+          "sha256": "189917BE91060194E5D85FE70175C6B8364290904A0AD1BCCAB7A9135457725F"
+        }
+      ]
+    },
+    {
+      "id": "panda-venom-phantasy-star-universe-ambition-slus-21631-20260728",
+      "name": "Phantasy Star Universe: Ambition of the Illuminus HD Texture Pack",
+      "gameTitle": "Phantasy Star Universe: Ambition of the Illuminus",
+      "serials": ["SLUS-21631"],
+      "version": "Public source snapshot",
+      "authors": ["Panda_Venom"],
+      "credits": "HD texture pack created by Panda_Venom with source acknowledgements to ReveriePass and Venomalia; normalized and mirrored by EmuCoreX.",
+      "description": "A North American high-resolution replacement pack with a source-supplied HD cube model and documented font omissions.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/phantasy-star-universe-ambition-panda-venom-slus-21631.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/phantasy-star-universe-ambition-of-the-illuminus-usa-hd-remaster.638176/",
+      "license": "See source page terms",
+      "sizeBytes": 3765706108,
+      "sha256": "E38DFF3CE1AB2EFA989CE8D0A7B36C5CAC83EF26427282DB3ACF9A404B5EE39F",
+      "fileCount": 8113,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/phantasy-star-universe-ambition-panda-venom-slus-21631.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "00C56BA19813E4814C899EF0693585236EDCA7DC72983DC8D9EF24531ED2616D"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/phantasy-star-universe-ambition-panda-venom-slus-21631.zip.part002",
+          "sizeBytes": 1865706108,
+          "sha256": "3BFE4CA387C4C6B3815E6D1B4791F5A67E7BC0F6D5EDF6CA4D2D259471115CD6"
+        }
+      ]
+    },
+    {
+      "id": "psxrestore-mercenaries-remastered-v2-slus-20932-20260728",
+      "name": "Mercenaries: Playground of Destruction Remastered HD Pack V2",
+      "gameTitle": "Mercenaries: Playground of Destruction",
+      "serials": ["SLUS-20932"],
+      "version": "Remastered HD Pack V2 public source snapshot",
+      "authors": ["PsxRestore"],
+      "credits": "Remastered HD texture pack, matching and mipmapping work created by PsxRestore; normalized and mirrored by EmuCoreX.",
+      "description": "The North American V2 remastered pack using restored developer textures and AI-upscaled replacements.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/mercenaries-remastered-v2-psxrestore-slus-20932.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/mercenaries-playground-of-destruction-hd-textures-v2-slus-20932.638463/",
+      "license": "See source page terms",
+      "sizeBytes": 2910431079,
+      "sha256": "908658877239F0D0F47D5EDDD9029E0EE6D12353ADACE8758738618B6B3C2AEC",
+      "fileCount": 9701,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/mercenaries-remastered-v2-psxrestore-slus-20932.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "842B82457DD17FBFD6566DB20C36ACC3D0A1F6FE258F59CEE8C8F4EB49EF8210"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/mercenaries-remastered-v2-psxrestore-slus-20932.zip.part002",
+          "sizeBytes": 1010431079,
+          "sha256": "27C487D3B7FB70AB1E5149DD8701CFFF0030445196A85636FEE846478AB22F6C"
+        }
+      ]
     }
   ]
 }

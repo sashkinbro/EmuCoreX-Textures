@@ -1634,6 +1634,130 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "batch-013",
+      "verifiedAt": "2026-07-28T08:21:30Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "panda-venom-di-gi-charat-fantasy-excellent-slpm-65395-20260728",
+          "sourceArtifact": "Di Gi Charat Fantasy Excellent SLPM-65395.7z",
+          "sourceSha256": "1934D720AD6CD63D96EB864C4958D16D0EB1B53F7BFBB6ECF647508625D2F6B0",
+          "assetName": "di-gi-charat-fantasy-excellent-panda-venom-slpm-65395.zip",
+          "normalizedSha256": "ADA4C6172AACB1FB84920365C9191DE5EF5E54CC8C5B46A467B35C10D4558874",
+          "manifestSha256": "7B48D8FAAFEF6DE221F20C0BEB74A9998E1BB40CF928D49DFC122E9B733DCE87",
+          "contentSetSha256": "E03FE40C5B737BC5A13EC98E9BAB3A956F6468A0A455D7E03B3B7316AB5AF85D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-legacy-of-kain-defiance-slus-20773-20260728",
+          "sourceArtifact": "SLUS-20773_LoK_Defiance_v1.7z",
+          "sourceSha256": "46E8F41190043E9AC722A57C7AEC8396352A5374AD16D4BE20DB0E6EACF43020",
+          "assetName": "legacy-of-kain-defiance-panda-venom-slus-20773.zip",
+          "normalizedSha256": "1D8330034D35B4B764BA6D2B608029E664369C1171F24BC39AD26C110CEA488D",
+          "manifestSha256": "5A5B623EB21CA9F6B604A0C8D6ECE8D6B08B9F77B6A33FD08B5F9D4155D4FBD5",
+          "contentSetSha256": "E5490DE827572CF366EA520041A5ADD52156339AAF5C962E0A71A329F6506941",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-shadow-hearts-from-the-new-world-slus-21326-20260728",
+          "sourceArtifact": "SLUS-21326 SH From the New World v1.7z",
+          "sourceSha256": "0C4309AF6C80D8535D56913B3B11BD29E60235D8A2A9B12AF1C35A8F67ADF8D7",
+          "assetName": "shadow-hearts-from-the-new-world-panda-venom-slus-21326.zip",
+          "normalizedSha256": "12DC17C23F57A58BCD1D8E640DE96C30A23E592B7A3B9321724A30B8F66AAD16",
+          "manifestSha256": "E808C847BCE2BF8F9EC4DE63B11F6E8084A4EA5070232DE5696A68E68338420B",
+          "contentSetSha256": "52470F7CBCF192A7D3492405AE4C7777E69BDA1E884E510994E9DEC5F7508474",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-yakuza-2-slus-21769-sles-55242-20260728",
+          "sourceArtifact": "SLUS-21769.7z",
+          "sourceSha256": "F1424070EBD2FB289EA7FAA65B2A5C205D4220E0936DDA0B595E268E3D7F1559",
+          "assetName": "yakuza-2-panda-venom-slus-21769-sles-55242.zip",
+          "normalizedSha256": "B43661E0095CEDEDC850A860A99524EA717A2C25ED340F9ECC1F14419BFD4EC1",
+          "manifestSha256": "6F0B6A589D896EBCAC69813ECDDA95792358408DC37B20478CE4E661D789CB13",
+          "contentSetSha256": "73E37C774D605A2D5FE42C725C70FC4AE72BA072E61CB833A609D513E5E01838",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "teodor-max-king-arthur-slus-21046-20260728",
+          "sourceArtifact": "King Arthur (USA).7z",
+          "sourceSha256": "6DF674ADA0FE0A544F83E77451673B34CFEE999E3D290E8D132A5149DF5291BB",
+          "assetName": "king-arthur-teodor-max-slus-21046.zip",
+          "normalizedSha256": "934287F4047B3DEC737033C18B8463C98EB3A6DCE9C2EF79EA9AA7D42A995F0C",
+          "manifestSha256": "326957110F35B64E4947DC100F9944A6CAE51E78203947E863B6AADD1342288A",
+          "contentSetSha256": "451D0E029900541A24F4E63539988F158C35B0A65CFE7BF2FC349B7BD3B5A04D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-yakuza-slus-21348-sles-54171-20260728",
+          "sourceArtifact": "SLUS-21348.7z",
+          "sourceSha256": "1FDEA51617845F04383B985BA2CB6FC597F1683ED1FE34335AC30C0E819D7EA3",
+          "assetName": "yakuza-panda-venom-slus-21348-sles-54171.zip",
+          "normalizedSha256": "BBF648F179FFB222684B8094336EF0829C9163F60CF9B7C658D425F38DE66D98",
+          "manifestSha256": "CC3BD7D00FCDCF8060E3E289B92B91C34E018C742727D883AD311C1078AC712D",
+          "contentSetSha256": "EB2ABAA5DEF0938AB28527B317ECB92E9BC9EC4721A90D6F7CFA2361695B577C",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "teodor-max-van-helsing-slus-20738-20260728",
+          "sourceArtifact": "Van Helsing (USA).7z",
+          "sourceSha256": "1672DD7A9C2D677BBF18AB63BA8CEF61FAD29AC81D3A149450D520C31B3F883D",
+          "assetName": "van-helsing-teodor-max-slus-20738.zip",
+          "assetParts": [
+            "van-helsing-teodor-max-slus-20738.zip.part001",
+            "van-helsing-teodor-max-slus-20738.zip.part002"
+          ],
+          "normalizedSha256": "A4D61B2555690873FA7C5AE3DC7582004B269183D6593D310BA78DC91A44BD25",
+          "manifestSha256": "03489E45D9EF5E81C21ACFECCBD549B04AAFA1A245DAE321B20861B43E9F1E47",
+          "contentSetSha256": "7044E96F0815251F7FC0F8B0B933214BFAFADE1BC00AE2FAC16D4E40A36365AB",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "retrogenerica-state-of-emergency-slus-20214-20260728",
+          "sourceArtifact": "State of Emergency (HD Texture Pack).7z",
+          "sourceSha256": "6AEDDA4BF179174F79D45319037ED2A36CF73E2FFA7154D9F7F95ED4FE3C12A3",
+          "assetName": "state-of-emergency-retrogenerica-slus-20214.zip",
+          "assetParts": [
+            "state-of-emergency-retrogenerica-slus-20214.zip.part001",
+            "state-of-emergency-retrogenerica-slus-20214.zip.part002",
+            "state-of-emergency-retrogenerica-slus-20214.zip.part003"
+          ],
+          "normalizedSha256": "C7D315BECBD0FD546E27380D23253EE1AA891CA77DC55484D0E5236509258B45",
+          "manifestSha256": "356FA6A70DF86D1A3DDE584FFD8A2E9F8C0F34BBEE8A1C5B9D9D72D0B0676075",
+          "contentSetSha256": "41998969CAD7217420FD988A545D4994F815AB17D7687A89BB2C9E37191D1E9A",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "panda-venom-phantasy-star-universe-ambition-slus-21631-20260728",
+          "sourceArtifact": "SLUS-21631.7z",
+          "sourceSha256": "5FAFF03509CDE677D4C006466E9F23D26FFF1A211D8467675DF6EFE929FBE9DF",
+          "assetName": "phantasy-star-universe-ambition-panda-venom-slus-21631.zip",
+          "assetParts": [
+            "phantasy-star-universe-ambition-panda-venom-slus-21631.zip.part001",
+            "phantasy-star-universe-ambition-panda-venom-slus-21631.zip.part002"
+          ],
+          "normalizedSha256": "E38DFF3CE1AB2EFA989CE8D0A7B36C5CAC83EF26427282DB3ACF9A404B5EE39F",
+          "manifestSha256": "D948370B6A85F5999D413E392942BCC4A300736F7F9C59A07A9F521AC315895F",
+          "contentSetSha256": "FC20A4028FCEBD92391087C87B2F0E87D838C2B677DF159BB23A900AF23ADF20",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "psxrestore-mercenaries-remastered-v2-slus-20932-20260728",
+          "sourceArtifact": "PsxRestores_Mercenaries_Remastered_HD_Pack_V2.rar",
+          "sourceSha256": "C63D3B06852623C728D13D5D4165556D380B75352A1AD5032DCCD68337542C1C",
+          "assetName": "mercenaries-remastered-v2-psxrestore-slus-20932.zip",
+          "assetParts": [
+            "mercenaries-remastered-v2-psxrestore-slus-20932.zip.part001",
+            "mercenaries-remastered-v2-psxrestore-slus-20932.zip.part002"
+          ],
+          "normalizedSha256": "908658877239F0D0F47D5EDDD9029E0EE6D12353ADACE8758738618B6B3C2AEC",
+          "manifestSha256": "692166BF0306A947C972708E6B97635E57E8B1D3DD8EFECCE1833AF69F5A3EED",
+          "contentSetSha256": "0CC8C404CFD66426782F4B71A25C9423B52A3250E7FFA0C986069E522EC49FBB",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }

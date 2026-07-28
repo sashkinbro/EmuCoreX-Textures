@@ -29,7 +29,7 @@ SERIAL_CHILD_ROOTS = {"replacements", "textures"}
 SERIAL_RE = re.compile(r"^[A-Z]{4}[-_ ]?\d{5}$", re.IGNORECASE)
 MAX_ARCHIVE_ENTRIES = 50_000
 MAX_TEXTURE_FILE_BYTES = 512 * 1024 * 1024
-MAX_UNCOMPRESSED_BYTES = 8 * 1024 * 1024 * 1024
+MAX_UNCOMPRESSED_BYTES = 12 * 1024 * 1024 * 1024
 MAX_CATALOG_ARCHIVE_BYTES = 16 * 1024 * 1024 * 1024
 SUPPORTED_COMPRESSION = {zipfile.ZIP_STORED, zipfile.ZIP_DEFLATED}
 COPY_BUFFER_BYTES = 1024 * 1024
@@ -225,7 +225,7 @@ def normalized_sources(
         seen[output_key] = source.name
         total_bytes += source.size
         if total_bytes > MAX_UNCOMPRESSED_BYTES:
-            raise PackError("pack exceeds 8 GiB uncompressed")
+            raise PackError("pack exceeds 12 GiB uncompressed")
         normalized.append((source, output_name, extension))
         if len(normalized) > MAX_ARCHIVE_ENTRIES:
             raise PackError("pack exceeds 50,000 texture files")
@@ -327,7 +327,7 @@ def inspect(path: Path) -> tuple[PackSummary, dict[str, tuple[int, str]]]:
             if file_count > MAX_ARCHIVE_ENTRIES:
                 raise PackError("pack exceeds 50,000 texture files")
             if total_bytes > MAX_UNCOMPRESSED_BYTES:
-                raise PackError("pack exceeds 8 GiB uncompressed")
+                raise PackError("pack exceeds 12 GiB uncompressed")
             with archive.open(info, "r") as stream:
                 validate_texture_header(stream, extension, info.filename)
             texture_digest = hashlib.sha256()

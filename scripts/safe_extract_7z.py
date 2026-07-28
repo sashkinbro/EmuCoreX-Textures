@@ -14,7 +14,7 @@ from dataclasses import dataclass
 from pathlib import Path, PurePosixPath
 
 MAX_ENTRIES = 50_000
-MAX_UNCOMPRESSED_BYTES = 8 * 1024 * 1024 * 1024
+MAX_UNCOMPRESSED_BYTES = 12 * 1024 * 1024 * 1024
 DRIVE_PREFIX = re.compile(r"^[A-Za-z]:")
 
 
@@ -97,7 +97,7 @@ def parse_slt_listing(output: str) -> tuple[int, int]:
         if file_count > MAX_ENTRIES:
             raise ArchiveError(f"archive exceeds {MAX_ENTRIES:,} files")
         if total_bytes > MAX_UNCOMPRESSED_BYTES:
-            raise ArchiveError("archive exceeds 8 GiB uncompressed")
+            raise ArchiveError("archive exceeds 12 GiB uncompressed")
     if file_count == 0:
         raise ArchiveError("archive contains no files")
     return file_count, total_bytes
