@@ -1375,6 +1375,265 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "batch-012",
+      "verifiedAt": "2026-07-28T07:14:24Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "callofcthuloo-wwe-all-stars-desktop-slus-21940-20260728",
+          "sourceArtifact": "WWE All Stars [SLUS-21940].zip",
+          "sourceSha256": "4D9E062846934AC2B0091D5FDCB656083EDE695F34F6DA996C084C8077432CCC",
+          "assetName": "wwe-all-stars-callofcthuloo-desktop-slus-21940.zip",
+          "normalizedSha256": "E9D4EBA934103C10CF213A6314C2A1A72AAC10D6ECBB872275C2FB1E4EA7F63C",
+          "manifestSha256": "800135CD36B1D0CB7A8072225B496114760082B475D6EA83F345C3AAAC3D6107",
+          "contentSetSha256": "88812360C32F8A187DD066608075778AF04FB4A24D79B4FA3B669F1619B34B19",
+          "comparedAgainst": [
+            "callofcthuloo-wwe-all-stars-android-slus-21940-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author-published desktop high-resolution variant versus existing Android variant",
+              "sourceUrl": "https://gbatemp.net/threads/wwe-all-stars-slus-21940-hd-texture-pack-upscale.682221/",
+              "manifestSha256": "800135CD36B1D0CB7A8072225B496114760082B475D6EA83F345C3AAAC3D6107",
+              "contentSetSha256": "88812360C32F8A187DD066608075778AF04FB4A24D79B4FA3B669F1619B34B19",
+              "relationToPublished": "different",
+              "comparedCatalogId": "callofcthuloo-wwe-all-stars-android-slus-21940-20260726",
+              "existingFileCount": 1828,
+              "candidateFileCount": 1828,
+              "sharedFileContents": 26,
+              "contentJaccard": 0.007162534435261708,
+              "exactManifestMatch": false,
+              "exactContentSetMatch": false
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-twisted-metal-head-on-scus-97621-20260728",
+          "sourceArtifact": "Twisted Metal - Head-On Extra Twisted Edition [SCUS-97621].zip",
+          "sourceSha256": "DF5E70D1420D5ABC5864D392572C91C832723A1A6318917585C7B831EE72139A",
+          "assetName": "twisted-metal-head-on-callofcthuloo-scus-97621.zip",
+          "assetParts": [
+            "twisted-metal-head-on-callofcthuloo-scus-97621.zip.part001",
+            "twisted-metal-head-on-callofcthuloo-scus-97621.zip.part002"
+          ],
+          "normalizedSha256": "263547BCB7512980E54412AD145C9727A2EBEA236F31532586DB1D17D4CE40BE",
+          "manifestSha256": "5AF29543CBFD1D6D51FA10B9C041B48BA528CDFA6EA267D22216BCABD82C0EFD",
+          "contentSetSha256": "88CE3860B9532B14C800ED21F47958C68B03F0729973A64E42721334B592F764",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-avp-extinction-desktop-slus-20147-20260728",
+          "sourceArtifact": "Aliens Versus Predator - Extinction [SLUS-20147].zip",
+          "sourceSha256": "A4E5277E35A207BB320F55D88595F8234E60639D519BA55B2CFC4252AA59D113",
+          "assetName": "aliens-vs-predator-extinction-callofcthuloo-desktop-slus-20147.zip",
+          "normalizedSha256": "C8E6E4A901D6EA4A83968E6612A275847499BA5587321DC1CCEDF1064F7FD81D",
+          "manifestSha256": "21AA6DD90C9F474F3AA21503A0418E1014F6DCF36F61048E4DDA5CACBBC11352",
+          "contentSetSha256": "0C3B232656BED8EE0F54630A5FB4CCAB5EAC8273C1EB1EC18F452D3B0AC4162F",
+          "comparedAgainst": [
+            "callofcthuloo-avp-extinction-android-slus-20147-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author-published desktop high-resolution variant versus existing Android variant",
+              "sourceUrl": "https://gbatemp.net/threads/aliens-vs-predator-extinction-slus-20147-hd-texture-pack-upscale.678805/",
+              "manifestSha256": "21AA6DD90C9F474F3AA21503A0418E1014F6DCF36F61048E4DDA5CACBBC11352",
+              "contentSetSha256": "0C3B232656BED8EE0F54630A5FB4CCAB5EAC8273C1EB1EC18F452D3B0AC4162F",
+              "relationToPublished": "different",
+              "comparedCatalogId": "callofcthuloo-avp-extinction-android-slus-20147-20260726",
+              "existingFileCount": 523,
+              "candidateFileCount": 522,
+              "sharedFileContents": 15,
+              "contentJaccard": 0.014563106796116505,
+              "exactManifestMatch": false,
+              "exactContentSetMatch": false
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-gungriffon-blaze-desktop-slus-20080-20260728",
+          "sourceArtifact": "GunGriffon Blaze [SLUS-20080].zip",
+          "sourceSha256": "EC0E3CEA46DB9971C3C8ACA2AB6081845717236BC7CEACAFF1A1F225EFAE8795",
+          "assetName": "gungriffon-blaze-callofcthuloo-desktop-slus-20080.zip",
+          "normalizedSha256": "E5CB20326A7C34B23AB1FC5A76A3DF2613FD12ECBDC4B96E9A0B8C58CB40BE7D",
+          "manifestSha256": "49EF5EBD44429B6126408034FEAE270C30F0F4657810DC02CBD0E8A769B92A53",
+          "contentSetSha256": "262018A7B89E9FC02585E681AC1BF66F31C052C83FF80143C9DDE67AE3552ED4",
+          "comparedAgainst": [
+            "callofcthuloo-gungriffon-blaze-android-slus-20080-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author-published desktop high-resolution variant versus existing Android variant",
+              "sourceUrl": "https://gbatemp.net/threads/gungriffon-blaze-slus-20080-hd-texture-pack-upscale.668367/",
+              "manifestSha256": "49EF5EBD44429B6126408034FEAE270C30F0F4657810DC02CBD0E8A769B92A53",
+              "contentSetSha256": "262018A7B89E9FC02585E681AC1BF66F31C052C83FF80143C9DDE67AE3552ED4",
+              "relationToPublished": "different",
+              "comparedCatalogId": "callofcthuloo-gungriffon-blaze-android-slus-20080-20260726",
+              "existingFileCount": 951,
+              "candidateFileCount": 4950,
+              "sharedFileContents": 872,
+              "contentJaccard": 0.1733943129846888,
+              "exactManifestMatch": false,
+              "exactContentSetMatch": false
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-lost-war-chronicles-desktop-slps-25123-20260728",
+          "sourceArtifact": "Mobile Suit Gundam - Lost War Chronicles 機動戦士ガンダム戦記 [SLPS-25123].zip",
+          "sourceSha256": "5944972BC5A1AC9FCC0ACEA6D64DA30F5FABB01F3E1FF44616E3923AACE956D7",
+          "assetName": "gundam-lost-war-chronicles-callofcthuloo-desktop-slps-25123.zip",
+          "normalizedSha256": "AF2E6BF8AFC74E94B04B1C1740F59E9B9359C631BD319AAAF54ECD0851E48665",
+          "manifestSha256": "A678322B421B113D72D917B0D17A354957A5D87FD4067791D0DFF80E17F0F30D",
+          "contentSetSha256": "218CFBED31F21F99B7687D4F86C3472434029E9946C07E73A5786DE8CB0DBE3B",
+          "comparedAgainst": [
+            "callofcthuloo-gundam-lost-war-chronicles-android-slps-25123-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author-published desktop high-resolution variant versus existing Android variant",
+              "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-ji-dong-zhan-shigandamu-zhan-ji-lost-war-chronicles-slps-25123-hd-texture-pack-upscale.667871/",
+              "manifestSha256": "A678322B421B113D72D917B0D17A354957A5D87FD4067791D0DFF80E17F0F30D",
+              "contentSetSha256": "218CFBED31F21F99B7687D4F86C3472434029E9946C07E73A5786DE8CB0DBE3B",
+              "relationToPublished": "different",
+              "comparedCatalogId": "callofcthuloo-gundam-lost-war-chronicles-android-slps-25123-20260726",
+              "existingFileCount": 8438,
+              "candidateFileCount": 9301,
+              "sharedFileContents": 8257,
+              "contentJaccard": 0.8708078464458975,
+              "exactManifestMatch": false,
+              "exactContentSetMatch": false
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-guitar-hero-desktop-slus-21224-20260728",
+          "sourceArtifact": "Guitar Hero [SLUS-21224].zip",
+          "sourceSha256": "27F55D974AA469D6D1E2F232B81EF1A5F3651FF2C95DCE733C54A754F6CDBE9D",
+          "assetName": "guitar-hero-callofcthuloo-desktop-slus-21224.zip",
+          "normalizedSha256": "704CADCBE113EE4D1FA9F73DC3E86D9FD47E8469DA62766124454CA3BED8791B",
+          "manifestSha256": "12899836C292B1BAB1E4A6C79CCAF672AA494CE3BB06F9DE0DA0220D4A9B113E",
+          "contentSetSha256": "0955A6B52782D3D2B44C4ED3641885307C8000AB5AD6A2B8817ABB6D3851ECBE",
+          "comparedAgainst": [
+            "callofcthuloo-guitar-hero-android-slus-21224-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author-published desktop high-resolution variant versus existing Android variant",
+              "sourceUrl": "https://gbatemp.net/threads/guitar-hero-slus-21224-guitar-hero-ii-slus-21447-hd-texture-packs-upscales.667554/",
+              "manifestSha256": "12899836C292B1BAB1E4A6C79CCAF672AA494CE3BB06F9DE0DA0220D4A9B113E",
+              "contentSetSha256": "0955A6B52782D3D2B44C4ED3641885307C8000AB5AD6A2B8817ABB6D3851ECBE",
+              "relationToPublished": "different",
+              "comparedCatalogId": "callofcthuloo-guitar-hero-android-slus-21224-20260726",
+              "existingFileCount": 663,
+              "candidateFileCount": 1005,
+              "sharedFileContents": 660,
+              "contentJaccard": 0.6547619047619048,
+              "exactManifestMatch": false,
+              "exactContentSetMatch": false
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-guitar-hero-2-desktop-slus-21447-20260728",
+          "sourceArtifact": "Guitar Hero II [SLUS-21447].zip",
+          "sourceSha256": "74CD3EB647A50E26564FB0D7F964522F0158F5A50F99EB1958529ECCC454FA8A",
+          "assetName": "guitar-hero-2-callofcthuloo-desktop-slus-21447.zip",
+          "normalizedSha256": "60856D5093B7E51B60BC652756EB0CB4169ED5B56B5C6EF3CA5A173342C4BD4C",
+          "manifestSha256": "D7F6D278A10ECBBFBB2C0F1FC53B037C00173163C9917ED6ED9F296784D138BA",
+          "contentSetSha256": "C9FC738D56664CA1668CBB69D2A080B2DC26F5911F0C4177348B180DCCA5853F",
+          "comparedAgainst": [
+            "callofcthuloo-guitar-hero-ii-android-slus-21447-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author-published desktop high-resolution variant versus existing Android variant",
+              "sourceUrl": "https://gbatemp.net/threads/guitar-hero-slus-21224-guitar-hero-ii-slus-21447-hd-texture-packs-upscales.667554/",
+              "manifestSha256": "D7F6D278A10ECBBFBB2C0F1FC53B037C00173163C9917ED6ED9F296784D138BA",
+              "contentSetSha256": "C9FC738D56664CA1668CBB69D2A080B2DC26F5911F0C4177348B180DCCA5853F",
+              "relationToPublished": "different",
+              "comparedCatalogId": "callofcthuloo-guitar-hero-ii-android-slus-21447-20260726",
+              "existingFileCount": 1032,
+              "candidateFileCount": 1738,
+              "sharedFileContents": 1025,
+              "contentJaccard": 0.5873925501432665,
+              "exactManifestMatch": false,
+              "exactContentSetMatch": false
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-encounters-in-space-desktop-slus-20740-20260728",
+          "sourceArtifact": "Mobile Suit Gundam - Encounters in Space [SLUS-20740].zip",
+          "sourceSha256": "75615FCD46D7E9F8336A93FF4387C5D705EFFE5888FF4E2CBEFF2256C34E54C8",
+          "assetName": "gundam-encounters-in-space-callofcthuloo-desktop-slus-20740.zip",
+          "assetParts": [
+            "gundam-encounters-in-space-callofcthuloo-desktop-slus-20740.zip.part001",
+            "gundam-encounters-in-space-callofcthuloo-desktop-slus-20740.zip.part002"
+          ],
+          "normalizedSha256": "EE44365E51531E75C401EDDFA905855F5EEB487AE06BDACBD52CAF253EF541FD",
+          "manifestSha256": "F34852F8502CE461C9881DBF60FF2576E6E2C0DCDB231F9942BF1171B55B4178",
+          "contentSetSha256": "C8D927CC041F4DFC6B8662D7176B8B492BAE380B84DDE93992CBC4D0837E7142",
+          "comparedAgainst": [
+            "callofcthuloo-gundam-encounters-in-space-android-slus-20740-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author-published desktop high-resolution variant versus existing Android variant",
+              "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-encounters-in-space-slus-20740-hd-texture-pack-upscale.667323/",
+              "manifestSha256": "F34852F8502CE461C9881DBF60FF2576E6E2C0DCDB231F9942BF1171B55B4178",
+              "contentSetSha256": "C8D927CC041F4DFC6B8662D7176B8B492BAE380B84DDE93992CBC4D0837E7142",
+              "relationToPublished": "different",
+              "comparedCatalogId": "callofcthuloo-gundam-encounters-in-space-android-slus-20740-20260726",
+              "existingFileCount": 3117,
+              "candidateFileCount": 8797,
+              "sharedFileContents": 2951,
+              "contentJaccard": 0.3292424411469374,
+              "exactManifestMatch": false,
+              "exactContentSetMatch": false
+            }
+          ]
+        },
+        {
+          "catalogId": "callofcthuloo-gundam-federation-vs-zeon-desktop-slus-20382-20260728",
+          "sourceArtifact": "Mobile Suit Gundam - Federation vs. Zeon [SLUS-20382].zip",
+          "sourceSha256": "04DA45469544705D1D91F3B9C1E04A4DB00CC26F99BD0CB4737F88F6F274428E",
+          "assetName": "gundam-federation-vs-zeon-callofcthuloo-desktop-slus-20382.zip",
+          "normalizedSha256": "C1F6951511336F032CE7C4FE005D2C54FBFA9A21CF2BE767E6466594470CE062",
+          "manifestSha256": "ABECAF7EDCCF5FB0E052A39E17BE32087DE96151319D402330EB872E91CAC3CB",
+          "contentSetSha256": "743236D46783719815BE4876CE152EE738C378039755D1D182AD535A1A471942",
+          "comparedAgainst": [
+            "callofcthuloo-gundam-federation-vs-zeon-android-slus-20382-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author-published desktop high-resolution variant versus existing Android variant",
+              "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-federation-vs-zeon-slus-20382-hd-texture-pack-upscale.667248/",
+              "manifestSha256": "ABECAF7EDCCF5FB0E052A39E17BE32087DE96151319D402330EB872E91CAC3CB",
+              "contentSetSha256": "743236D46783719815BE4876CE152EE738C378039755D1D182AD535A1A471942",
+              "relationToPublished": "different",
+              "comparedCatalogId": "callofcthuloo-gundam-federation-vs-zeon-android-slus-20382-20260726",
+              "existingFileCount": 2562,
+              "candidateFileCount": 3686,
+              "sharedFileContents": 2163,
+              "contentJaccard": 0.5294981640146879,
+              "exactManifestMatch": false,
+              "exactContentSetMatch": false
+            }
+          ]
+        },
+        {
+          "catalogId": "teodor-max-haunting-ground-slus-21075-20260728",
+          "sourceArtifact": "Haunting Ground (USA).7z",
+          "sourceSha256": "FA3E9316D037EA9E032FCD6DB7F1DB2CFD084892F4FA1321FA98FA0C8DDD81ED",
+          "assetName": "haunting-ground-teodor-max-slus-21075.zip",
+          "normalizedSha256": "035A69F69EA34913D4AB1CBCE8085B9AF02B34654E87C34D9738F0375E6E1694",
+          "manifestSha256": "103DFCCB679BC15471C305BF03B0E12653669FAF0C69BAF158FC3F6268746691",
+          "contentSetSha256": "342F32348B928DB7E077413C25135CDC6A50E2440DE9ECC062B349C197C6039F",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }

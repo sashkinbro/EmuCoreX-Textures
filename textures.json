@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-27T09:17:23Z",
+  "generatedAt": "2026-07-28T07:14:24Z",
   "entries": [
     {
       "id": "xxtherockoxx-prince-of-persia-two-thrones-slus-21287-20260722",
@@ -3242,6 +3242,200 @@
           "sha256": "B8AEB3DC7627254F4BF2DE8D4ED8CE3A3244872CF619F5F8F51D650CB1F841D6"
         }
       ]
+    },
+    {
+      "id": "callofcthuloo-wwe-all-stars-desktop-slus-21940-20260728",
+      "name": "WWE All Stars Desktop HD Texture Pack",
+      "gameTitle": "WWE All Stars",
+      "serials": ["SLUS-21940"],
+      "version": "Desktop high-resolution public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "Desktop high-resolution AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's desktop-oriented North American replacement variant, separately verified against the existing Android edition.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/wwe-all-stars-callofcthuloo-desktop-slus-21940.zip",
+      "sourceUrl": "https://gbatemp.net/threads/wwe-all-stars-slus-21940-hd-texture-pack-upscale.682221/",
+      "license": "See source page terms",
+      "sizeBytes": 780705804,
+      "sha256": "E9D4EBA934103C10CF213A6314C2A1A72AAC10D6ECBB872275C2FB1E4EA7F63C",
+      "fileCount": 1828,
+      "previewUrls": []
+    },
+    {
+      "id": "callofcthuloo-twisted-metal-head-on-scus-97621-20260728",
+      "name": "Twisted Metal: Head-On — Extra Twisted Edition HD Texture Pack",
+      "gameTitle": "Twisted Metal: Head-On — Extra Twisted Edition",
+      "serials": ["SCUS-97621"],
+      "version": "Desktop high-resolution public source snapshot",
+      "authors": ["callofcthuloo"],
+      "credits": "High-resolution AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "A North American desktop-oriented replacement pack prepared for PCSX2 texture loading.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/twisted-metal-head-on-callofcthuloo-scus-97621.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/twisted-metal-head-on-extra-twisted-edition-scus-97621-hd-texture-pack-upscale.679783/",
+      "license": "See source page terms",
+      "sizeBytes": 3241997428,
+      "sha256": "263547BCB7512980E54412AD145C9727A2EBEA236F31532586DB1D17D4CE40BE",
+      "fileCount": 4392,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/twisted-metal-head-on-callofcthuloo-scus-97621.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "09EB1972BC8317F0C4305020EE1C732F3942B59C20FA28F9E14A22FE100B9E37"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/twisted-metal-head-on-callofcthuloo-scus-97621.zip.part002",
+          "sizeBytes": 1341997428,
+          "sha256": "AA798EE393E0B15C3AF42526F7B18C7A6D6A43E72A9247E5102E152ED0CD36C1"
+        }
+      ]
+    },
+    {
+      "id": "callofcthuloo-avp-extinction-desktop-slus-20147-20260728",
+      "name": "Aliens vs. Predator: Extinction Desktop HD Texture Pack",
+      "gameTitle": "Aliens vs. Predator: Extinction",
+      "serials": ["SLUS-20147"],
+      "version": "Desktop high-resolution public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "Desktop high-resolution AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's desktop-oriented North American replacement variant, separately verified against the existing Android edition.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/aliens-vs-predator-extinction-callofcthuloo-desktop-slus-20147.zip",
+      "sourceUrl": "https://gbatemp.net/threads/aliens-vs-predator-extinction-slus-20147-hd-texture-pack-upscale.678805/",
+      "license": "See source page terms",
+      "sizeBytes": 711871455,
+      "sha256": "C8E6E4A901D6EA4A83968E6612A275847499BA5587321DC1CCEDF1064F7FD81D",
+      "fileCount": 522,
+      "previewUrls": []
+    },
+    {
+      "id": "callofcthuloo-gungriffon-blaze-desktop-slus-20080-20260728",
+      "name": "GunGriffon Blaze Desktop HD Texture Pack",
+      "gameTitle": "GunGriffon Blaze",
+      "serials": ["SLUS-20080"],
+      "version": "Desktop high-resolution public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "Desktop high-resolution AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's desktop-oriented North American replacement variant, separately verified against the existing Android edition.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gungriffon-blaze-callofcthuloo-desktop-slus-20080.zip",
+      "sourceUrl": "https://gbatemp.net/threads/gungriffon-blaze-slus-20080-hd-texture-pack-upscale.668367/",
+      "license": "See source page terms",
+      "sizeBytes": 1942709913,
+      "sha256": "E5CB20326A7C34B23AB1FC5A76A3DF2613FD12ECBDC4B96E9A0B8C58CB40BE7D",
+      "fileCount": 4950,
+      "previewUrls": []
+    },
+    {
+      "id": "callofcthuloo-gundam-lost-war-chronicles-desktop-slps-25123-20260728",
+      "name": "Mobile Suit Gundam: Lost War Chronicles Desktop HD Texture Pack",
+      "gameTitle": "Mobile Suit Gundam: Lost War Chronicles",
+      "serials": ["SLPS-25123"],
+      "version": "Desktop high-resolution public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "Desktop high-resolution AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's desktop-oriented Japanese replacement variant, separately verified against the existing Android edition.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-lost-war-chronicles-callofcthuloo-desktop-slps-25123.zip",
+      "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-ji-dong-zhan-shigandamu-zhan-ji-lost-war-chronicles-slps-25123-hd-texture-pack-upscale.667871/",
+      "license": "See source page terms",
+      "sizeBytes": 948532770,
+      "sha256": "AF2E6BF8AFC74E94B04B1C1740F59E9B9359C631BD319AAAF54ECD0851E48665",
+      "fileCount": 9301,
+      "previewUrls": []
+    },
+    {
+      "id": "callofcthuloo-guitar-hero-desktop-slus-21224-20260728",
+      "name": "Guitar Hero Desktop HD Texture Pack",
+      "gameTitle": "Guitar Hero",
+      "serials": ["SLUS-21224"],
+      "version": "Desktop high-resolution public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "Desktop high-resolution AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's desktop-oriented North American replacement variant, separately verified against the existing Android edition.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/guitar-hero-callofcthuloo-desktop-slus-21224.zip",
+      "sourceUrl": "https://gbatemp.net/threads/guitar-hero-slus-21224-guitar-hero-ii-slus-21447-hd-texture-packs-upscales.667554/",
+      "license": "See source page terms",
+      "sizeBytes": 424300345,
+      "sha256": "704CADCBE113EE4D1FA9F73DC3E86D9FD47E8469DA62766124454CA3BED8791B",
+      "fileCount": 1005,
+      "previewUrls": []
+    },
+    {
+      "id": "callofcthuloo-guitar-hero-2-desktop-slus-21447-20260728",
+      "name": "Guitar Hero II Desktop HD Texture Pack",
+      "gameTitle": "Guitar Hero II",
+      "serials": ["SLUS-21447"],
+      "version": "Desktop high-resolution public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "Desktop high-resolution AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's desktop-oriented North American replacement variant, separately verified against the existing Android edition.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/guitar-hero-2-callofcthuloo-desktop-slus-21447.zip",
+      "sourceUrl": "https://gbatemp.net/threads/guitar-hero-slus-21224-guitar-hero-ii-slus-21447-hd-texture-packs-upscales.667554/",
+      "license": "See source page terms",
+      "sizeBytes": 946940598,
+      "sha256": "60856D5093B7E51B60BC652756EB0CB4169ED5B56B5C6EF3CA5A173342C4BD4C",
+      "fileCount": 1738,
+      "previewUrls": []
+    },
+    {
+      "id": "callofcthuloo-gundam-encounters-in-space-desktop-slus-20740-20260728",
+      "name": "Mobile Suit Gundam: Encounters in Space Desktop HD Texture Pack",
+      "gameTitle": "Mobile Suit Gundam: Encounters in Space",
+      "serials": ["SLUS-20740"],
+      "version": "Desktop high-resolution public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "Desktop high-resolution AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's desktop-oriented North American replacement variant, separately verified against the existing Android edition.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-encounters-in-space-callofcthuloo-desktop-slus-20740.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-encounters-in-space-slus-20740-hd-texture-pack-upscale.667323/",
+      "license": "See source page terms",
+      "sizeBytes": 3101998922,
+      "sha256": "EE44365E51531E75C401EDDFA905855F5EEB487AE06BDACBD52CAF253EF541FD",
+      "fileCount": 8797,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-encounters-in-space-callofcthuloo-desktop-slus-20740.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "B6D1BA22C40268A14315316B2CB687518B8721B55C1CE45DB77830563920A2F8"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-encounters-in-space-callofcthuloo-desktop-slus-20740.zip.part002",
+          "sizeBytes": 1201998922,
+          "sha256": "3F2C9D0AFDF533F7ABC544325B427B7A8348603031328438F9179FD53ED5A650"
+        }
+      ]
+    },
+    {
+      "id": "callofcthuloo-gundam-federation-vs-zeon-desktop-slus-20382-20260728",
+      "name": "Mobile Suit Gundam: Federation vs. Zeon Desktop HD Texture Pack",
+      "gameTitle": "Mobile Suit Gundam: Federation vs. Zeon",
+      "serials": ["SLUS-20382"],
+      "version": "Desktop high-resolution public source variant",
+      "authors": ["callofcthuloo"],
+      "credits": "Desktop high-resolution AI-upscaled texture pack created by callofcthuloo; normalized and mirrored by EmuCoreX.",
+      "description": "The author's desktop-oriented North American replacement variant, separately verified against the existing Android edition.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/gundam-federation-vs-zeon-callofcthuloo-desktop-slus-20382.zip",
+      "sourceUrl": "https://gbatemp.net/threads/mobile-suit-gundam-federation-vs-zeon-slus-20382-hd-texture-pack-upscale.667248/",
+      "license": "See source page terms",
+      "sizeBytes": 1837649246,
+      "sha256": "C1F6951511336F032CE7C4FE005D2C54FBFA9A21CF2BE767E6466594470CE062",
+      "fileCount": 3686,
+      "previewUrls": []
+    },
+    {
+      "id": "teodor-max-haunting-ground-slus-21075-20260728",
+      "name": "Haunting Ground HD Texture Pack",
+      "gameTitle": "Haunting Ground",
+      "serials": ["SLUS-21075"],
+      "version": "Complete public source snapshot",
+      "authors": ["TEODOR_MAX"],
+      "credits": "HD texture pack created by TEODOR_MAX; normalized and mirrored by EmuCoreX.",
+      "description": "A complete North American high-resolution replacement pack prepared for current PCSX2 builds.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/haunting-ground-teodor-max-slus-21075.zip",
+      "sourceUrl": "https://gbatemp.net/threads/haunting-ground-hd-texture-pack.667771/",
+      "license": "See source page terms",
+      "sizeBytes": 1615688296,
+      "sha256": "035A69F69EA34913D4AB1CBCE8085B9AF02B34654E87C34D9738F0375E6E1694",
+      "fileCount": 2574,
+      "previewUrls": []
     }
   ]
 }
