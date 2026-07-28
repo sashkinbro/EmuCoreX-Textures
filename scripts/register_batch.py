@@ -12,7 +12,7 @@ import tempfile
 from pathlib import Path
 from typing import Any
 
-from prepare_pack import PackError, validate
+from prepare_pack import PackError, PackSummary, validate
 
 MAX_GITHUB_ASSET_BYTES = 2 * 1024 * 1024 * 1024
 
@@ -32,6 +32,78 @@ def sha256_file(path: Path) -> str:
         for chunk in iter(lambda: stream.read(1024 * 1024), b""):
             digest.update(chunk)
     return digest.hexdigest().upper()
+
+
+def resolve_source_sha256(
+    source_path: Path,
+    expected_source_bytes: object,
+    declared_source_sha256: object,
+) -> str:
+    if (
+        not isinstance(expected_source_bytes, int)
+        or isinstance(expected_source_bytes, bool)
+        or expected_source_bytes <= 0
+    ):
+        raise RegistrationError("expectedSourceBytes must be a positive integer")
+    declared = (
+        declared_source_sha256.strip().upper()
+        if isinstance(declared_source_sha256, str)
+        else ""
+    )
+    if declared and (
+        len(declared) != 64
+        or any(character not in "0123456789ABCDEF" for character in declared)
+    ):
+        raise RegistrationError("sourceSha256 must be a 64-character hexadecimal digest")
+    if source_path.is_file():
+        if source_path.stat().st_size != expected_source_bytes:
+            raise RegistrationError(f"source size mismatch: {source_path.name}")
+        actual = sha256_file(source_path)
+        if declared and actual != declared:
+            raise RegistrationError(f"source SHA-256 mismatch: {source_path.name}")
+        return actual
+    if not declared:
+        raise RegistrationError(
+            f"source artifact is missing and sourceSha256 is absent: {source_path}"
+        )
+    return declared
+
+
+def cached_summary(worker_log: Path, archive: Path) -> PackSummary | None:
+    if not worker_log.is_file() or worker_log.stat().st_mtime < archive.stat().st_mtime:
+        return None
+    text = worker_log.read_text(encoding="utf-8-sig", errors="replace")
+    decoder = json.JSONDecoder()
+    summaries: list[dict[str, Any]] = []
+    offset = 0
+    while True:
+        start = text.find("{", offset)
+        if start < 0:
+            break
+        try:
+            value, end = decoder.raw_decode(text, start)
+        except json.JSONDecodeError:
+            offset = start + 1
+            continue
+        offset = end
+        if isinstance(value, dict) and {
+            "path",
+            "sizeBytes",
+            "sha256",
+            "fileCount",
+            "uncompressedBytes",
+            "extensions",
+            "manifestSha256",
+            "contentSetSha256",
+        } <= value.keys():
+            summaries.append(value)
+    for value in reversed(summaries):
+        if (
+            Path(str(value["path"])).name == archive.name
+            and int(value["sizeBytes"]) == archive.stat().st_size
+        ):
+            return PackSummary(**value)
+    return None
 
 
 def pretty_json(
@@ -223,16 +295,21 @@ def register(args: argparse.Namespace) -> tuple[dict[str, Any], dict[str, Any]]:
                 )
         source_path = args.source_dir / source_file
         archive_path = args.ready_dir / asset_name
-        if not source_path.is_file():
-            raise RegistrationError(f"source artifact is missing: {source_path}")
         if not archive_path.is_file():
             raise RegistrationError(f"normalized asset is missing: {archive_path}")
         expected_source_bytes = item.get("expectedSourceBytes")
-        if source_path.stat().st_size != expected_source_bytes:
-            raise RegistrationError(f"source size mismatch: {source_file}")
-
-        source_sha256 = sha256_file(source_path)
-        summary = validate(archive_path)
+        source_sha256 = resolve_source_sha256(
+            source_path,
+            expected_source_bytes,
+            item.get("sourceSha256"),
+        )
+        summary = None
+        if args.validation_log_dir is not None:
+            summary = cached_summary(
+                args.validation_log_dir / f"{require_text(item.get('slug'), f'{label}.slug')}.out.log",
+                archive_path,
+            )
+        summary = summary or validate(archive_path)
         physical_asset_names = asset_parts or [asset_name]
         physical_assets = [args.ready_dir / name for name in physical_asset_names]
         for physical_asset in physical_assets:
@@ -338,6 +415,11 @@ def main() -> int:
     parser.add_argument("--manifest", type=Path, required=True)
     parser.add_argument("--source-dir", type=Path, required=True)
     parser.add_argument("--ready-dir", type=Path, required=True)
+    parser.add_argument(
+        "--validation-log-dir",
+        type=Path,
+        help="reuse worker validation summaries when the archive has not changed",
+    )
     parser.add_argument("--catalog", type=Path, default=Path("textures.json"))
     parser.add_argument("--audit", type=Path, default=Path("catalog-audit.json"))
     parser.add_argument("--repository", default="sashkinbro/EmuCoreX-Textures")
