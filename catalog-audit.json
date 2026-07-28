@@ -1758,6 +1758,113 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "batch-014",
+      "verifiedAt": "2026-07-28T09:34:08Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "bl4ckh4nd-airblade-slus-20346-20260728",
+          "sourceArtifact": "Airblade.7z",
+          "sourceSha256": "EA5053C859EC04EEBC2DE475647D294F33754BEBDA95E69E04C144B34FB761B6",
+          "assetName": "airblade-bl4ckh4nd-slus-20346.zip",
+          "normalizedSha256": "A5A8A71AF660CDF475DC3A809072FCFD27DC726369C412AE1848A7CC1A6045F1",
+          "manifestSha256": "74EB841F86FF5B40A0EF5764CB22686CB09ECC2FAD278C444D1D0A0D751E1932",
+          "contentSetSha256": "AB888A0327556C45CB74D292D71C1AEB6362306F53518A0290488E510CB20AFD",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-aggressive-inline-slus-20327-20260728",
+          "sourceArtifact": "Aggressive Inline.7z",
+          "sourceSha256": "CED2C63449A191206071585A3D881B35656ADA11AD713DABF5F43D7DAD8B475D",
+          "assetName": "aggressive-inline-bl4ckh4nd-slus-20327.zip",
+          "normalizedSha256": "A4440A784131D1CB7A4C738F52C52D54C9818DA8ED61667FED2FF00055E45A20",
+          "manifestSha256": "6A8D912A142B6A9607B61C6957320B81C5AE5D5CD676D93C6DD6B7546580FF54",
+          "contentSetSha256": "8CB4CA54C2B05AC0CE5EB203D4295D8EE9EDD6D9E6D6B4587C721BE0A7E136F0",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-americas-10-most-wanted-sles-52367-20260728",
+          "sourceArtifact": "America's 10 Most Wanted.7z",
+          "sourceSha256": "BCBC315DCC022C62D9AB0A0923910C29C2A2A8CB971A65EAA20E92EE816D7446",
+          "assetName": "americas-10-most-wanted-bl4ckh4nd-sles-52367.zip",
+          "normalizedSha256": "EFA356543FDB3DFFAF20C1CEC39372448B1A8172786F04F758F43557FAAD91EB",
+          "manifestSha256": "C38EE069AA1164EBA0E87BE236A5C1492F68DF3C097BF99D0D90273F7EF310B2",
+          "contentSetSha256": "5D93C092207260C039780E29C3D62B771082A2759A2EC8339EFF0446E389B499",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-demolition-girl-sles-53403-20260728",
+          "sourceArtifact": "Demolition Girl.7z",
+          "sourceSha256": "62AB738EDE4442D4E072B6B90AD6384479A234FD1BD0126A724CE32E413C177C",
+          "assetName": "demolition-girl-bl4ckh4nd-sles-53403.zip",
+          "normalizedSha256": "E0BC8FD31BCD50C33F230EE5CB5661FAEB10E668DCE019C9FF2A844276C52A1D",
+          "manifestSha256": "EFF8F3E3812DBCBE3ED215B983F185FFCCC338D62D32DF74BE9F0C591F56FB51",
+          "contentSetSha256": "0229A6CA6FC01E83C7EF89354B16A4E09CB2FA6ACA51996AF283A61F917BBEC6",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-def-jam-vendetta-slus-20639-20260728",
+          "sourceArtifact": "Def Jam Vendetta.7z",
+          "sourceSha256": "FAA27A78B961CD952F2D66E29049E220572778BF13D0ABB90AF0BC0072197747",
+          "assetName": "def-jam-vendetta-bl4ckh4nd-slus-20639.zip",
+          "normalizedSha256": "1CD8F4451CAA97C8BCF4DDAD1A371945FDAFFFD4F468A37036BAE48314BA8958",
+          "manifestSha256": "4BD81D75DAAE5D34114B8CE14C2D9FB06E0D985FFA67425291D4432C81D69794",
+          "contentSetSha256": "5BA13188D54562E998B09B422025922AF6B932BD76330A852838A6E30F967A3B",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "santins-maximo-ghosts-to-glory-slus-20017-20260728",
+          "sourceArtifact": "Maximo Reimagined HD Remastered v1 DDS Version.zip",
+          "sourceSha256": "0857F4A2FEF5732B518220133E75D9910EF9DE3A44971A16B2D3B60F67C2B1BD",
+          "assetName": "maximo-ghosts-to-glory-santins-slus-20017.zip",
+          "normalizedSha256": "E1090B988D712AAB6C71783B9FF58586416E747D8CF5168F6CDAD96E5C194A0E",
+          "manifestSha256": "12A8A327098923A79EC41D0599FC0F6108480F33445D895D3F225D81730C4F8D",
+          "contentSetSha256": "FFF471F32230A62A6D4D9AAC5E73115164AFB431B33FE28FF87DA46561C9A5E3",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-ssx-slus-20095-20260728",
+          "sourceArtifact": "SSX.7z",
+          "sourceSha256": "B58F6E55444A0C3FC39CC439BA19ADA712696C58079656428CEC6538A807C87E",
+          "assetName": "ssx-bl4ckh4nd-slus-20095.zip",
+          "normalizedSha256": "529B1D3D710ECFE9DD53864F63D519A79E8189041712A845BFFE8FF31EE2E792",
+          "manifestSha256": "B423DA58A26032AA3DFE6543F26BFDA8DC4A4277D76EAA287EE611AB388F8AF0",
+          "contentSetSha256": "A8456FBB3B84EDB9FFA67E2750D90DA1D5EBC839C421EF3B953E181296BE5ED3",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-ssx-3-slus-20772-20260728",
+          "sourceArtifact": "SSX 3.7z",
+          "sourceSha256": "69F6F778CEC89ECF22E508E604AEF5CF5E6C9D7EF6DB4CD292E8D585102AC3EA",
+          "assetName": "ssx-3-bl4ckh4nd-slus-20772.zip",
+          "normalizedSha256": "3DA84963EBA32860E53BC41BC0CFF2EBF4EB8E41242BCDD1B7C8749094E278B9",
+          "manifestSha256": "F1DC20F9F9D739D9FCA24906A79963CF6EAE623E3A371FDA2D885F5A040EE9A5",
+          "contentSetSha256": "4CD76D1541D4D3BBDE0AE0C0861931F5E577B8B6C18A7A407332919571886324",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-ssx-on-tour-slus-21278-20260728",
+          "sourceArtifact": "SSX On tour.7z",
+          "sourceSha256": "074F9DB6E401DF07A035ABE94B09042C3944E9109E090B73886FE40A1388328C",
+          "assetName": "ssx-on-tour-bl4ckh4nd-slus-21278.zip",
+          "normalizedSha256": "864EA36645D1D6C89F48D51AC711AE5963EDA5949E53A99B61B894C4DC4A8D54",
+          "manifestSha256": "3AB28A6F80D36F929DDECE9BC342D19E19EFA7460B439215AFA402070EEC191C",
+          "contentSetSha256": "905CC5118102CBCDE465D4BED315604EEDA963F3735953C0074D6606FDAC7513",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-ssx-tricky-slus-20326-20260728",
+          "sourceArtifact": "SSX Tricky.7z",
+          "sourceSha256": "38049AE022C6BC22AEC3A458A0CCAD280988D7E91CBB00DD13FB5AD7E0522A36",
+          "assetName": "ssx-tricky-bl4ckh4nd-slus-20326.zip",
+          "normalizedSha256": "B73571B21F058F652BD31007B51BBCFED9053F7D3789F812E2370B4EC61BFA94",
+          "manifestSha256": "74022E8CCAEA5A43E873C7E69BC8D02D5FCD1445B144CB7534F3FA9C7B114D4B",
+          "contentSetSha256": "133DD836550E266DF87AEF2CDA3E0A53612B8B027E8D74759A541FEEFADEAEE6",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }
