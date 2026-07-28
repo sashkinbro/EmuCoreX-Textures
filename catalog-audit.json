@@ -1865,6 +1865,113 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "batch-015",
+      "verifiedAt": "2026-07-28T09:58:52Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-7-wonders-of-the-ancient-world-slus-21693-20260728",
+          "sourceArtifact": "7 Wonders of the World.7z",
+          "sourceSha256": "4B8B6DF2F5CE3B4D06E5494E53CEA041572A22B4621911EB7CBCD171A2071F40",
+          "assetName": "7-wonders-of-the-ancient-world-ironhulk33-slus-21693.zip",
+          "normalizedSha256": "E7314386B3539FF2738A6DEA6D7F4734BA78BA17BB6F8025B9DCC8B4F27F0EDC",
+          "manifestSha256": "64BD0559D0384FA21B8CE2232F3482F3398FEF283632986EAC01583DBB461DCE",
+          "contentSetSha256": "D443BB37A0A43B47E82BB50281CBB629F7A7CF6F3BCE280CFBCDBEE22656AB8F",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-cel-damage-overdrive-sles-51554-20260728",
+          "sourceArtifact": "Cell Damage Overdrive.7z",
+          "sourceSha256": "4F7BEB040DC51D3464920DFC9A32A43385EFA7694CBCC4976B5E5A000BC88FF6",
+          "assetName": "cel-damage-overdrive-ironhulk33-sles-51554.zip",
+          "normalizedSha256": "AB9E30711A61E22B1B35F7634232432A16D9B06A0A1F593246A3DF532FB2F0F0",
+          "manifestSha256": "0A3F2BBCDA2711358D38A6C3BBB3CA3A053B7E1626250804248612350F15035F",
+          "contentSetSha256": "A7F0E32F683717F314576EE863DBE100F37C6B83BBCF12C34864277F7B487086",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-g1-jockey-4-sles-53917-20260728",
+          "sourceArtifact": "G1 Jockey 4.7z",
+          "sourceSha256": "2F59B3BAC097A657FED2B0510F0FFF8143D48F3379BF6192F80C1261BF23F8FA",
+          "assetName": "g1-jockey-4-bl4ckh4nd-sles-53917.zip",
+          "normalizedSha256": "6899CF2ED135C1BFFB7939B84B6B8BC734A56325913CF9C100E221C4C39AA7A5",
+          "manifestSha256": "C0482B82E6DE3C29E944649F3B380801188050ECB1AB78AE446150FF423C5D88",
+          "contentSetSha256": "92DCF64FF3EE5AFE51E88D0C8DB46AD055659BC67C14BFB5C1935CA38523901B",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-ibara-slpm-66301-20260728",
+          "sourceArtifact": "IBARA.7z",
+          "sourceSha256": "383F070675B4A5C0F3919FE8430BCB569DFEA5658C82491256EE8301CF370408",
+          "assetName": "ibara-ironhulk33-slpm-66301.zip",
+          "normalizedSha256": "EFDC931017315EAED944EC3F255A5748A832F22F0024884ADA0BFC7E503D1FFF",
+          "manifestSha256": "00ECF4D3ACD77FBB9FCC22E1C5182B02D1DEAEC0A47F5C6C8A0E5DCAA12D4C64",
+          "contentSetSha256": "6915678DDB6E41407A445B72DCB017BA1DAD40E7748E85FC6CC7F0405A03D2B6",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-intellivision-lives-slus-20830-20260728",
+          "sourceArtifact": "Intellivision Lives.7z",
+          "sourceSha256": "4469D7B384AE695C49A8F1BD5149D2AF5F352BEB1AE7CD452B4FF2D3C46A8152",
+          "assetName": "intellivision-lives-bl4ckh4nd-slus-20830.zip",
+          "normalizedSha256": "0980B19B7F29C482EC74D93F96A6CB897CA0DD218D3895038A1B79A78BDF4410",
+          "manifestSha256": "0B9A01B9E1198398519C0623898A5102092A37F26E4B6ECB0AC286C4B3A39C47",
+          "contentSetSha256": "D271D99EC2B9338DC251EDE238463AF32FF3600A94EAE65CB00B6A8708970A10",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-mister-mosquito-slus-20375-20260728",
+          "sourceArtifact": "Mr Mosquito.7z",
+          "sourceSha256": "46C072C7342597455902D7DB1F0CB303F3A190887CAB8620A01E6C08F2409ED1",
+          "assetName": "mister-mosquito-bl4ckh4nd-slus-20375.zip",
+          "normalizedSha256": "1832C4314A36D0F8538F8EFCDE7DD4E7932B111BA0C44AAAEAF9F422F368063A",
+          "manifestSha256": "0BAB4C28C0AA73CFAE36EDC416E39D18569D61DC7B543616B30AD119F166E8FE",
+          "contentSetSha256": "12937E4F123BD58D1F8122C5AB91D6F1F3B6351DA18D393EF82D280693A5C5C1",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-playboy-the-mansion-slus-20988-20260728",
+          "sourceArtifact": "Playboy Mansion.7z",
+          "sourceSha256": "3525E5C5E679771F7BC81551FDDB0CA299B868CAD42A8CCDB1E0194B42969516",
+          "assetName": "playboy-the-mansion-bl4ckh4nd-slus-20988.zip",
+          "normalizedSha256": "BA3FE1ECC374D1F5AD1294809C62421D1DD4281E3886F0FB7A50527234AE2EC8",
+          "manifestSha256": "4C994BD0286539E6BEBF168B25BE27EDE3FE0B2C3A8E249CCEAAA81C81D78E65",
+          "contentSetSha256": "DA81A2A654A0DD40AF5D42CB9F63F47507AB087584DA19E8047583D54AFA251A",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-roadkill-slus-20687-20260728",
+          "sourceArtifact": "Roadkill.7z",
+          "sourceSha256": "EC73FD8AD7E263766FB39052FED467AF0114A4DAF95CCB522C9B313D80864970",
+          "assetName": "roadkill-bl4ckh4nd-slus-20687.zip",
+          "normalizedSha256": "2C0670DFC885160E9D6465EC7CEC454AB9EDD19F1A1F5D7667CAD5FF41710206",
+          "manifestSha256": "082F0D8935F8A468B5D22DB6F3CBF3253752304D5439414B1C0C8AF521CFBE7D",
+          "contentSetSha256": "38014F680026367994DD275BA5A40EEA8B55EF77E7C8598A35A117B0DE6A7A29",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-street-fighter-ex3-slus-20130-20260728",
+          "sourceArtifact": "Street Fighter EX3.7z",
+          "sourceSha256": "A4EC9FDC0BBC6CF7C85E70214A50AF1AB812EB7763AB9BC94173DD19A385BE4C",
+          "assetName": "street-fighter-ex3-bl4ckh4nd-slus-20130.zip",
+          "normalizedSha256": "2E30541244D5F5498A878131AC22FA48167CFC8BF95AF84248E633AAF2219658",
+          "manifestSha256": "B73E1B828AC3846FD5CB9771BEB40E7F2059A401427EE20540609A3BB88FB3D7",
+          "contentSetSha256": "727FE7F836D84752AFDCAE5183404FAE591D1D705E6F8763CEF0F0AD3B13CD34",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-zapper-sles-50974-20260728",
+          "sourceArtifact": "Zapper.7z",
+          "sourceSha256": "73EA63031C8ABB4C2220B4D0C706372331E79105229FD191775D2AFB0FC0106C",
+          "assetName": "zapper-bl4ckh4nd-sles-50974.zip",
+          "normalizedSha256": "BF6E5B556E099FFEB44CE4243C9FA361202DECE5A83137CEEE052625D88C07B2",
+          "manifestSha256": "A23DB18A42C05EC256B66E22B877B68C899FB3E391B3EF048CE77ABDD5920C63",
+          "contentSetSha256": "ED430B69300AAEEEA81822099694B98B1197824DFD3BCD4B25809ACBD2A845C7",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }
