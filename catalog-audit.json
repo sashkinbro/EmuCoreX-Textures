@@ -1972,6 +1972,517 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "batch-016",
+      "verifiedAt": "2026-07-28T10:34:22Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "bl4ckh4nd-zone-of-the-enders-slus-20148-20260728",
+          "sourceArtifact": "Zone of Enders.7z",
+          "sourceSha256": "50B93EAACD65246155A31AB10878D1EABA6FC33B269011B78E11E39925A9D678",
+          "assetName": "zone-of-the-enders-bl4ckh4nd.zip",
+          "normalizedSha256": "DF643D0953F24FE9077FB9F48DCFE2958581154A7F72BB560C8376734429F84C",
+          "manifestSha256": "A091A113413DF36014050309265226374CA1C25D3F9A67E76885388D1938F74B",
+          "contentSetSha256": "82A6E0B59DE4520A195D3C14BE70C48EEF4667A1BC1FD642C5D80632494A7105",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-tribes-aerial-assault-slus-20149-20260728",
+          "sourceArtifact": "Tribes - Minimal.7z",
+          "sourceSha256": "DDEBCF773D0DA667DF87571572A65E436B6AEC57D04BE0A92434E6808F63FC3D",
+          "assetName": "tribes-aerial-assault-bl4ckh4nd.zip",
+          "normalizedSha256": "45C5E736DE0E54D58C47AC44F9E88F594015E1E67A3BE1D65A324272949673DC",
+          "manifestSha256": "907C105E300A2AEF4683CE997E90CAE4EF249A0EE5DE2286DEEF2B07AA8513AE",
+          "contentSetSha256": "B3BED59B23D72DF8F4B75D107649D6E9DC3482F194745DFE26AFD625243F7FB0",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-half-life-slus-20066-20260728",
+          "sourceArtifact": "Half-Life.7z",
+          "sourceSha256": "74EE6DE21FAA68828969FFA4E9C15CB416071904832E7C666939C00C5889E773",
+          "assetName": "half-life-bl4ckh4nd.zip",
+          "normalizedSha256": "EEDEB4CB84CF632DEB68DC964CBBB6DAB4F9748592AB4EFCB5ABA7D112C5844B",
+          "manifestSha256": "77B5C0F5F6BBF134B4B1327B459669F3C6B91D17767527820BD19EC663CA4C93",
+          "contentSetSha256": "C272FB74A3952AB74F8EBC1AB986ACAE5E41C39B96AF2C8F5C1FC39C0BAD8E19",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-socom-u-s-navy-seals-scus-97134-20260728",
+          "sourceArtifact": "SOCOM.7z",
+          "sourceSha256": "41845A09D4E00A7212807B7DA82B80BBAC98825E5EAA30F503BE8E0E19A7091E",
+          "assetName": "socom-u-s-navy-seals-bl4ckh4nd.zip",
+          "normalizedSha256": "B9C4E13D94B9541F2E6F7D793F321B4A5FBC51BA39A91A8084E5793033070949",
+          "manifestSha256": "21FF0B300F845801652BD5FD7D721D7BF3E9480BED6B56813C734D593E262D0A",
+          "contentSetSha256": "B782426A878A672A83711FD146E86CDBBF97598DD54B1656D11C142DA9CD7BC4",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-gallop-racer-2006-slus-21393-20260728",
+          "sourceArtifact": "Gallop Racer 2006.7z",
+          "sourceSha256": "D2B1544EA74699B4C164D7724076AE43349B529FE39566D8DA676ED3397E4E7B",
+          "assetName": "gallop-racer-2006-bl4ckh4nd.zip",
+          "normalizedSha256": "B0BEC028EB096801D2D229E74055FC427B23222C4CAE6689BF4CA92D1B6D41B4",
+          "manifestSha256": "902E2121464EFBFF9F7649AE7A25897E9DCE4324D3E5000C46CC824F4EA15F8A",
+          "contentSetSha256": "58E09118BF81200C9ADB916730D41D75C741C08D366AF2219C5AB94A19BE27C4",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-disney-s-extreme-skate-adventure-slus-20607-20260728",
+          "sourceArtifact": "Disney Extreme Skateboard Adventure.7z",
+          "sourceSha256": "62154BCADFB001452F5DD0C7D5B0D60E0E67F6125E7D6C9FAAEB7008B12C153C",
+          "assetName": "disney-s-extreme-skate-adventure-bl4ckh4nd.zip",
+          "normalizedSha256": "CA1AB5713FC705D433131522755A19AA82CF047B75A3BB4DDD1270AB08FBA513",
+          "manifestSha256": "CE7EE9984C9D693B878C06032EDA1C873935804BA54E34D27D5CB257FE663177",
+          "contentSetSha256": "1BB3F672819A3AFE78F99FE1D3A842B95D35F295AB8AA7B6AB49571F2AC07E18",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-socom-3-u-s-navy-seals-scus-97474-20260728",
+          "sourceArtifact": "SOCOM III.7z",
+          "sourceSha256": "6C0065FA91077BAB3002AF4F57B8F96C402B64CBAB709E5085E5E7BCFC2C521B",
+          "assetName": "socom-3-u-s-navy-seals-bl4ckh4nd.zip",
+          "normalizedSha256": "BEFE62AA77F460CA41C4DA0F6007575BDA84358DC6B7DE28917295E633889263",
+          "manifestSha256": "43A70938C3FAE8995CAC5B983A64A297EE09954E3BB3180BC898F1DD82844C46",
+          "contentSetSha256": "4FC994B1BFF907B77EABB244C39614048DFB948E101AFB5B1E5C9C82BAD20FA2",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-star-wars-jedi-starfighter-slus-20293-20260728",
+          "sourceArtifact": "Star Wars Jedi Starfighter.7z",
+          "sourceSha256": "12F66B271E6F9C4B2B6699135B54C7216ED4EE853D8988CB8886AB4B55681BFE",
+          "assetName": "star-wars-jedi-starfighter-bl4ckh4nd.zip",
+          "normalizedSha256": "625CBE14197938E57EF5CFE85A189243203C51323FB743ED6309E31BF4AEB7CE",
+          "manifestSha256": "44616FEC30113F059D70CB49512AFB3E07965AAE3F61B99E520EAB6E42726AA4",
+          "contentSetSha256": "879A362C7780F87C13CD4241B22AB29D2B5D1BE1B40658AA0F881E994ECB99C5",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-tom-clancy-s-ghost-recon-2-slus-21105-20260728",
+          "sourceArtifact": "Tom Clancy's Ghost Recon 2.7z",
+          "sourceSha256": "354BFD9105BCAB1254CC2DA3D5302BB0B85BE1B36BD7EDC7B6ECE10D8293CB8D",
+          "assetName": "tom-clancy-s-ghost-recon-2-bl4ckh4nd.zip",
+          "normalizedSha256": "5FE2093420D684D7C772F1E98BDFE0C60FD8F65899404EBD62DC6A091D13BE0E",
+          "manifestSha256": "E9DFAC229DE44D3B0EBAAE057268F0F0203DA8618BEAC6798E61400BE74BA719",
+          "contentSetSha256": "5A150C14594DF7D06DD432B677939EFAE8A54C134447969D6A7560CD91168382",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-shrek-super-party-slus-20516-20260728",
+          "sourceArtifact": "Shrek Super Party.7z",
+          "sourceSha256": "F9DE6B6209ACC9DB00F2ED19049AFA64E942A3F9A304287235FCE96E48A9DD80",
+          "assetName": "shrek-super-party-ironhulk33.zip",
+          "normalizedSha256": "2D1FBECA64F8BDFDC61C3B61C1C8AE97FBD3526090E1D098D5F55865EEAABE6A",
+          "manifestSha256": "B5FCB6F2C296BE5B1EFFB06B7810DC24C7AC7EEFE7EB1DC2D21E54ADC5D5613B",
+          "contentSetSha256": "7DDD2885A97EC03ECC8514C89F9D0BBD9335448317807C96A19FDD9B216F00AB",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-the-sum-of-all-fears-sles-51180-20260728",
+          "sourceArtifact": "The Sum of all Fears.7z",
+          "sourceSha256": "B66CF54A70E2E1111494A860F985BA8A6A7239A9A1109875CCA58544EBE4E9B1",
+          "assetName": "the-sum-of-all-fears-bl4ckh4nd.zip",
+          "normalizedSha256": "DAF847003A71DCF1927B5EDB60CE4F494A0FF1647C97A67D1D3E1ABE10C25D12",
+          "manifestSha256": "4F25692E2CA4FCDC31FB6A0064D533B3134268905D400D3B4125F3D47D3FF60F",
+          "contentSetSha256": "B2D8AD4A62119DCB2CC57267204ECED547E10ECFF20CF082FE6668B9AB76D6B0",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-tony-hawk-s-pro-skater-4-slus-20504-20260728",
+          "sourceArtifact": "Tony Hawk's Pro Skater 4.7z",
+          "sourceSha256": "77EEE4A04FE2DF7FEF5429D8480FED27F9CF131D6F909CB6A75EEC22901BC376",
+          "assetName": "tony-hawk-s-pro-skater-4-bl4ckh4nd.zip",
+          "normalizedSha256": "590AD4980B2B8288BAA4851622505E17B2778A0148E5FB081CAAC52C86B02703",
+          "manifestSha256": "B67883F2BF81F01F8347106E4694F4768340A6F08EF9E23AE0D846ECBD2F4D8A",
+          "contentSetSha256": "110BA5AF1884799E870E5A06852C885FE7432F4161F7811ABAAA7A96C16B0E50",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-socom-u-s-navy-seals-combined-assault-scus-97545-20260728",
+          "sourceArtifact": "SOCOM Combined Assault.7z",
+          "sourceSha256": "1B031B3E71CA7580A73C16B34B7BE69CD3808B89361BD7F9F3863FAD2CB95A3B",
+          "assetName": "socom-u-s-navy-seals-combined-assault-bl4ckh4nd.zip",
+          "normalizedSha256": "328204D53B6EB36EB0B166865004828262EDFF412BA3EA8A7FE056889AE34BC8",
+          "manifestSha256": "CF604522F807EFC76F7A4DD12906BAAEF8224CA3E90705A62A47DAB0752EB74D",
+          "contentSetSha256": "917C38643D2DF58A0B3834B6C599C3E611FFB77FD3D917612D1CB2C5E38DDD15",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-war-of-the-monsters-scus-97197-20260728",
+          "sourceArtifact": "War of the Monsters.7z",
+          "sourceSha256": "827B6C7CF4F0EE3C5A5C3AA2B1B199DB54B127AE3F1B104B51533F44AB213745",
+          "assetName": "war-of-the-monsters-bl4ckh4nd.zip",
+          "normalizedSha256": "6DF672C96CAF65650B87CBD7B22438730422AAD092D58315DEDE95C5F1E4D156",
+          "manifestSha256": "977801E0314886D25B63950692D50632F86F7273534D8DB9EC19057E1C4D6428",
+          "contentSetSha256": "F34964ECBD0D1E89450030C889DC92C3544F42698D6CD7D3C233D2678213DFAB",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-hello-kitty-roller-rescue-sles-53509-20260728",
+          "sourceArtifact": "Hello Kitty Roller Rescue.7z",
+          "sourceSha256": "6713DF0BAD0BDCAFF168E0633A1A152CB39475D5C8F2EDC90B35A47B11AC2AA5",
+          "assetName": "hello-kitty-roller-rescue-ironhulk33.zip",
+          "normalizedSha256": "DACB33B7FBFCCD7AD8CB10CCC1B2E089799835B01840D286209708532F9377EF",
+          "manifestSha256": "CE84F8FB56972F8EC6814BE59F39B5CB41B7B5B08BCDEBD75C6F644F0890E279",
+          "contentSetSha256": "04FBFB57D508A9D54A7E315CD0A3977FDBAC695294E4304EF56F03698949FC69",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-timesplitters-2-slus-20314-20260728",
+          "sourceArtifact": "Timesplitters 2.7z",
+          "sourceSha256": "5EC74A7378BDA7722D94BFADC12C65407AB4484A658C736AA132449B15A605F8",
+          "assetName": "timesplitters-2-bl4ckh4nd.zip",
+          "normalizedSha256": "A5277A4CAA73D43F580B2BDE04122926496F002C3E30984849AE3D4D9E4B3940",
+          "manifestSha256": "4B75D23FC7F9C41BF392CD190B85B706322B10CA45B9E1D8A420F2A7872530FA",
+          "contentSetSha256": "9ABA24DFC567526F88E0B624EBF5190EF14F6E2DA4FC4EE3C2ADCAF74E13ECF6",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-nba-street-v3-slus-21126-20260728",
+          "sourceArtifact": "NBA Street V3.7z",
+          "sourceSha256": "81DC6D4BCFE025F49C25F8A1A804AB92022A52B3D6BC356AD5A05767764BC267",
+          "assetName": "nba-street-v3-bl4ckh4nd.zip",
+          "normalizedSha256": "601B8FAA290EA3065CE29F65A1A3BFAA9B749F2C99FA2DCEF2EED12EB2054426",
+          "manifestSha256": "4805AA368B3020355D0A778A10A5E7161F3E9022352463CBB9A842CD39F307E7",
+          "contentSetSha256": "E3E5A1CFCB13439DBF33AC7A911277531B7138AB0153B6D9C71D91C9F7985AEB",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-socom-ii-u-s-navy-seals-scus-97275-20260728",
+          "sourceArtifact": "SOCOM II.7z",
+          "sourceSha256": "D7199993A1A0F0846F2007C6C7E46A25B85A2979E17BF02DED55CEFE6C1ADED7",
+          "assetName": "socom-ii-u-s-navy-seals-bl4ckh4nd.zip",
+          "normalizedSha256": "D59DCEF408A0C93129941E993718206FCBF4724E8914E2D432FDD0DE76F0AE98",
+          "manifestSha256": "5579D229A26A6DF8B77BF8A2DBE1D9673AF09515A884FDD60B466F98C06394EB",
+          "contentSetSha256": "75522FE0DC1AB0D7CD1C9BE6519A8058868699948A6D1A3A78AF46FC8566B514",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-star-trek-conquest-slus-21630-20260728",
+          "sourceArtifact": "Star Trek Conquest.7z",
+          "sourceSha256": "EA0E296FB17F078B1597A9906585D611A9A70C6B16F7D5661EAA8234C099E321",
+          "assetName": "star-trek-conquest-bl4ckh4nd.zip",
+          "normalizedSha256": "77616781E2DAFC492BAAAB8D5A96BADE623456F111DAD69ED48B43D7923AA027",
+          "manifestSha256": "634771D5FDE4E3508A14E7938D94595C7038D54482256D9082DF5E68EF240A16",
+          "contentSetSha256": "855997253EEB8D647957FE78E03123254FA836F05F190476D239A8D140481A53",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-tony-hawk-s-underground-2-slus-20965-20260728",
+          "sourceArtifact": "Tony Hawk's Underground 2.7z",
+          "sourceSha256": "038495945E571977F0835CBFCA31D8659CD065B4AEA90FCE0AF747AB6EE3D592",
+          "assetName": "tony-hawk-s-underground-2-bl4ckh4nd.zip",
+          "normalizedSha256": "5548CE8D10E153A3E2788A8FD26BF559A2AAE42F89A45DD40D2378D8240D21C7",
+          "manifestSha256": "7A7D67ABEC03905DBCA47C06ADED05350CF9CEA32039A1F1F25B8E80DB81BB3B",
+          "contentSetSha256": "4FB9D419EBE4F5614923BDDE8F23FE28776240DAFA8963BAEBF2DBBC61EF6ADF",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-army-men-air-attack-2-slus-20004-20260728",
+          "sourceArtifact": "Army Men Air Assault 2.7z",
+          "sourceSha256": "8B92B3332EF0CEE94BE6446F1F49C524A7AFE00B2F1999E081CD4E8D91330EF2",
+          "assetName": "army-men-air-attack-2-ironhulk33.zip",
+          "normalizedSha256": "F8715A779C3E9083025B3F4293575C3E02F4D97332F4F2BFB5B127F131C1834F",
+          "manifestSha256": "BF81E12CB171CAC069DAE6A0D3765E9C9C151EAAF815FBBF619FA10E7CA3ED72",
+          "contentSetSha256": "5D8DB0588B9D4C3AE1F4C5E835299AC1A8C8E2B296CFB16EC99EF96709F6C44F",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-tom-clancy-s-ghost-recon-advanced-warfighter-slus-21422-20260728",
+          "sourceArtifact": "Tom Clancy's Ghost Recon Advanced Warfighter.7z",
+          "sourceSha256": "4235E37FFCA55213DB7DB14225F4AB260E0D2A828280BE39DF6B0EC2BCB11D54",
+          "assetName": "tom-clancy-s-ghost-recon-advanced-warfighter-bl4ckh4nd.zip",
+          "normalizedSha256": "A24C35DA7DC0B8132EB543FE0635056534C56EDA52EBD265CFE3E4E0210D0FB2",
+          "manifestSha256": "7AE394FE7454CD17F48915E50A575A43A91DE6B318E0A14AC6DD9164946B2D8A",
+          "contentSetSha256": "AF59A7BB0744D2B5C6BF01044F15E15A85380CF7D1C8FB56EE363F280A6B1EAE",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-soldier-of-fortune-gold-edition-slus-20084-20260728",
+          "sourceArtifact": "Soldier of Fortune Gold.7z",
+          "sourceSha256": "80468F35C37EC11886B7AAF43F33E17F4EBD12F89CAB4B49FB2890CA7CA21580",
+          "assetName": "soldier-of-fortune-gold-edition-bl4ckh4nd.zip",
+          "normalizedSha256": "F110280F4A9CC9E436630E5A179ECB1DCA02290D686897C1F0DE2AA857A528F0",
+          "manifestSha256": "27CFBD211704EC486669BBEAB10A951B0B67D781BE528018E5D0650E55ABC86B",
+          "contentSetSha256": "8566395A62F9D9ADFC63305BFDB8264AA93EB9B7426A6447717617836905E415",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-the-suffering-ties-that-bind-slus-21189-20260728",
+          "sourceArtifact": "The Suffering Ties that Bind.7z",
+          "sourceSha256": "61CF94B7C9C97985F6887D0A2B2DFD7F3E9D5B5155F44DE1DCBE8CC050A5DB0B",
+          "assetName": "the-suffering-ties-that-bind-bl4ckh4nd.zip",
+          "normalizedSha256": "15F4775E1D9F4257B2EF51B2066384F282F8006BCF6F5A800E5D9644FEF25257",
+          "manifestSha256": "F2098D375FDED189B6B33A9CBED3B281ED3F553B080864D1C928E22184305FE6",
+          "contentSetSha256": "75A224361CF57F2BA2D797FB9574EDA3AA52F3EF7905E73C4841EAE129A545DA",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-pac-man-world-2-slus-20224-20260728",
+          "sourceArtifact": "Pac-Man World 2.7z",
+          "sourceSha256": "A53A657BB241920847DC2BEA03C127D7EDCB1E46B2C9AE378C64315E62C7466A",
+          "assetName": "pac-man-world-2-bl4ckh4nd.zip",
+          "normalizedSha256": "C01F7014A4C732AFFE45A5A8312C5147001F5D1810838F0BEB163F2B620E8CDA",
+          "manifestSha256": "975E09398FFE088171050F47DACD9351A3AAF3CD106D9BBA2FF1083CA4E5A65D",
+          "contentSetSha256": "E31A642548533C28A39477EA2C2A5E157B4D405BBA6B62F41B463A14561411FF",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-dave-mirra-freestyle-bmx-2-slus-20159-20260728",
+          "sourceArtifact": "Dave Mirra  Freestyle BMX 2.7z",
+          "sourceSha256": "0B2D2608FC131B6BB8D38B176D231EF05A68157C7E6C7416E0FA2B46C6D09505",
+          "assetName": "dave-mirra-freestyle-bmx-2-bl4ckh4nd.zip",
+          "normalizedSha256": "D38BF3FE3975AB8D6AACE7912F847AA1462298BA333CE73A2DC2B0B4BE265A8B",
+          "manifestSha256": "E218C776F850D235E4FE7C83EB3C9C415520AFF448575A4E50CD63A519A9FBC9",
+          "contentSetSha256": "59D1F2407637E1461DE0E0D057C9C7515150B13AC32F0973679AAE64533ABCFF",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-splashdown-2-rides-gone-wild-slus-20686-20260728",
+          "sourceArtifact": "Splashdown 2.7z",
+          "sourceSha256": "3DFAC80276ECE3E2A9208C1ECDE0948445168D44F9C9A0FBCBBCD9F36B03A126",
+          "assetName": "splashdown-2-rides-gone-wild-bl4ckh4nd.zip",
+          "normalizedSha256": "F4E95332B299D7BC0A8F93459F35D7E8BDD14970C0EFBEF8554DAE45ACE8119E",
+          "manifestSha256": "6A4885C0A8C281BC67B81B34CA80696933456F8C3F28C38961E57279FC3D2DCD",
+          "contentSetSha256": "6088372B17BEED6E6BA99F3E205849D5CEB0CEA51DF0483FD93C391676D8185B",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-tom-clancy-s-rainbow-six-3-raven-shield-slus-20883-20260728",
+          "sourceArtifact": "Tom Clancy's Rainbow Six 3.7z",
+          "sourceSha256": "69A6274F7D8F668B54C7C8B8F95ABBB1F13205557715E53FA116C77481E8DD79",
+          "assetName": "tom-clancy-s-rainbow-six-3-raven-shield-bl4ckh4nd.zip",
+          "normalizedSha256": "BA1B2D034854535D8962F0FE913FB7199B168F61783F1487548659A9253C1EDF",
+          "manifestSha256": "1A19D4B4632C394A5D76CE1244D0A34B3AD426B36751A8C79BE6C6F056D6A5A2",
+          "contentSetSha256": "F1C98A566BE321328C81B929B175AFC6C15EDFF3AD5627870C070FA7DDC0FB44",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-hitman-2-silent-assassin-slus-20374-20260728",
+          "sourceArtifact": "Hitman 2 Silent Assassin.7z",
+          "sourceSha256": "4188DB8BA4639B9E668CEB3F08D74F8BC3EEA4EAD4F7F5401EA2A2951D79A699",
+          "assetName": "hitman-2-silent-assassin-bl4ckh4nd.zip",
+          "normalizedSha256": "ED43462CB482A70851D5A968196BB89F4CA82791133550B1A40809E3E7A54C3D",
+          "manifestSha256": "0841601F147D194FE93910F44D3A9D0C73FD288889AB8C102EE5910D9F64A967",
+          "contentSetSha256": "54E396D69214FF7EADCB93D8F7ADDA81F7733366A54989AB9C45645109E16E74",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-star-wars-racer-revenge-slus-20268-20260728",
+          "sourceArtifact": "Star Wars Racer Revenge.7z",
+          "sourceSha256": "83AF234EF0DCDEC1CAD1FA4758ADFA0EA523426066A3A39085AB06911EB7AA6B",
+          "assetName": "star-wars-racer-revenge-bl4ckh4nd.zip",
+          "normalizedSha256": "2CFF3BA7854951A43B33BF5BB5666FCB6B980C8F30D6D94C35098CD9456497BF",
+          "manifestSha256": "B6A9DAE49DB214ECCDD88788E53F21D93C3EB4AA30348A832F8B12E03B769AFF",
+          "contentSetSha256": "C4B4ACEABA3FA9B2BA73F27FFAEF96A557DBDB73301D6CD0E7F3E6C798CE2047",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-buffy-the-vampire-slayer-chaos-bleeds-slus-20566-20260728",
+          "sourceArtifact": "Buffy The Vampire Slayer Chaos Bleeds.7z",
+          "sourceSha256": "051D2CBC47A32208C569BAEF87D63FD2D74B275C5C94EA244C41F2EFC1A39846",
+          "assetName": "buffy-the-vampire-slayer-chaos-bleeds-bl4ckh4nd-cckrizalid.zip",
+          "normalizedSha256": "D0437752C5BE887E6E329A90E05EFA04F0A138D992AA57637B81F225F8652646",
+          "manifestSha256": "B282A020D6F875D688B0A23FA6B11BF9CFF6300104F32E47A9C8CA7DE9D10CA4",
+          "contentSetSha256": "284F9E3F5E3A1CB9D4C1EFC687CC4D769D973D12A83A365BAFE72C3F8A213CA4",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-pimp-my-ride-slus-21580-20260728",
+          "sourceArtifact": "MTV Pimp My Ride.7z",
+          "sourceSha256": "6663DA608D1068DC673CF089F488CC0A617471C5FD0951664B89E784B3220535",
+          "assetName": "pimp-my-ride-bl4ckh4nd.zip",
+          "normalizedSha256": "E37586E210DA102D0D012E593C87A00F581A526537A07A2FD7F4CAD514819E94",
+          "manifestSha256": "9E4E1166DAE34431389015A07D95DEC2AFEA705BEB248B420A464DA1C876AC69",
+          "contentSetSha256": "18E7602DD05507E64144ADC65B35675639ECDF96BCD1C7D2E126873FFAEADBF0",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-contra-shattered-soldier-slus-20306-20260728",
+          "sourceArtifact": "Contra Shattered Soldier.7z",
+          "sourceSha256": "B247D0D12F94A7600BD53C9072BDAA1AE4086ABA51B83DA2CC66E1ECD0FC0147",
+          "assetName": "contra-shattered-soldier-bl4ckh4nd.zip",
+          "normalizedSha256": "00E9705A78F94B1F91F4B2DF2726B09E209F17CA2EED67A5EC2F85FAFF632AC4",
+          "manifestSha256": "21DE66CA83876C8D985712552F6218BDD994FCDCA0EDC93E7775B2672E49F9FE",
+          "contentSetSha256": "5101B100E2071B1E716C812700A6C5592D85C6B79C14F3AA847461387938768D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-the-punisher-slus-20864-20260728",
+          "sourceArtifact": "The Punisher.7z",
+          "sourceSha256": "A5A0F96E2DCD1259EDAB363CEA7A8436FFF323A565FECDD8D429FB8A9719C99E",
+          "assetName": "the-punisher-bl4ckh4nd.zip",
+          "normalizedSha256": "9731F5314B50CBBFAC250A09B57AFA49F3D7F52E4F6DBCCF4562C7F84CF33AF9",
+          "manifestSha256": "9ACA207F53E2F5277DC4194AD14A3FDE77D1FFC4AFBD4B64162715BDC30960FB",
+          "contentSetSha256": "1BCB196C1418ACADB7208E27BB53F6342979D219597380A49154FADEDD53A810",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-tom-clancy-s-ghost-recon-jungle-storm-slus-20820-20260728",
+          "sourceArtifact": "Tom Clancy's Ghost Recon Jungle Storm.7z",
+          "sourceSha256": "78075AE54FF1EDDC60757B80B387F31609A3FD0FF2EC8EFE64F5A69566EE064F",
+          "assetName": "tom-clancy-s-ghost-recon-jungle-storm-bl4ckh4nd.zip",
+          "normalizedSha256": "9F5B16B3DB926AD4F65A6B7431E0260C9A7EEBA992676B0E594296F2FFFFD70E",
+          "manifestSha256": "10E0DA3A33321A82D76299A36AD4A7B8541666E0AB3833EA7167BB04FE155CC3",
+          "contentSetSha256": "DAC544E6BBA348D9295730AAE0BA94AEF297A013083EAAB13426C40D69643E84",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-manhunt-slus-20827-20260728",
+          "sourceArtifact": "Manhunt.7z",
+          "sourceSha256": "620852F52D802157570222DB3509A3E2C4433F5C42939C85F85C01C93DF08870",
+          "assetName": "manhunt-bl4ckh4nd.zip",
+          "normalizedSha256": "D3AD0BDE65D170E7D02FF30AED87D18BBBAC793059ECF800443722CDFDF3ADF5",
+          "manifestSha256": "69A34914BF083732ECA795B37546B87B85450F826EB9A00AD56DC4A5EDF9202D",
+          "contentSetSha256": "DB14E6346E41A1FE72E831DCE5EFD09CE8527FA1DDD3DD5A4E474D135AE2E5E2",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-cold-winter-slus-20845-20260728",
+          "sourceArtifact": "Cold Winter.7z",
+          "sourceSha256": "86EC75D487AB97D5511DA5312A859C1819C706AD2A60D31B85D9E823235FAEC6",
+          "assetName": "cold-winter-bl4ckh4nd.zip",
+          "normalizedSha256": "E6C9B0E7FC748C3CAF4135908B22580A537ED488526EF112A852BF687E24AD8B",
+          "manifestSha256": "6183C9A5F06DB5E814BB44FDFC6936DAAA54FCE47452FBEDD7EA05EC8B75D079",
+          "contentSetSha256": "5F7AAE70712926059E1B886184B8C7BC8BC9B900771F15D1B0A2734AB5048A0D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-call-of-duty-world-at-war-final-fronts-slus-21746-20260728",
+          "sourceArtifact": "COD WaW Final Fronts.7z",
+          "sourceSha256": "2368856B9D1FDD4670D5ABC5C47D0A5E1CD44AFFA93D2F206260A9ABF8325E03",
+          "assetName": "call-of-duty-world-at-war-final-fronts-ironhulk33.zip",
+          "normalizedSha256": "71DA0FDF13B0A9AD75857B092129B644E8AF26ECD9CA999F81B8871147280538",
+          "manifestSha256": "1B993CDF42A3ED8DEE1BAF97EDD096E0B5BACA91C6F53820492C6B83757A288C",
+          "contentSetSha256": "68621B4F6F33BE63D7198E1DA9925CCD64E6AF54F03C1CCC1AB069EEC1D44E42",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-nascar-thunder-2004-slus-20824-20260728",
+          "sourceArtifact": "Nascar Thunder 2004.7z",
+          "sourceSha256": "15D55CDBD8F797DFA45B5D3027AF273EE5A7F47E6416E31ED4DAD1A8485E2AB9",
+          "assetName": "nascar-thunder-2004-bl4ckh4nd.zip",
+          "normalizedSha256": "75CB544FF1F5CA0783062A5C5EA43E171D67D0E975CD553D6101F174B5A20765",
+          "manifestSha256": "F967BAA3B49CEB7795ACC47ED2E07D9C1216BDAC3F3034167458F527263A5A67",
+          "contentSetSha256": "2E95156F21FC1D5C81F5AA46E97063FA1C11B14811B9AD4B621AEF68D3FF0439",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-timesplitters-future-perfect-slus-21148-20260728",
+          "sourceArtifact": "Timesplitters Future Perfect.7z",
+          "sourceSha256": "3DD03951A4DC8AE6280A2E6047C1B6DB6B0B418BB4D3EA664C651B3805604330",
+          "assetName": "timesplitters-future-perfect-bl4ckh4nd.zip",
+          "normalizedSha256": "3B91980FD1B2F7C9BDDE4B99ED428DDC4B190E6C90889CC0A655C2FBCD7BB605",
+          "manifestSha256": "DE5CCF5A88F43F2DBEF577601522B4C21F4548CAAB59EDC0FC3173567F352D34",
+          "contentSetSha256": "8B553EDD33B3651669CAB44208C5763E8DCC0DF3DB4E63A8B890CC349636E6CC",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-mortal-kombat-armageddon-slus-21410-20260728",
+          "sourceArtifact": "Mortal Kombat - Armageddon.7z",
+          "sourceSha256": "5B4A8D214089CF7BC189B8F2915221C6B8D87A37140760F8A89F0DC5C8E467A3",
+          "assetName": "mortal-kombat-armageddon-bl4ckh4nd.zip",
+          "normalizedSha256": "C99008FEE39E829CBD11ACC39A76BA10029471BEAC59D799A3FE7636966895DE",
+          "manifestSha256": "FDD3BE07ED91B9143E60BC07E15266E3CA5CE8195D4454FBEDA224FB61623D2A",
+          "contentSetSha256": "21525E9DDC259CA2ABF653F163500F90375E5E154B1B51216D926EA48CDAD00B",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-rumble-racing-slus-20174-20260728",
+          "sourceArtifact": "Rumble Racing.7z",
+          "sourceSha256": "CD225399D026EBAB27E9E578A5D2EC5D10BD955FE6623F8ABC7F7445AAAEED9D",
+          "assetName": "rumble-racing-bl4ckh4nd.zip",
+          "normalizedSha256": "275F8AF4195B9C490FF351140724C9FA585A169C0F307E870F08F1D4047456BB",
+          "manifestSha256": "1CEBC4E572BC1B81272CF8333DD83B5BA1114C2C29A485FF0CF588D343D3569E",
+          "contentSetSha256": "9D8E285B2161D0F93DC3E4CA0FD869BDC3F748C46C729AF36292EDD1BF8AE8D6",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-tom-clancy-s-rainbow-six-lockdown-slus-21144-20260728",
+          "sourceArtifact": "Tom Clancy's Rainbow Six Lockdown.7z",
+          "sourceSha256": "4966DD7CDCEB04AA39A595F2D13D11066CC35B06E8A899651553604E9DF83D9B",
+          "assetName": "tom-clancy-s-rainbow-six-lockdown-bl4ckh4nd.zip",
+          "normalizedSha256": "E9F4ABAA2BA88356F7062E6DCC29972BA5A376E12160F2975F94AD6C59F9E6A4",
+          "manifestSha256": "1EB285AE6B6DD5DF49B3D6A05777A0AB8D9E3EA9643D34C756C8D82885E110B1",
+          "contentSetSha256": "CD9272B81E0311FF6E3052B261D65064644CF39B9B075190B202472353F9EEBB",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-tom-clancy-s-ghost-recon-slus-20613-20260728",
+          "sourceArtifact": "Tom Clancy's Ghost Recon.7z",
+          "sourceSha256": "A210C9C28B654D582ED87BBEADB5E0528C327AE3E56195EDFDF454CD9AC319A5",
+          "assetName": "tom-clancy-s-ghost-recon-bl4ckh4nd.zip",
+          "normalizedSha256": "CF0BB40D1CC0205A1C76AF4B56540FBB8953A2B159A163CD917C71DDA7EA7851",
+          "manifestSha256": "A1B6222BF12CAE1E2EDF3FA94608F460427470437A805A2C73CE2AD6A7E830B5",
+          "contentSetSha256": "A530A12CB8E7F26EDE3CC347CB1E2608C52685B35B1F86488F314AB7AD7F6366",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-shaun-palmer-s-pro-snowboarder-slus-20199-20260728",
+          "sourceArtifact": "Shaun Palmer's Pro Snowboarding.7z",
+          "sourceSha256": "7DBC2DAFB64AB18384887A2EBE564AE8CDEF5CDD623FE995DE968F282EB41954",
+          "assetName": "shaun-palmer-s-pro-snowboarder-bl4ckh4nd.zip",
+          "normalizedSha256": "E26A6C3AAD3CF1AC8B40970B8C4786F0628DA60E27FDDAB065F3DB0849AABDCA",
+          "manifestSha256": "942CCAE3F8816360FD9ADF306403E916B6AB7B9811F284B7EADCE6A08A7978BD",
+          "contentSetSha256": "D0E2043F7D4C7F2D73B98EEFB3673C14432C23689AFE4ACCCC1C5F531EC0E3C3",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-gungrave-overdose-slus-21020-20260728",
+          "sourceArtifact": "Gungrave Overdose.7z",
+          "sourceSha256": "3AA7954522E7C3037A533EAF92D8E3EEA4B71F34894D9D0060FEA203C5C89191",
+          "assetName": "gungrave-overdose-bl4ckh4nd.zip",
+          "normalizedSha256": "F9EF0D7F8A228B5EDE2CC81D3F42E7F96294944A14F2A2300B234E6024CF9E1A",
+          "manifestSha256": "CD28666261AA0B9C7703817BD6C8D009CAD3DEDB48F75C5119944459A3F5B7BA",
+          "contentSetSha256": "5B18D9504D6EC431EBD535D926D6BB9BF8CE24C6AB5509A03DF45A6EDE268752",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-nba-street-vol-2-slus-20651-20260728",
+          "sourceArtifact": "NBA Street Vol 2.7z",
+          "sourceSha256": "E34170A63C6370EB3F80CAC61A620FA286C1D7D9A3B5B80DE99F32C4069E555A",
+          "assetName": "nba-street-vol-2-bl4ckh4nd.zip",
+          "assetParts": [
+            "nba-street-vol-2-bl4ckh4nd.zip.part001",
+            "nba-street-vol-2-bl4ckh4nd.zip.part002"
+          ],
+          "normalizedSha256": "C6D7B92D97EE782168AEFD2CD3CC602AA57CD002A98A7CECA9A1B1EB5259FEE8",
+          "manifestSha256": "69019EB361BFE9E05DA223D35E55D8AFD981D37D7EB7FE8F7A6A2223E5B86714",
+          "contentSetSha256": "7E118CF8E0E62202EC5FA46A589D3E0BE34FE5A4D77E56FBE4A8F34272795397",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-nfl-street-2-slus-21118-20260728",
+          "sourceArtifact": "NFL Street 2.7z",
+          "sourceSha256": "380FC6FE68D7E556A18AE983C0B89197127A68FD732772DAF4156BEC7114FF5E",
+          "assetName": "nfl-street-2-bl4ckh4nd.zip",
+          "normalizedSha256": "BDFE6C950273AE55E468F0370FD398A3DEFA9D7791B983D9AEA48927C571236E",
+          "manifestSha256": "26B215D349E8BEB8A5B7EB4A5512602B3B99A0C1A879EF7B4794376799FC3F94",
+          "contentSetSha256": "5CECB916D60BB9305C91574CFFA501F19041BB44160DF2B463EE0F9F30F85462",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-the-suffering-slus-20636-20260728",
+          "sourceArtifact": "The Suffering.7z",
+          "sourceSha256": "01E1FCF0AB17639AFFD8F6BA6C8641D454A42311CB02DB43717AC0DCD88BDCA5",
+          "assetName": "the-suffering-bl4ckh4nd.zip",
+          "normalizedSha256": "2D6CA38BB31269645B1FE67839EE1FD97B0C9A23D15AF0217067F67CFC125DFD",
+          "manifestSha256": "9187471E600DAB4A0A5AEF6845D2770DA4B8D74B0560BE39A7451A537156195E",
+          "contentSetSha256": "9C7BE194F59E3944D741554D33BA70E8679700CF4D6FF418523055C5748697AD",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "bl4ckh4nd-nascar-dirt-to-daytona-slus-20441-20260728",
+          "sourceArtifact": "NASCAR Dirt to Daytona.7z",
+          "sourceSha256": "4A08EE9A162B51C51E2A8691895F2612013628CB6A258E4E7DE641B2BDCC3397",
+          "assetName": "nascar-dirt-to-daytona-bl4ckh4nd.zip",
+          "normalizedSha256": "9CF5EFC974BE589D3FA3A349D48251E976E63553EE6639EF651F72A90FF5D587",
+          "manifestSha256": "942EBE2B725819DE6365C1AC3C2CCBEE1482E68C5E81C6244CA5DCF8066F103C",
+          "contentSetSha256": "DDFFA740946EBBDD5DA21A82ED21A195196E2B8F7032E339FF980714E5C48336",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }

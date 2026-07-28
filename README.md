@@ -18,13 +18,14 @@ repository's Releases. Git LFS must not be used.
   that exceed GitHub's per-asset limit.
 - `scripts/safe_extract_7z.py` - guarded integrity testing and extraction of
   public 7z sources.
-- `scripts/register_batch.py` - atomic ten-pack catalog and audit registration.
+- `scripts/register_batch.py` - atomic configurable-size catalog and audit
+  registration.
 
 Every pack keeps its original author, credits, source link, immutable download
 URL or multipart URLs, archive size, SHA-256 digest, and supported game serials.
 
-The current catalog contains 223 verified packs covering 240 regional game
-serials and 803,212 replacement texture files. Archives are inspected
+The current catalog contains 273 verified packs covering 290 regional game
+serials and 988,085 replacement texture files. Archives are inspected
 before publication; source-only projects, screenshots and emulator-incompatible
 dumps are not listed as downloadable packs.
 
