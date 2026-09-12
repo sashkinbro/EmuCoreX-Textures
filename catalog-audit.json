@@ -5746,6 +5746,923 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "2026-09-12-018",
+      "verifiedAt": "2026-09-12T18:43:58Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "santins-asterix-at-the-olympic-games-hd-remaster-community-archive-sles-55034-20260912",
+          "sourceArtifact": "Asterix at the Olympic Games (Europe) [SLES-55034] HD Remaster.rar",
+          "sourceSha256": "23E54710F80627C41AEE5E7685032DA2904F91CA8BE4822F2BC12FC3C68CE831",
+          "assetName": "ia-asterix-at-the-olympic-games-sles-55034.zip",
+          "normalizedSha256": "60B68FB396D0B08521F7C4D3E0809151280D52CE887DC2E3151085126E6D232F",
+          "manifestSha256": "A7231C3587ED4794E39E29F443FB5F903B4355E1E0E76CA76722D45D7A47406E",
+          "contentSetSha256": "225A19AF6C90383A8A9A93745D739B2AE3B4119C437F481DC522518E182EA9F8",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-need-for-speed-carbon-collector-s-edition-hd-remaster-community-archive-scus-21494-20260912",
+          "sourceArtifact": "Need for Speed Carbon Collector's Edition (USA) [SCUS-21494] HD Remaster.rar",
+          "sourceSha256": "AC4E9369C38ECFD720290CC51E44B7B22E906D6034C388B08C3A1E58F4A22685",
+          "assetName": "ia-need-for-speed-carbon-collector-s-edition-scus-21494.zip",
+          "normalizedSha256": "04D210ABF5F15EA9A996707B06E33E906549E3E54042D4C4185A652F6679B223",
+          "manifestSha256": "C789862D55852AAF983F161E78E01D2E88B98E6111943FA18F04C4D4F3F993D8",
+          "contentSetSha256": "BA106B31CA79498DAD66027C3C5002DDCFC1AD72C82AA41C2D3B68D59B4C29AE",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "mvp899-spawn-armageddon-hd-remaster-community-archive-slus-20707-20260912",
+          "sourceArtifact": "Spawn Armageddon (USA) [SLUS-20707] HD Remaster.rar",
+          "sourceSha256": "E92D71D6D0B14852F514A1434CB3DBD904013DB571D3178257636C2BFBA4F67F",
+          "assetName": "ia-spawn-armageddon-slus-20707.zip",
+          "normalizedSha256": "F35F60E1B556DF13F428E19757A13D24A154923F7E7490B45BDD82389608193C",
+          "manifestSha256": "EB214905487DCAA018962F3125F9651C7960B8568C9614060DCF9B547383133C",
+          "contentSetSha256": "F2E306C151484DAFDAA138C977FF063FC6BDA5BFADCF5B43D42FEE02ADC0117D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-tsugunai-atonement-hd-remaster-community-archive-slus-20292-20260912",
+          "sourceArtifact": "Tsugunai Atonement (USA) [SLUS-20292] HD Remaster.rar",
+          "sourceSha256": "DB3668D7E93B927430EABB83F793C1C8E79F5D3339A070F9C02962239F822595",
+          "assetName": "ia-tsugunai-atonement-slus-20292.zip",
+          "normalizedSha256": "F65B3BAECE01118AC120A28D2863CF19BC4D47A854FDEFE6EB2B84018AE51736",
+          "manifestSha256": "9BFEE1F240B46D594F8FABA15AF8D656F3CD62BDF640FEF1A164D148C53023DC",
+          "contentSetSha256": "F1755E61114793E363DDDF99D84FA21DBF7D7B0C6905354EB63C73A71A7E3E8B",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "texmaster-007-quantum-of-solace-hd-remaster-community-archive-sles-55345-20260912",
+          "sourceArtifact": "007 Quantum of Solace (Europe) [SLES-55345] HD Remaster.rar",
+          "sourceSha256": "83D987A8DFD0DE4A7872219863167557492DAC8C230A85D7EA08139FBAE2AC81",
+          "assetName": "ia-007-quantum-of-solace-sles-55345.zip",
+          "normalizedSha256": "1675045E1E5E5327DF82E854A10B9C73E8FF49841A0699F2BDC56AC6FF2A941E",
+          "manifestSha256": "0EFCC6B9189B3A256A2D840682E94CBC27D7AEB55C902F34722B1939143D84EC",
+          "contentSetSha256": "1355FEDE452B9BF5D380660B610D4EAF270F47F4DBDEE4209B1F923B975C274C",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "behonart-namco-capcom-hd-remaster-community-archive-slps-25505-20260912",
+          "sourceArtifact": "Namco × Capcom (Japan) [SLPS-25505] HD Remaster.rar",
+          "sourceSha256": "989016D4C114BA142AFD05DDC96C85243CA367EFB51A9E28162E0EB9B20D8BA7",
+          "assetName": "ia-namco-capcom-slps-25505.zip",
+          "normalizedSha256": "00A6726D718EB11B6A248976822E59360653D9D2D7188977032DCEBD3E74B8F2",
+          "manifestSha256": "748EC561F43245FCA8F33129BFAE2B724BB41DD6351EB3AF8C54F07F40AB855D",
+          "contentSetSha256": "6EFC4AEEE0CA1884C8AA916DF7CA925E3CBE7912E6C316291698674CEAAF1131",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-medal-of-honor-frontline-hd-remaster-community-archive-slus-20368-20260912",
+          "sourceArtifact": "Medal of Honor Frontline (USA) [SLUS-20368] HD Remaster.rar",
+          "sourceSha256": "158A23A02B28E52DB1F0286FED99A0ABAB62454DBE47859DEBD110AC9F0E76D8",
+          "assetName": "ia-medal-of-honor-frontline-slus-20368.zip",
+          "normalizedSha256": "5E1E1F37FE8E9D8CCC8F60AD67EA8B3B12A70871632D6AFF3A2E36DF212931D6",
+          "manifestSha256": "D65A716D12FBC616291055147E228A665E29282617304E846FDC3F916FDAB693",
+          "contentSetSha256": "A0483C141A7DBF778605653EE07A2FCD8467AC60EA1B871C863ABFA41D2517A7",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "curse-arms-blood-will-tell-hd-remaster-community-archive-slus-20782-20260912",
+          "sourceArtifact": "Blood Will Tell (USA) [SLUS-20782] HD Remaster.rar",
+          "sourceSha256": "D48CE8004D3615D0BDB9C54EC89C12EADA16624B2766F41D028F9B20E1B1F7ED",
+          "assetName": "ia-blood-will-tell-slus-20782.zip",
+          "normalizedSha256": "8F4858C9D4C7AF61D726533792CD19BBCE4E2CADF044A68AED55F49DEEFAA2D4",
+          "manifestSha256": "583FFE5D56D3CF3A2E0B4188A1A599A509E2B8870654E74FEA4E1E13F208A307",
+          "contentSetSha256": "D6C6334DD4C2F551336C5D256E992DBDF32488EFC2A38D7CBE5C35036F453F9F",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "c0rexe-harry-potter-and-the-prisoner-of-azkaban-hd-remaster-community-archive-slus-20926-20260912",
+          "sourceArtifact": "Harry Potter and the Prisoner of Azkaban (USA) [SLUS-20926] HD Remaster.rar",
+          "sourceSha256": "E72ECA33D4712B3B0554EC5465DDD51F66841C87D0707A0C81EFA10A431E23D6",
+          "assetName": "ia-harry-potter-and-the-prisoner-of-azkaban-slus-20926.zip",
+          "normalizedSha256": "4EC7B3D510514B656136E9B2E27E69D22D0743A46B0FD37F5543A27694F1544A",
+          "manifestSha256": "617866A0280853F89DFE9FB7F8814B89A0A03E7180B55F9A8D5660E32ABCFACA",
+          "contentSetSha256": "C084C03C084D5EEF4B9C9AA113A7BF61AB405A63C82A7FFF4647F9A8D77D893E",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-007-everything-or-nothing-hd-remaster-community-archive-slus-20751-20260912",
+          "sourceArtifact": "007 Everything or Nothing (USA) [SLUS-20751] HD Remaster.rar",
+          "sourceSha256": "AC440CB71B36DD9E442FD9C0C42993E4B28D71FCDA317D32EB1539DF164BB261",
+          "assetName": "ia-007-everything-or-nothing-slus-20751.zip",
+          "normalizedSha256": "3299AEDAFF03F818F74BCCAB594D3072783546B115F5CA8F6B3CDC11645DA2BC",
+          "manifestSha256": "312A8CD29ED5A170D8528170C3D36098B8D7A1670EE2C4B589A92FBC37B2C6A6",
+          "contentSetSha256": "2A5F68142C92037BCB8900146746EBE17F6FB057189F4F9A318CDCCD165C5B8E",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-bully-hd-remaster-community-archive-slus-21269-20260912",
+          "sourceArtifact": "Bully (USA) [SLUS-21269] HD Remaster.rar",
+          "sourceSha256": "FD09623CC5725105CAE8D0DEDD65DCD1F80EF9A26F5CBAA9A0700C0E11D53BE2",
+          "assetName": "ia-bully-slus-21269.zip",
+          "normalizedSha256": "5BABDB00861B7B63E5F7437E309E763B7EA69713BCD3607B53E6A3387E44DF51",
+          "manifestSha256": "B92A573E6CED7C3E79D5E81E02421C74A4F40A3B9D32C5AD1CF6081179E619D2",
+          "contentSetSha256": "F53AD77BC92D3C133D633100A8DE143123C8C478BEA5D4176C0615F1E98D4E9A",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "curse-arms-final-fantasy-x-2-hd-remaster-community-archive-slus-20672-20260912",
+          "sourceArtifact": "Final Fantasy X-2 (USA) [SLUS-20672] HD Remaster.rar",
+          "sourceSha256": "1F091E932A906CEB1F985C1DC569821C4E4FE405FF9503F92CD56A15A0D60453",
+          "assetName": "ia-final-fantasy-x-2-slus-20672.zip",
+          "assetParts": [
+            "ia-final-fantasy-x-2-slus-20672.zip.part001",
+            "ia-final-fantasy-x-2-slus-20672.zip.part002"
+          ],
+          "normalizedSha256": "D906A03555B3E76BBE21EB347047A8A2404C928BEE6713FA61F4A420754C40EE",
+          "manifestSha256": "D24178ABB0F00A52423C07E7D09C1AD0E150025216E6AB34CCAA8CE50ADA2180",
+          "contentSetSha256": "5CBA6C811DB151F1841D6A3F1AB9FDC2190C5C94766A36977595AD6AA1224BAE",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-yu-gi-oh-capsule-monster-coliseum-hd-remaster-community-archive-slus-20940-20260912",
+          "sourceArtifact": "Yu-Gi-Oh! Capsule Monster Coliseum (USA) [SLUS-20940] HD Remaster.rar",
+          "sourceSha256": "1B447239403157B4AB0633AB5BFF4BB04700EE917CEDB2688135BABA453F4B6E",
+          "assetName": "ia-yu-gi-oh-capsule-monster-coliseum-slus-20940.zip",
+          "assetParts": [
+            "ia-yu-gi-oh-capsule-monster-coliseum-slus-20940.zip.part001",
+            "ia-yu-gi-oh-capsule-monster-coliseum-slus-20940.zip.part002",
+            "ia-yu-gi-oh-capsule-monster-coliseum-slus-20940.zip.part003"
+          ],
+          "normalizedSha256": "CEAD961D73FBC7BFD7A85FA85FB28AB988107CD1A6B4BDD786532B551052FDB6",
+          "manifestSha256": "E4309E93E0E1E21AF52B080C1E11E791E548A2E8CFD9C2F790C87AADB31CD743",
+          "contentSetSha256": "6625602C12CE973B5F675599881B5C3D9B930CCD9E546F2D8451D6BF7244040D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "sal9im-dragon-ball-z-budokai-tenkaichi-hd-remaster-community-archive-slus-21227-20260912",
+          "sourceArtifact": "Dragon Ball Z Budokai Tenkaichi (USA) [SLUS-21227] HD Remaster.rar",
+          "sourceSha256": "3E41D8DC26601D3ACA210604384DA663AF7B8D1FA80329225F9AF45B9DF5C73E",
+          "assetName": "ia-dragon-ball-z-budokai-tenkaichi-slus-21227.zip",
+          "assetParts": [
+            "ia-dragon-ball-z-budokai-tenkaichi-slus-21227.zip.part001",
+            "ia-dragon-ball-z-budokai-tenkaichi-slus-21227.zip.part002",
+            "ia-dragon-ball-z-budokai-tenkaichi-slus-21227.zip.part003"
+          ],
+          "normalizedSha256": "6CB917A31B5951545A3B7CF4DF9247F8F82441F3AAA1D26612ACA5E733D01482",
+          "manifestSha256": "2304838BDDBFB5016BB41A1DC3E31F7B0091E6EAD9E09B94F8836A68B9050FC3",
+          "contentSetSha256": "1992270318224619F7691F4A3FCA3C17FE635C8ACC434FFD94704D9916954B16",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "trippypit-shadow-of-rome-hd-remaster-community-archive-slus-20902-20260912",
+          "sourceArtifact": "Shadow of Rome (USA) [SLUS-20902] HD Remaster.rar",
+          "sourceSha256": "5DCB05C75315BBEE25341ECB66F73D967B8BBC0CD5841A7DE8DA4A63DECD162F",
+          "assetName": "ia-shadow-of-rome-slus-20902.zip",
+          "assetParts": [
+            "ia-shadow-of-rome-slus-20902.zip.part001",
+            "ia-shadow-of-rome-slus-20902.zip.part002",
+            "ia-shadow-of-rome-slus-20902.zip.part003"
+          ],
+          "normalizedSha256": "FA241594567DA3FF90AD20218771CA04C1765B3C5EA919EACAAB9F8F4D44CC20",
+          "manifestSha256": "124E2EF65AE140EEFF661BF2DF85B5DE1E8E86A2957D6916F80A104A6B2BCDF1",
+          "contentSetSha256": "EF2E9347C21BF5A0B1ED95CC36DA42BDC34A813069E399067FADD26266EBFBCC",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "svg25-crimson-tears-hd-remaster-community-archive-slus-20948-20260912",
+          "sourceArtifact": "Crimson Tears (USA) [SLUS-20948] HD Remaster.rar",
+          "sourceSha256": "753527AD7E788D6EBECAF8D6D2B813C316D6DEB027D6F831A6E3A580A63DB88B",
+          "assetName": "ia-crimson-tears-slus-20948.zip",
+          "assetParts": [
+            "ia-crimson-tears-slus-20948.zip.part001",
+            "ia-crimson-tears-slus-20948.zip.part002",
+            "ia-crimson-tears-slus-20948.zip.part003",
+            "ia-crimson-tears-slus-20948.zip.part004"
+          ],
+          "normalizedSha256": "8A27D1D5544279A08EC577C211BE597F043ECD4B5F9BAF7D60F8C97653E7BF4C",
+          "manifestSha256": "E2A4243EAC66EAE3ED55010F67DD676CBD517030D4DC2E0C32B6E00B83950E1B",
+          "contentSetSha256": "EBD4F28F5368DD053978A44CD010D389C6EE449E0158A41502BDAA03F629FF76",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-spider-man-2-hd-remaster-community-archive-variant-slus-20776-20260912",
+          "sourceArtifact": "Spider-Man 2 (USA) [SLUS-20776] HD Remaster.rar",
+          "sourceSha256": "1AD6CC81FF4FF55FEB0AEA75943F0919C201144B4C8D9463FD52C0ECF1C555FF",
+          "assetName": "iav-spider-man-2-slus-20776.zip",
+          "normalizedSha256": "0AC90D6FF43D703CFFAD055DE55317CDD7D0E973CAF26DAD4822789D2E323D54",
+          "manifestSha256": "D5C909949E5DAF4D827DFC1EBDB74D5FFACD8A785B6084FB0C0A07C579D20BFB",
+          "contentSetSha256": "88F403B2BA8315C6A6C6F3F1547ADAC3E3AFB77A30540CB070E080EBF9414094",
+          "comparedAgainst": [
+            "panda-venom-spider-man-2-ui-font-slus-20776-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: panda-venom-spider-man-2-ui-font-slus-20776-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "D5C909949E5DAF4D827DFC1EBDB74D5FFACD8A785B6084FB0C0A07C579D20BFB",
+              "contentSetSha256": "88F403B2BA8315C6A6C6F3F1547ADAC3E3AFB77A30540CB070E080EBF9414094",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-mortal-kombat-deadly-alliance-hd-remaster-community-archive-variant-slus-20423-20260912",
+          "sourceArtifact": "Mortal Kombat Deadly Alliance (USA) [SLUS-21087] HD Remaster.rar",
+          "sourceSha256": "03F2EB1D438AC4E13BC5969F548B39D9B751EBCCE5BCCF2EB3AC38A0C85DA741",
+          "assetName": "iav-mortal-kombat-deadly-alliance-slus-21087.zip",
+          "normalizedSha256": "A9E586AB8D95F01AAF0C9301870693CC5F0E21120ED548205B9CD428234F6653",
+          "manifestSha256": "5837C078B7FA985F6F45C605FEDDF7CB72650515BEF524E8625A4F91D1AEEC10",
+          "contentSetSha256": "32C1DE28FEEC62F52EE92F2ED2014E73B8132B81486D04676CAB6A8A68F5D23E",
+          "comparedAgainst": [
+            "bl4ckh4nd-mk-shaolin-monks-slus-21087-20240327",
+            "bl4ckh4nd-mortal-kombat-deadly-alliance-slus-20423-20260728",
+            "bl4ckh4nd-mortal-kombat-shaolin-monks-slus-21087-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-mk-shaolin-monks-slus-21087-20240327, bl4ckh4nd-mortal-kombat-deadly-alliance-slus-20423-20260728, bl4ckh4nd-mortal-kombat-shaolin-monks-slus-21087-20260728",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "5837C078B7FA985F6F45C605FEDDF7CB72650515BEF524E8625A4F91D1AEEC10",
+              "contentSetSha256": "32C1DE28FEEC62F52EE92F2ED2014E73B8132B81486D04676CAB6A8A68F5D23E",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-bloody-roar-4-hd-remaster-community-archive-variant-slus-20795-20260912",
+          "sourceArtifact": "Bloody Roar 4 (USA) [SLUS-20795] HD Remaster.rar",
+          "sourceSha256": "AAEACB7CB82177A01417B1DCDC0DD1B2249C355AAF23C880B52736FD21AC2390",
+          "assetName": "iav-bloody-roar-4-slus-20795.zip",
+          "normalizedSha256": "57A6629C417FB2D2CBAA89FD6DF45BD73AC9C0B8194DFA82ACA2B019AF24448E",
+          "manifestSha256": "E80AC8A400C7D35D119213BE9DC81D9570A9AAC8BA56CAB61C0100D7B4B48598",
+          "contentSetSha256": "DFEB5FC52B37226524623B3D280A847CF9FDB6E86E7D826B3BF7DB0B08495CCA",
+          "comparedAgainst": [
+            "meskh4h4-bloody-roar-4-dds-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-dds-vivid-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-png-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-png-vivid-slus-20795-v1",
+            "panda-venom-bloody-roar-4-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: meskh4h4-bloody-roar-4-dds-slus-20795-v1, meskh4h4-bloody-roar-4-dds-vivid-slus-20795-v1, meskh4h4-bloody-roar-4-png-slus-20795-v1, meskh4h4-bloody-roar-4-png-vivid-slus-20795-v1, panda-venom-bloody-roar-4-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "E80AC8A400C7D35D119213BE9DC81D9570A9AAC8BA56CAB61C0100D7B4B48598",
+              "contentSetSha256": "DFEB5FC52B37226524623B3D280A847CF9FDB6E86E7D826B3BF7DB0B08495CCA",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-twisted-metal-black-hd-remaster-community-archive-variant-scus-97101-20260912",
+          "sourceArtifact": "Twisted Metal Black (USA) [SCUS-97101] HD Remaster.rar",
+          "sourceSha256": "0B6FF1EBE30B7F16F3CCCE492C4364A860C9E7E3FE0B134AF5AF6538F86266F6",
+          "assetName": "iav-twisted-metal-black-scus-97101.zip",
+          "normalizedSha256": "43E1CD301D55C167620E04FC819FE4C763506494FB904B4BC5E2767083AE9774",
+          "manifestSha256": "9B082764884057AC6155A11E067E4EE35488B4EEE1C65E13B3BCBBF479836164",
+          "contentSetSha256": "394C3D70CA0FF455A862839079E2DFFF26BE8FAF21450EC7678BFC9CC256E280",
+          "comparedAgainst": [
+            "xxtherockoxx-twisted-metal-black-scus-97101-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: xxtherockoxx-twisted-metal-black-scus-97101-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "9B082764884057AC6155A11E067E4EE35488B4EEE1C65E13B3BCBBF479836164",
+              "contentSetSha256": "394C3D70CA0FF455A862839079E2DFFF26BE8FAF21450EC7678BFC9CC256E280",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-motorstorm-arctic-edge-hd-remaster-community-archive-variant-scus-97654-20260912",
+          "sourceArtifact": "MotorStorm Arctic Edge (USA) [SCUS-97654] HD Remaster.rar",
+          "sourceSha256": "FB69EA91E636C4ED885ADF84193FCE19BB981E53F26434E0E71CE1DEDE6C2CB1",
+          "assetName": "iav-motorstorm-arctic-edge-scus-97654.zip",
+          "normalizedSha256": "25164970E6544904C63DC679A629FBF5B144A02A047BBC96CDE44AF80609AC6A",
+          "manifestSha256": "B38DA252F9992B6E1B1ABEF8705B07BA4A5429C2D63CE40185C528AF6BC196AD",
+          "contentSetSha256": "83C5A77398B03AC7BAD4FFCB686638A4276A5EC620C68B42CF0C46802C80F905",
+          "comparedAgainst": [
+            "funnynamexyz-motorstorm-arctic-edge-v2-scus-97654-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: funnynamexyz-motorstorm-arctic-edge-v2-scus-97654-20260726",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "B38DA252F9992B6E1B1ABEF8705B07BA4A5429C2D63CE40185C528AF6BC196AD",
+              "contentSetSha256": "83C5A77398B03AC7BAD4FFCB686638A4276A5EC620C68B42CF0C46802C80F905",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-dynasty-warriors-2-hd-remaster-community-archive-variant-slus-20079-20260912",
+          "sourceArtifact": "Dynasty Warriors 2 (USA) [SLUS-20079] HD Remaster.rar",
+          "sourceSha256": "3C946B5960FD2EF59D73CCF44BED7B4A587BEA24C5F9848BAA007BF18D99109F",
+          "assetName": "iav-dynasty-warriors-2-slus-20079.zip",
+          "normalizedSha256": "94AF223B1B80F4418BF785B3DB82EB116C14D63384D5E575599FBDE5B4BB59D6",
+          "manifestSha256": "86F9F22A2A9B9902C7B03EEBBA59A2B4F2F3D936FFC2C5B9BEE54499A0CC543A",
+          "contentSetSha256": "6F6C121E732990D01584EA54A7B02439417F3698EB1A796B325CDA13413A0946",
+          "comparedAgainst": [
+            "sombertwilight-dynasty-warriors-2-purist-slus-20079-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: sombertwilight-dynasty-warriors-2-purist-slus-20079-20260726",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "86F9F22A2A9B9902C7B03EEBBA59A2B4F2F3D936FFC2C5B9BEE54499A0CC543A",
+              "contentSetSha256": "6F6C121E732990D01584EA54A7B02439417F3698EB1A796B325CDA13413A0946",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-gradius-v-hd-remaster-community-archive-variant-slus-20712-20260912",
+          "sourceArtifact": "Gradius V (USA) [SLUS-20712] HD Remaster.rar",
+          "sourceSha256": "78118093E0414645718D18CFF05C5C5AE228C494EAA3414AF44C63B2D5DBF370",
+          "assetName": "iav-gradius-v-slus-20712.zip",
+          "normalizedSha256": "6D981BCAF35E6749FBE1342C743E40CDCC84B2FCBDDE5D99FCEA327A0C25E5F3",
+          "manifestSha256": "A362277044590FAC53FD51B18DFFBCA599B79DACA8CA69EC17D352818BEF2EC5",
+          "contentSetSha256": "9120EDDF0F9C6684CE2FA591D13E03199933203E15B2E0B6095966AE407C6938",
+          "comparedAgainst": [
+            "xxtherockoxx-gradius-v-slus-20712-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: xxtherockoxx-gradius-v-slus-20712-20260726",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "A362277044590FAC53FD51B18DFFBCA599B79DACA8CA69EC17D352818BEF2EC5",
+              "contentSetSha256": "9120EDDF0F9C6684CE2FA591D13E03199933203E15B2E0B6095966AE407C6938",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-drakan-the-ancients-gates-hd-remaster-community-archive-variant-scus-97128-20260912",
+          "sourceArtifact": "Drakan The Ancients' Gates (USA) [SCUS-97128] HD Remaster.rar",
+          "sourceSha256": "BB553F5A36C431384C83DAACAFF420939D62A0F5096F4EDA1A09503A85C4BD47",
+          "assetName": "iav-drakan-the-ancients-gates-scus-97128.zip",
+          "normalizedSha256": "323926AD28D4876E7B2FC0CAFDBDCEFEF9D81A4F734A6AFABB1CCA0F93C6AFE9",
+          "manifestSha256": "086686D9BA6B528DB66B80B3BAE5AC221DB383B0F72C06A3A4144279777F5A47",
+          "contentSetSha256": "C84E9797BF9E05B20B8F7F1771DCB35D19FE8C2A6CF6ED22BA100761358C5520",
+          "comparedAgainst": [
+            "sombertwilight-drakan-ancients-gates-scus-97128-20260727"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: sombertwilight-drakan-ancients-gates-scus-97128-20260727",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "086686D9BA6B528DB66B80B3BAE5AC221DB383B0F72C06A3A4144279777F5A47",
+              "contentSetSha256": "C84E9797BF9E05B20B8F7F1771DCB35D19FE8C2A6CF6ED22BA100761358C5520",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-gauntlet-seven-sorrows-hd-remaster-community-archive-variant-slus-21077-20260912",
+          "sourceArtifact": "Gauntlet Seven Sorrows (USA) [SLUS-21077] HD Remaster.rar",
+          "sourceSha256": "75B67902E482AD3A816AD06093B7DBA23C96086CA7F307E4A36C361D0B955C49",
+          "assetName": "iav-gauntlet-seven-sorrows-slus-21077.zip",
+          "normalizedSha256": "886565DCCF1EBB8BC05CE58A2DD61A84DF9599B89A2826FBD6477F2AA950D79A",
+          "manifestSha256": "1BD38D2870FFAE619E1339D2C049397D6665A1F0CA7FD52489FC8601BB9CD4F5",
+          "contentSetSha256": "193564D20126E97FFE7C2DF9A8945DF6D1D6617642BDF5F9A70BDBB70FFE0A5B",
+          "comparedAgainst": [
+            "sombertwilight-gauntlet-seven-sorrows-slus-21077-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: sombertwilight-gauntlet-seven-sorrows-slus-21077-20260726",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "1BD38D2870FFAE619E1339D2C049397D6665A1F0CA7FD52489FC8601BB9CD4F5",
+              "contentSetSha256": "193564D20126E97FFE7C2DF9A8945DF6D1D6617642BDF5F9A70BDBB70FFE0A5B",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-star-wars-episode-iii-revenge-of-the-sith-hd-remaster-community-archive-variant-slus-21143-20260912",
+          "sourceArtifact": "Star Wars Episode III Revenge of the Sith (USA) [SLUS-21143] HD Remaster.rar",
+          "sourceSha256": "1A5836F1134A46476145CAD95037F9AD9D31C920D3A850D01FE88F7F1616E6AC",
+          "assetName": "iav-star-wars-episode-iii-revenge-of-the-sith-slus-21143.zip",
+          "normalizedSha256": "D693996BD338B7A60C1E773A64B0EDAF6618DFA418677F5B23E0B719FAA28BF4",
+          "manifestSha256": "F35D003A5329FE2C85EEA0D335342474A2E6B79FB0D08AEC6A8BD58E5DB9F8E9",
+          "contentSetSha256": "B89FBFE0391E706AA1C53108672F61F6FDA6A529B2092C3E9D5932C2ECF28F0D",
+          "comparedAgainst": [
+            "panda-venom-star-wars-episode-iii-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: panda-venom-star-wars-episode-iii-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "F35D003A5329FE2C85EEA0D335342474A2E6B79FB0D08AEC6A8BD58E5DB9F8E9",
+              "contentSetSha256": "B89FBFE0391E706AA1C53108672F61F6FDA6A529B2092C3E9D5932C2ECF28F0D",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-the-warriors-hd-remaster-community-archive-variant-slus-21215-20260912",
+          "sourceArtifact": "The Warriors (USA) [SLUS-21215] HD Remaster.rar",
+          "sourceSha256": "E5D5996D788D429CBB4060FD76E30C95D0EEF9D701AC2781C6EF580A6354BB6B",
+          "assetName": "iav-the-warriors-slus-21215.zip",
+          "normalizedSha256": "2111CAA7ABD3A47C4BEC050A49699453883B2AA28178870A916331B67FD02716",
+          "manifestSha256": "5C86D7516F3597A23C828EDE295B698507F5D83403A1603ABE68C7E60AEDEB2B",
+          "contentSetSha256": "6C8C53B79BF0A256FA4FA8BBC1560C9E28D343D8B213CDB2A7245807CE30F3B5",
+          "comparedAgainst": [
+            "eternights-the-warriors-release"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: eternights-the-warriors-release",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "5C86D7516F3597A23C828EDE295B698507F5D83403A1603ABE68C7E60AEDEB2B",
+              "contentSetSha256": "6C8C53B79BF0A256FA4FA8BBC1560C9E28D343D8B213CDB2A7245807CE30F3B5",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-ssx-3-hd-remaster-community-archive-variant-slus-20772-20260912",
+          "sourceArtifact": "SSX 3 (USA) [SLUS-20772] HD Remaster.rar",
+          "sourceSha256": "F9C955BA6E909F7CB671AACD970C66A4841AC79000C5A800F47F24F8B043CFFE",
+          "assetName": "iav-ssx-3-slus-20772.zip",
+          "normalizedSha256": "66A6D3022D56C205391D0F6C66ACB96E3B0CD8F9A3E52CB5FC02982F28D4C79C",
+          "manifestSha256": "A13DBDE34B9AA8B67929028BB43E31DA6929DE2D04BDB1A33890EC7752C1C7EE",
+          "contentSetSha256": "3EF023CEFA6AED77EC00AF55E7E1F7C70596B646D8126A9DEB8606983F8F5407",
+          "comparedAgainst": [
+            "bl4ckh4nd-ssx-3-slus-20772-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-ssx-3-slus-20772-20260728",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "A13DBDE34B9AA8B67929028BB43E31DA6929DE2D04BDB1A33890EC7752C1C7EE",
+              "contentSetSha256": "3EF023CEFA6AED77EC00AF55E7E1F7C70596B646D8126A9DEB8606983F8F5407",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-ratchet-clank-hd-remaster-community-archive-variant-scus-97199-20260912",
+          "sourceArtifact": "Ratchet & Clank (USA) [SCUS-97199] HD Remaster.rar",
+          "sourceSha256": "BA9521B90AE7275B20E1E738E8F9553F2E4FED61B837B4AB2C7B19898DAE297D",
+          "assetName": "iav-ratchet-clank-scus-97199.zip",
+          "normalizedSha256": "FC01B102148FE5042AE2FB94339052A8908E63BC8EA614987A816399D288D810",
+          "manifestSha256": "97B66DFC95267DEA6ED133CE73EB5418132077E5763662486254A06736210369",
+          "contentSetSha256": "A90974E3415E7A7F2D6A4E294C8E98ABA2E594A41ECB516563E05512FDB58B94",
+          "comparedAgainst": [
+            "panda-venom-ratchet-and-clank-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: panda-venom-ratchet-and-clank-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "97B66DFC95267DEA6ED133CE73EB5418132077E5763662486254A06736210369",
+              "contentSetSha256": "A90974E3415E7A7F2D6A4E294C8E98ABA2E594A41ECB516563E05512FDB58B94",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-aliens-versus-predator-extinction-hd-remaster-community-archive-variant-slus-20147-20260912",
+          "sourceArtifact": "Aliens Versus Predator Extinction (USA) [SLUS-20147] HD Remaster.rar",
+          "sourceSha256": "C23AEA1DEEBA84E45CF513C19F14457C8D6C36B2474F0D7A083F50EB2ED2C41D",
+          "assetName": "iav-aliens-versus-predator-extinction-slus-20147.zip",
+          "normalizedSha256": "4C4AC635F918DDFD8773B92EEA68EC7815425909410B1FD28248C5F775032848",
+          "manifestSha256": "3368456E4136C6CED291C2EBAF8E667BC5D0F364C9DFFF66AAB7AB0F02CADB2D",
+          "contentSetSha256": "8F1DA8879475727FA29A8D186F90949D6D02497DCC0C2EF68F9C4BB14EB8B897",
+          "comparedAgainst": [
+            "callofcthuloo-avp-extinction-android-slus-20147-20260726",
+            "callofcthuloo-avp-extinction-desktop-slus-20147-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: callofcthuloo-avp-extinction-android-slus-20147-20260726, callofcthuloo-avp-extinction-desktop-slus-20147-20260728",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "3368456E4136C6CED291C2EBAF8E667BC5D0F364C9DFFF66AAB7AB0F02CADB2D",
+              "contentSetSha256": "8F1DA8879475727FA29A8D186F90949D6D02497DCC0C2EF68F9C4BB14EB8B897",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-dragon-ball-z-budokai-3-hd-remaster-community-archive-variant-slus-20998-20260912",
+          "sourceArtifact": "Dragon Ball Z Budokai 3 (USA) [SLUS-20998] HD Remaster.rar",
+          "sourceSha256": "08AB450CFD0E40DB4A9FC34B45B3CB5F1C6BE751181424073F9AFA86E8E12F33",
+          "assetName": "iav-dragon-ball-z-budokai-3-slus-20998.zip",
+          "normalizedSha256": "8967B7667B6C949516120688AF46396B5BDE67840B01629C62B8BBDC9559E889",
+          "manifestSha256": "A1B66DCEFDED047963314A46E2BEED9E615DCA464B59426DB852EED1126D3034",
+          "contentSetSha256": "D612452D0E738B29607A93AE9755ACAF2E9F81006BDE4A1447265E9133031BFF",
+          "comparedAgainst": [
+            "quicksliver1-dbz-budokai-3-slus-20998-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: quicksliver1-dbz-budokai-3-slus-20998-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "A1B66DCEFDED047963314A46E2BEED9E615DCA464B59426DB852EED1126D3034",
+              "contentSetSha256": "D612452D0E738B29607A93AE9755ACAF2E9F81006BDE4A1447265E9133031BFF",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-tekken-5-hd-remaster-community-archive-variant-slus-21059-20260912",
+          "sourceArtifact": "Tekken 5 (USA) [SLUS-21059] HD Remaster.rar",
+          "sourceSha256": "597694A413416AB37D38B117ECE822EB9C4F08D6A0F326B7B5847AD6A871868E",
+          "assetName": "iav-tekken-5-slus-21059.zip",
+          "normalizedSha256": "CD66ACFDFBD5E915FCE2C3EC992FE7E0AA0BB3707C9358F80734B47B54ABB73C",
+          "manifestSha256": "FD4515F9C336E22DA6CA265DACDA4ACA2D278C0D22EF91315AB2F50D33B501E6",
+          "contentSetSha256": "508828E4BCAAA389F5DC26738E2768DD9D13E729B4FC647A2755C72B9DE0BB8D",
+          "comparedAgainst": [
+            "bl4ckh4nd-tekken-5-slus-21059-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-tekken-5-slus-21059-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "FD4515F9C336E22DA6CA265DACDA4ACA2D278C0D22EF91315AB2F50D33B501E6",
+              "contentSetSha256": "508828E4BCAAA389F5DC26738E2768DD9D13E729B4FC647A2755C72B9DE0BB8D",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-the-suffering-ties-that-bind-hd-remaster-community-archive-variant-slus-21189-20260912",
+          "sourceArtifact": "The Suffering Ties That Bind (USA) [SLUS-21189] HD Remaster.rar",
+          "sourceSha256": "D8B42898B07B95767D56A3A7CC330AC2E9C2D458FDC9314FF34FB351AC43528F",
+          "assetName": "iav-the-suffering-ties-that-bind-slus-21189.zip",
+          "normalizedSha256": "0281024B773EDACC3C2EBB19D0A422116963B89844DE23F44FFA3E04F38060A7",
+          "manifestSha256": "AE994019F8244FD0FE784009445A2056FEE71A4415B4208260A76A16E3F1E46D",
+          "contentSetSha256": "373A995CFD2BC23B339E4DB77A8181BD1B74792D30D411A85D58B1A019BC06D0",
+          "comparedAgainst": [
+            "bl4ckh4nd-the-suffering-ties-that-bind-slus-21189-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-the-suffering-ties-that-bind-slus-21189-20260728",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "AE994019F8244FD0FE784009445A2056FEE71A4415B4208260A76A16E3F1E46D",
+              "contentSetSha256": "373A995CFD2BC23B339E4DB77A8181BD1B74792D30D411A85D58B1A019BC06D0",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-gungrave-overdose-hd-remaster-community-archive-variant-slus-21020-20260912",
+          "sourceArtifact": "Gungrave Overdose (USA) [SLUS-21020] HD Remaster.rar",
+          "sourceSha256": "6054C8F24AC6DE1E541754904BD1745E8EBE988DF170F1A7A654EFEA4D3ADC65",
+          "assetName": "iav-gungrave-overdose-slus-21020.zip",
+          "normalizedSha256": "8656C6D5DD7E11388126BB2AC756E6C147F3145DE26AAD4BE90E4C8F21EE7BB4",
+          "manifestSha256": "73113EF7F5E38BF3022396BC7A8B99685A27842CE95A20D42B1335906A2D9345",
+          "contentSetSha256": "68534646076E2BB5F072CEE9C51791C26D29A00B47E7D396EA2B479B7628CD15",
+          "comparedAgainst": [
+            "bl4ckh4nd-gungrave-overdose-slus-21020-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-gungrave-overdose-slus-21020-20260728",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "73113EF7F5E38BF3022396BC7A8B99685A27842CE95A20D42B1335906A2D9345",
+              "contentSetSha256": "68534646076E2BB5F072CEE9C51791C26D29A00B47E7D396EA2B479B7628CD15",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-call-of-duty-3-hd-remaster-community-archive-variant-slus-21426-20260912",
+          "sourceArtifact": "Call of Duty 3 (USA) [SLUS-21426] HD Remaster.rar",
+          "sourceSha256": "75379B055944114CA4C580C7DE3FE49AA618B43336963C11CB31D8575ABC0E6F",
+          "assetName": "iav-call-of-duty-3-slus-21426.zip",
+          "normalizedSha256": "D832F81DBFB8EBB7910C86FD727EE174E9F3A4DBFF9448156501046B8F104A0C",
+          "manifestSha256": "86481FA07D26E444DF2886E820611D4B8D76124D30645425F199395A9FF9A41D",
+          "contentSetSha256": "85132240C20FF5962C6D6C723BB2CFDBE9701B89E9E0C0E86AF9AC019835B699",
+          "comparedAgainst": [
+            "panda-venom-call-of-duty-3-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: panda-venom-call-of-duty-3-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "86481FA07D26E444DF2886E820611D4B8D76124D30645425F199395A9FF9A41D",
+              "contentSetSha256": "85132240C20FF5962C6D6C723BB2CFDBE9701B89E9E0C0E86AF9AC019835B699",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-need-for-speed-underground-hd-remaster-community-archive-variant-slus-20811-20260912",
+          "sourceArtifact": "Need for Speed Underground (USA) [SLUS-20811] HD Remaster.rar",
+          "sourceSha256": "E2D899BC4E2AB8BB0E4C2A089B31B7ECA7BF2E009F9E8C024A0D65D91BBEC5EC",
+          "assetName": "iav-need-for-speed-underground-slus-20811.zip",
+          "normalizedSha256": "F3D29144B2EA7B436697BC976F4FA0584CBD7B7B74EFD5AD28CF7440077AD8E2",
+          "manifestSha256": "A2F1C3F779DA7095F2B1E97E229F444CAD05F7A2642EF122A53CF0D0235CD942",
+          "contentSetSha256": "51381F252AC9E16402228ECF4B44C116DC8FB87C67575C92CA9B9384DC1FECC2",
+          "comparedAgainst": [
+            "bl4ckh4nd-nfs-underground-slus-20811-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-nfs-underground-slus-20811-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "A2F1C3F779DA7095F2B1E97E229F444CAD05F7A2642EF122A53CF0D0235CD942",
+              "contentSetSha256": "51381F252AC9E16402228ECF4B44C116DC8FB87C67575C92CA9B9384DC1FECC2",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-mortal-kombat-shaolin-monks-hd-remaster-community-archive-variant-slus-21087-20260912",
+          "sourceArtifact": "Mortal Kombat Shaolin Monks (USA) [SLUS-21087] HD Remaster.rar",
+          "sourceSha256": "09AFB22AACF57A5C30E16F00A681080FA2551272365F51A62735AD43E9370D13",
+          "assetName": "iav-mortal-kombat-shaolin-monks-slus-21087.zip",
+          "normalizedSha256": "4B0CB6A4B1BC3F17EED17560693A7C3765F9E8F5ACEEB612A0EF0B09A3219D1D",
+          "manifestSha256": "6A210D2D653BC9B7E6BFA6C5E800D3DBCD37D3396561B4C632BC7FF3A8BBBF98",
+          "contentSetSha256": "516AA0FA4B8C9DEC41A9227038EF30E837CC89E4A80C8B0E36A45D4821E328DA",
+          "comparedAgainst": [
+            "bl4ckh4nd-mk-shaolin-monks-slus-21087-20240327",
+            "bl4ckh4nd-mortal-kombat-shaolin-monks-slus-21087-20260728",
+            "pcsx2-hd-texture-packs-community-archive-mortal-kombat-deadly-alliance-hd-remaster-community-archive-variant-slus-20423-20260912"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-mk-shaolin-monks-slus-21087-20240327, bl4ckh4nd-mortal-kombat-shaolin-monks-slus-21087-20260728, pcsx2-hd-texture-packs-community-archive-mortal-kombat-deadly-alliance-hd-remaster-community-archive-variant-slus-20423-20260912",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "6A210D2D653BC9B7E6BFA6C5E800D3DBCD37D3396561B4C632BC7FF3A8BBBF98",
+              "contentSetSha256": "516AA0FA4B8C9DEC41A9227038EF30E837CC89E4A80C8B0E36A45D4821E328DA",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-teenage-mutant-ninja-turtles-hd-remaster-community-archive-variant-slus-20716-20260912",
+          "sourceArtifact": "Teenage Mutant Ninja Turtles (USA) [SLUS-20716] HD Remaster.rar",
+          "sourceSha256": "C52956E4EB5207E1EE047B5A76CAF1A899F9C670F2677EF60B11F134F9F65556",
+          "assetName": "iav-teenage-mutant-ninja-turtles-slus-20716.zip",
+          "normalizedSha256": "581D829A70F8D1729130AAD4F97FE2D284866D092237ECB554591EFAE9FB732C",
+          "manifestSha256": "9E22B1F709994D9E7DCF6B96609406E1D60D2BE90425B5E2CD98C352D29E6925",
+          "contentSetSha256": "C399875DF273A7A3C8C706875F01D97706BDAEBAC1A9C5D9336C590BB87DB232",
+          "comparedAgainst": [
+            "sal9im-teenage-mutant-ninja-turtles-slus-20716-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: sal9im-teenage-mutant-ninja-turtles-slus-20716-20260726",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "9E22B1F709994D9E7DCF6B96609406E1D60D2BE90425B5E2CD98C352D29E6925",
+              "contentSetSha256": "C399875DF273A7A3C8C706875F01D97706BDAEBAC1A9C5D9336C590BB87DB232",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-the-punisher-hd-remaster-community-archive-variant-slus-20864-20260912",
+          "sourceArtifact": "The Punisher (USA) [SLUS-20864] HD Remaster.rar",
+          "sourceSha256": "E6FA76930A0947804D9271FD7E3688DA2D942BA88B35719C377E389D18333DB2",
+          "assetName": "iav-the-punisher-slus-20864.zip",
+          "normalizedSha256": "5A3A0512325F627B436C32D6A60623FE89BA52AC38D7E54F98D74070BFBE74A4",
+          "manifestSha256": "427C46360ECB90244A7EBE63E4C913F5D03BA63D5FD0BF73DC50E3F5F1731C61",
+          "contentSetSha256": "18AE9106504B853964047961D88B30E40A3C61C3C6CF26789FEA9226DE0F1D8B",
+          "comparedAgainst": [
+            "bl4ckh4nd-the-punisher-slus-20864-20260728",
+            "v01dxix-the-punisher-slus-20864-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-the-punisher-slus-20864-20260728, v01dxix-the-punisher-slus-20864-20260728",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "427C46360ECB90244A7EBE63E4C913F5D03BA63D5FD0BF73DC50E3F5F1731C61",
+              "contentSetSha256": "18AE9106504B853964047961D88B30E40A3C61C3C6CF26789FEA9226DE0F1D8B",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-fatal-frame-ii-crimson-butterfly-hd-remaster-community-archive-variant-slus-20766-20260912",
+          "sourceArtifact": "Fatal Frame II Crimson Butterfly (USA) [SLUS-20766] HD Remaster.rar",
+          "sourceSha256": "64493548CCC393F089091FC429D05B606DCAB50C85774C51A1C5861F9676FCD0",
+          "assetName": "iav-fatal-frame-ii-crimson-butterfly-slus-20766.zip",
+          "normalizedSha256": "9642DBEE583E8B2B91EA491A707C44BE15C8491C17226C6C01BEDF97E01830F8",
+          "manifestSha256": "D232D4BD4C756D324709B68900884FD77EED54CB19AF64660B3E5EB0DA84D23B",
+          "contentSetSha256": "5C76960D78BD4E725AD9A6D7089A899CB099220972D63C488ACE142778949525",
+          "comparedAgainst": [
+            "panda-venom-fatal-frame-ii-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: panda-venom-fatal-frame-ii-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "D232D4BD4C756D324709B68900884FD77EED54CB19AF64660B3E5EB0DA84D23B",
+              "contentSetSha256": "5C76960D78BD4E725AD9A6D7089A899CB099220972D63C488ACE142778949525",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-the-simpsons-hit-run-hd-remaster-community-archive-variant-slus-20624-20260912",
+          "sourceArtifact": "The Simpsons Hit & Run (USA) [SLUS-20624] HD Remaster.rar",
+          "sourceSha256": "F352DD499CACBBBEE2BE2A3442D8F588D265E50AD151D55A895DA2C53C6B58DA",
+          "assetName": "iav-the-simpsons-hit-run-slus-20624.zip",
+          "normalizedSha256": "E71C40D8D4ECB9C230C7844F3F0A46D41A0A39461871FD941EF14AFB12763C0F",
+          "manifestSha256": "DB3851E8059525A462BAB7ADD23B8F00A517108882AB5BA4AF9E0BE153E6E2A7",
+          "contentSetSha256": "77BE04B81F6BACD4A9F5CB9AAD6E94562B038A548B67C109D4DDD0414C430D99",
+          "comparedAgainst": [
+            "tylermods-simpsons-hit-and-run-slus-20624-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: tylermods-simpsons-hit-and-run-slus-20624-20260726",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "DB3851E8059525A462BAB7ADD23B8F00A517108882AB5BA4AF9E0BE153E6E2A7",
+              "contentSetSha256": "77BE04B81F6BACD4A9F5CB9AAD6E94562B038A548B67C109D4DDD0414C430D99",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-grand-theft-auto-vice-city-stories-hd-remaster-community-archive-variant-slus-21590-20260912",
+          "sourceArtifact": "Grand Theft Auto Vice City Stories (USA) [SLUS-21590] HD Remaster.rar",
+          "sourceSha256": "D56392054F35E138EB0A93976ADCFBD07D572CBAB81ECEF0E24B722189EBFD6B",
+          "assetName": "iav-grand-theft-auto-vice-city-stories-slus-21590.zip",
+          "normalizedSha256": "B514F2E1EC0C9872A8A7E7349E8EAFCFBFF83BF5919D9EE61F4342EDDD730CF0",
+          "manifestSha256": "8F4A2193778D940CDCF1C7CF315CD22E7CD489A2C639CA18A183085646FD3517",
+          "contentSetSha256": "08F895BB4FCEDC50D6EC2B557BD585CDFD824005E232AB5306618CC17F811ABF",
+          "comparedAgainst": [
+            "asi-factory-gta-vcs-pc-textures-latest",
+            "funnynamexyz-vice-city-stories-wip-slus-21590-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: asi-factory-gta-vcs-pc-textures-latest, funnynamexyz-vice-city-stories-wip-slus-21590-20260726",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "8F4A2193778D940CDCF1C7CF315CD22E7CD489A2C639CA18A183085646FD3517",
+              "contentSetSha256": "08F895BB4FCEDC50D6EC2B557BD585CDFD824005E232AB5306618CC17F811ABF",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-god-of-war-ii-hd-remaster-community-archive-variant-scus-97481-20260912",
+          "sourceArtifact": "God of War II (USA) [SCUS-97481] HD Remaster.rar",
+          "sourceSha256": "7CA58322618E129F8F81313D6A910C407C2FA0C32E0D926D232887C925999A18",
+          "assetName": "iav-god-of-war-ii-scus-97481.zip",
+          "normalizedSha256": "4FA4A10663BC7E82612C391AD4066E26E38BE4190260389BBECFDC940C4FF83A",
+          "manifestSha256": "66017EC502F40D2EB42D2D3FE73ED8947AE9D294E8D3A682B271E05CCA5D1444",
+          "contentSetSha256": "77A739AD83C18241143C45FFA6C2CFE197C75C9FD0F8C42010E8A1D420659A92",
+          "comparedAgainst": [
+            "panda-venom-god-of-war-ii-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: panda-venom-god-of-war-ii-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "66017EC502F40D2EB42D2D3FE73ED8947AE9D294E8D3A682B271E05CCA5D1444",
+              "contentSetSha256": "77A739AD83C18241143C45FFA6C2CFE197C75C9FD0F8C42010E8A1D420659A92",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-need-for-speed-underground-2-hd-remaster-community-archive-variant-slus-21065-20260912",
+          "sourceArtifact": "Need for Speed Underground 2 (USA) [SLUS-21065] HD Remaster.rar",
+          "sourceSha256": "E0CFBD399DFA9FD0D7BB46D6F09A6A990C1EAB3CD9A23313C8E1661D9E12BC6A",
+          "assetName": "iav-need-for-speed-underground-2-slus-21065.zip",
+          "normalizedSha256": "46A09F68AEDF1F108CDAE139DE97F4B86B20B8E5319A1C6D22CD1CB52CF961F1",
+          "manifestSha256": "8FEA1869BD1857E9BAA24FAD05C268FF6DF21B3208585E62ACB7999DE68342B9",
+          "contentSetSha256": "8A21D97128798C98600BB56D066D177D7C0C3EC7347BA1D8299BF95B3DF7F3C1",
+          "comparedAgainst": [
+            "bl4ckh4nd-nfs-underground-2-slus-21065-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-nfs-underground-2-slus-21065-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "8FEA1869BD1857E9BAA24FAD05C268FF6DF21B3208585E62ACB7999DE68342B9",
+              "contentSetSha256": "8A21D97128798C98600BB56D066D177D7C0C3EC7347BA1D8299BF95B3DF7F3C1",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-grandia-ii-hd-remaster-community-archive-variant-slus-20194-20260912",
+          "sourceArtifact": "Grandia II (USA) [SLUS-20194] HD Remaster.rar",
+          "sourceSha256": "4F9192A597AAAE680F17D6924D329073ECFA9502C36B5C777C54DC188EF085F1",
+          "assetName": "iav-grandia-ii-slus-20194.zip",
+          "normalizedSha256": "E6A16C41F404CDB5CB2ACC84E4F7219A163DB4BAFA1872BEE155BE5CB6BDA6A4",
+          "manifestSha256": "2237FF48DD6CC50A59806C54DB917C73E8EADD9AC6863CB9CD815F2AA81882E9",
+          "contentSetSha256": "514B5DB4F74B1A736C8FCD5B6E34BB9CD38492DDB28EDFEBC838FC28A293BE94",
+          "comparedAgainst": [
+            "panda-venom-grandia-ii-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: panda-venom-grandia-ii-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "2237FF48DD6CC50A59806C54DB917C73E8EADD9AC6863CB9CD815F2AA81882E9",
+              "contentSetSha256": "514B5DB4F74B1A736C8FCD5B6E34BB9CD38492DDB28EDFEBC838FC28A293BE94",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-nightmare-before-christmas-oogie-s-revenge-hd-remaster-community-archive-variant-slus-20860-20260912",
+          "sourceArtifact": "Nightmare Before Christmas Oogie's Revenge (USA) [SLUS-20860] HD Remaster.rar",
+          "sourceSha256": "E536B791C7A9568A48DA5AB078670F6F9D515372C0FED59FAC43067522531030",
+          "assetName": "iav-nightmare-before-christmas-oogie-s-revenge-slus-20860.zip",
+          "normalizedSha256": "97F563541E63568B1362A89336F0C9C55BEEA2D1589124AC7ED93B08C3EA4B82",
+          "manifestSha256": "2BD9A4088B7E9059505C7F0E72EEFB807EC86165865C9878B5F0D3A3E3BA4E62",
+          "contentSetSha256": "C7935C78AFFA1B655F00621E53302283FCCD66650022264EF1EC751294F3D264",
+          "comparedAgainst": [
+            "retrogenerica-nightmare-before-christmas-oogies-revenge-slus-20860-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: retrogenerica-nightmare-before-christmas-oogies-revenge-slus-20860-20260726",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "2BD9A4088B7E9059505C7F0E72EEFB807EC86165865C9878B5F0D3A3E3BA4E62",
+              "contentSetSha256": "C7935C78AFFA1B655F00621E53302283FCCD66650022264EF1EC751294F3D264",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-tenchu-fatal-shadows-hd-remaster-community-archive-variant-slus-21129-20260912",
+          "sourceArtifact": "Tenchu Fatal Shadows (USA) [SLUS-21129] HD Remaster.rar",
+          "sourceSha256": "D0EDDF78AE086F3887A712C0A6CFE73EA2D8F739709BFECF7B7D6A534DFBB392",
+          "assetName": "iav-tenchu-fatal-shadows-slus-21129.zip",
+          "normalizedSha256": "303FDF9C083FAE639CF6B22FE0FB8B9E3572EF0D9A5D198960E00A51D6908358",
+          "manifestSha256": "55C291438295E5C6B286C8CFAA113E5A1C512AF03DF25F0AB7AF1049CA66C8C4",
+          "contentSetSha256": "92CAA81FFA7396E3202AE17EF9348DADEED89490543FE49C9868BC2E4B0F56AC",
+          "comparedAgainst": [
+            "sombertwilight-tenchu-fatal-shadows-slus-21129-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: sombertwilight-tenchu-fatal-shadows-slus-21129-20260728",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "55C291438295E5C6B286C8CFAA113E5A1C512AF03DF25F0AB7AF1049CA66C8C4",
+              "contentSetSha256": "92CAA81FFA7396E3202AE17EF9348DADEED89490543FE49C9868BC2E4B0F56AC",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-the-suffering-hd-remaster-community-archive-variant-slus-20636-20260912",
+          "sourceArtifact": "The Suffering (USA) [SLUS-20636] HD Remaster.rar",
+          "sourceSha256": "DFFB62295D53BEA0E8BBEFFBF1037BD38D35E0AD4E6C4A7048DC06DAC040CAED",
+          "assetName": "iav-the-suffering-slus-20636.zip",
+          "normalizedSha256": "F7B668ECE8D3F406B76CBBB2D2FB0B842280AB910DF289901FD6D0BCB8B5BE27",
+          "manifestSha256": "84C43817C4509E7A0C22ECE556518343BA3E9C4CC0E609D54847969FFA954B57",
+          "contentSetSha256": "D54B649D152E8F3DE8F0C0D6F2588C3BD913705B31A6255277AF16AFC2AFA4B8",
+          "comparedAgainst": [
+            "bl4ckh4nd-the-suffering-slus-20636-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-the-suffering-slus-20636-20260728",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "84C43817C4509E7A0C22ECE556518343BA3E9C4CC0E609D54847969FFA954B57",
+              "contentSetSha256": "D54B649D152E8F3DE8F0C0D6F2588C3BD913705B31A6255277AF16AFC2AFA4B8",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-ratchet-clank-going-commando-hd-remaster-community-archive-variant-scus-97268-20260912",
+          "sourceArtifact": "Ratchet & Clank Going Commando (USA) [SCUS-97268] HD Remaster.rar",
+          "sourceSha256": "1FA89B10A1C5F0DE7D511618B22B8E542B87E337397C61C9AE16948BD97EA25F",
+          "assetName": "iav-ratchet-clank-going-commando-scus-97268.zip",
+          "normalizedSha256": "173C0DF313C211C278FB81A4846A2A44EA642AC5B1ECD5924F56BE1F572C03ED",
+          "manifestSha256": "B212BB8D1709C4131E37980FD7A66B4B15578B284C89B5DCE5F59AE93E7EF6FA",
+          "contentSetSha256": "4A32FA5143574F6C57ABE86AB1868568CA007F4DB1D20443CE3DEE483FA5E577",
+          "comparedAgainst": [
+            "panda-venom-ratchet-going-commando-scus-97268-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: panda-venom-ratchet-going-commando-scus-97268-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "B212BB8D1709C4131E37980FD7A66B4B15578B284C89B5DCE5F59AE93E7EF6FA",
+              "contentSetSha256": "4A32FA5143574F6C57ABE86AB1868568CA007F4DB1D20443CE3DEE483FA5E577",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "pcsx2-hd-texture-packs-community-archive-tekken-tag-tournament-hd-remaster-community-archive-variant-slus-20001-20260912",
+          "sourceArtifact": "Tekken Tag Tournament (USA) [SLUS-20001] HD Remaster.rar",
+          "sourceSha256": "DB49417BA2C0ABE5BAED3C4A3A24A96EADEC751873385AB560C2891DFD912806",
+          "assetName": "iav-tekken-tag-tournament-slus-20001.zip",
+          "normalizedSha256": "908CAE56D4915F4BB06B82D450319B6065B5E7F26435EC6CBF9130E222268FE9",
+          "manifestSha256": "F1FE5B0EBA1CE80B9FB742A71BD5245DD82001B8C7E2ACB69E7A39B60FA8008E",
+          "contentSetSha256": "D04C42AA45DB08807810EC7BFD31B6D01BF73A2173B8BA4EDAC7CCE0475CF81B",
+          "comparedAgainst": [
+            "bl4ckh4nd-tekken-tag-tournament-slus-20001-20260722"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Content-hash-distinct variant compared with published serial matches: bl4ckh4nd-tekken-tag-tournament-slus-20001-20260722",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "F1FE5B0EBA1CE80B9FB742A71BD5245DD82001B8C7E2ACB69E7A39B60FA8008E",
+              "contentSetSha256": "D04C42AA45DB08807810EC7BFD31B6D01BF73A2173B8BA4EDAC7CCE0475CF81B",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
