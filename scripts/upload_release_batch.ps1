@@ -186,6 +186,12 @@ try {
     }
 
     $release = Get-Release -Token $token
+    $existingAssets = @(Get-ReleaseAssets -Token $token -ReleaseId $release.id)
+    $existingNames = @($existingAssets | ForEach-Object { [string]$_.name })
+    $newAssetCount = @($expectedNames | Where-Object { $_ -notin $existingNames }).Count
+    if ($existingAssets.Count + $newAssetCount -gt 1000) {
+        throw "Batch would exceed GitHub's 1,000-assets-per-release limit."
+    }
     $results = @()
     foreach ($file in $files) {
         $localSize = [Convert]::ToInt64($file.Length)

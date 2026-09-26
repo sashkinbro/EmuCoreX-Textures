@@ -2,9 +2,9 @@
 
 Curated texture-pack catalog consumed by the EmuCoreX texture manager.
 
-The Git history contains metadata only. Texture archives stay in the original
-author's GitHub Releases or, when redistribution is explicitly allowed, in this
-repository's Releases. Git LFS must not be used.
+The Git history contains metadata only. Texture archives are hosted as assets
+in this repository's Releases, with original creators and source pages credited
+in the catalog. Git LFS must not be used.
 
 ## Files
 
