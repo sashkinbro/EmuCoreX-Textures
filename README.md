@@ -25,7 +25,7 @@ Every pack keeps its original author, credits, source link, immutable download
 URL or multipart URLs, archive size, SHA-256 digest, and supported game serials.
 
 The current catalog contains 671 verified packs covering 583 regional game
-serials and 2,931,731 replacement texture files. Archives are inspected
+serials and 2,916,634 replacement texture files. Archives are inspected
 before publication; source-only projects, screenshots and emulator-incompatible
 dumps are not listed as downloadable packs.
 

@@ -3169,13 +3169,49 @@
         },
         {
           "catalogId": "texture-pack-credited-to-bl4ckh4nd-007-from-russia-with-love-hd-remaster-community-archive-slus-21282-20260728",
-          "sourceArtifact": "007 From Russia With Love (USA) [SLUS-21282] HD Remaster.rar",
-          "sourceSha256": "A3B6C28A90FD8F3F0E71E1768859CE6F262E74E2153EEDC821AAA96DAEFB6871",
-          "assetName": "ia-007-from-russia-with-love-slus-21282.zip",
-          "normalizedSha256": "0A46BC5BBD3CB97E3DFB13CB3CD0C27739869C6374C492BC11E77F44B3EFC4D0",
-          "manifestSha256": "32AAF157DC52274CBC0DB6737B2DB2DEA1CED30B84D98921CC3B131167BF6673",
-          "contentSetSha256": "2FF1FD9A74FC70552C3C90E04FAF54F4390786CBB1B608C7A476A947B5E0EDBF",
-          "comparedAgainst": []
+          "sourceArtifact": "007 From Russia With Love Upscaled Enhanced Texture Pack.zip",
+          "sourceSha256": "16CE9168C6B2CA1341A3EB28A73F0D907CB617F4E71CC7574AA8FCB6341A3EAA",
+          "assetName": "ia-007-from-russia-with-love-slus-21282-runtime.zip",
+          "normalizedSha256": "D84D65B491433ED76CADF4CA6B42A25F7ABB671563221A338ECD8A3485B8419C",
+          "manifestSha256": "6C096207616EAF480EE1D7DDA336E33A69A01AB6F9635BCF89493DFCEEC25A49",
+          "contentSetSha256": "0834617170809148998311936CAE83B35CC443A43A61B8E687EA53E2B7013892",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Thomas Weissenfluh original archive; selected SLUS-21282/replacements subtree only",
+              "sourceUrl": "https://archive.org/details/007-from-russia-with-love-upscaled-enhanced-texture-pack",
+              "manifestSha256": "6C096207616EAF480EE1D7DDA336E33A69A01AB6F9635BCF89493DFCEEC25A49",
+              "contentSetSha256": "0834617170809148998311936CAE83B35CC443A43A61B8E687EA53E2B7013892",
+              "relationToPublished": "different"
+            }
+          ],
+          "correction": {
+            "replacesAssetName": "ia-007-from-russia-with-love-slus-21282.zip",
+            "replacesSha256": "0A46BC5BBD3CB97E3DFB13CB3CD0C27739869C6374C492BC11E77F44B3EFC4D0",
+            "sourceLicenseMetadata": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "sourceSizeBytes": 1971133036,
+            "sourceSha1": "FCEE59223701BFE592A74EC583DF33814283E645",
+            "sourceMd5": "10305A8F9DB993B375C7D10B1B4A4858",
+            "selectedRuntimeFiles": 15097,
+            "excludedNonRuntimeFiles": 15097,
+            "runtimeBytesUncompressed": 1865055347,
+            "fullSourceComparedToOldPublished": {
+              "sourceDerivedFullArchiveSha256": "E5501BE0A87EF05BFDA64C007780CE9F210C36FA7E8FDBCBA785446A6367D3C0",
+              "oldPublishedSha256": "0A46BC5BBD3CB97E3DFB13CB3CD0C27739869C6374C492BC11E77F44B3EFC4D0",
+              "sharedPaths": 30194,
+              "identicalFilesAtSharedPaths": 30194,
+              "sharedFileContents": 30194,
+              "pathJaccard": 1.0,
+              "contentJaccard": 1.0
+            },
+            "runtimeComparedToOldPublished": {
+              "sharedPaths": 15097,
+              "identicalFilesAtSharedPaths": 15097,
+              "sharedFileContents": 15097,
+              "pathJaccard": 0.5,
+              "contentJaccard": 0.5
+            }
+          }
         },
         {
           "catalogId": "original-texture-creator-is-not-identified-in-the-public-mirror-preserved-by-the-pcsx2-hd-texture-packs-community-archive-007-nightfire-hd-remaster-community-archive-slus-20579-20260728",

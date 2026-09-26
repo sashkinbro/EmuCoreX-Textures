@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T21:19:41Z",
+  "generatedAt": "2026-09-26T21:53:21Z",
   "entries": [
     {
       "id": "xxtherockoxx-prince-of-persia-two-thrones-slus-21287-20260722",
@@ -5631,20 +5631,32 @@
     },
     {
       "id": "texture-pack-credited-to-bl4ckh4nd-007-from-russia-with-love-hd-remaster-community-archive-slus-21282-20260728",
-      "name": "007 From Russia With Love HD Remaster - Community Archive Texture Pack",
+      "name": "007 From Russia With Love Upscaled Enhanced Texture Pack",
       "gameTitle": "007 From Russia With Love",
-      "serials": ["SLUS-21282"],
-      "version": "Complete public source snapshot",
-      "authors": ["Texture pack credited to Bl4ckH4nd", "ThomasWeissenfluh by the curated PCSX2 HD Texture Project list; original archive filename", "cryptographic source hashes retained by EmuCoreX."],
-      "credits": "HD texture pack credited by the source to Texture pack credited to Bl4ckH4nd & ThomasWeissenfluh by the curated PCSX2 HD Texture Project list; original archive filename and cryptographic source hashes retained by EmuCoreX.; normalized and mirrored by EmuCoreX.",
-      "description": "A North American high-resolution replacement pack prepared for current PCSX2 builds.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/ia-007-from-russia-with-love-slus-21282.zip",
-      "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
-      "license": "See source page terms",
-      "sizeBytes": 1964699258,
-      "sha256": "0A46BC5BBD3CB97E3DFB13CB3CD0C27739869C6374C492BC11E77F44B3EFC4D0",
-      "fileCount": 30194,
-      "previewUrls": []
+      "serials": [
+        "SLUS-21282"
+      ],
+      "version": "NTSC-U (USA) original author pack",
+      "authors": [
+        "Thomas Weissenfluh"
+      ],
+      "credits": "Texture replacement pack created by Thomas Weissenfluh. Mirrored by EmuCoreX as a runtime-only ZIP; source archive and author attribution retained.",
+      "description": "North American (NTSC-U) replacement textures for 007 From Russia With Love.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/ia-007-from-russia-with-love-slus-21282-runtime.zip",
+      "sourceUrl": "https://archive.org/details/007-from-russia-with-love-upscaled-enhanced-texture-pack",
+      "license": "Author-uploaded archive is marked Public Domain Mark 1.0 (https://creativecommons.org/publicdomain/mark/1.0/); this mark is not a license grant.",
+      "sizeBytes": 1830919686,
+      "sha256": "D84D65B491433ED76CADF4CA6B42A25F7ABB671563221A338ECD8A3485B8419C",
+      "fileCount": 15097,
+      "previewUrls": [],
+      "correctionHistory": [
+        {
+          "date": "2026-09-27",
+          "reason": "Corrected a misattributed catalog record and removed non-runtime dump files from the downloadable ZIP. The original catalogued archive was content-identical to the full Thomas Weissenfluh source archive; the corrected asset retains only the SLUS-21282/replacements subtree.",
+          "previousDownloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/ia-007-from-russia-with-love-slus-21282.zip",
+          "previousSha256": "0A46BC5BBD3CB97E3DFB13CB3CD0C27739869C6374C492BC11E77F44B3EFC4D0"
+        }
+      ]
     },
     {
       "id": "original-texture-creator-is-not-identified-in-the-public-mirror-preserved-by-the-pcsx2-hd-texture-packs-community-archive-007-nightfire-hd-remaster-community-archive-slus-20579-20260728",
