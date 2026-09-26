@@ -7538,6 +7538,746 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "2026-09-26-020",
+      "verifiedAt": "2026-09-26T21:14:49Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "yamijpg-gun-pal-sles-53523-20260926",
+          "sourceArtifact": "gun-sles-53523-yamijpg.zip",
+          "sourceSha256": "2342198B7BC31413BE5752EBE25A6D8CBE7F17FCC090B47F79310045F4BA4039",
+          "assetName": "gun-yamijpg-sles-53523.zip",
+          "normalizedSha256": "0653DAA6105A6292C07FE60DB734B7993AED5AF0AD47FFA8EE37027867A70DE2",
+          "manifestSha256": "4E65CD5E1DDCD7C518BE96760AD5D58221F26F50BF07A1C06483DF64B128E4A7",
+          "contentSetSha256": "AD53BF1FBA7DFCEC83045039885B8D7E8E7439AC205B7D08F03C07F4102897B8",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "yamijpg-bloody-roar-4-slus-20795-20260926",
+          "sourceArtifact": "bloody-roar-4-yamijpg.zip",
+          "sourceSha256": "8C615569AB35D0AF6B86390AA6AB721786E228633C5FF584220A07979CFEC530",
+          "assetName": "bloody-roar-4-yamijpg-slus-20795.zip",
+          "normalizedSha256": "A0E6DE07585DAC3599A81FEDFCF4106B73E7F39BD8B28B1178DFCFDD8F41E7E9",
+          "manifestSha256": "8A67507C021C2F864089095075B857487699054B58B0AADD42F0D69B5062F1DF",
+          "contentSetSha256": "1B93853E64D0DFE932FC9B27BF17B9C6B0714D4EA17187460B7D53D240CF7E8C",
+          "comparedAgainst": [
+            "panda-venom-bloody-roar-4-20260722",
+            "meskh4h4-bloody-roar-4-dds-vivid-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-dds-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-png-vivid-slus-20795-v1",
+            "meskh4h4-bloody-roar-4-png-slus-20795-v1",
+            "pcsx2-hd-texture-packs-community-archive-bloody-roar-4-hd-remaster-community-archive-variant-slus-20795-20260912"
+          ]
+        },
+        {
+          "catalogId": "trjta-rayman-2-revolution-slus-20138-20260926",
+          "sourceArtifact": "rayman-2-trjta.zip",
+          "sourceSha256": "50734969AB871A45ECBC38439F7D6BEA14EB70A0B73FD8D27927F40093EF67E6",
+          "assetName": "rayman-2-revolution-trjta-slus-20138.zip",
+          "normalizedSha256": "3C66DE16D7FEAB892C0C079A964711437AD5CA36EB3D625BD7A0AC4E3D791B7A",
+          "manifestSha256": "E66E7A70098506EBC6A013DF7FCAAF5AA5854DEC1F64CDC1E30FE93FAEA177C9",
+          "contentSetSha256": "DACB86CFC52713451707D5C706570E9CE0754D5EEFE89E7665B2F282157CB7C4",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "huekage-black-v2-slus-21376-sles-53886-20260926",
+          "sourceArtifact": "black-huekage-v2.zip",
+          "sourceSha256": "9D260E5C89CBB7B40BAAC909575E5C1ACB473BE081F47AF04C8C9EA35FA0F582",
+          "assetName": "black-huekage-v2-slus-21376-sles-53886.zip",
+          "normalizedSha256": "66B2A9424B126CC0213E3C7920158BA8969603CDC22AB5B21C5AE471519F9B30",
+          "manifestSha256": "FF9999EA93DF4F456B3EEF916AC5893DD7C501B512BF068939FDCBB851556F6F",
+          "contentSetSha256": "A570C0DFBCF26DF9CCCC67B32DF0E3D41AEC30C3E5EB10593F4F28FA86DB53DB",
+          "comparedAgainst": [
+            "texture-pack-credited-to-cckrizalid-by-the-curated-pcsx2-hd-texture-project-list-original-archive-filename-black-hd-remaster-community-archive-slus-21376-20260728"
+          ]
+        },
+        {
+          "catalogId": "missspelled-mgs3-pride-sles-82032-20260926",
+          "sourceArtifact": "mgs3-pride-flags-sles-82032.zip",
+          "sourceSha256": "37D51D536CCBF6D2E4E8BB608BC529338A9AA3CDC48B1F58E4A8378ADB823B12",
+          "assetName": "mgs3-pride-flags-missspelled-sles-82032.zip",
+          "normalizedSha256": "F8515AA4BF008A481CA477DD52DB28FCFF3F23EE972CF3A80DE83D5D91D3647C",
+          "manifestSha256": "B7E8175FE1746E86B4F981DF327671C64C34D9C5D98DB21A575BBAED4229EE42",
+          "contentSetSha256": "823A11DC514D95978315861FC5DCCE3DB57C2C29F15755E2EB845EBF97EDC8F8",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "huekage-dbz-sagas-v2-1-slus-20874-20260926",
+          "sourceArtifact": "dbz-sagas-huekage-v2-1.zip",
+          "sourceSha256": "127EE6B5CAE1BB68268B48D8C0C1633FF6B7E26309FF312A937FCE22A9F1C3CD",
+          "assetName": "dbz-sagas-huekage-v2-1-slus-20874.zip",
+          "normalizedSha256": "1B36D1B1D2AFFEB30E57784820F05FBD13A9445D7DE4053D0EFB3EC59FD817AB",
+          "manifestSha256": "0212E1A242A301CC5CFB9D5E41FC7AA0D530356CCD52FEAAE5E072186BDC1158",
+          "contentSetSha256": "2958EFB17CEC3496F06817296B3EE13392BC0C1A384CE6D3B6031D9E6AF59485",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "huekage-god-of-war-ii-v2-scus-97481-sces-54206-20260926",
+          "sourceArtifact": "god-of-war-2-huekage-v2.zip",
+          "sourceSha256": "D4A3BCD877921BB2B3D29CDECC3D949399A8B9F50B8F979FF6561716DAB901DA",
+          "assetName": "god-of-war-2-huekage-v2-scus-97481-sces-54206.zip",
+          "normalizedSha256": "43E6C9AE709DFFBA6E095C9A64BED54CC1D6A0A3FE7E3FDB95FE62FF0F2BE2D5",
+          "manifestSha256": "3FD871F762DABC25CE4801876971D905ED958DEDB6B41BF26D6B9872130689C7",
+          "contentSetSha256": "73BDB2293C45863BB4B196061AD7D327853B2DFA15DEDFD39BA12A2177F7C478",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "huekage-god-of-war-v2-scus-97399-sces-53133-20260926",
+          "sourceArtifact": "god-of-war-1-huekage-v2.zip",
+          "sourceSha256": "F1E6791CAFD7E6AB38B5AEFE5481825AD36EA540C1F3EB27DE1A03BE7FBD8D12",
+          "assetName": "god-of-war-1-huekage-v2-scus-97399-sces-53133.zip",
+          "normalizedSha256": "3B7C1A35089EBA6F79297ABD123191336B5DCD0A12A4CD34D8920AB3301FAE79",
+          "manifestSha256": "6FA36EC37301C30AA2C3BE2287AD48F1273DF612CAEF721A052BE4BCDA7C1428",
+          "contentSetSha256": "0242FED8DA2947225342768AECF25D8C96D1AAD1A0F376CD4DB713AFEE379E38",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-batman-vengeance-hd-slus-20226-20260926",
+          "sourceArtifact": "batman-vengeance-callofcthuloo-hd.zip",
+          "sourceSha256": "EC7E5A6BE9EFFE345D5DDD7882FD47CC97928EB8B1DFEACA0CF45F1ADF3657F7",
+          "assetName": "batman-vengeance-callofcthuloo-hd-slus-20226.zip",
+          "normalizedSha256": "655C9D05A752F9D2CE8481F7F542ABD352FF7F0AC78C99C974C0A6CCDED00BA1",
+          "manifestSha256": "40E593D62648ABD0297C100A9102115CAA53669A62B59555B932462FC0975277",
+          "contentSetSha256": "400ABB8B42CC432FDE6AB3DC9B4D66F8D6CFDB6036E6B0F5EE102E38B4F31745",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "callofcthuloo-batman-vengeance-4k-slus-20226-20260926",
+          "sourceArtifact": "batman-vengeance-callofcthuloo-4k.zip",
+          "sourceSha256": "6DCEF0CDA6B4D0FE857FDE2E57AFEDD45D3BEC2EA0A0CD673BFA8532862C6860",
+          "assetName": "batman-vengeance-callofcthuloo-4k-slus-20226.zip",
+          "normalizedSha256": "C61ADA2ABECD42D27B231C2E1B88969D6C9FC747CD0B8340FBE06A16C08C4A4A",
+          "manifestSha256": "39C8666ED4C6D6C72B3C8FD5D485690F6E4735B3335A77926AE20FD16410AEE2",
+          "contentSetSha256": "8B13D2463C7B4127C29906582F6FB0281B225C27473D07F52218AD69DE920A78",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author supplied separate HD and 4K ZIPs in one outer archive. | 4K has 117 additional textures and all 100 sampled corresponding images have larger pixel dimensions.",
+              "sourceUrl": "https://gbatemp.net/threads/batman-vengeance-slus-20226-hd-texture-pack-upscale.683487/",
+              "manifestSha256": "39C8666ED4C6D6C72B3C8FD5D485690F6E4735B3335A77926AE20FD16410AEE2",
+              "contentSetSha256": "8B13D2463C7B4127C29906582F6FB0281B225C27473D07F52218AD69DE920A78",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-021",
+      "verifiedAt": "2026-09-26T21:15:26Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "mironter-crazy-frog-racer-2-20260926",
+          "sourceArtifact": "crazy-frog-racer-2-mironter-source.zip",
+          "sourceSha256": "4D0197ABEDD0741731E47F26433E2780BE0C22E5C3972B8AABE95D5FAF84E922",
+          "assetName": "crazy-frog-racer-2-mironter-slus-21634.zip",
+          "normalizedSha256": "879B96E03A544349899231E1A372FDE552F87B7F6DE3C8BD9C56B91F7F9D213F",
+          "manifestSha256": "8B8E8922393F0A47AA2D84CE5F5A77A1C58D4630DA179F25FCCBCE91C85B9A38",
+          "contentSetSha256": "AF94F8554857B886640C02B28701AEED000C4C2936BC74EEC3B4BB43C62A1C5D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "mironter-arthur-and-the-invisibles-20260926",
+          "sourceArtifact": "arthur-and-invisibles-mironter-source.zip",
+          "sourceSha256": "443DD6BD1E0AF5C3895A502305C2A43882914E3D07ABB136389A09BCFEFBDD29",
+          "assetName": "arthur-and-invisibles-mironter-slus-21305-sles-54420.zip",
+          "normalizedSha256": "2177F7660C87B6C4F618114CEDE56A1E80FB7395158D748D60000D8E587B80DC",
+          "manifestSha256": "5123D6EB5057EAD0715C2E072D42D3421D921E563E56548246D15C816AF81466",
+          "contentSetSha256": "4071A2FA4977853EF810E38A09F14BF6577D62892C057B89D1B1CDB7DCC7C0A3",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "mironter-midnight-club-ii-20260926",
+          "sourceArtifact": "midnight-club-2-mironter-source.zip",
+          "sourceSha256": "436F9BF095561A276DBDC8CBB6D51E57963343A70410B63C722B55F19824C264",
+          "assetName": "midnight-club-2-mironter-slus-20209.zip",
+          "assetParts": [
+            "midnight-club-2-mironter-slus-20209.zip.part001",
+            "midnight-club-2-mironter-slus-20209.zip.part002"
+          ],
+          "normalizedSha256": "EAB01E41693A610C197E62A2680DBB85FF8A0579ECA2F67E5A2401E13EF8DA5A",
+          "manifestSha256": "6875F23EED4499512B8A5BC29C352F1D94FC1BEDE2F2FE9B6D920EF12B13F7F7",
+          "contentSetSha256": "7B2293932A23CF9774EC68ABC2BE2745A8A1FEEB9A5841177DD8CC7C54B6D6FA",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "mironter-burnout-2-point-of-impact-20260926",
+          "sourceArtifact": "burnout-2-mironter-source.zip",
+          "sourceSha256": "2DFB21C0C663B6DFB3E7C2EECB69D6E5374940F804068E69E5A7B75FED8695E0",
+          "assetName": "burnout-2-mironter-slus-20497.zip",
+          "assetParts": [
+            "burnout-2-mironter-slus-20497.zip.part001",
+            "burnout-2-mironter-slus-20497.zip.part002"
+          ],
+          "normalizedSha256": "930E841CD5A429701E0ECDDBD3D1B40DC66C1BF302C83D6179832E1BD17BAB56",
+          "manifestSha256": "0BA66233D8472E7DA43067A862B5547D1C6E28473ABE25C88DD966A6DCB33211",
+          "contentSetSha256": "A1A1DB03422AE7E230315FA83A5C9F5EC092315A8521A1C76A8F7E064356F929",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ops-guitar-hero-encore-rocks-80s-20260926",
+          "sourceArtifact": "guitar-hero-encore-ops-slus-21586-source.zip",
+          "sourceSha256": "A0DBC5CA63F53D5D3B1016D051E5D542F87DC34FF9EDE362D986E6A8FB94B2D8",
+          "assetName": "guitar-hero-encore-ops-slus-21586.zip",
+          "normalizedSha256": "C2043238AD486E390B9025208FEC5BF51734ADFAB38938B567D2D5EA57A1CAF8",
+          "manifestSha256": "439D4DF645F476C0141C6878BE40D9FE023177B5A66C420F6FE6A6FE20415F8A",
+          "contentSetSha256": "122EE6EBF52722F265D49345F4918BCEBCF4EBD3CCB0BA00668CCDCA41BF22BC",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "meskh4h4-inuyasha-feudal-combat-normal-20260926",
+          "sourceArtifact": "inuyasha-meskh4h4-png.rar",
+          "sourceSha256": "EC930A1DA545AEC21C6A4DC021855BA46DB33C36A54EBD4DFC138051184D1D58",
+          "assetName": "inuyasha-meskh4h4-png-slus-21193.zip",
+          "normalizedSha256": "4C1D25C33FBAA18C8ABE255C316B35691A75ED8B6238A0BE9FD09B3378A5C747",
+          "manifestSha256": "D43F07CE59E3F818C87490322593AB1DD164BD2CCD3604314DB86CE9E8A6345F",
+          "contentSetSha256": "C501D8D0CA7C3515BBDEA1F8870CAD28CBB6D6F952B87095756A4727530D27F7",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "meskh4h4-inuyasha-feudal-combat-vivid-20260926",
+          "sourceArtifact": "inuyasha-meskh4h4-png-vivid.rar",
+          "sourceSha256": "8384481C010955CBBCE4CDD69CBC6152822094D87E468A9425DC9FA823B1F94A",
+          "assetName": "inuyasha-meskh4h4-png-vivid-slus-21193.zip",
+          "normalizedSha256": "2A332FBAD4EA14B719D0A0597A1ED147FF6BF30C283B1A2EDAC6448326FB4077",
+          "manifestSha256": "3AC4A3D40A0C37181F485F3BB41FA8CE7BD25586D58B8F31D07189A9BE3ACEFB",
+          "contentSetSha256": "DFF2D95FACDF810E998A5D48C70CC22E58AEB9B10D61C9E402B4748CB1871740",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author released Normal and Vivid color variants separately. | 100 corresponding PNGs share dimensions but none are pixel-identical; mean RGB difference 4.13/255.",
+              "sourceUrl": "https://github.com/MESKH4H4/InuYasha-Feudal-Combat/releases/tag/1.0",
+              "manifestSha256": "3AC4A3D40A0C37181F485F3BB41FA8CE7BD25586D58B8F31D07189A9BE3ACEFB",
+              "contentSetSha256": "DFF2D95FACDF810E998A5D48C70CC22E58AEB9B10D61C9E402B4748CB1871740",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "meskh4h4-galactic-wrestling-normal-20260926",
+          "sourceArtifact": "galactic-wrestling-meskh4h4-png.rar",
+          "sourceSha256": "C7AC4757B2FBDEB04CB7F1279AEC8DED7145BF1DFC0F665A6FE2B1564FCDD754",
+          "assetName": "galactic-wrestling-meskh4h4-png-slus-20822.zip",
+          "normalizedSha256": "A1162BF1AAC3F2A4E0C8F5093E7C08BEC54D62DC1B1C8AAD33DA12659554392A",
+          "manifestSha256": "1FDA2F06C83F0B72861502F45824EE29E1E93C853FC004CB756C1F79D9A3A5E1",
+          "contentSetSha256": "946A7096B698111C15F2A158F1282F6D4AA6C2D34AD53A41EFF0107DEE920113",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "meskh4h4-galactic-wrestling-vivid-20260926",
+          "sourceArtifact": "galactic-wrestling-meskh4h4-png-vivid.rar",
+          "sourceSha256": "BCD274DB743B3687182B45E393F65999D683747D9D4FB14C130EFDB1FC0EBD46",
+          "assetName": "galactic-wrestling-meskh4h4-png-vivid-slus-20822.zip",
+          "normalizedSha256": "FC8B588CD5F899A4AE4AF42122B18D9770CD8BEB2C5F1EE1ED6956748A2EEA69",
+          "manifestSha256": "75028EB8C03F12D4227B6F3D1C27F5D880C9496A551FEFBEB703E6DA0FD404CE",
+          "contentSetSha256": "6B16890F13F02592674577B983B742559DC612EC0BB2B9F6BC3A10CE0B977B8C",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author released Normal and Vivid color variants separately. | 100 corresponding PNGs share dimensions but none are pixel-identical; mean RGB difference 4.50/255.",
+              "sourceUrl": "https://github.com/MESKH4H4/Galactic-Wrestling-Featuring-Ultimate-Muscle/releases/tag/1.0",
+              "manifestSha256": "75028EB8C03F12D4227B6F3D1C27F5D880C9496A551FEFBEB703E6DA0FD404CE",
+              "contentSetSha256": "6B16890F13F02592674577B983B742559DC612EC0BB2B9F6BC3A10CE0B977B8C",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "yamijpg-god-of-war-ii-pal-20260926",
+          "sourceArtifact": "god-of-war-2-yamijpg-sces-54206-source.rar",
+          "sourceSha256": "2F060D8C977688B846303B7BEF351ED6EF676814B36E8D05F469F65ED22D093D",
+          "assetName": "god-of-war-2-yamijpg-sces-54206.zip",
+          "assetParts": [
+            "god-of-war-2-yamijpg-sces-54206.zip.part001",
+            "god-of-war-2-yamijpg-sces-54206.zip.part002"
+          ],
+          "normalizedSha256": "887597BE473542F0B0C4E28FBA4A0DA77C3485C73D26AE4FDE3C7EFDE4B03ECE",
+          "manifestSha256": "114F46ABAA88EC02EF667F5A6A3BCF58A50196C7D0828D8A19533BA25EEA202F",
+          "contentSetSha256": "1A73D8AB9089FEFC69C84B8F75D5FFF6E7C82815FC6992D01A66E193B4655E99",
+          "comparedAgainst": [
+            "huekage-god-of-war-ii-v2-scus-97481-sces-54206-20260926"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-022",
+      "verifiedAt": "2026-09-26T21:16:27Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "meskh4h4-heartbeat-boxing-normal-20260926",
+          "sourceArtifact": "heartbeat-boxing-meskh4h4-png.rar",
+          "sourceSha256": "30E97C8FB190016739E54220374BCCA2523BDECBECAC34E00428677EE2273214",
+          "assetName": "heartbeat-boxing-meskh4h4-png-sles-51865.zip",
+          "normalizedSha256": "FA495980648DD83B0C037DE0EE9942B791A1F77BB165E7F51F7D3566965D3157",
+          "manifestSha256": "E4CADC5EDDD876F1668CFC2CF4087B7D69C067D09386D0B24DB24B971B58A206",
+          "contentSetSha256": "7B7315E7B0A8F1DDA1213BA0B4534A542577F95E4A4DB9E63EEE7558E9D2E949",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "meskh4h4-heartbeat-boxing-vivid-20260926",
+          "sourceArtifact": "heartbeat-boxing-meskh4h4-png-vivid.rar",
+          "sourceSha256": "34BC32B8C0CDBBEE505C26D1A7938658AD22067D9C03B08FBBB2A35E2B7DE620",
+          "assetName": "heartbeat-boxing-meskh4h4-png-vivid-sles-51865.zip",
+          "normalizedSha256": "507EA54284A50CC8E09B2582D9DA547B55E0656091F723BF18919AD53F980819",
+          "manifestSha256": "8C6C8DA574BBD440D8DC27CBC606E491CD500698007148E8B8DBE033BF35296C",
+          "contentSetSha256": "6BEF18C27B87A0191A2C25617FDB850507EC59B1AF7D6B05A0B49070BE175F87",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author published separate Normal and Vivid color options. | 100 corresponding PNGs had matching dimensions and zero pixel-identical pairs; mean RGB difference 5.09/255.",
+              "sourceUrl": "https://github.com/MESKH4H4/Heartbeat-Boxing/releases/tag/1.0",
+              "manifestSha256": "8C6C8DA574BBD440D8DC27CBC606E491CD500698007148E8B8DBE033BF35296C",
+              "contentSetSha256": "6BEF18C27B87A0191A2C25617FDB850507EC59B1AF7D6B05A0B49070BE175F87",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "mironter-test-drive-unlimited-20260926",
+          "sourceArtifact": "test-drive-unlimited-mironter-source.zip",
+          "sourceSha256": "A24C75A32DA5C2973F70EF9A989C001E333177EC087824407C94D6A0F161F996",
+          "assetName": "test-drive-unlimited-mironter-slus-21490.zip",
+          "normalizedSha256": "447B8F6CD84EF52A9275387CF4E08E3B0D5994C0403D1660457D9C42A62CE3E2",
+          "manifestSha256": "A12E4A21B6CBADF2D8A7E602B013A5EF4D573773F4100E45BA98A224EB08748B",
+          "contentSetSha256": "F77A446050C5A33D5E931BE73ED56D6766F21DAE9BF068F5A57B0FFC28227615",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "gustavocontreiras-kelly-slaters-pro-surfer-20260926",
+          "sourceArtifact": "kelly-slaters-slus-20334-source.7z",
+          "sourceSha256": "D88A710F9ED1219A9F4F3E5CD94277DFEE4F508A15D7230FE18014F86DE1D1FC",
+          "assetName": "kelly-slaters-pro-surfer-gustavo-slus-20334.zip",
+          "assetParts": [
+            "kelly-slaters-pro-surfer-gustavo-slus-20334.zip.part001",
+            "kelly-slaters-pro-surfer-gustavo-slus-20334.zip.part002"
+          ],
+          "normalizedSha256": "61E1EBB103D4FA605E7DDAE7484D65CBBF8C320F34D062CBD1C8D7319444EEC7",
+          "manifestSha256": "F001ED4A7D9E118555D3E13AC6B08306D3B719F36C3665267CC805472470B97A",
+          "contentSetSha256": "0B059A3C0A1A0019530CF7DE1860AC33FD742BD8B9F28CE89D477172380B023C",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "hitorihoshi-mana-khemia-2-20260926",
+          "sourceArtifact": "mana-khemia-2-hitorihoshi-source.rar",
+          "sourceSha256": "D2E4E49E3C6FF18FB1432FAEE90AAB5487D6D2C235C61007A48B56A22A237082",
+          "assetName": "mana-khemia-2-hitorihoshi-complete-slus-21890.zip",
+          "assetParts": [
+            "mana-khemia-2-hitorihoshi-complete-slus-21890.zip.part001",
+            "mana-khemia-2-hitorihoshi-complete-slus-21890.zip.part002"
+          ],
+          "normalizedSha256": "66AD919A92F14064D7CD591302F6FA5EB442C9C47E9815BC3C772197FEE46322",
+          "manifestSha256": "43420949EFE4F90756F3300E90B3C40C07C888D49438A2A03149843EDFA6F867",
+          "contentSetSha256": "D609546613C2659B640648AD9B9026F4A37EA7DB6AE2259E041EDC8B91BE1DDB",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "teodor-max-x-files-resist-or-serve-20260926",
+          "sourceArtifact": "x-files-resist-or-serve-teodor-max-slus-20179.7z",
+          "sourceSha256": "B66B15FE20CFCF5700E42AA4E60CBD5C84AE213734F08F29D23FB00BE21A11A0",
+          "assetName": "x-files-resist-or-serve-teodor-max-slus-20179.zip",
+          "assetParts": [
+            "x-files-resist-or-serve-teodor-max-slus-20179.zip.part001",
+            "x-files-resist-or-serve-teodor-max-slus-20179.zip.part002",
+            "x-files-resist-or-serve-teodor-max-slus-20179.zip.part003"
+          ],
+          "normalizedSha256": "73E6B742B1DF7748AC36DD22E72C353D15FFAD1662341173090933CAB98F68CA",
+          "manifestSha256": "F529E45773E0561CE3DD8CB753663E9CF50BAF8FBA52A23B2E25CC039797C710",
+          "contentSetSha256": "FDD65E31FB40FE4D6AEC0B24B5645A2814F0E896D2D846DD95682F78E79D6F1D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "mironter-pimp-my-ride-street-racing-20260926",
+          "sourceArtifact": "pimp-my-ride-street-racing-mironter-source.zip",
+          "sourceSha256": "E503F65CFB9E981A03CA86153912271602E5AE3866DF0BDA8B7F6F8BAE374AD6",
+          "assetName": "pimp-my-ride-street-racing-mironter-slus-21872.zip",
+          "assetParts": [
+            "pimp-my-ride-street-racing-mironter-slus-21872.zip.part001",
+            "pimp-my-ride-street-racing-mironter-slus-21872.zip.part002",
+            "pimp-my-ride-street-racing-mironter-slus-21872.zip.part003"
+          ],
+          "normalizedSha256": "A76293669442967F49D6888A2FCA29928A900BA7D380FA7EC77AAD747F8957C9",
+          "manifestSha256": "6D2FC3CEEE5E46A4B7D2464BAF2F897DEBF6A99C01B13E1A5C4B655013682A42",
+          "contentSetSha256": "1E1464B6A94C321E6AE64F3BF4B78D08DB218C817595760868AF588D15B9BB69",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "foxyausgames-xiii-20260926",
+          "sourceArtifact": "xiii-foxyausgames-slus-20677.7z",
+          "sourceSha256": "B87026287831BAAC8D404F50BDB23206755C095C4699B2519AB5DAB45AC0B88C",
+          "assetName": "xiii-foxyausgames-slus-20677.zip",
+          "normalizedSha256": "49131641F81C267A646858822E6C2A18C920067AC248DE6F650C244D57BD448D",
+          "manifestSha256": "521C919B27A203BF0F85F8C57C3B39BBFD5F51DD2C8AEF758ECEED88A818C2CE",
+          "contentSetSha256": "FD955D22239D28B18EA836C8B6A5E8D787348149BB22296098D52702C437618F",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023a",
+      "verifiedAt": "2026-09-26T21:17:50Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ggamesanalises-25-to-life-20260926",
+          "sourceArtifact": "25-to-life-ggamesanalises-slus-21016-source.rar",
+          "sourceSha256": "2424D6F261D5AD41AEE2A09F626720149BF789D982CFC93BFEA6EB079F3891CE",
+          "assetName": "25-to-life-ggamesanalises-slus-21016.zip",
+          "assetParts": [
+            "25-to-life-ggamesanalises-slus-21016.zip.part001",
+            "25-to-life-ggamesanalises-slus-21016.zip.part002"
+          ],
+          "normalizedSha256": "8A51B78743AA9290DA091446C4BF41B6B9D1A8BA8F0675BED0DF7901EC06C492",
+          "manifestSha256": "A5769D95D9111CCD6D2AD9690BEA6537F396CECDC4CB9D5FE53B9ADB6A0BE94F",
+          "contentSetSha256": "C3BA21D95EDB6B139A81F0AE49CAC5D0D10D81DBD8939D3B8CF3C36DE58AFBC6",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023b",
+      "verifiedAt": "2026-09-26T21:18:06Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "mironter-midnight-club-street-racing-2026-revision-20260926",
+          "sourceArtifact": "midnight-club-street-racing-mironter-source.zip",
+          "sourceSha256": "897BE7D075321B9E2CEB03C915864169BE25915F4FFCAB3E3FF9D3A33F4853E1",
+          "assetName": "midnight-club-street-racing-mironter-2026-slus-20063.zip",
+          "normalizedSha256": "E253A43A45C0D9A8D4F6C7ED15EAFAAA6ACD094380C4D058D91A61C48DAF87D6",
+          "manifestSha256": "D2B9A8B6409FEAFB21E0017177DC86084270CCF920652D285E654540033D0F2D",
+          "contentSetSha256": "6E43E161DE4BBBE03B929F8BF5D97A14F538287439A1A89274C855D993D8DFE8",
+          "comparedAgainst": [
+            "texture-pack-credited-to-mironter-by-the-curated-pcsx2-hd-texture-project-list-original-archive-filename-midnight-club-street-racing-hd-remaster-community-archive-slus-20063-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Earlier snapshot has 2,603 textures; this author source has 5,063. | Across 2,600 shared relative paths, zero files had identical contents; exact content-set and manifest fingerprints differ.",
+              "sourceUrl": "https://github.com/MIRONTER/Midnight_Club_Street_Racing_NTSC_PS2_Texture_Pack/tree/673faed33a112b60461e44c79da68a79ed2db65a",
+              "manifestSha256": "D2B9A8B6409FEAFB21E0017177DC86084270CCF920652D285E654540033D0F2D",
+              "contentSetSha256": "6E43E161DE4BBBE03B929F8BF5D97A14F538287439A1A89274C855D993D8DFE8",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023c",
+      "verifiedAt": "2026-09-26T21:18:09Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-ratatouille-20260926",
+          "sourceArtifact": "ratatouille-ironhulk33-slus-21541.7z",
+          "sourceSha256": "7FE3677A412E5562681D58FC01756BB4ABA740904A5F2747F256E2C0019A99B4",
+          "assetName": "ratatouille-ironhulk33-slus-21541-runtime.zip",
+          "normalizedSha256": "109D3C16532277B572F061A459F5F8BC6F3B8EBA47755838265FFC9C624C200F",
+          "manifestSha256": "C84A53AB6E53DE37D893FF3AE694EF7B294864B0AF1F1840309A592F570253A5",
+          "contentSetSha256": "A11B857B46214BFE952AB0E53A9C07F5E83214FD81B5D0B9995CEA0DFB8A72CA",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-muppets-party-cruise-20260926",
+          "sourceArtifact": "muppets-party-cruise-ironhulk33.7z",
+          "sourceSha256": "43F3037E0C84CB699C8D3B5F599C90F1BCF7BD28650D988EDCCDB7425BCAB5F1",
+          "assetName": "muppets-party-cruise-ironhulk33-slus-20635.zip",
+          "normalizedSha256": "DB4251000683AD5AB1E41E7B5D0F879FEF26D8838285802E86E0E2E68A1BDFE3",
+          "manifestSha256": "EAE0E54F737DE9E8C3A6BAA6B32C3C46DE76072DB33ED67FCBE87AB8B2321DC4",
+          "contentSetSha256": "ADCBA98344B5FB2C96625BE870FFE1BAA3E14ED8E68B10A1FEF63CDF86A1C3AF",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023d",
+      "verifiedAt": "2026-09-26T21:18:16Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-super-monkey-ball-deluxe-20260926",
+          "sourceArtifact": "super-monkey-ball-deluxe-ironhulk33.7z",
+          "sourceSha256": "CCAA49BA3FF86DE1CB286D443939342A4809EC2AC9C72FC76766274CC96DDC92",
+          "assetName": "super-monkey-ball-deluxe-ironhulk33-slus-20918.zip",
+          "normalizedSha256": "EE00EE21B318F976A0022BD87A6E54560F41C6C9AED85223571B42B5BBA3AADD",
+          "manifestSha256": "A7CCC9F78B9AA7717D584342E10405E8631AFA5F83432A6C2B6658AF6112E548",
+          "contentSetSha256": "4055FAEFF0D029EB58486D69115B794F1BD69FC1B7996B4A22CAE4F4FDCACAF9",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023e",
+      "verifiedAt": "2026-09-26T21:18:20Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ninebreaker-armored-core-nexus-disc-one-20260926",
+          "sourceArtifact": "armored-core-nexus-ninebreaker-slus-20986.7z",
+          "sourceSha256": "1489795FF66DB19E367C1B6F3557DB5740C404458BDE7F86926902FF26A9ECA0",
+          "assetName": "armored-core-nexus-ninebreaker-slus-20986.zip",
+          "assetParts": [
+            "armored-core-nexus-ninebreaker-slus-20986.zip.part001",
+            "armored-core-nexus-ninebreaker-slus-20986.zip.part002",
+            "armored-core-nexus-ninebreaker-slus-20986.zip.part003",
+            "armored-core-nexus-ninebreaker-slus-20986.zip.part004",
+            "armored-core-nexus-ninebreaker-slus-20986.zip.part005"
+          ],
+          "normalizedSha256": "67733D5A4EABF70A9585A4370E3F973CD6545C808CE83A0ADEB50B3468B283DB",
+          "manifestSha256": "C0658B369E969DF19C1318D31ABA356FA100201B74B8E9A869C25BFCBA60CB2B",
+          "contentSetSha256": "29A4814258C14E3B683F03BA78B60FD828812A033D0D5A8D372D50D51D071250",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023f",
+      "verifiedAt": "2026-09-26T21:19:02Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-buzz-the-hollywood-quiz-20260926",
+          "sourceArtifact": "buzz-hollywood-quiz-ironhulk33.rar",
+          "sourceSha256": "4BB7111A6F9DFF697EBFA65D127FABDE0F3824312231A4DCD0040D15B19EBBAD",
+          "assetName": "buzz-hollywood-quiz-ironhulk33.zip",
+          "normalizedSha256": "7F19EA216994DCD18C7F55358C210DBF7D82CC81ABBF7EFD3DB675EC4025FA8E",
+          "manifestSha256": "50B6255C1221EDD6F16BA0BF2C264446B90D2BA46C80D1903EA8757BD86864D1",
+          "contentSetSha256": "E7C78D7610C6389E39219919820375DE4B6E656E6E4390684E0D7909EA358AC1",
+          "comparedAgainst": [
+            "ironhulk33-jungle-book-rhythm-and-groove-20260926",
+            "ironhulk33-space-invaders-anniversary-20260926",
+            "ironhulk33-sega-ages-after-burner-ii-japan-20260926",
+            "ironhulk33-popcap-hits-volume-1-20260926"
+          ]
+        },
+        {
+          "catalogId": "ironhulk33-jungle-book-rhythm-and-groove-20260926",
+          "sourceArtifact": "jungle-book-rhythm-groove-ironhulk33.rar",
+          "sourceSha256": "5416668D1ACC4AFFD186EFAD61118C647D57277A695BF138229A0951D5E91029",
+          "assetName": "jungle-book-rhythm-groove-ironhulk33.zip",
+          "normalizedSha256": "533040BE9162E8B1B460F1AF0AFB8E33E5571D3F5138151A042271C6B12392B7",
+          "manifestSha256": "8C5EA904A1E7760369196C93435535F881E47805AA7D4C5265F09888B7D7395B",
+          "contentSetSha256": "BAA848C43E050428B3874743D73B7246AF096B4FE0AE0F481FA0A34B12EDE6B7",
+          "comparedAgainst": [
+            "ironhulk33-buzz-the-hollywood-quiz-20260926",
+            "ironhulk33-space-invaders-anniversary-20260926",
+            "ironhulk33-sega-ages-after-burner-ii-japan-20260926",
+            "ironhulk33-popcap-hits-volume-1-20260926"
+          ]
+        },
+        {
+          "catalogId": "ironhulk33-space-invaders-anniversary-20260926",
+          "sourceArtifact": "space-invaders-anniversary-ironhulk33.7z",
+          "sourceSha256": "9F6D6462A79F9C3CECD2083A9FD51993C536EFACC637CEDF3358ED1133EB3162",
+          "assetName": "space-invaders-anniversary-ironhulk33-runtime.zip",
+          "normalizedSha256": "51EC7F56965E93FD486CC5B02FF58BE004BC89577FC23912DE0DC9B1BF38B902",
+          "manifestSha256": "295DAF93AAD0BD2EE2E60F9789A8812598FFFEAEF21E74E1861E3702E0622777",
+          "contentSetSha256": "4B6A5DCF12DFA7625CC140C5AC2C23788E0273A8A73CF92582FF2B8D6AF4B737",
+          "comparedAgainst": [
+            "ironhulk33-buzz-the-hollywood-quiz-20260926",
+            "ironhulk33-jungle-book-rhythm-and-groove-20260926",
+            "ironhulk33-sega-ages-after-burner-ii-japan-20260926",
+            "ironhulk33-popcap-hits-volume-1-20260926"
+          ]
+        },
+        {
+          "catalogId": "ironhulk33-sega-ages-after-burner-ii-japan-20260926",
+          "sourceArtifact": "after-burner-ii-japan-ironhulk33.rar",
+          "sourceSha256": "41FACA77831F9758E1B60E8CF4E220FD9F341F7058CB4E57658763EB9B97FCB1",
+          "assetName": "after-burner-ii-japan-ironhulk33.zip",
+          "normalizedSha256": "1B555938CEC5C44BAB5A2DA70787FFA45A094DA4F2AB22A98DAB715731225B1D",
+          "manifestSha256": "98213BB58CD39EFD5F0ADA7D8EA4187FF6F5A93DAFE87D40961396018CE11791",
+          "contentSetSha256": "BD8F8C9466BBFA9CE5FD7F56D270E886B0FBF0143886FE597A26101A0DDE0C52",
+          "comparedAgainst": [
+            "ironhulk33-buzz-the-hollywood-quiz-20260926",
+            "ironhulk33-jungle-book-rhythm-and-groove-20260926",
+            "ironhulk33-space-invaders-anniversary-20260926",
+            "ironhulk33-popcap-hits-volume-1-20260926"
+          ]
+        },
+        {
+          "catalogId": "ironhulk33-popcap-hits-volume-1-20260926",
+          "sourceArtifact": "popcap-hits-volume-1-ironhulk33.7z",
+          "sourceSha256": "65E66DFD7C02495FA8AD4AC54A8873D17568773A8B744C68476E424414E601C1",
+          "assetName": "popcap-hits-vol-1-ironhulk33-slus-21710.zip",
+          "normalizedSha256": "1B5129A641F456204572419571CBCE72D8B6F93B420A4B4585B4BDFA06B3DD89",
+          "manifestSha256": "873811FED6A20331DB0B72388B6012CE0B78850BAFAD10407DE3CAB93C4B29B3",
+          "contentSetSha256": "705A890E203F27A84D070BB71037CFB1F27762B4DF85B61238424CD5188C88BF",
+          "comparedAgainst": [
+            "ironhulk33-buzz-the-hollywood-quiz-20260926",
+            "ironhulk33-jungle-book-rhythm-and-groove-20260926",
+            "ironhulk33-space-invaders-anniversary-20260926",
+            "ironhulk33-sega-ages-after-burner-ii-japan-20260926"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023g",
+      "verifiedAt": "2026-09-26T21:19:05Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-high-school-musical-3-20260926",
+          "sourceArtifact": "high-school-musical-3-ironhulk33-slus-21819.rar",
+          "sourceSha256": "5D89B7ADBD2B7035EE611DDC2486C55C0BA96AA32A581233EA2C67A0F9F7CD92",
+          "assetName": "high-school-musical-3-ironhulk33-slus-21819.zip",
+          "normalizedSha256": "57D588CAF23733D8642226D6F4F05E8BC22947329FB4A22640BEB29A9751D0FF",
+          "manifestSha256": "EEB1072F62DA82D09CE78C998C6251150AAF91B33871ECD26A67307C3CF5D94A",
+          "contentSetSha256": "F92CAB0C060BBFD1839F37DA60D87CF766AA5E230B3BD2CCC722BC262E76282A",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-leisure-suit-larry-magna-cum-laude-20260926",
+          "sourceArtifact": "leisure-suit-larry-ironhulk33-slus-20956.7z",
+          "sourceSha256": "AA1CE551C3EE110D5E685269B7E2E4C3566985E33620CE91D51D411A1918659E",
+          "assetName": "leisure-suit-larry-ironhulk33-slus-20956.zip",
+          "normalizedSha256": "DB08600890E4A49B6386B4FC745746774858F24A451F4F5EAF4DE8BC4833E1BB",
+          "manifestSha256": "07E68AF4E5C4F7B3DD9FAEF85FBB955C58239955629AFB721EDF154C511BFEF9",
+          "contentSetSha256": "BCDF11866BEB8A8CC7D77F2EBBE56C2B601C4E236A83DA95C565201B5FA9E39D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-meet-the-robinsons-20260926",
+          "sourceArtifact": "meet-the-robinsons-ironhulk33-slus-21453.7z",
+          "sourceSha256": "D9B3635CC8C6F1328984D270A050B4569D9CA1FD137846EC4E99ADC63DB73C9B",
+          "assetName": "meet-the-robinsons-ironhulk33-slus-21453-runtime.zip",
+          "normalizedSha256": "A319073E0C287B1657FADBBF669D07B38A6E74F6ECE183786DEC3F84F0DFA22E",
+          "manifestSha256": "CA9E417C959F0DEF63DFDF83193C570A99A39B81FDC8EC7AD29F81FD105353A9",
+          "contentSetSha256": "BD7AFB2D7042D5930D78C47C7D636DACC21D1616742D48B9F5A074CF66146FAD",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023h",
+      "verifiedAt": "2026-09-26T21:19:17Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-spongebob-squarepants-movie-20260926",
+          "sourceArtifact": "The SpongeBob SquarePants Movie Game.7z",
+          "sourceSha256": "FDBCCB0343531DA5B488CA91CD7CD5C72CD069F1AECADB2F971372FFEE7E8DEA",
+          "assetName": "spongebob-movie-ironhulk33-slus-20904.zip",
+          "normalizedSha256": "E932D51EEF0BA364ECD75C16292BF1E801B6833C2C74226050972B5B22FACD11",
+          "manifestSha256": "142482D23197D3E862D23D9B424B073AE66353151B45ACBA172D403DFA452C28",
+          "contentSetSha256": "07A697F43A0D4A6F69350C240BAFD0836980FA623A24AC0FCDC77761B0A972AF",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-war-of-the-monsters-scus-97197-20260926",
+          "sourceArtifact": "War of the Monsters HD Pack.7z",
+          "sourceSha256": "853CDB041FC66B8AF2B17D5D186C124E23E6B044B6F45EF47783F518BBC827C6",
+          "assetName": "war-of-the-monsters-ironhulk33-scus-97197.zip",
+          "normalizedSha256": "AF5F82A90C0334FF8687E1138358000F869FC8E830A542C6AC79DE7FE5EE9BCC",
+          "manifestSha256": "15D52EF14DA7AA4EDC47E6719644DCD6BF507399C582D0B0CD6730CA9602761F",
+          "contentSetSha256": "1EBC520BAEB94AABEA05BDF03A5087CBF2D58370727472EC394B03511EF91686",
+          "comparedAgainst": [
+            "bl4ckh4nd-war-of-the-monsters-scus-97197-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Different creator/source than the cataloged Bl4ckH4nd variant; this archive contains 1,967 replacement PNGs versus 1,146 in the existing pack. | prepare_pack.py compare found 0 shared paths, 0 identical files at shared paths, and 0 shared file contents (pathJaccard 0.0, contentJaccard 0.0); source and normalized SHA-256 fingerprints differ.",
+              "sourceUrl": "https://www.mediafire.com/file/73xmec7sd51n4i3/file",
+              "manifestSha256": "15D52EF14DA7AA4EDC47E6719644DCD6BF507399C582D0B0CD6730CA9602761F",
+              "contentSetSha256": "1EBC520BAEB94AABEA05BDF03A5087CBF2D58370727472EC394B03511EF91686",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023i",
+      "verifiedAt": "2026-09-26T21:19:21Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-pac-man-world-rally-slus-21328-20260926",
+          "sourceArtifact": "pac-man-world-rally-ironhulk33.7z",
+          "sourceSha256": "EF8A57510B4AED4BDE8C9AE635922444EBC1879484216ED658D1E094F4F3D53A",
+          "assetName": "pac-man-world-rally-ironhulk33-slus-21328.zip",
+          "normalizedSha256": "FF2EB25F08F8C2C3A5829C633AFC0F66DD65728B84624C75F0609C3E9B1D90B5",
+          "manifestSha256": "2DFA4569418B32F979572535462C8FBE2DD02DA7C00E357EACC26CDDA78B137F",
+          "contentSetSha256": "32E5460F4EE2C437614011947311A2AC223FDF1CFB7C57E086073243B7E4D51E",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023j",
+      "verifiedAt": "2026-09-26T21:19:24Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-dr-muto-20260926",
+          "sourceArtifact": "dr-muto-ironhulk33-slus-20458.zip",
+          "sourceSha256": "882E68FD4E0404637676B10814234719F4AA4187FF1CB990967713FF672129D0",
+          "assetName": "dr-muto-ironhulk33-slus-20458.zip",
+          "normalizedSha256": "5A6447A27DE6C035809E03AA8C1673CBDF5FA409324A9E1DACDA3A1181DE1676",
+          "manifestSha256": "3C6041FB892A73E63012A688C2062390FF80AB8ED66171574C84E9513566EB65",
+          "contentSetSha256": "6481E5C822BB540F9488A3237C2111F2BD184E8094ED29B3AF6471017C80688D",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-wall-e-20260926",
+          "sourceArtifact": "wall-e-ironhulk33-slus-21736.7z",
+          "sourceSha256": "E7FD18A2DCE2F44AC0D453FCB18636C7EFA861FDAE46438ACC0DDB673EAD0C55",
+          "assetName": "wall-e-ironhulk33-slus-21736.zip",
+          "normalizedSha256": "5AC8DC9FD7A2A5A7F65EF66F28282494A151CA0652F907AFE1ADDFF872179BD8",
+          "manifestSha256": "BFE0BD8F5D42B45314D4BDA82BE761A8ED644A17CFD5995F9087738E023A5E66",
+          "contentSetSha256": "8CBFD4E315E134DB410FB4337431A54E1957715F8740AE74846E6C52E8832884",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023k",
+      "verifiedAt": "2026-09-26T21:19:36Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-chou-aniki-seinaru-protein-densetsu-20260926",
+          "sourceArtifact": "chou-aniki-ironhulk33.7z",
+          "sourceSha256": "69EAB805510AAF08637B4830B1FE41DDC7CC49807AA6EB912EAF4D93EA36FEB4",
+          "assetName": "chou-aniki-ironhulk33-runtime.zip",
+          "normalizedSha256": "F2C13895C26EF2A98AE1544914AA86B52D96611BF3CA8AFD79B67624B1CEF44F",
+          "manifestSha256": "AC0706122D57743C2C113229E1EC3877B914CC3A9CB23135809F9079A17E0CBF",
+          "contentSetSha256": "E070B7525DBBA8B578CC3FD8BFC80D1C538AD4127FEEE415CE33841865BDF619",
+          "comparedAgainst": []
+        },
+        {
+          "catalogId": "ironhulk33-piglets-big-game-20260926",
+          "sourceArtifact": "piglets-big-game-ironhulk33.7z",
+          "sourceSha256": "FC5508C5D03CC7B1D83918DE97AD0258C608386A5E5A57086C2D85285B7E8675",
+          "assetName": "piglets-big-game-ironhulk33.zip",
+          "normalizedSha256": "193E1E340EBB535C0AE72937F816D2FFEBFB8D25EB6DF741F31510A77FB6D435",
+          "manifestSha256": "B76E5FAE46531C5C4F4F8A99206A3A788D9EEA2A3DD3A8878D37A30386A1D898",
+          "contentSetSha256": "13DAF208F368EDF5FF9CE33577E9DDF537067232A062498850A00BA228277EEE",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023l",
+      "verifiedAt": "2026-09-26T21:19:41Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-spongebob-revenge-flying-dutchman-20260926",
+          "sourceArtifact": "Spongebob Revenge of the Flying Dutchman HD PCSX2 Pack.rar",
+          "sourceSha256": "7F4FE99BA3D7331750501B111D1F58F9D46FCB2C36D94742E75010A56FC878A9",
+          "assetName": "spongebob-revenge-flying-dutchman-ironhulk33-slus-20425.zip",
+          "normalizedSha256": "7B64F256BAD8C7959A6AF3F15ED8222786634C5234E86A7E36D84D5AF2498980",
+          "manifestSha256": "F2070A8AC76B9F12AB2A6495A5F9F55BBC53DE8097C07F16D1D10CF66DA8B39F",
+          "contentSetSha256": "BD11C2ABC082D2EBBFE1B18D4ECC39F40769BD196E3791DF5D48AD04760D50A6",
+          "comparedAgainst": []
+        }
+      ]
     }
   ]
 }

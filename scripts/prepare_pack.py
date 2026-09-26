@@ -118,6 +118,12 @@ def texture_relative_path(parts: tuple[str, ...], strip_components: int) -> tupl
     return relative
 
 
+def is_non_runtime_image(filename: str) -> bool:
+    """Exclude source artwork that is an image but not a replacement texture."""
+    stem = PurePosixPath(filename).stem.casefold().replace("_", " ").replace("-", " ")
+    return "copyright" in stem or stem.strip() in {"preview", "screenshot", "readme"}
+
+
 def validate_texture_header(stream: BinaryIO, extension: str, label: str) -> None:
     header = stream.read(32)
     if extension == ".png":
@@ -210,6 +216,8 @@ def normalized_sources(
         parts = clean_parts(source.name)
         extension = PurePosixPath(parts[-1]).suffix.casefold()
         if extension not in TEXTURE_EXTENSIONS:
+            continue
+        if is_non_runtime_image(parts[-1]):
             continue
         if source.size <= 0:
             raise PackError(f"empty texture file: {source.name}")
@@ -312,6 +320,8 @@ def inspect(path: Path) -> tuple[PackSummary, dict[str, tuple[int, str]]]:
             extension = PurePosixPath(parts[-1]).suffix.casefold()
             if extension not in TEXTURE_EXTENSIONS:
                 raise PackError(f"unsupported file in normalized ZIP: {info.filename}")
+            if is_non_runtime_image(parts[-1]):
+                raise PackError(f"non-runtime image in normalized ZIP: {info.filename}")
             if info.flag_bits & 0x1:
                 raise PackError(f"encrypted ZIP entry is unsupported: {info.filename}")
             if info.compress_type not in SUPPORTED_COMPRESSION:

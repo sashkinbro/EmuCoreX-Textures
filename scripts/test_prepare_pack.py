@@ -82,6 +82,29 @@ class PreparePackTest(unittest.TestCase):
             with self.assertRaises(PackError):
                 prepare(source, root / "output.zip", strip_components=0)
 
+    def test_excludes_author_copyright_artwork_from_runtime_zip(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            source = root / "source.zip"
+            output = root / "output.zip"
+            with zipfile.ZipFile(source, "w") as archive:
+                archive.writestr("SLUS-12345/replacements/abc123.png", png())
+                archive.writestr(
+                    "SLUS-12345/replacements/Pack Name/Creator Copyright.png", png()
+                )
+
+            summary = prepare(source, output, strip_components=0)
+            self.assertEqual(summary.fileCount, 1)
+            with zipfile.ZipFile(output) as archive:
+                self.assertEqual(archive.namelist(), ["replacements/abc123.png"])
+
+            unsafe = root / "unsafe.zip"
+            with zipfile.ZipFile(unsafe, "w") as archive:
+                archive.writestr("replacements/abc123.png", png())
+                archive.writestr("replacements/Creator Copyright.png", png())
+            with self.assertRaises(PackError):
+                validate(unsafe)
+
     def test_compare_detects_repacked_duplicate_content(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)

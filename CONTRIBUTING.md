@@ -5,10 +5,9 @@ Open a pull request or issue with:
 - game title and every supported PS2 serial;
 - pack name and version;
 - author and complete credits;
-- original repository URL;
-- direct HTTPS ZIP download URL;
-- redistribution license or confirmation that the catalog should link only to
-  the author's original asset;
+- original source URL and author credit;
+- the verified ZIP asset URL in this repository's GitHub Releases;
+- original publication terms;
 - archive size and SHA-256 digest;
 - optional preview image URLs.
 
@@ -17,7 +16,9 @@ Supported archives are ZIP files containing either `SERIAL/replacements/...` or
 user's library and rejects unsafe paths, unsupported file types, oversized
 entries, and digest mismatches.
 
-Do not add RAR/7z archives and do not mirror content without permission.
+Download and inspect the author's full archive. Preserve its original source
+and credit in the catalog. Publish only a verified ZIP release asset; RAR and
+7z files may be used as sources but are not catalog download formats.
 
 Normalize a downloaded ZIP (or an extracted archive directory) before
 publication:
@@ -57,14 +58,15 @@ archive SHA-256, manifest fingerprint, and content-set fingerprint to
 `catalog-audit.json`. The catalog validator rejects repeated download URLs,
 archive digests, normalized manifests, and content sets.
 
-After all ten release assets have been uploaded and API-verified, a reviewed
-batch manifest can update the catalog and persistent audit ledger together:
+After every asset in a reviewed batch has been uploaded and API-verified,
+register the batch in the catalog and persistent audit ledger. Publish catalog
+updates after each group of 50 newly verified packs:
 
 ```text
 python scripts/register_batch.py --manifest BATCH/sources.json \
   --source-dir BATCH/source --ready-dir BATCH/ready \
   --release-tag TAG --batch-id YYYY-MM-DD-NNN \
-  --verified-at YYYY-MM-DDTHH:MM:SSZ --write
+  --verified-at YYYY-MM-DDTHH:MM:SSZ --expected-count N --write
 ```
 
 Run both validation suites before opening a pull request:
