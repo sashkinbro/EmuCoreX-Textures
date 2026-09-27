@@ -24,11 +24,12 @@ in the catalog. Git LFS must not be used.
 Every pack keeps its original author, credits, source link, immutable download
 URL or multipart URLs, archive size, SHA-256 digest, and supported game serials.
 
-The current pack count, supported serials and download assets are recorded in
-`textures.json`. Archives are inspected before publication; source-only
-projects, screenshots and emulator-incompatible dumps are not listed as
-downloadable packs. Multipart archives count as one pack in the catalog but
-as multiple assets in a GitHub release. Distinct same-game variants are listed
-only after source and content comparison.
+The current catalog contains **746 verified texture packs** covering **621
+regional game serials** and **3,119,501 replacement texture files**. These
+totals come from the published `textures.json` catalog. Archives are inspected
+before publication; source-only projects, screenshots and emulator-incompatible
+dumps are not listed as downloadable packs. Multipart archives count as one
+pack in the catalog but as multiple assets in a GitHub release. Distinct
+same-game variants are listed only after source and content comparison.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) before adding a pack.

@@ -70,6 +70,9 @@ python scripts/register_batch.py --manifest BATCH/sources.json \
   --verified-at YYYY-MM-DDTHH:MM:SSZ --expected-count N --write
 ```
 
+When publishing, update the totals in `README.md` from the published catalog:
+number of entries, distinct regional serials, and sum of `fileCount`.
+
 Run both validation suites before opening a pull request:
 
 ```text
