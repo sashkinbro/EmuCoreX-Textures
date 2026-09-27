@@ -9495,6 +9495,566 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-09-27-044m",
+      "verifiedAt": "2026-09-27T12:30:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "kupo-flatout-2-pal-d-sles-54003-20260927",
+          "sourceArtifact": "FlatOut 2 (PAL-D) v1.1.7z",
+          "sourceSha256": "444C29E28F4C8EDF44706239CFC7A41358A250BAA3675957B24215E0887498CC",
+          "assetName": "flatout-2-kupo-pal-d-sles-54003.zip",
+          "assetParts": [
+            "flatout-2-kupo-pal-d-sles-54003.zip.part001",
+            "flatout-2-kupo-pal-d-sles-54003.zip.part002"
+          ],
+          "normalizedSha256": "A109177947D2CEF743CDACA33A1102FEC0CFD80EB2032E7506C67FFE29AD858D",
+          "manifestSha256": "863B43156DDFC85752603536A3340A905850EE2CE1C3C7AF3337798969AFFD63",
+          "contentSetSha256": "B86531887B2F61D019CA4A00198350AA0765B04638B4094A940EB7E9A9B2BB85",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-046l",
+      "verifiedAt": "2026-09-27T12:30:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "pliskindev-prisoner-of-war-sles-50397-20260927",
+          "sourceArtifact": "SLES-50397.zip",
+          "sourceSha256": "2B58D752DE387FCDB8188CEDC6A50CFC0F268F3D5B6D5373B8B3D23A37FAB59F",
+          "assetName": "prisoner-of-war-pliskindev-sles-50397.zip",
+          "normalizedSha256": "BB244AF660046E5524AE4B1AD88AB8644E9BDFFB26369A75438EC95C87BD1391",
+          "manifestSha256": "77E945D98A69B1D906E3590E475EA9920D5D19FFA17AC1023D8E8F1120177881",
+          "contentSetSha256": "2C0E03B33F4B4FFFD7114C08EB5994A6147637884D874DE90ABA720FE3B31AA0",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-045a",
+      "verifiedAt": "2026-09-27T12:30:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "deadontheinside-eragon-slus-21322-v1-5-20260927",
+          "sourceArtifact": "Eragon-HD-Textures-V1.5-SLUS-21322.zip.001",
+          "sourceSha256": "FB2713622057C476DE98269640561745059D611C187802918A71C2C3EFF9FD92",
+          "assetName": "eragon-hd-textures-deadontheinside-slus-21322.zip",
+          "assetParts": [
+            "eragon-hd-textures-deadontheinside-slus-21322.zip.part001",
+            "eragon-hd-textures-deadontheinside-slus-21322.zip.part002",
+            "eragon-hd-textures-deadontheinside-slus-21322.zip.part003",
+            "eragon-hd-textures-deadontheinside-slus-21322.zip.part004"
+          ],
+          "normalizedSha256": "764DB4BB42B311A01E647E96FF23B6CC01F155744CA2270207DB8647964F8C11",
+          "manifestSha256": "B3BFC6ABB441CF63DA4E20F5ED5D27CE18E09AFE12894C5F21FDBDABB60F9CD6",
+          "contentSetSha256": "2A21E83159008602CE8257117EA1AE2AECD9EB1C1E3C0E2324454F8F1C0F5188",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-042m",
+      "verifiedAt": "2026-09-27T12:25:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "sal9im-tmnt-2007-default-ui-slus-21595-20260927",
+          "sourceArtifact": "TMNT 2007.rar",
+          "sourceSha256": "A321E85E32C3D9E41D2D5326B7F88A0D9DDEFFF8D3EAD370C54D4243D25F9CC2",
+          "assetName": "tmnt-2007-sal9im-default-ui-slus-21595.zip",
+          "normalizedSha256": "AF7217C34806A9CC5AA6938EE0440FDCFD41BBAA1DFDCC0279EE4A4ED435C65F",
+          "manifestSha256": "CA59A177DCEC1D52CA019A9B423240ACFD8329C2CEBCD7C31575571B7384A57F",
+          "contentSetSha256": "57E658D2CEA6CF65295F025648E353BC0370BD20E2CF96685668D8608E05B6A9",
+          "comparedAgainst": [
+            "original-texture-creator-is-not-identified-in-the-public-mirror-preserved-by-the-pcsx2-hd-texture-packs-community-archive-tmnt-hd-remaster-community-archive-slus-21595-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Same 1,684 replacement paths as the published community archive: 1,671 files identical, 13 Buttons PNGs changed with different decoded pixels. The published 13 Buttons files byte-match the author's optional Original Buttons folder, while this archive uses the author's default runtime Buttons. Distinct controller-prompt choice; high overlap is disclosed.",
+              "sourceUrl": "https://gbatemp.net/threads/tmnt-2007-upscaled-texture-pack.658503/",
+              "manifestSha256": "EDD6FB952BC3BD04C56E028714301FCCD5CD25875E69517CB214A52C22037561",
+              "contentSetSha256": "FC4B2A607EA97DBB707CBDE229E91FADC4C2126CFA7C8A29470105ED063CE37C",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-035m",
+      "verifiedAt": "2026-09-27T09:33:50Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "psxrestore-mercenaries-restored-hd-quality-slus-20932-20260927",
+          "sourceArtifact": "PsxRestores_Mercenaries_Restored_HD_Pack_Quality.rar",
+          "sourceSha256": "3D3A1F8C3327EE862A12C0506786869853C7830E690FB757FAE72F980040BD3F",
+          "assetName": "mercenaries-restored-hd-quality-psxrestore-slus-20932.zip",
+          "normalizedSha256": "18CE806FBA3BEC16BD354CDF6E3B2496B2AD5129EB31CBF106C1C245DDE70A43",
+          "manifestSha256": "A75AF47AC6A4901FF47D6E0140D7421459FACB4BE73EE03184AC59314C60BF01",
+          "contentSetSha256": "69016CBCCC7766D81E7FE452B1E978CCE60AE28CEA78EEEBD9D1F4C2629B3DD4",
+          "comparedAgainst": [
+            "psxrestore-mercenaries-remastered-v2-slus-20932-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Same author's separate Remastered V2 upscale: 9,701 files versus 7,737 PNG here. All 7,737 texture IDs also appear in V2; seeded 80-image decoded comparison found zero same dimensions, median V2 area 16x and median downscaled RGB MAE64 2.77. The author identifies native-resolution restored assets versus upscaled/touched-up V2; retain as a clearly labeled resolution/performance edition, with overlap disclosed.",
+              "sourceUrl": "https://gbatemp.net/threads/mercenaries-playground-of-destruction-hd-textures-v2-slus-20932.638463/",
+              "manifestSha256": "692166BF0306A947C972708E6B97635E57E8B1D3DD8EFECCE1833AF69F5A3EED",
+              "contentSetSha256": "0CC8C404CFD66426782F4B71A25C9423B52A3250E7FFA0C986069E522EC49FBB",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-026r",
+      "verifiedAt": "2026-09-27T09:39:20Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "sombertwilight-tenchu-fatal-shadows-last-round-slus-21129-20260903",
+          "sourceArtifact": "tenchu-fatal-shadows-sombertwilight.zip",
+          "sourceSha256": "AC6183FF70BC4E1D3CF2570E81A83F19B24D05BE4C9C928325D4951647AF4AEB",
+          "assetName": "tenchu-fatal-shadows-last-round-sombertwilight-slus-21129.zip",
+          "assetParts": [
+            "tenchu-fatal-shadows-last-round-sombertwilight-slus-21129.zip.part001",
+            "tenchu-fatal-shadows-last-round-sombertwilight-slus-21129.zip.part002"
+          ],
+          "normalizedSha256": "894A7DF1B32A4F71F945EAE78E1AF77AD6E61A8CFB8C891014658F968625D8B4",
+          "manifestSha256": "426AEE603375DB1131491ABB10F0A3CC5A8B16BB9EA5AEAFA99245AE9632EE43",
+          "contentSetSha256": "0167E77A2EA187C9FE46CB0CD50C9C33559B7E6239D7759F375B8EA399A44BA8",
+          "comparedAgainst": [
+            "sombertwilight-tenchu-fatal-shadows-slus-21129-20260728",
+            "pcsx2-hd-texture-packs-community-archive-tenchu-fatal-shadows-hd-remaster-community-archive-variant-slus-21129-20260912"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author calls the 2026 source a complete remake/4K overhaul. Full decoded comparison: 2,002 shared filename stems, 1,479 unique same-dimension pairs, 468 resolution mismatches, 0 pixel-identical pairs; RGB MAE median 5.57, mean 15.11, max 194.36. Candidate normalized manifest/content-set SHA256: 426AEE603375DB1131491ABB10F0A3CC5A8B16BB9EA5AEAFA99245AE9632EE43 / 0167E77A2EA187C9FE46CB0CD50C9C33559B7E6239D7759F375B8EA399A44BA8.",
+              "sourceUrl": "https://gbatemp.net/threads/tenchu-fatal-shadows-wrath-of-heaven-last-round.684190/",
+              "manifestSha256": "CB415AEF20082F5E688F17121A6A70795B4086D974D728878DA8CC582B6FB55D",
+              "contentSetSha256": "7A2521B602F60F7DFD3AFD60FFCC0746645C12898B956E972333B172EFB38AC5",
+              "relationToPublished": "different"
+            },
+            {
+              "label": "Author calls the 2026 source a complete remake/4K overhaul. Full decoded comparison: 1,966 shared filename stems, 1,438 unique same-dimension pairs, 465 resolution mismatches, 0 pixel-identical pairs; RGB MAE median 5.71, mean 15.49, max 194.36. Candidate normalized manifest/content-set SHA256: 426AEE603375DB1131491ABB10F0A3CC5A8B16BB9EA5AEAFA99245AE9632EE43 / 0167E77A2EA187C9FE46CB0CD50C9C33559B7E6239D7759F375B8EA399A44BA8.",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "55C291438295E5C6B286C8CFAA113E5A1C512AF03DF25F0AB7AF1049CA66C8C4",
+              "contentSetSha256": "92CAA81FFA7396E3202AE17EF9348DADEED89490543FE49C9868BC2E4B0F56AC",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-028l",
+      "verifiedAt": "2026-09-27T09:39:42Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "cckrizalid-baroque-slus-21714-20260927",
+          "sourceArtifact": "baroque-cckrizalid-slus-21714.rar",
+          "sourceSha256": "FDF3B931E302FDA98FE6EAA24742B0BF429D2C8FF526049EC614AEF6F612DCAB",
+          "assetName": "baroque-cckrizalid-ntsc-u-slus-21714.zip",
+          "normalizedSha256": "B1E1BF87CC51FD2AF12135E17E46AD9C07E47ECBA7C73B444DD918A0225EE673",
+          "manifestSha256": "868C99C0F7F8487BD301D40EB3E60ABF1CAE407A510B0C1DBBB573A87BD9CDB9",
+          "contentSetSha256": "23872FF68E889A4A627D082D86333578EF0F0C7B990E7CD9565484C65F5A29AD",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-036m",
+      "verifiedAt": "2026-09-27T09:44:20Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ckiscxrsed-mortal-kombat-armageddon-v1-6-slus-21410-20260927",
+          "sourceArtifact": "SLUS-21410.rar",
+          "sourceSha256": "33F19B53312370A958117C73D935C307570664306BCCA031E3F78E0D184D5974",
+          "assetName": "mk-armageddon-ckiscxrsed-v1.6-slus-21410.zip",
+          "assetParts": [
+            "mk-armageddon-ckiscxrsed-v1.6-slus-21410.zip.part001",
+            "mk-armageddon-ckiscxrsed-v1.6-slus-21410.zip.part002"
+          ],
+          "normalizedSha256": "F170B5AF75E7F06C70F9D72D4AC14DEEB1B8E320501011EBE83E068047754F5B",
+          "manifestSha256": "695EF2A32440CACBBDF7E6851915A62343A41D97C81D99D1FBE02FA6240D3E1E",
+          "contentSetSha256": "8155F7AC3F98D9CAA8C1C04B6858FB3E04DCE468ED48832FB3011E5A12B5B391",
+          "comparedAgainst": [
+            "ai-upscaled-hd-texture-pack-created-mortal-kombat-armageddon-hd-v1-5-texture-pack-slus-21410-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author v1.6 adds Konquest content: 4,567 files versus v1.5's 3,800; normalized comparison found 3,692 shared paths, 3,688 byte-identical at shared paths, and 875 v1.6-only paths. Substantial overlap is disclosed in the catalog description.",
+              "sourceUrl": "https://github.com/ckiscxrsed/Mortal-Kombat-Armageddon-HD-Textures/releases/tag/v1.6",
+              "manifestSha256": "33EA416A2958B0DA1E7494D6136701B89D033243D603CC9F2068B0DD5FBB4BDF",
+              "contentSetSha256": "83D67248D92D3D100B9018B83EDC09A176A2A89066FC760394DF93C70744D110",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-037r",
+      "verifiedAt": "2026-09-27T09:45:36Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "moataz-midnight-club-3-dub-edition-remix-slus-21355-20240709",
+          "sourceArtifact": "midnight-club-3-moataz.7z",
+          "sourceSha256": "5103A90CACA47256843F63F6D25C67157D986251E7FA99CDF6EBBD383CBB93FD",
+          "assetName": "midnight-club-3-moataz-slus-21355.zip",
+          "normalizedSha256": "7899FC630B02DF1F25A5E0227293CAB6D3550D6EAB08195CA088A8F68F2D66B2",
+          "manifestSha256": "8559841ABDA5BA2AF119152B15CA85F573D50FB1190D61F1DB14412216604792",
+          "contentSetSha256": "6E983FCE52374522731344C3A773E4054F1FB81752B9218F1F5215A3A7C32BB9",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-038l",
+      "verifiedAt": "2026-09-27T09:45:45Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "santins-the-incredibles-rise-of-the-underminer-slus-21217-20260927",
+          "sourceArtifact": "the-incredibles-rise-of-the-underminer-santins-slus-21217.zip",
+          "sourceSha256": "518A49ACD56C583C3ABA0B69E1C7621445985F7D53F191CF7B78B2FB9F4F7756",
+          "assetName": "incredibles-rise-of-the-underminer-santins-slus-21217.zip",
+          "normalizedSha256": "D35AA41390E3D0851984A7541AA7ADFD359D8DD1FF0F56820F1BDD6990D7E39B",
+          "manifestSha256": "CA76F53CA8FE1DB058C99D793C5F60EF6A6DC188143E1628E3480F1E37758B44",
+          "contentSetSha256": "F1BAAAE2BBF4AC8468B480836B441DCCFD5CE3AFE948EBA157C4B15F95AD5AFD",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-037m",
+      "verifiedAt": "2026-09-27T09:46:56Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ncaanext-ncaa-football-06-vanilla-slus-21214-20260927",
+          "sourceArtifact": "ncaa06-next-vanilla-65176b23.zip",
+          "sourceSha256": "E09E40524561C47940C9F444D183D39E42912D10EF24ED387BC910F0DAEB3BD5",
+          "assetName": "ncaa-06-vanilla-ncaanext-slus-21214.zip",
+          "normalizedSha256": "6BF1485C9E9246A75E4BABB5C9B92AD8D5BAC35E953155F8A2B733CF02FB4053",
+          "manifestSha256": "E41D668507525301D2F8AC398A710F72E33738BAB1C5C476A39316F7852E323F",
+          "contentSetSha256": "A321C5746CBECBCDFDEFCD5B347BF4DE644E118D8E4A5C69C31FFDA7BDA74A81",
+          "comparedAgainst": [
+            "ncaanext-ncaa-football-06-next-24-v14-4-slus-21214-20260927"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "The source README specifies compatibility with the unmodified game, unlike the existing NEXT 24 mod edition. Normalized ZIP comparison found 5,899 shared paths with 5,819 identical files, 80 changed files, and 277 vanilla-only files. Keep this explicitly labeled compatibility variant while disclosing its overlap.",
+              "sourceUrl": "https://github.com/ncaanext/ncaa06-next-vanilla/tree/65176b23780f27c10512624da15a49589ee0ad4c",
+              "manifestSha256": "82951A8A70B3D03E333019CD129F88E8DEB6AB331C1B7DA965F9DC9F933C2929",
+              "contentSetSha256": "B063794F7C7FF850145340779392DAC1125BDF18A4D3F2D3C82A06D421DCC675",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-039r",
+      "verifiedAt": "2026-09-27T09:47:17Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "curse-arms-the-red-star-slus-20885-hd-textures",
+          "sourceArtifact": "the-red-star-curse-arms-slus-20885.rar",
+          "sourceSha256": "FBFE5687FC1C2BD75525DFFF213276D0136E12DC400E48F1110E06C4DBB1ACBA",
+          "assetName": "the-red-star-curse-arms-slus-20885.zip",
+          "normalizedSha256": "34FB232328B1BD06346DA6EE5FE677BB364FEAB30721921014F081047E63BA89",
+          "manifestSha256": "ADD9520C468953DD1637312865A397126FE7FA3BC55D3D91D6DBCF11DCFB0FF8",
+          "contentSetSha256": "EF6F7CF97B1D20A857050FB205588FE8FF493923B9E5E1A39FF61356B410908E",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-039m",
+      "verifiedAt": "2026-09-27T09:50:25Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "nobigdeal-la-tokyo-xtreme-racer-drift-2-slus-21394-20260927",
+          "sourceArtifact": "TXRD HD by NoBigDeal La.rar",
+          "sourceSha256": "1FED92573D729369765781345015F50192D6CAB897321D1742C740631F3BF97C",
+          "assetName": "tokyo-xtreme-racer-drift-2-nobigdeal-la-slus-21394.zip",
+          "assetParts": [
+            "tokyo-xtreme-racer-drift-2-nobigdeal-la-slus-21394.zip.part001",
+            "tokyo-xtreme-racer-drift-2-nobigdeal-la-slus-21394.zip.part002"
+          ],
+          "normalizedSha256": "5A68C4C23F9CE5CDA7F507CA2CE0DCB1A5244C8225A583DCB3D79DFAA1589CC9",
+          "manifestSha256": "8631C6D5A9A6439B419A513AAD10B4BB68FDDEC78036E2CBBB6AB437CF50E409",
+          "contentSetSha256": "B9F839B6B6A4617BDF6D34F1ED03EE1085B0ED22F1A668F2AC436585270D109B",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-040r",
+      "verifiedAt": "2026-09-27T09:51:11Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "tylermods-seek-and-destroy-slus-20606-20240728",
+          "sourceArtifact": "seek-and-destroy-tylermods-slus-20606.zip",
+          "sourceSha256": "D35CC886651C5B523AFA6961380E1057CD22AE6462E5DD3D5687C5C2E41F5EFB",
+          "assetName": "seek-and-destroy-tylermods-slus-20606-normalized.zip",
+          "normalizedSha256": "E46B989F91418940783BBE28E3B0638D3A6BF6B323DC38799AA2554FFAF47684",
+          "manifestSha256": "233E5336990946DB52C45FDFA437CC5DF2D14784C9169C9FF2685876E9A78AEE",
+          "contentSetSha256": "7220348822AAFB99ABBB0D19FABEF058B35273E909903B0107BEECEB0F68DBCE",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-040m",
+      "verifiedAt": "2026-09-27T09:53:59Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "mehrdad-room-zoom-race-for-impact-sles-52603-20260927",
+          "sourceArtifact": "SLES-52603.7z",
+          "sourceSha256": "445E2DA91A3F6940C4F1A195064CC317DEF6E5807A0792E9263D2849EF9350ED",
+          "assetName": "room-zoom-mehrdad-sles-52603.zip",
+          "assetParts": [
+            "room-zoom-mehrdad-sles-52603.zip.part001",
+            "room-zoom-mehrdad-sles-52603.zip.part002"
+          ],
+          "normalizedSha256": "5B5AB9755CC508FA5100B723056137A74EB3E8075753FC21A391BD440C698A25",
+          "manifestSha256": "1448909C26CE690E7CB180BE9CAA163294344210EA877ECCC83F76687E67AF58",
+          "contentSetSha256": "47125AFD83FCA86C6488E815B09CD8675A24A4C34C23D0C54DDB55802102A8AE",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-041r",
+      "verifiedAt": "2026-09-27T09:54:57Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "pliskindev-the-great-escape-slus-20670-hd-texture-pack",
+          "sourceArtifact": "the-great-escape-pliskindev-slus-20670.zip",
+          "sourceSha256": "975D59EED9217242C4EA6EC60B02C50CE6F5999A32A8232A6817205FF9DDFD4D",
+          "assetName": "the-great-escape-pliskindev-slus-20670.zip",
+          "normalizedSha256": "48C0DC6F4A123D6A301361DD184AA2CF1FA81E390BBAA3B5F2494AA07855CA75",
+          "manifestSha256": "987A1E5FDFF58D5A45D15E8EF4BC344AA98FDABE2BD5B45B486E260CADCF7636",
+          "contentSetSha256": "349B152919FD0E83CB58BDC0D3DA346A3B7CBE745B7762087E989D97B7B52CA2",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-041m",
+      "verifiedAt": "2026-09-27T09:55:56Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "alufolie69-spartan-total-warrior-sles-53393-20260927",
+          "sourceArtifact": "SLES-53393.rar",
+          "sourceSha256": "D6CC848CD3C3F66D0496FBBD5186DDB2B0F787A289F4BFDE464B5AA41C03B39C",
+          "assetName": "spartan-total-warrior-alufolie69-sles-53393.zip",
+          "normalizedSha256": "CFEDD6407F2AD736331E685F804C6D057DA52C48108375BE312CC43E036AAB7C",
+          "manifestSha256": "A95C6D74BA8D5544FCD73C30E9BDA8D5CC888E55B59497C322E7233377884AB6",
+          "contentSetSha256": "6A09C3A942AE38C5C58CB04D26625B124181D62D5CC13162F2C98CD0A45D6469",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-042r",
+      "verifiedAt": "2026-09-27T09:56:18Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "nordbo-scooby-doo-night-of-100-frights-sles-51017-pal-x4",
+          "sourceArtifact": "scooby-doo-night-100-frights-nordbo-sles-51017.zip",
+          "sourceSha256": "E3C206B906D3255F3864038BF2FB8F2E0C4878D370F3A37262C22D855A9396A6",
+          "assetName": "scooby-doo-night-100-frights-nordbo-sles-51017.zip",
+          "normalizedSha256": "46B33A41289781D1B32B2BEE071349A65D21D819F8D9EFE91C2A92901BBD045A",
+          "manifestSha256": "2F1E0CDF459CBC0BBCC3C41993D67F0FA0C0737DE37F5F2FF996A694B4FFDDCA",
+          "contentSetSha256": "6B57B57827B020305738201632BE9F6DBE85EB195FE9921F6230A9F74437DE96",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-043r",
+      "verifiedAt": "2026-09-27T09:56:40Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "beto818-transworld-surf-slus-20356-sles-50886-4xhdcube",
+          "sourceArtifact": "transworld-surf-beto818-slus-20356.7z",
+          "sourceSha256": "7195DFEE6D287A435BFA052EDA8419D660785D20B861656DC496EA0FDE580D02",
+          "assetName": "transworld-surf-beto818-slus-20356.zip",
+          "normalizedSha256": "112D896453395BB630CE3F41956E5A8AFC1775614DB1FA553EA9C1131C3CC458",
+          "manifestSha256": "D3483F985DF578C4A84776E9E5E54F3A75521674EE9A08B6BB90DBFACE1C182B",
+          "contentSetSha256": "950A1EE5A70B7C5E6CE810FA2022B3A524A77FF713BBAC7F822D87DBD0E57FE1",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-044r",
+      "verifiedAt": "2026-09-27T09:58:10Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "teslax2105-ys-vi-ark-napishtim-slus-20980-hd",
+          "sourceArtifact": "ys-vi-ark-napishtim-teslax2105-slus-20980.rar",
+          "sourceSha256": "CCFDE78795C2FC6A5555D47B5DCA96DC7F8E50E8FDA4C5B324F8CB9CA3BBF71E",
+          "assetName": "ys-vi-ark-napishtim-teslax2105-slus-20980.zip",
+          "normalizedSha256": "83FC2A14704CDE10087C0D62A8F9514FED45F41E4F00D7A14841832BEB5E7705",
+          "manifestSha256": "4F7A7FAA35C921824703425E178C31B054A37F51C45F9451D54D251BD594E9DF",
+          "contentSetSha256": "B35297F0F0129E3B60B7E70729693C055C1845868EEE6429B4F8A8AD40667905",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-039l",
+      "verifiedAt": "2026-09-27T10:01:54Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "sombertwilight-tenchu-wrath-of-heaven-last-round-slus-20397-20260927",
+          "sourceArtifact": "tenchu-wrath-of-heaven-sombertwilight.zip",
+          "sourceSha256": "5D28ED70E94DDB979181FA10BC34300AE1189B0087C8936CF2B8463D00BC324B",
+          "assetName": "tenchu-wrath-of-heaven-last-round-sombertwilight-slus-20397.zip",
+          "assetParts": [
+            "tenchu-wrath-of-heaven-last-round-sombertwilight-slus-20397.zip.part001",
+            "tenchu-wrath-of-heaven-last-round-sombertwilight-slus-20397.zip.part002",
+            "tenchu-wrath-of-heaven-last-round-sombertwilight-slus-20397.zip.part003"
+          ],
+          "normalizedSha256": "1F8AC13FC8F0BFA26854A1E9BFF2E47932C4A3B485266A764803EC47FFE10F1A",
+          "manifestSha256": "7186F394B2022B7F7D1148EA0239DA1BA678CE6AD75702B2FBF90019D43A4C54",
+          "contentSetSha256": "153A75A45B3125DB58D37D5B2D55F3FF61916B754F79377C7947B496C894267C",
+          "comparedAgainst": [
+            "sombertwilight-tenchu-wrath-of-heaven-hd-remaster-community-archive-variant-slus-20397-20260912"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Published community archive variant of Tenchu: Wrath of Heaven (SLUS-20397)",
+              "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+              "manifestSha256": "4B97A251DFF671181393CDE8015FCAC327CB25574B67ACC9394BBF80076A9AD2",
+              "contentSetSha256": "16FC27EF102A4195CD29873FDC78D807A7F265E75A0A6D9906F44A7007221A52",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-043m",
+      "verifiedAt": "2026-09-27T10:02:25Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "asc53087-rumble-roses-slus-20970-20260927",
+          "sourceArtifact": "replacements.7z",
+          "sourceSha256": "34E2604E0E71519BE10D3BC8C0C180FFBF545F2D44B3F0B72F42A12AAE4B758A",
+          "assetName": "rumble-roses-asc53087-slus-20970.zip",
+          "normalizedSha256": "82A489A008411A5EE7D3BE0A58F0629F34678E9A725544F0DA2FCD2C63CEB488",
+          "manifestSha256": "4D5C9B37913BC70C0E77F24E80232C70BA261686CE20795D332EDCC81E2984AB",
+          "contentSetSha256": "08DCB3B35B6294D7E2FE8AE5F68C7454519394D03CFD28E934B4FC07E9C8A425",
+          "comparedAgainst": [
+            "sombertwilight-rumble-roses-slpm-65885-slus-20970-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Different author release and decoded texture images. 1,346 replacement filename stems overlap with the published SomberTwilight pack; 80 deterministically sampled shared stems had 0 pixel-identical decoded images. This variant uses 2,012 PNG textures versus 1,434 DDS files in the published pack.",
+              "sourceUrl": "https://gbatemp.net/threads/rumble-roses-hd-texture-pack.615568/",
+              "manifestSha256": "4D5C9B37913BC70C0E77F24E80232C70BA261686CE20795D332EDCC81E2984AB",
+              "contentSetSha256": "08DCB3B35B6294D7E2FE8AE5F68C7454519394D03CFD28E934B4FC07E9C8A425",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-047l",
+      "verifiedAt": "2026-09-27T09:46:15Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "mzzvxm-lego-batman-sles-55135-hd-texture-pack-20260927",
+          "sourceArtifact": "lego-batman-mzzvxm-sles-55135.rar",
+          "sourceSha256": "A36961D105A1080EABA9E7AEBA7CA75456AA58C1DDB2B3BDC024EEC5494C1D14",
+          "assetName": "lego-batman-mzzvxm-sles-55135-mzzvxm.zip",
+          "normalizedSha256": "C5C8DFA643E81FFD31DC8A81FEE043DA14C0BADD19EB57AA7207B7A7D4708B09",
+          "manifestSha256": "F6A426447458B010133D04FE0CB6E611F852C25AE90859165AC63CECD809BA3E",
+          "contentSetSha256": "D7207EAE91A96FF329ACD8F86E814F98BF980FFAD53774FED5653AA00E5FFA66",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-047r",
+      "verifiedAt": "2026-09-27T10:02:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "teodor-max-onimusha-dawn-of-dreams-disc1-slpm-66275-20260927",
+          "sourceArtifact": "Derived subset of Onimusha Dawn of Dreams (Japan).7z; selected Disk 1/SLPM-66275/replacements; original upstream size 4753823484 bytes, SHA-256 105682A64188ED084FE0FFC5F9797E76DC5DF193E08BE5A31DED3175DB9A4AA2.",
+          "sourceSha256": "694AEA9DA6F52655288A34122E92BAF196B26CB42CC6C9B7E2931A26A25C60A3",
+          "assetName": "onimusha-dawn-of-dreams-teodor-max-disc1-slpm-66275.zip",
+          "assetParts": [
+            "onimusha-dawn-of-dreams-teodor-max-disc1-slpm-66275.zip.part001",
+            "onimusha-dawn-of-dreams-teodor-max-disc1-slpm-66275.zip.part002"
+          ],
+          "normalizedSha256": "B4A94B693B7369FBC06AC6FDDA640F12B918F8BFE02E0183F80CE83A8CC01247",
+          "manifestSha256": "0A52F54235EF08C90E7F755412C83D933C5EACFC337F4659A2B729AEFCF04D5C",
+          "contentSetSha256": "341C3CC4744184CC6D6208807B1C424F49AFE75999964CE913076AFF28291F10",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Derived disc-only source subset from the author-linked upstream archive Onimusha Dawn of Dreams (Japan).7z (4,753,823,484 bytes; SHA-256 105682A64188ED084FE0FFC5F9797E76DC5DF193E08BE5A31DED3175DB9A4AA2); selected internal path Onimusha Dawn of Dreams (Japan)/Disk 1/SLPM-66275/replacements. This is a complete runtime replacement set for this disc serial. Cross-disc audit: 1,088 shared basenames, 1,080 byte-identical; 8 same-path files differ; this disc has 1812 paths absent from the other disc.",
+              "sourceUrl": "https://gbatemp.net/threads/onimusha-dawn-of-dreams-hd-texture-pack.653739/",
+              "manifestSha256": "0A52F54235EF08C90E7F755412C83D933C5EACFC337F4659A2B729AEFCF04D5C",
+              "contentSetSha256": "341C3CC4744184CC6D6208807B1C424F49AFE75999964CE913076AFF28291F10",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "teodor-max-onimusha-dawn-of-dreams-disc2-slpm-66276-20260927",
+          "sourceArtifact": "Derived subset of Onimusha Dawn of Dreams (Japan).7z; selected Disk 2/SLPM-66276/replacements; original upstream size 4753823484 bytes, SHA-256 105682A64188ED084FE0FFC5F9797E76DC5DF193E08BE5A31DED3175DB9A4AA2.",
+          "sourceSha256": "070605890A5797AC3008FBAEA628492CA637F1D63232038DFBF20024CFE04F36",
+          "assetName": "onimusha-dawn-of-dreams-teodor-max-disc2-slpm-66276.zip",
+          "assetParts": [
+            "onimusha-dawn-of-dreams-teodor-max-disc2-slpm-66276.zip.part001",
+            "onimusha-dawn-of-dreams-teodor-max-disc2-slpm-66276.zip.part002"
+          ],
+          "normalizedSha256": "B5A901616B3DBA5F60F560230B31EB64E88692AE0D1857C0F541FB748D8E3C13",
+          "manifestSha256": "9C705551A68B601ABFDCE2176AFD670314D26C79762D9125ECE8B7CEED89ED89",
+          "contentSetSha256": "C7B852379F35B09E41682AA057931602683EF241939CE04490588A28C9873FA1",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "Derived disc-only source subset from the author-linked upstream archive Onimusha Dawn of Dreams (Japan).7z (4,753,823,484 bytes; SHA-256 105682A64188ED084FE0FFC5F9797E76DC5DF193E08BE5A31DED3175DB9A4AA2); selected internal path Onimusha Dawn of Dreams (Japan)/Disk 2/SLPM-66276/replacements. This is a complete runtime replacement set for this disc serial. Cross-disc audit: 1,088 shared basenames, 1,080 byte-identical; 8 same-path files differ; this disc has 1400 paths absent from the other disc.",
+              "sourceUrl": "https://gbatemp.net/threads/onimusha-dawn-of-dreams-hd-texture-pack.653739/",
+              "manifestSha256": "9C705551A68B601ABFDCE2176AFD670314D26C79762D9125ECE8B7CEED89ED89",
+              "contentSetSha256": "C7B852379F35B09E41682AA057931602683EF241939CE04490588A28C9873FA1",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -60,7 +60,8 @@ archive digests, normalized manifests, and content sets.
 
 After every asset in a reviewed batch has been uploaded and API-verified,
 register the batch in the catalog and persistent audit ledger. Publish catalog
-updates after each group of 50 newly verified packs:
+updates no later than each group of 50 newly verified packs; smaller interim
+updates can make already uploaded packs available in the app sooner:
 
 ```text
 python scripts/register_batch.py --manifest BATCH/sources.json \

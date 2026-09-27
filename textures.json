@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T07:39:28Z",
+  "generatedAt": "2026-09-27T10:02:00Z",
   "entries": [
     {
       "id": "xxtherockoxx-prince-of-persia-two-thrones-slus-21287-20260722",
@@ -13702,6 +13702,554 @@
           "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/headhunter-redemption-teodor-max-slus-20817.zip.part004",
           "sizeBytes": 1886079752,
           "sha256": "13E585B45C015DAB2CE5CCDA5EDB646C3B832A4B98D1E85A328B288C03801A9C"
+        }
+      ]
+    },
+    {
+      "id": "kupo-flatout-2-pal-d-sles-54003-20260927",
+      "name": "FlatOut 2 PAL-D HD Texture Pack by kupo-on-gbatem",
+      "gameTitle": "FlatOut 2",
+      "serials": ["SLES-54003"],
+      "version": "Author v1.1 archive, mirrored 2026-09-27",
+      "authors": ["kupo-on-gbatem"],
+      "credits": "Original HDcube4-upscaled texture pack by kupo-on-gbatem. Downloaded from the author's public Google Drive folder linked in the GBAtemp release post; EmuCoreX validated the complete 7z and mirrored all runtime DDS textures.",
+      "description": "8,720 DDS replacement textures for the German PAL PS2 release SLES-54003. The author describes a full playthrough and says this version should be complete, while explicitly stating other regional versions were not tested. Includes independently upscaled game mipmaps. The source 7z passed safe-path and CRC checks; all 8,720 runtime textures are preserved in the normalized ZIP. The 2.40 GB ZIP is split into two release assets for GitHub download limits.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/flatout-2-kupo-pal-d-sles-54003.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/flatout-2-pal-d.650174/",
+      "license": "No explicit redistribution license stated in the author's release post",
+      "sizeBytes": 2395825136,
+      "sha256": "A109177947D2CEF743CDACA33A1102FEC0CFD80EB2032E7506C67FFE29AD858D",
+      "fileCount": 8720,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/flatout-2-kupo-pal-d-sles-54003.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "E3DCEC1E548386B909D5A806D8EB26E5B04142B9EF14474E3209AA8488C976E1"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/flatout-2-kupo-pal-d-sles-54003.zip.part002",
+          "sizeBytes": 495825136,
+          "sha256": "D0A9C889FC728738DF88D47488F9E79F9747892CC6E868F2A1DBDFD48BF008B8"
+        }
+      ]
+    },
+    {
+      "id": "pliskindev-prisoner-of-war-sles-50397-20260927",
+      "name": "Prisoner of War HD Texture Pack by PliskinDev",
+      "gameTitle": "Prisoner of War",
+      "serials": ["SLES-50397"],
+      "version": "Author pack (2025-09-26)",
+      "authors": ["PliskinDev"],
+      "credits": "HD texture pack created by PliskinDev. Mirrored by EmuCoreX with source and author attribution retained; all rights remain with the original creator and rights holders.",
+      "description": "995 runtime DDS replacements for the European PS2 release (SLES-50397). The creator describes this as their texture pack, improving resolution while preserving the original atmosphere. The source ZIP has only the serial folder, replacements folder marker, and runtime DDS files; the two folder markers are not files and were omitted when normalizing.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/prisoner-of-war-pliskindev-sles-50397.zip",
+      "sourceUrl": "https://gbatemp.net/threads/prisoner-of-war-europe-sles-50397-texture-pack-hd.675613/",
+      "license": "No explicit redistribution license stated in the creator post; see source page terms.",
+      "sizeBytes": 1183742955,
+      "sha256": "BB244AF660046E5524AE4B1AD88AB8644E9BDFFB26369A75438EC95C87BD1391",
+      "fileCount": 995,
+      "previewUrls": []
+    },
+    {
+      "id": "deadontheinside-eragon-slus-21322-v1-5-20260927",
+      "name": "Eragon HD Texture Pack by DeadOnTheInside",
+      "gameTitle": "Eragon",
+      "serials": ["SLUS-21322"],
+      "version": "Author v1.5 (2026-03-29)",
+      "authors": ["DeadOnTheInside"],
+      "credits": "HD texture pack created by DeadOnTheInside. Mirrored by EmuCoreX with author attribution and source retained; all rights remain with the original creator and rights holders.",
+      "description": "2,549 PNG runtime replacements for the North American PS2 release (SLUS-21322). The author describes this as a complete pack; v1.5 adds missing textures and reorganizes/reduces the archive. The two-part ZIP was safely validated and normalized; only the non-runtime desktop.ini was excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/eragon-hd-textures-deadontheinside-slus-21322.zip.part001",
+      "sourceUrl": "https://www.patreon.com/DeadOnTheInside/posts/eragon-hd-ps2-146041522",
+      "license": "No explicit redistribution license stated in the creator post.",
+      "sizeBytes": 6627251619,
+      "sha256": "764DB4BB42B311A01E647E96FF23B6CC01F155744CA2270207DB8647964F8C11",
+      "fileCount": 2549,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/eragon-hd-textures-deadontheinside-slus-21322.zip.part001",
+          "sizeBytes": 1800000000,
+          "sha256": "7AB5C849AC02583BB1483B804C8A8CA4A9FE6D6AB487260EF0595F5C3C8893D4"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/eragon-hd-textures-deadontheinside-slus-21322.zip.part002",
+          "sizeBytes": 1800000000,
+          "sha256": "84ADEA1F515FC43D2B7EBBFE997FA6FC4C80DEEDEAB61FE76FB7C7B8C92111FD"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/eragon-hd-textures-deadontheinside-slus-21322.zip.part003",
+          "sizeBytes": 1800000000,
+          "sha256": "5AE2A443A0AFD76AF6E27D65B2045B6C5762338B596189913D68FE98D53846D2"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/eragon-hd-textures-deadontheinside-slus-21322.zip.part004",
+          "sizeBytes": 1227251619,
+          "sha256": "011676C1C8DA33CD3E3B5EF3E40535713C5866C08FAA317A9971D7250AFE94F4"
+        }
+      ]
+    },
+    {
+      "id": "sal9im-tmnt-2007-default-ui-slus-21595-20260927",
+      "name": "TMNT 2007 HD Texture Pack — Sal9im Default UI",
+      "gameTitle": "TMNT 2007",
+      "serials": ["SLUS-21595"],
+      "version": "Author updated main replacement set, mirrored 2026-09-27",
+      "authors": ["Sal9im"],
+      "credits": "Original AI-upscaled pack and controller prompt variants by Sal9im. Downloaded from the Google Drive archive linked in the author's GBAtemp release post; EmuCoreX verified the complete RAR and mirrored its default runtime replacements. The optional Original Buttons and Xbox Layout folders remain available at the author source.",
+      "description": "1,684 PNG replacement textures for the USA release. This is the author's default runtime UI variant. Compared file by file with the existing community-archive pack for the same serial, all 1,684 texture paths match: 1,671 files are byte-identical and the 13 different files are all controller prompts with different decoded pixels. The community archive's 13 prompts match the author's optional Original Buttons folder. Choose this version for Sal9im's default controller prompts; the rest of the visual pack is shared.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tmnt-2007-sal9im-default-ui-slus-21595.zip",
+      "sourceUrl": "https://gbatemp.net/threads/tmnt-2007-upscaled-texture-pack.658503/",
+      "license": "No explicit redistribution license stated in the author's release post",
+      "sizeBytes": 852597947,
+      "sha256": "AF7217C34806A9CC5AA6938EE0440FDCFD41BBAA1DFDCC0279EE4A4ED435C65F",
+      "fileCount": 1684,
+      "previewUrls": []
+    },
+    {
+      "id": "psxrestore-mercenaries-restored-hd-quality-slus-20932-20260927",
+      "name": "Mercenaries: Playground of Destruction Restored HD Pack — Quality",
+      "gameTitle": "Mercenaries: Playground of Destruction",
+      "serials": ["SLUS-20932"],
+      "version": "Restored HD Quality public source snapshot",
+      "authors": ["PsxRestore"],
+      "credits": "Restored texture matching and porting by PsxRestore from uncompressed developer build assets; normalized and mirrored by EmuCoreX. Original author thread and source archive are linked.",
+      "description": "7,737 PNG replacements for the USA release. This is PsxRestore's native-resolution Restored HD Quality edition, separate from the already cataloged Remastered V2 upscale. All 7,737 texture IDs are also in V2, but a seeded 80-image comparison found 16x median pixel area in V2; this edition serves a different resolution/performance preference. Source archive passed 7-Zip CRC and safe extraction checks; ancillary patches, settings, and optional overlays were excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/mercenaries-restored-hd-quality-psxrestore-slus-20932.zip",
+      "sourceUrl": "https://gbatemp.net/threads/mercenaries-playground-of-destruction-hd-textures-v2-slus-20932.638463/",
+      "license": "See source page terms",
+      "sizeBytes": 337689068,
+      "sha256": "18CE806FBA3BEC16BD354CDF6E3B2496B2AD5129EB31CBF106C1C245DDE70A43",
+      "fileCount": 7737,
+      "previewUrls": []
+    },
+    {
+      "id": "sombertwilight-tenchu-fatal-shadows-last-round-slus-21129-20260903",
+      "name": "Tenchu Fatal Shadows: Last Round (2026) Texture Pack",
+      "gameTitle": "Tenchu Fatal Shadows",
+      "serials": ["SLUS-21129"],
+      "version": "SomberTwilight Last Round complete remake, released 2026-09-03; superseding revision of the author’s earlier pack",
+      "authors": ["SomberTwilight"],
+      "credits": "SomberTwilight describes Last Round as a complete remake of the earlier Tenchu Fatal Shadows pack and a 4K overhaul. This catalog entry preserves the 2026 revision as a distinct same-serial variant; normalized by EmuCoreX.",
+      "description": "2,446 replacements (2,438 PNG, 8 DDS) for the North American PS2 release SLUS-21129. The author calls this a complete remake/4K overhaul of the earlier pack. Compared with both published Tenchu Fatal Shadows variants, it has distinct pixels and substantial resolution/art differences; see sourceVariantEvidence for fingerprint and decoded-pixel comparison results.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tenchu-fatal-shadows-last-round-sombertwilight-slus-21129.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/tenchu-fatal-shadows-wrath-of-heaven-last-round.684190/",
+      "license": "No explicit redistribution license stated in the author thread.",
+      "sizeBytes": 2765101358,
+      "sha256": "894A7DF1B32A4F71F945EAE78E1AF77AD6E61A8CFB8C891014658F968625D8B4",
+      "fileCount": 2446,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tenchu-fatal-shadows-last-round-sombertwilight-slus-21129.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "4A9FA051BFE8D89004C91301328A6BA7BCEEE5716E9D53A4A09B71446B7FECB5"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tenchu-fatal-shadows-last-round-sombertwilight-slus-21129.zip.part002",
+          "sizeBytes": 865101358,
+          "sha256": "3F75C24841D0ED0024B4832AF6D74BB8E7E1C3987A676F02CCB854145F67723E"
+        }
+      ]
+    },
+    {
+      "id": "cckrizalid-baroque-slus-21714-20260927",
+      "name": "Baroque HD Texture Pack by CCKrizalid",
+      "gameTitle": "Baroque",
+      "serials": ["SLUS-21714"],
+      "version": "CCKrizalid creator release",
+      "authors": ["CCKrizalid"],
+      "credits": "HD replacement textures created by CCKrizalid. Preserved from the creator’s GBAtemp library and normalized by EmuCoreX; no explicit redistribution license stated.",
+      "description": "2,021 DDS replacement textures for the North American PS2 release.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/baroque-cckrizalid-ntsc-u-slus-21714.zip",
+      "sourceUrl": "https://gbatemp.net/threads/mega-library-of-hd-texture-packs-by-cckrizalid.618690/",
+      "license": "No explicit redistribution license stated on the creator thread; see the original source.",
+      "sizeBytes": 275369649,
+      "sha256": "B1E1BF87CC51FD2AF12135E17E46AD9C07E47ECBA7C73B444DD918A0225EE673",
+      "fileCount": 2021,
+      "previewUrls": []
+    },
+    {
+      "id": "ckiscxrsed-mortal-kombat-armageddon-v1-6-slus-21410-20260927",
+      "name": "Mortal Kombat: Armageddon HD Texture Pack v1.6 — Konquest Expansion",
+      "gameTitle": "Mortal Kombat: Armageddon",
+      "serials": ["SLUS-21410"],
+      "version": "v1.6 Konquest expansion (public source snapshot)",
+      "authors": ["ckiscxrsed"],
+      "credits": "AI-upscaled PS2 replacement textures created and maintained by ckiscxrsed; author release v1.6 and its Google Drive source are linked. Normalized and mirrored by EmuCoreX.",
+      "description": "4,567 PNG replacements for the USA release. The author's v1.6 adds Konquest Mode environments, characters, loading screens, UI and objects; Konquest remains unfinished beyond Arctika. Compared with the existing v1.5 pack, 3,692 paths overlap and 3,688 of those are byte-identical, while v1.6 has 875 paths absent from v1.5. This is a clearly labeled successor edition with substantial new content, not a wholly new texture set. Optional replacement variants and non-runtime files were excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/mk-armageddon-ckiscxrsed-v1.6-slus-21410.zip.part001",
+      "sourceUrl": "https://github.com/ckiscxrsed/Mortal-Kombat-Armageddon-HD-Textures/releases/tag/v1.6",
+      "license": "See source page terms",
+      "sizeBytes": 2186484976,
+      "sha256": "F170B5AF75E7F06C70F9D72D4AC14DEEB1B8E320501011EBE83E068047754F5B",
+      "fileCount": 4567,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/mk-armageddon-ckiscxrsed-v1.6-slus-21410.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "CBE7C061F13D4D2AA37BC09C777199F9838386C4202EFB02E917765D9CDC161B"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/mk-armageddon-ckiscxrsed-v1.6-slus-21410.zip.part002",
+          "sizeBytes": 286484976,
+          "sha256": "F6EB276C0207538EB948E4715A6539B13A402D7D62555D15335154B637DED667"
+        }
+      ]
+    },
+    {
+      "id": "moataz-midnight-club-3-dub-edition-remix-slus-21355-20240709",
+      "name": "Midnight Club 3: DUB Edition Remix (USA) Texture Pack",
+      "gameTitle": "Midnight Club 3: DUB Edition Remix",
+      "serials": ["SLUS-21355"],
+      "version": "Moataz HD remaster pack, author post dated 2024-07-09",
+      "authors": ["Moataz"],
+      "credits": "Moataz’s GBAtemp post explicitly permits reposting with credit. Optional Xbox-button assets and PS2 backup assets were excluded; the replacements subtree was preserved. Nine DDS images were converted to PNG losslessly with decoded RGBA pixel equality verified.",
+      "description": "19,954 replacement textures for the USA PS2 release SLUS-21355. The author describes nearly all game textures as upscaled. Runtime replacements only; optional Xbox buttons, backup buttons, and readme were excluded. Nine large DDS images were converted losslessly to PNG; decoded RGBA pixels were verified equal. Pack fits the app 12 GiB uncompressed limit.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/midnight-club-3-moataz-slus-21355.zip",
+      "sourceUrl": "https://gbatemp.net/threads/midnight-club-3-dub-edition-remix-all-game-hd-remastered-textures-1-3.658120/",
+      "license": "Author permits reposting with credit in the GBAtemp post; no formal license stated.",
+      "sizeBytes": 1132067789,
+      "sha256": "7899FC630B02DF1F25A5E0227293CAB6D3550D6EAB08195CA088A8F68F2D66B2",
+      "fileCount": 19954,
+      "previewUrls": []
+    },
+    {
+      "id": "santins-the-incredibles-rise-of-the-underminer-slus-21217-20260927",
+      "name": "The Incredibles: Rise of the Underminer HD Texture Pack — Santins",
+      "gameTitle": "The Incredibles: Rise of the Underminer",
+      "serials": ["SLUS-21217"],
+      "version": "Original author release; GBAtemp post dated 2024-03-13 and declares 100% complete",
+      "authors": ["Santins"],
+      "credits": "Texture pack created by Santins, as stated in the original GBAtemp post; normalized and mirrored by EmuCoreX. No redistribution terms are stated in the source post.",
+      "description": "2,039 DDS replacement textures for the USA PS2 release SLUS-21217. The creator's post declares the pack 100% complete. Runtime replacements only.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/incredibles-rise-of-the-underminer-santins-slus-21217.zip",
+      "sourceUrl": "https://gbatemp.net/threads/the-incredibles-rise-of-the-underminer-hd-remaster-usa-slus-21217.650720/",
+      "license": "No explicit redistribution terms stated in the creator's post; see original source.",
+      "sizeBytes": 171926239,
+      "sha256": "D35AA41390E3D0851984A7541AA7ADFD359D8DD1FF0F56820F1BDD6990D7E39B",
+      "fileCount": 2039,
+      "previewUrls": []
+    },
+    {
+      "id": "ncaanext-ncaa-football-06-vanilla-slus-21214-20260927",
+      "name": "NCAA Football 06 Vanilla HD Texture Pack",
+      "gameTitle": "NCAA Football 06",
+      "serials": ["SLUS-21214"],
+      "version": "Vanilla source commit 65176b23",
+      "authors": ["NCAA NEXT project"],
+      "credits": "Original textures and upgrades by the NCAA NEXT project and its contributors named in the source README; normalized and mirrored by EmuCoreX. Attribution and the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license are retained at the linked source repository.",
+      "description": "6,176 HD replacements for the original, unmodified NCAA Football 06. The author explicitly distinguishes this vanilla edition from NCAA NEXT 24. Normalized ZIP comparison with our existing NEXT 24 pack found 5,899 shared paths, 5,819 identical files at those paths, 80 changed files, and 277 paths only in this vanilla pack; substantial overlap is disclosed and this is retained for its distinct stock-game compatibility. One source .png contained JPEG bytes; it was converted to valid PNG at the same texture ID with decoded RGBA pixels verified equal.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/ncaa-06-vanilla-ncaanext-slus-21214.zip",
+      "sourceUrl": "https://github.com/ncaanext/ncaa06-next-vanilla/tree/65176b23780f27c10512624da15a49589ee0ad4c",
+      "license": "CC BY-NC-SA 4.0 (https://github.com/ncaanext/ncaa06-next-vanilla/blob/65176b23780f27c10512624da15a49589ee0ad4c/LICENSE)",
+      "sizeBytes": 1379301345,
+      "sha256": "6BF1485C9E9246A75E4BABB5C9B92AD8D5BAC35E953155F8A2B733CF02FB4053",
+      "fileCount": 6176,
+      "previewUrls": []
+    },
+    {
+      "id": "curse-arms-the-red-star-slus-20885-hd-textures",
+      "name": "The Red Star (USA) HD Texture Pack",
+      "gameTitle": "The Red Star",
+      "serials": ["SLUS-20885"],
+      "version": "Author-posted HD texture pack",
+      "authors": ["Curse_Arms"],
+      "credits": "The GBAtemp thread is authored by Curse_Arms and links the original Google Drive archive. No explicit redistribution license stated in the thread.",
+      "description": "867 PNG replacement textures for the USA PS2 release SLUS-20885. Runtime replacements only; extracted archive passed integrity and safe-path checks. No formal redistribution license is stated.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/the-red-star-curse-arms-slus-20885.zip",
+      "sourceUrl": "https://gbatemp.net/threads/the-red-star-hd-textures.669283/",
+      "license": "No explicit redistribution license stated in the author thread.",
+      "sizeBytes": 280932796,
+      "sha256": "34FB232328B1BD06346DA6EE5FE677BB364FEAB30721921014F081047E63BA89",
+      "fileCount": 867,
+      "previewUrls": []
+    },
+    {
+      "id": "nobigdeal-la-tokyo-xtreme-racer-drift-2-slus-21394-20260927",
+      "name": "Tokyo Xtreme Racer: Drift 2 HD Remastered Textures",
+      "gameTitle": "Tokyo Xtreme Racer: Drift 2",
+      "serials": ["SLUS-21394"],
+      "version": "2023 author HD release, mirrored 2026-09-27",
+      "authors": ["NoBigDeal La"],
+      "credits": "Original HD texture pack created by NoBigDeal La. The author's release video welcomes reposting with credit. EmuCoreX validated and normalized the complete runtime texture archive from the public Google Drive copy; original author and source are linked.",
+      "description": "7,701 PNG replacement textures for the North American PS2 release (SLUS-21394). The full source RAR passed 7-Zip CRC and safe extraction checks; all 7,701 runtime PNGs are included, with no game files or patches. No same-title or same-serial entry existed in the catalog before this upload.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tokyo-xtreme-racer-drift-2-nobigdeal-la-slus-21394.zip.part001",
+      "sourceUrl": "https://www.youtube.com/watch?v=UVRUx1wvyY0",
+      "license": "Author welcomes reposting with credit in linked release video",
+      "sizeBytes": 3655203632,
+      "sha256": "5A68C4C23F9CE5CDA7F507CA2CE0DCB1A5244C8225A583DCB3D79DFAA1589CC9",
+      "fileCount": 7701,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tokyo-xtreme-racer-drift-2-nobigdeal-la-slus-21394.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "92369294AAFE643E9391C6AF063336F05575CBD891B4100A15755C0A6329C8C8"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tokyo-xtreme-racer-drift-2-nobigdeal-la-slus-21394.zip.part002",
+          "sizeBytes": 1755203632,
+          "sha256": "DF76A20C2E152331621B11CC9810E8DBDE3F3BB875DB32C6D7F2EB166D6570C7"
+        }
+      ]
+    },
+    {
+      "id": "tylermods-seek-and-destroy-slus-20606-20240728",
+      "name": "Seek and Destroy (USA) HD Texture Pack",
+      "gameTitle": "Seek and Destroy",
+      "serials": ["SLUS-20606"],
+      "version": "TylerMods base texture pack posted 2024-07-28; exact duplicate archive tree removed",
+      "authors": ["TylerMods"],
+      "credits": "Pack authored and linked by TylerMods in the GBAtemp source thread. The source archive contained two byte-identical copies of the same 3,941 replacements; one exact duplicate tree was omitted. TylerMods posted a separate optional ground-texture patch on 2024-07-31, but that attachment URL returned HTTP 403 and is not included.",
+      "description": "3,941 unique PNG replacements for the USA PS2 release SLUS-20606. The source archive duplicated every replacement byte-for-byte in a second tree; duplicate copies were removed without dropping any unique texture IDs or files. TylerMods later posted an optional ground-texture patch separately; its GBAtemp attachment was inaccessible (HTTP 403), so this asset contains the author’s main pack only, not that later ground patch.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/seek-and-destroy-tylermods-slus-20606-normalized.zip",
+      "sourceUrl": "https://gbatemp.net/threads/seek-and-destroy-hd-texture-pack-slus-20606.658863/",
+      "license": "No explicit redistribution license stated in the author thread.",
+      "sizeBytes": 841848544,
+      "sha256": "E46B989F91418940783BBE28E3B0638D3A6BF6B323DC38799AA2554FFAF47684",
+      "fileCount": 3941,
+      "previewUrls": []
+    },
+    {
+      "id": "mehrdad-room-zoom-race-for-impact-sles-52603-20260927",
+      "name": "Room Zoom: Race for Impact HD Texture Pack by Mehrdad_Jamshidiha",
+      "gameTitle": "Room Zoom: Race for Impact",
+      "serials": ["SLES-52603"],
+      "version": "Author release 2025-04-08, mirrored 2026-09-27",
+      "authors": ["Mehrdad_Jamshidiha"],
+      "credits": "Original HD texture pack by Mehrdad_Jamshidiha. Downloaded from the Google Drive archive embedded in the author's GBAtemp release post; EmuCoreX verified the complete archive and normalized its runtime textures.",
+      "description": "8,328 PNG replacement files, including authored mip levels, for the PAL game SLES-52603. The original 7z passed archive CRC and safe-path checks; the normalized ZIP preserves every runtime texture file. No Room Zoom or SLES-52603 entry existed in the catalog before this upload.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/room-zoom-mehrdad-sles-52603.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/room-zoom-race-for-impact-hd-texture-pack.667832/",
+      "license": "No explicit redistribution license stated in the author's release post",
+      "sizeBytes": 2701651183,
+      "sha256": "5B5AB9755CC508FA5100B723056137A74EB3E8075753FC21A391BD440C698A25",
+      "fileCount": 8328,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/room-zoom-mehrdad-sles-52603.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "E228F24D018ED39CF397DB1EE1F49F291E73DF25A1FB45F06A3B31DFA9865C8E"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/room-zoom-mehrdad-sles-52603.zip.part002",
+          "sizeBytes": 801651183,
+          "sha256": "830291EC6CDF768E779BA3DBD26991DF2448DEDBBA94FE6417C892386970DB3F"
+        }
+      ]
+    },
+    {
+      "id": "pliskindev-the-great-escape-slus-20670-hd-texture-pack",
+      "name": "The Great Escape (USA) HD Texture Pack",
+      "gameTitle": "The Great Escape",
+      "serials": ["SLUS-20670"],
+      "version": "Author-posted HD texture pack",
+      "authors": ["PliskinDev"],
+      "credits": "PliskinDev posted and directly linked the source archive in the GBAtemp thread. No explicit redistribution license stated in the author thread.",
+      "description": "4,946 DDS replacement textures for the USA PS2 release SLUS-20670. Extracted source archive passed CRC and path-safety checks; normalized asset includes runtime replacements only and fits the app 12 GiB uncompressed limit.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/the-great-escape-pliskindev-slus-20670.zip",
+      "sourceUrl": "https://gbatemp.net/threads/the-great-escape-usa-slus-20670-texture-pack-hd.675645/",
+      "license": "No explicit redistribution license stated in the author thread.",
+      "sizeBytes": 942075626,
+      "sha256": "48C0DC6F4A123D6A301361DD184AA2CF1FA81E390BBAA3B5F2494AA07855CA75",
+      "fileCount": 4946,
+      "previewUrls": []
+    },
+    {
+      "id": "alufolie69-spartan-total-warrior-sles-53393-20260927",
+      "name": "Spartan: Total Warrior HD Texture Pack by Alufolie69",
+      "gameTitle": "Spartan: Total Warrior",
+      "serials": ["SLES-53393"],
+      "version": "2023 author release, mirrored 2026-09-27",
+      "authors": ["Alufolie69"],
+      "credits": "Original PAL HD texture pack by Alufolie69. Downloaded from the Dropbox archive linked in the author's GBAtemp release post; EmuCoreX verified the complete archive and normalized the runtime textures.",
+      "description": "425 PNG replacement textures for the European PS2 release SLES-53393. The original RAR passed CRC and safe-path checks; every source runtime texture is present in the normalized ZIP. No same-title or SLES-53393 entry existed in the catalog before this upload.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/spartan-total-warrior-alufolie69-sles-53393.zip",
+      "sourceUrl": "https://gbatemp.net/threads/spartan-total-warrior-hd-textures.641317/",
+      "license": "No explicit redistribution license stated in the author's release post",
+      "sizeBytes": 1035020905,
+      "sha256": "CFEDD6407F2AD736331E685F804C6D057DA52C48108375BE312CC43E036AAB7C",
+      "fileCount": 425,
+      "previewUrls": []
+    },
+    {
+      "id": "nordbo-scooby-doo-night-of-100-frights-sles-51017-pal-x4",
+      "name": "Scooby-Doo! Night of 100 Frights (PAL) HD Texture Pack",
+      "gameTitle": "Scooby-Doo! Night of 100 Frights",
+      "serials": ["SLES-51017"],
+      "version": "Nordbo second/better x4 upscale, based on PAL texture dump",
+      "authors": ["Nordbo"],
+      "credits": "Nordbo posted the x4 upscale and direct Google Drive archive in the GBAtemp thread. No explicit redistribution license stated in the author thread.",
+      "description": "1,878 PNG replacement textures for the PAL PS2 release SLES-51017. Nordbo describes this as a cleaner second x4 upscale based on the PAL texture dump; the author reports roughly 400 MB unzipped. Runtime textures only; normalized asset fits the app 12 GiB uncompressed limit.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/scooby-doo-night-100-frights-nordbo-sles-51017.zip",
+      "sourceUrl": "https://gbatemp.net/threads/scooby-doo-night-of-100-frights-pal-upscale.675457/",
+      "license": "No explicit redistribution license stated in the author thread.",
+      "sizeBytes": 360788208,
+      "sha256": "46B33A41289781D1B32B2BEE071349A65D21D819F8D9EFE91C2A92901BBD045A",
+      "fileCount": 1878,
+      "previewUrls": []
+    },
+    {
+      "id": "beto818-transworld-surf-slus-20356-sles-50886-4xhdcube",
+      "name": "TransWorld Surf (USA/PAL) 4x HD Texture Pack",
+      "gameTitle": "TransWorld Surf",
+      "serials": ["SLUS-20356", "SLES-50886"],
+      "version": "Beto818 4xHDCube4Compact upscale; author says made for USA and works with PAL",
+      "authors": ["Beto818"],
+      "credits": "Beto818 posted the original 4xHDCube4Compact pack and installation notes in the GBAtemp thread. Source README lists USA serial SLUS-20356 and PAL SLES-50886. No explicit redistribution license stated in the author thread.",
+      "description": "2,099 DDS replacement textures (4xHDCube4Compact) for TransWorld Surf. The author says the pack was made from the USA release and works with the PAL release; the included README lists SLUS-20356 and SLES-50886 and instructs users to rename the folder for the game serial. Runtime replacements only; normalized archive fits the app 12 GiB uncompressed limit.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/transworld-surf-beto818-slus-20356.zip",
+      "sourceUrl": "https://gbatemp.net/threads/transworld-surf-hd-texture-pack-slus-20356.674089/",
+      "license": "No explicit redistribution license stated in the author thread.",
+      "sizeBytes": 418109375,
+      "sha256": "112D896453395BB630CE3F41956E5A8AFC1775614DB1FA553EA9C1131C3CC458",
+      "fileCount": 2099,
+      "previewUrls": []
+    },
+    {
+      "id": "teslax2105-ys-vi-ark-napishtim-slus-20980-hd",
+      "name": "Ys VI: The Ark of Napishtim (USA) HD Texture Pack",
+      "gameTitle": "Ys VI: The Ark of Napishtim",
+      "serials": ["SLUS-20980"],
+      "version": "TeslaX2105 simple upscale",
+      "authors": ["TeslaX2105"],
+      "credits": "TeslaX2105 posted the pack and its scope notes in the GBAtemp author thread. The author describes it as a simple upscale. No explicit redistribution license is stated in the thread.",
+      "description": "2,085 PNG replacement textures for the USA release. This is a partial/simple upscale: the author says small portraits and most UI elements could not be upscaled because the emulator repeatedly dumped duplicates, and dialogue fonts were left untouched. The source archive also contains 20 preview screenshots, excluded from the runtime pack.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/ys-vi-ark-napishtim-teslax2105-slus-20980.zip",
+      "sourceUrl": "https://gbatemp.net/threads/ys-vi-the-ark-of-napishtim-usa-ps2-hd-texture-pack.671789/",
+      "license": "No explicit redistribution license stated in the author thread.",
+      "sizeBytes": 1784360322,
+      "sha256": "83FC2A14704CDE10087C0D62A8F9514FED45F41E4F00D7A14841832BEB5E7705",
+      "fileCount": 2105,
+      "previewUrls": []
+    },
+    {
+      "id": "sombertwilight-tenchu-wrath-of-heaven-last-round-slus-20397-20260927",
+      "name": "Tenchu: Wrath of Heaven Last Round HD Texture Pack — SomberTwilight",
+      "gameTitle": "Tenchu: Wrath of Heaven",
+      "serials": ["SLUS-20397"],
+      "version": "Last Round complete remake / 4K overhaul, released 2026-09-03",
+      "authors": ["SomberTwilight"],
+      "credits": "Texture pack by SomberTwilight, whose GBAtemp post describes this as a complete remake/4K overhaul. No explicit redistribution license stated in the source thread; normalized and mirrored by EmuCoreX.",
+      "description": "3,528 PNG runtime replacements for the USA PS2 release SLUS-20397. The author describes Wrath of Heaven Last Round as a complete remake and 4K overhaul. Only replacements/ assets are included; non-runtime Ayame skin extras, dumps folder, and desktop.ini are excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tenchu-wrath-of-heaven-last-round-sombertwilight-slus-20397.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/tenchu-fatal-shadows-wrath-of-heaven-last-round.684190/",
+      "license": "No explicit redistribution terms stated in the author thread; see original source.",
+      "sizeBytes": 4465822150,
+      "sha256": "1F8AC13FC8F0BFA26854A1E9BFF2E47932C4A3B485266A764803EC47FFE10F1A",
+      "fileCount": 3528,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tenchu-wrath-of-heaven-last-round-sombertwilight-slus-20397.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "5C34D9D141CDFF49FB080B8B98C376E6645B1C4AA32385EC35C1F0E20227270D"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tenchu-wrath-of-heaven-last-round-sombertwilight-slus-20397.zip.part002",
+          "sizeBytes": 1900000000,
+          "sha256": "6B35D6A3F8970440BF73261D55F34B42AF51E2FCDE28A889D5807D88121E9784"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/tenchu-wrath-of-heaven-last-round-sombertwilight-slus-20397.zip.part003",
+          "sizeBytes": 665822150,
+          "sha256": "39098B4552128AD7DF329D5FD0DE0B49AF8EB1D15FBE6FE41A543824DC921677"
+        }
+      ]
+    },
+    {
+      "id": "asc53087-rumble-roses-slus-20970-20260927",
+      "name": "Rumble Roses HD Texture Pack by asc53087",
+      "gameTitle": "Rumble Roses",
+      "serials": ["SLUS-20970"],
+      "version": "Author release, mirrored 2026-09-27",
+      "authors": ["asc53087"],
+      "credits": "Original USA texture pack by asc53087. Downloaded from the MediaFire archive linked in the author's GBAtemp release post; EmuCoreX verified the complete 7z archive and mirrored its runtime replacement PNGs. The nested BSRGAN_x4.7z is an optional source archive and is not a runtime texture.",
+      "description": "2,012 PNG replacement textures for the USA PS2 release. This is a distinct author variant from the existing SomberTwilight Rumble Roses pack: 1,346 texture filename stems overlap, but the existing pack has 1,434 DDS files while this pack has PNG files. In a deterministic sample of 80 shared stems, all 80 decoded images differed (median RGB mean absolute difference approximately 4.17). The nested optional archive was excluded from the normalized runtime ZIP.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/rumble-roses-asc53087-slus-20970.zip",
+      "sourceUrl": "https://gbatemp.net/threads/rumble-roses-hd-texture-pack.615568/",
+      "license": "No explicit redistribution license stated in the author's release post",
+      "sizeBytes": 616904195,
+      "sha256": "82A489A008411A5EE7D3BE0A58F0629F34678E9A725544F0DA2FCD2C63CEB488",
+      "fileCount": 2012,
+      "previewUrls": []
+    },
+    {
+      "id": "mzzvxm-lego-batman-sles-55135-hd-texture-pack-20260927",
+      "name": "LEGO Batman: The Videogame HD Texture Pack by mzzvxm",
+      "gameTitle": "LEGO Batman: The Videogame",
+      "serials": ["SLES-55135"],
+      "version": "1.0 author-posted work-in-progress",
+      "authors": ["mzzvxm"],
+      "credits": "Texture pack created and posted by mzzvxm. Original source archive linked by the author in the GBAtemp thread. No explicit redistribution license stated in the author post; all rights remain with the creator and rights holders.",
+      "description": "3,686 runtime PNG replacement textures for the PS2 release SLES-55135. The author states the pack is a work in progress; the current author-posted archive is preserved as version 1.0. Google Drive source passed RAR integrity and safe path checks; normalized asset contains runtime texture files only.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/lego-batman-mzzvxm-sles-55135-mzzvxm.zip",
+      "sourceUrl": "https://gbatemp.net/threads/ps2-lego-batman-the-videogame-sles-55135-hd-textures-1-0.664769/",
+      "license": "No explicit redistribution license stated in the creator post; see source page terms.",
+      "sizeBytes": 1705149833,
+      "sha256": "C5C8DFA643E81FFD31DC8A81FEE043DA14C0BADD19EB57AA7207B7A7D4708B09",
+      "fileCount": 3686,
+      "previewUrls": []
+    },
+    {
+      "id": "teodor-max-onimusha-dawn-of-dreams-disc1-slpm-66275-20260927",
+      "name": "Onimusha: Dawn of Dreams HD Texture Pack — Disc 1",
+      "gameTitle": "Onimusha: Dawn of Dreams",
+      "serials": ["SLPM-66275"],
+      "version": "TEODOR_MAX HD texture pack, Japan Disc 1 (2024-04-14)",
+      "authors": ["TEODOR_MAX"],
+      "credits": "HD texture pack created by TEODOR_MAX. EmuCoreX normalized and mirrored the author-linked disc 1 replacement set with source and author attribution. All rights remain with the original creator and rights holders.",
+      "description": "2,900 runtime DDS replacements for Japanese Disc 1 (SLPM-66275). The creator states the Japanese release includes English audio and text and says the pack was made with English language in mind. The two discs have separate serial-specific replacement trees and are published as separate assets. No compatibility with other regional serials is claimed.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/onimusha-dawn-of-dreams-teodor-max-disc1-slpm-66275.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/onimusha-dawn-of-dreams-hd-texture-pack.653739/",
+      "license": "No explicit redistribution license stated in the author thread; see source page terms.",
+      "sizeBytes": 3543934737,
+      "sha256": "B4A94B693B7369FBC06AC6FDDA640F12B918F8BFE02E0183F80CE83A8CC01247",
+      "fileCount": 2900,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/onimusha-dawn-of-dreams-teodor-max-disc1-slpm-66275.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "BDF6120B37DD49B80FDD4B862600066D2D407FE2688CAF5B5576549EBC8E4EDA"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/onimusha-dawn-of-dreams-teodor-max-disc1-slpm-66275.zip.part002",
+          "sizeBytes": 1643934737,
+          "sha256": "39EEB0854FC074909CF2677FA97D41C91046377604EFF6B1387F6A963181A07D"
+        }
+      ]
+    },
+    {
+      "id": "teodor-max-onimusha-dawn-of-dreams-disc2-slpm-66276-20260927",
+      "name": "Onimusha: Dawn of Dreams HD Texture Pack — Disc 2",
+      "gameTitle": "Onimusha: Dawn of Dreams",
+      "serials": ["SLPM-66276"],
+      "version": "TEODOR_MAX HD texture pack, Japan Disc 2 (2024-04-14)",
+      "authors": ["TEODOR_MAX"],
+      "credits": "HD texture pack created by TEODOR_MAX. EmuCoreX normalized and mirrored the author-linked disc 2 replacement set with source and author attribution. All rights remain with the original creator and rights holders.",
+      "description": "2,488 runtime DDS replacements for Japanese Disc 2 (SLPM-66276). The creator states the Japanese release includes English audio and text and says the pack was made with English language in mind. The two discs have separate serial-specific replacement trees and are published as separate assets. No compatibility with other regional serials is claimed.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/onimusha-dawn-of-dreams-teodor-max-disc2-slpm-66276.zip.part001",
+      "sourceUrl": "https://gbatemp.net/threads/onimusha-dawn-of-dreams-hd-texture-pack.653739/",
+      "license": "No explicit redistribution license stated in the author thread; see source page terms.",
+      "sizeBytes": 2922478956,
+      "sha256": "B5A901616B3DBA5F60F560230B31EB64E88692AE0D1857C0F541FB748D8E3C13",
+      "fileCount": 2488,
+      "previewUrls": [],
+      "parts": [
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/onimusha-dawn-of-dreams-teodor-max-disc2-slpm-66276.zip.part001",
+          "sizeBytes": 1900000000,
+          "sha256": "0BC26A14A16A80CCCEDD11E4D8629E68EC248B91E2EA253EEBB0ECFFA2057417"
+        },
+        {
+          "downloadUrl": "https://github.com/sashkinbro/EmuCoreX-Textures/releases/download/texture-catalog-2026-07-22/onimusha-dawn-of-dreams-teodor-max-disc2-slpm-66276.zip.part002",
+          "sizeBytes": 1022478956,
+          "sha256": "DBE89C8C2A6FB8651D612BF95DF85FE0CDC68280FB5A611C9D67273F02FDB048"
         }
       ]
     }
