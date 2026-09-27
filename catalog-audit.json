@@ -3221,7 +3221,10 @@
           "normalizedSha256": "04F9F50F72E72535AC0950CF99235DBDB2FB37D387291161445C7C9DE63892DB",
           "manifestSha256": "4C8F3D30463F3D1D2578CA9536BAD23BA94E5C3A42B1084C9EF04F4EFF86C06D",
           "contentSetSha256": "F5009E01F3AC8D166676B12D0659FDC2EBEEC1F7E332153980182BF4DAE6478D",
-          "comparedAgainst": []
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Author identity verified: SomberShroud’s original GBAtemp post (https://gbatemp.net/threads/james-bond-007-nightfire-usa-hd-textures.637947/) links the author-hosted MediaFire ZIP (https://www.mediafire.com/file/k58xy5yqtivw5k4/SLUS-20579.zip/file). The downloaded original ZIP was CRC-tested and SHA-256 hashed (E9AA79666665BD2C91C6FC2CE522D708A16BB2CEFFFC62221124039680A05E5A, 1672120528 bytes). It was content-compared with the existing published asset: all 15,450 normalized replacement paths and per-file byte lengths/SHA-256 values match exactly; manifest SHA-256 4C8F3D30463F3D1D2578CA9536BAD23BA94E5C3A42B1084C9EF04F4EFF86C06D; content-set SHA-256 F5009E01F3AC8D166676B12D0659FDC2EBEEC1F7E332153980182BF4DAE6478D. This is provenance confirmation of the existing pack, not a separate variant. Existing asset URL and normalized ZIP SHA-256 04F9F50F72E72535AC0950CF99235DBDB2FB37D387291161445C7C9DE63892DB are unchanged; stable catalog ID retained."
+          ]
         },
         {
           "catalogId": "texture-pack-credited-to-curse-arms-by-the-curated-pcsx2-hd-texture-project-list-original-archive-filename-10-000-bullets-hd-remaster-community-archive-sles-53481-20260728",
@@ -10050,6 +10053,515 @@
               "sourceUrl": "https://gbatemp.net/threads/onimusha-dawn-of-dreams-hd-texture-pack.653739/",
               "manifestSha256": "9C705551A68B601ABFDCE2176AFD670314D26C79762D9125ECE8B7CEED89ED89",
               "contentSetSha256": "C7B852379F35B09E41682AA057931602683EF241939CE04490588A28C9873FA1",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-048l",
+      "verifiedAt": "2026-09-27T10:08:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "yamijpg-power-rangers-super-legends-slus-21679-20260927",
+          "sourceArtifact": "power-rangers-super-legends-yami-slus-21679.rar",
+          "sourceSha256": "5A56D23CC8B8AC0CDDDECC6428C9B54046CF46F34C8ADE7DF5EA9A90615D97CC",
+          "assetName": "power-rangers-super-legends-yami-slus-21679.zip",
+          "normalizedSha256": "4E1513AA49D5B6B82ECAC3C240615CFB892D0EA4724A0AD1730891ED08D99AC8",
+          "manifestSha256": "3D524ED3E9A24326CE880117AE06AFFB81089F082C204634EEC4359C5F01A865",
+          "contentSetSha256": "BBD1EB8B62F5113782B0F9EB879A65BDBA851BB16B23F3CAF258F4395FD2DA89",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-049l",
+      "verifiedAt": "2026-09-27T10:22:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "dahu-futurama-sles-51507-20260927",
+          "sourceArtifact": "futurama-dahu-sles-51507.zip",
+          "sourceSha256": "9C6E81B364834B83F9B0DD7B386A4CEDEC4ECB4A9498B53C7FE7FC877AB46359",
+          "assetName": "futurama-dahu-sles-51507.zip",
+          "normalizedSha256": "A36DCDBB99FE3AC80D4D94A2CB039B0AB1C903F3B04C738D36F6CAD375723DBE",
+          "manifestSha256": "37019E214F1C2FB5DF6E596DBBA8B99F29FE160A9DD7720E3BC962226E674CED",
+          "contentSetSha256": "A87A63CF2434AB81D1A43D144E71F5F7713E2174FBF2C0E5026934A80AD7B9C0",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-050m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "curse-arms-warhammer-40000-fire-warrior-slus-20597-20260927",
+          "sourceArtifact": "W40000_FW_HD_30089.rar",
+          "sourceSha256": "80D7BD186CE7F0D2DEDFAEFA2DA596E5FE5821C14E077E4D8CF00D418486B59D",
+          "assetName": "warhammer-fire-warrior-curse-arms-slus-20597.zip",
+          "normalizedSha256": "A1668157413B0841B959E2277FACB7EAE9B89E8B2677C5C4C37EDB54EA103B43",
+          "manifestSha256": "884BDE8B7DA759EC7956566B46CEDC1C8495A3C43CA9867B0A83AC270EF583EF",
+          "contentSetSha256": "8623337780F9C4B221CC854C8A2C321DD193BA90E1EF836B13F18194FD15D2DD",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-051r",
+      "verifiedAt": "2026-09-27T10:35:30Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "icebullet-freedom-fighters-slus-20658-20260927",
+          "sourceArtifact": "Freedom_Fighters_HD_Textures.rar",
+          "sourceSha256": "7CDFBAFD06E981397D6C7DC7B12D68065E81E739059DB8A0EF43DB939D03C1F1",
+          "assetName": "freedom-fighters-icebullet-slus-20658.zip",
+          "normalizedSha256": "C929B35CC0718B3FFAAE81227BD086729667C4C20C196A647C9EF3AA2ED0847C",
+          "manifestSha256": "7ACECF1C00FD29E61BC3605A8FFB130E520B355786072E2358370B0457D23F1A",
+          "contentSetSha256": "A2556C5810B10BA902079FC2998615F13695105A9BC3A6C2D6968F6D46EFD186",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-051m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "icebullet-samurai-western-slus-21187-20260927",
+          "sourceArtifact": "Samurai_Western_HD_Textures.rar",
+          "sourceSha256": "BA757A3A7BF2A2A6362775CF15012EF04F3905F45D59CEFCE8B1986CEC504D80",
+          "assetName": "samurai-western-icebullet-slus-21187.zip",
+          "normalizedSha256": "A977ACE61870F633D72E7317793E7BAB98177BC77D16E92B7403085BEFF5FEC4",
+          "manifestSha256": "4E344CBB2F67416F736C247527F6F154BED829175EEFDC50E56949EE641179F5",
+          "contentSetSha256": "765BD04B58D77B8A1BA826B1DC25276AD37ED6CBC357C0A6CB2D0A5BC3C3CE41",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-052l",
+      "verifiedAt": "2026-09-27T10:38:35Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "dannykhan419-gauntlet-dark-legacy-slus-20047-20260927",
+          "sourceArtifact": "gauntlet-dark-legacy-dannykhan-ps2-v2.zip",
+          "sourceSha256": "74BD5FCD85B09EFCEA44FDA4106BF4A21EC7C73DF1D2F4F9160EE4079FD83F78",
+          "assetName": "gauntlet-dark-legacy-dannykhan-slus-20047.zip",
+          "normalizedSha256": "B799500D9CD5A14C128BB7CF78A13E6F814E76353D581C96480E486242E6512D",
+          "manifestSha256": "A4237A696D955D0F6370B86AC6914845EC7064CCF7EA154AAF6C820D6644430D",
+          "contentSetSha256": "10DEB5E936A41206630158A6CE06025A9335F0434560A756CA5DFB1ED0DEBD2D",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-053a",
+      "verifiedAt": "2026-09-27T10:55:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "durindragon-legend-of-spyro-new-beginning-6x-faithful-slus-21372-20260927",
+          "sourceArtifact": "Spyro ANB SLUS-21372 HD Texture Pack ONLY 6x UPSCALE.zip",
+          "sourceSha256": "2F312DFD0A7DD56B1A7F04E1B116C9F6C9D8DADDB9DF474E0443956CFD60B182",
+          "assetName": "legend-of-spyro-new-beginning-durindragon-6x-faithful-slus-21372.zip",
+          "normalizedSha256": "03839A42503CA19C40111897811DF34B9DD0713D493B04060A4AC3B3A132C204",
+          "manifestSha256": "828ADD3C55EBF22A0E12F5E1736B684EC197897D1E1BC678C054C2D64978DB59",
+          "contentSetSha256": "565C78977C8D957D57086041CEE957348E86481FF278B0F9F5B1F14361EF7739",
+          "comparedAgainst": [
+            "durindragon-legend-of-spyro-new-beginning-6x-extra-slus-21372-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "ONLY 6x UPSCALE vs published 6x EXTRA DETAIL",
+              "sourceUrl": "https://www.mediafire.com/file/vkkkunm8kj09bh3/Spyro_ANB_SLUS-21372_HD_Texture_Pack_ONLY_6x_UPSCALE.zip/file",
+              "manifestSha256": "828ADD3C55EBF22A0E12F5E1736B684EC197897D1E1BC678C054C2D64978DB59",
+              "contentSetSha256": "565C78977C8D957D57086041CEE957348E86481FF278B0F9F5B1F14361EF7739",
+              "relationToPublished": "different"
+            }
+          ]
+        },
+        {
+          "catalogId": "durindragon-legend-of-spyro-new-beginning-4x-anime-slus-21372-20260927",
+          "sourceArtifact": "Spyro ANB SLUS-21372 HD Texture Pack 4x UPSCALE Anime Textures.zip",
+          "sourceSha256": "66A97187BD052A1564CD94F447462422D3072659A586DA40CA81314DF8198BD1",
+          "assetName": "legend-of-spyro-new-beginning-durindragon-4x-anime-slus-21372.zip",
+          "normalizedSha256": "E0738AC106025C296F93A6B4C1A2B07FE00E5DE69D4D07220A803D77EA577C3A",
+          "manifestSha256": "D1B7BA26D8BE95B6C0F4FB3C818516C6EC7C7B9F941C34172A2FEB5B9552DF33",
+          "contentSetSha256": "50BFE042ABF64711121D3D572BB7BBE42DF9B4D2233D4D2F929B8FC42B81211B",
+          "comparedAgainst": [
+            "durindragon-legend-of-spyro-new-beginning-6x-extra-slus-21372-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "4x UPSCALE Anime Textures vs published 6x EXTRA DETAIL",
+              "sourceUrl": "https://www.mediafire.com/file/3jilfm7ahm6bs62/Spyro_ANB_SLUS-21372_HD_Texture_Pack_4x_UPSCALE_Anime_Textures.zip/file",
+              "manifestSha256": "D1B7BA26D8BE95B6C0F4FB3C818516C6EC7C7B9F941C34172A2FEB5B9552DF33",
+              "contentSetSha256": "50BFE042ABF64711121D3D572BB7BBE42DF9B4D2233D4D2F929B8FC42B81211B",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-052m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "icebullet-eternal-poison-slus-21779-20260927",
+          "sourceArtifact": "Eternal_Poison_HD_Textures.rar",
+          "sourceSha256": "7C2B390C6CD83A7E8E4FE379D11CD9B0E71376DBB98446EFAB345207EEB9D17E",
+          "assetName": "eternal-poison-icebullet-slus-21779.zip",
+          "assetParts": [
+            "eternal-poison-icebullet-slus-21779.zip.part001",
+            "eternal-poison-icebullet-slus-21779.zip.part002"
+          ],
+          "normalizedSha256": "DC0219EAE2D6182BA8292CAC728FD54BB0FA4D575B78D2D1AE9EE4E9F23ECB92",
+          "manifestSha256": "86178A0E43E0C466977A44050EFF4D40A6CDD84C59E556EF1E29ECC13E9D8485",
+          "contentSetSha256": "A64F576F215D20BAFEC9AA127644B42F51724CA9DBD1382B0274EFBB3FD7CF5A",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-053l",
+      "verifiedAt": "2026-09-27T11:25:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "irvinsmith-drakengard-1-sles-52322-20260927",
+          "sourceArtifact": "drakengard1-irvinsmith-sles-52322.7z",
+          "sourceSha256": "977FE9CDFF4DD467F481425C5C0C6C2E87926DC9FC7E13C1B35962A0F0FDEEBF",
+          "assetName": "drakengard1-irvinsmith-sles-52322.zip",
+          "normalizedSha256": "3B62BB58E24ACA72AE253BC74CE21EDA5BEB2EB7B1D2A4BFED735DF1BF6064A4",
+          "manifestSha256": "E6CBB1C397F40170A58C6EE99788790A1B5586AF1A9A47BECF1CB5C67CC2936B",
+          "contentSetSha256": "B1AB58A0DD13A987775DCB5A9FE784F7D42C9CABB80C7DD95009ECE650626A49",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-054m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "davethetoni1-kingdom-hearts-ii-final-mix-button-swap-slpm-66675-20260927",
+          "sourceArtifact": "SLPM-66675.rar",
+          "sourceSha256": "8E60A89268CF7DF2EFB6E8904B9E7545423E9CBA2DA864C6D6C39C957C5C311C",
+          "assetName": "kingdom-hearts-ii-final-mix-button-swap-davethetoni1-slpm-66675.zip",
+          "normalizedSha256": "372940505C954DA6ECB10CF56EE99C469F09613EA4F508A063299BBED16FF062",
+          "manifestSha256": "0413CCCFFBC46D68DF49F594DFBA80B8811FBAC6A23D4595349ACD6FDBECDB76",
+          "contentSetSha256": "0CCDFFFA2AAAC4EF70532F5BE87855E337BEB8C3AF29F9970D477B78EE112155",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-054r",
+      "verifiedAt": "2026-09-27",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "icebullet-mystic-nights-scka-20055-20260927",
+          "sourceArtifact": "20055_HD_Textures.rar",
+          "sourceSha256": "B136CA060B4CE940043128326E481117E96833C3FAB33932C7A83F2E26DF6B09",
+          "assetName": "mystic-nights-icebullet-scka-20055.zip",
+          "assetParts": [
+            "mystic-nights-icebullet-scka-20055.zip.part001",
+            "mystic-nights-icebullet-scka-20055.zip.part002"
+          ],
+          "normalizedSha256": "0333F27209873BDFE67B704587F168B41D9C78379452EE544D618661D8F7580E",
+          "manifestSha256": "39852BE78E707AFE634426D166B9C096C8048859084A1C9F0352D6CC72A450D0",
+          "contentSetSha256": "A0218AD3689F69517CE357F47AEBBDB006FB0F5007CDD99799E0978AF7DAB772",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-055m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "meskh4h4-galactic-wrestling-dds-normal-slus-20822-20260927",
+          "sourceArtifact": "SLUS-20822-DDS.rar",
+          "sourceSha256": "0BA6FCBBB57498F91401C67C5950C4F5C5E8FD84040C9A7E50685CE737632968",
+          "assetName": "galactic-wrestling-meskh4h4-dds-normal-slus-20822.zip",
+          "normalizedSha256": "B0F713449B04995CD3C2CF4F323216179E488A35F6468C90A6FDAFEE637F0455",
+          "manifestSha256": "7A1E9914F5A791B77BA66052CED2FAF5CD8F25BAD469EB3192B9940BD97776D4",
+          "contentSetSha256": "F22D10581916D8461A2BBEB99DA59BEFA9FFBA8B4119A4667F86AEFD8FCAD0A9",
+          "comparedAgainst": [
+            "meskh4h4-galactic-wrestling-normal-20260926",
+            "meskh4h4-galactic-wrestling-vivid-20260926"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author's Normal PNG quality edition versus separately released Normal DDS performance edition; 1,658 PNG replaced by 1,658 DXT5 DDS, decoded 20-image sample median RGB channel error 2.04/255",
+              "sourceUrl": "https://github.com/MESKH4H4/Galactic-Wrestling-Featuring-Ultimate-Muscle/releases/tag/1.0",
+              "manifestSha256": "1FDA2F06C83F0B72861502F45824EE29E1E93C853FC004CB756C1F79D9A3A5E1",
+              "contentSetSha256": "946A7096B698111C15F2A158F1282F6D4AA6C2D34AD53A41EFF0107DEE920113",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-056m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "meskh4h4-galactic-wrestling-dds-vivid-slus-20822-20260927",
+          "sourceArtifact": "SLUS-20822-DDS-VIVID.rar",
+          "sourceSha256": "8C1B159F9985C3D1B3CF98BEEC195636E3673F4AE8119B6E7476F10C00CDE65A",
+          "assetName": "galactic-wrestling-meskh4h4-dds-vivid-slus-20822.zip",
+          "normalizedSha256": "9657B608056EF46B3446E1852822A673C182891E061BB4BB5B4B9FDA9A283102",
+          "manifestSha256": "8AFADFB6745DAA48E311ECCF496AA8836C421ADAC66F0376EF3C3A7CCDDBC0F4",
+          "contentSetSha256": "1A35E46D3219A2984F65A175ED03D3448550BE8A23E2BAE8728FFFA7AFAC1153",
+          "comparedAgainst": [
+            "meskh4h4-galactic-wrestling-normal-20260926",
+            "meskh4h4-galactic-wrestling-vivid-20260926",
+            "meskh4h4-galactic-wrestling-dds-normal-slus-20822-20260927"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author's Vivid PNG quality edition versus separately released Vivid DDS performance edition; 1,658 PNG replaced by 1,658 DXT5 DDS, decoded 20-image sample median RGB channel error 2.06/255",
+              "sourceUrl": "https://github.com/MESKH4H4/Galactic-Wrestling-Featuring-Ultimate-Muscle/releases/tag/1.0",
+              "manifestSha256": "75028EB8C03F12D4227B6F3D1C27F5D880C9496A551FEFBEB703E6DA0FD404CE",
+              "contentSetSha256": "6B16890F13F02592674577B983B742559DC612EC0BB2B9F6BC3A10CE0B977B8C",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-057r",
+      "verifiedAt": "2026-09-27T11:08:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "nobigdeal-la-harry-potter-order-of-the-phoenix-font-slus-21619-20260927",
+          "sourceArtifact": "PH_HD_Font_by_Nobigdeal_la.zip",
+          "sourceSha256": "339ACA53E934A96E75631957EB01162FA8743B6093B214836FFF08D08FA3E7F5",
+          "assetName": "harry-potter-order-of-the-phoenix-font-nobigdeal-la-slus-21619.zip",
+          "normalizedSha256": "2E540D44827354ADCB5C51478633AAFAE5A1AFF89FA2E4A497ABF9E17C1D9CFC",
+          "manifestSha256": "95E2FF4FF91EA13DE044CDE27A9C61E9F6DC10989CA17707F4040C5FA0AA73BA",
+          "contentSetSha256": "D59DF0AB93B8793C42CFA565BA2FCFA37AC246BCAB922D881589B1F5F2F9451B",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-057m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "meskh4h4-inuyasha-feudal-combat-dds-normal-slus-21193-20260927",
+          "sourceArtifact": "SLUS-21193-DDS.rar",
+          "sourceSha256": "4C5C88EFB06669C83752D598A2F62703CFD8AA6B5AD99BFA072D41D0FF77D185",
+          "assetName": "inuyasha-feudal-combat-meskh4h4-dds-normal-slus-21193.zip",
+          "normalizedSha256": "C394D9CE318806BC36A6B6A9D757D4C1E312ED1D7F285E482B3218D679B6281D",
+          "manifestSha256": "E0D2640E8C9CD2AD90438431E461F6331C45C822925F526D9CEAF3EF4DE8A190",
+          "contentSetSha256": "C90E02268C5119079DEF3306DF25863068C2CD7860110E17C9A724EBC6FD9669",
+          "comparedAgainst": [
+            "meskh4h4-inuyasha-feudal-combat-normal-20260926",
+            "meskh4h4-inuyasha-feudal-combat-vivid-20260926"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author's separate Normal DDS/DXT5 performance edition versus published Normal PNG quality edition; all 1,332 replacements change format, decoded 20-image sample median RGB channel error 1.92/255",
+              "sourceUrl": "https://github.com/MESKH4H4/InuYasha-Feudal-Combat/releases/tag/1.0",
+              "manifestSha256": "D43F07CE59E3F818C87490322593AB1DD164BD2CCD3604314DB86CE9E8A6345F",
+              "contentSetSha256": "C501D8D0CA7C3515BBDEA1F8870CAD28CBB6D6F952B87095756A4727530D27F7",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-058m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "meskh4h4-inuyasha-feudal-combat-dds-vivid-slus-21193-20260927",
+          "sourceArtifact": "SLUS-21193-DDS-VIVID.rar",
+          "sourceSha256": "EC762F23E032E501804FAB4653BACB6B3806FB2DCB1859555DD1F2395E9FC3C0",
+          "assetName": "inuyasha-feudal-combat-meskh4h4-dds-vivid-slus-21193.zip",
+          "normalizedSha256": "E10F9ECDD72BB5339350C3EAE3A62E2E08BAC782618F168A1863313F87874B41",
+          "manifestSha256": "84EC794A5D2CC688D525EA40AF33E58456707E8E6D0FABEF0057555F51D7F405",
+          "contentSetSha256": "7DDBE4D7B8A7A8CC0FB50B85900DB057C50185BE721308184CED00C44B2A8939",
+          "comparedAgainst": [
+            "meskh4h4-inuyasha-feudal-combat-normal-20260926",
+            "meskh4h4-inuyasha-feudal-combat-vivid-20260926",
+            "meskh4h4-inuyasha-feudal-combat-dds-normal-slus-21193-20260927"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author's separate Vivid DDS/DXT5 performance edition versus published Vivid PNG quality edition; all 1,332 replacements change format, decoded 20-image sample median RGB channel error 1.84/255",
+              "sourceUrl": "https://github.com/MESKH4H4/InuYasha-Feudal-Combat/releases/tag/1.0",
+              "manifestSha256": "3AC4A3D40A0C37181F485F3BB41FA8CE7BD25586D58B8F31D07189A9BE3ACEFB",
+              "contentSetSha256": "DFF2D95FACDF810E998A5D48C70CC22E58AEB9B10D61C9E402B4748CB1871740",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-059m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "meskh4h4-heartbeat-boxing-dds-normal-sles-51865-20260927",
+          "sourceArtifact": "SLES-51865-DDS.rar",
+          "sourceSha256": "EB6546E63FB9CA187225428A5045838A79A9E3A2F5FDDF9319EA08B0BE4570AD",
+          "assetName": "heartbeat-boxing-meskh4h4-dds-normal-sles-51865.zip",
+          "normalizedSha256": "ADEA03375655EEDFF284347F92EC47CF0007505A310B1964B4251C1E57338871",
+          "manifestSha256": "168CEAAFD4FFAB4127F73DE91D5F4A60FF0D2A99415B150947884A0E40B51BE7",
+          "contentSetSha256": "1775EB816D1E3BFE3966C23A8E56C0130EA54D239370BB25C7F2B4DCE2C43D9D",
+          "comparedAgainst": [
+            "meskh4h4-heartbeat-boxing-normal-20260926",
+            "meskh4h4-heartbeat-boxing-vivid-20260926"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author's separate Normal DDS/DXT5 performance edition versus published Normal PNG quality edition; all 416 replacements change format, decoded 20-image sample median RGB channel error 1.66/255",
+              "sourceUrl": "https://github.com/MESKH4H4/Heartbeat-Boxing/releases/tag/1.0",
+              "manifestSha256": "E4CADC5EDDD876F1668CFC2CF4087B7D69C067D09386D0B24DB24B971B58A206",
+              "contentSetSha256": "7B7315E7B0A8F1DDA1213BA0B4534A542577F95E4A4DB9E63EEE7558E9D2E949",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-060m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "meskh4h4-heartbeat-boxing-dds-vivid-sles-51865-20260927",
+          "sourceArtifact": "SLES-51865-DDS-VIVID.rar",
+          "sourceSha256": "DB31463508CAC255E021DA615DFD9C4C3E878AB3EDB5E76CE72C83A0F1B2638C",
+          "assetName": "heartbeat-boxing-meskh4h4-dds-vivid-sles-51865.zip",
+          "normalizedSha256": "EC3C9348C2A383F1D4CD999C6C5E62EDDABD87226C5138AA168534791D4DB8F7",
+          "manifestSha256": "EE2F3E7D97A9A05EA5F697B10A53AB31B0253BE54B5F482E2B0A664D1EA0A180",
+          "contentSetSha256": "6C9DDBDEDD86CB0E09463E9936D8927CEE2E795045F910D0AB42974B84F9D02A",
+          "comparedAgainst": [
+            "meskh4h4-heartbeat-boxing-normal-20260926",
+            "meskh4h4-heartbeat-boxing-vivid-20260926",
+            "meskh4h4-heartbeat-boxing-dds-normal-sles-51865-20260927"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Author's separate Vivid DDS/DXT5 performance edition versus published Vivid PNG quality edition; all 416 replacements change format, decoded 20-image sample median RGB channel error 1.50/255",
+              "sourceUrl": "https://github.com/MESKH4H4/Heartbeat-Boxing/releases/tag/1.0",
+              "manifestSha256": "8C6C8DA574BBD440D8DC27CBC606E491CD500698007148E8B8DBE033BF35296C",
+              "contentSetSha256": "6BEF18C27B87A0191A2C25617FDB850507EC59B1AF7D6B05A0B49070BE175F87",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-055a",
+      "verifiedAt": "2026-09-27T11:13:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "mrdiggle-dot-hack-imoq-2k-ntsc-u-shared-20260927",
+          "sourceArtifact": "SLUS-DDS.7z",
+          "sourceSha256": "4FADD5712F81188902BAFFA43CFCAEFE23E1303561D95208C3A3ED7671B97133",
+          "assetName": "hack-imoq-mrdiggle-ntsc-u-runtime.zip",
+          "assetParts": [
+            "hack-imoq-mrdiggle-ntsc-u-runtime.zip.part001",
+            "hack-imoq-mrdiggle-ntsc-u-runtime.zip.part002"
+          ],
+          "normalizedSha256": "E277153E1A74BD80F6E3035CCF530C42B23951075E387A8F905E8CC62E68B4F9",
+          "manifestSha256": "9574F2968C0DB39A440EC95F541A5F36120689386ECD136AD50B322555FE8790",
+          "contentSetSha256": "DC6FC8D7F0ECE0877EC0FC203A76AA617FBA5FA796503CC17061B693B59459E8",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-062m",
+      "verifiedAt": "2026-09-27T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "panda-venom-okami-hd-remaster-beta05-slus-21115-20260927",
+          "sourceArtifact": "SLUS-21115_Okami_v0.5_Beta.7z",
+          "sourceSha256": "4D9DB14200ACF63DF6675980ECC53DDAF08B260DE62B8686236C287F85D9104D",
+          "assetName": "okami-hd-remaster-beta05-panda-venom-slus-21115.zip",
+          "normalizedSha256": "99175818036C54C62155D737E0A44800054DACA5ABF028CD71E8174DF466B41F",
+          "manifestSha256": "981C50E9D32819BCAA1F32FC081CDCCAE3F743CA560BA91D86B48DF296B56010",
+          "contentSetSha256": "FF4F83842E883467A2F26E82C9C69642F8E4B05AA727E8F4910B9DB1ECFD5933",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-061l",
+      "verifiedAt": "2026-09-27T11:41:44Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "hitori-kamen-rider-kabuto-slps-20483-20260927",
+          "sourceArtifact": "SLPS-20483.rar from Hitori public Drive folder",
+          "sourceSha256": "C45E17D6DC235C9A135552E454A5C6EFB983247B9D78185E22B84C8F7BDF35C1",
+          "assetName": "kamen-rider-kabuto-hitori-slps-20483.zip",
+          "normalizedSha256": "5EBB2F67D2CE6BEB323E6E57A9D9512804F8B92A5263D6D99A092748550FE330",
+          "manifestSha256": "24F3AAFCF90512B15971240A25B5CD28759C745386248EF7DAB5CE041F86AEC5",
+          "contentSetSha256": "23026437EC78D6CC8C2C2A5252EAC1C55E8963F5164269BF69BED68E6C543354",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-058r",
+      "verifiedAt": "2026-09-27T11:45:00Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "curse-arms-metal-gear-solid-2-sons-of-liberty-slus-20144-20260927",
+          "sourceArtifact": "MGS2_HDOPOTY.rar",
+          "sourceSha256": "B52766C1CC0496F0AF682B1FE2746DC4B687C313392E6414BD343869CD17C66C",
+          "assetName": "mgs2-sons-of-liberty-curse-arms-slus-20144.zip",
+          "assetParts": [
+            "mgs2-sons-of-liberty-curse-arms-slus-20144.zip.part001",
+            "mgs2-sons-of-liberty-curse-arms-slus-20144.zip.part002",
+            "mgs2-sons-of-liberty-curse-arms-slus-20144.zip.part003"
+          ],
+          "normalizedSha256": "CAB1BF4C8A827EC7641194B31FFF4B6A0F0C1D058B766831F7130D61416A5CF7",
+          "manifestSha256": "512B6830504D6EB327828D61B3507BD9BE23F0FC9A05C818C845732DE8BE6A80",
+          "contentSetSha256": "A57B15084CB1C7407D07C14777168FD2B30FC63DD96C857E8D596823002D95E8",
+          "comparedAgainst": [
+            "bl4ckh4nd-metal-gear-solid-2-substance-slus-20554-20260728"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Distinct retail game edition and serial (Sons of Liberty SLUS-20144 versus Substance SLUS-20554); normalized manifest and content-set SHA-256 fingerprints differ. The published Substance ZIP could not be used for shared-file/image comparison because the retrieved copy failed its catalog SHA and ZIP validation, so no claim is made that the editions share no individual textures.",
+              "sourceUrl": "https://gbatemp.net/threads/metal-gear-solid-2-sons-of-liberty-hd-textures.675280/",
+              "manifestSha256": "512B6830504D6EB327828D61B3507BD9BE23F0FC9A05C818C845732DE8BE6A80",
+              "contentSetSha256": "A57B15084CB1C7407D07C14777168FD2B30FC63DD96C857E8D596823002D95E8",
               "relationToPublished": "different"
             }
           ]
