@@ -8314,6 +8314,1187 @@
           "comparedAgainst": []
         }
       ]
+    },
+    {
+      "id": "2026-09-26-023m",
+      "verifiedAt": "2026-09-27T07:36:10Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-pinball-hall-of-fame-williams-20260926",
+          "sourceArtifact": "pinball-hall-of-fame-williams-ironhulk33.rar",
+          "sourceSha256": "1EA8BDA6C9F189B1F75C6C0C88F48300B22391CB5C2074934C5D1F41C0985123",
+          "assetName": "pinball-hall-of-fame-williams-ironhulk33.zip",
+          "normalizedSha256": "D9B33E44EA151FAFA2A93B89D4260B367F53B11379CE33854F391E33D9E31D09",
+          "manifestSha256": "A620E865AB4A8F573BF5592F5ACE7D532157280A9F4963CC66D2F588D8E55A46",
+          "contentSetSha256": "4B88F1BE87CDAFFF78B42769D5EE941FC49AA02971F50B19895F1595C745C0F9",
+          "comparedAgainst": [
+            "ironhulk33-pinball-hall-of-fame-gottlieb-slus-21038-20260726"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Distinct Williams Collection title/serial compared with published Gottlieb Collection: ironhulk33-pinball-hall-of-fame-gottlieb-slus-21038-20260726",
+              "sourceUrl": "https://gbatemp.net/threads/my-texture-packs.661159/",
+              "manifestSha256": "A620E865AB4A8F573BF5592F5ACE7D532157280A9F4963CC66D2F588D8E55A46",
+              "contentSetSha256": "4B88F1BE87CDAFFF78B42769D5EE941FC49AA02971F50B19895F1595C745C0F9",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-023o",
+      "verifiedAt": "2026-09-27T07:36:12Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "the128rebits-star-wars-episode-iii-sles-53155-20260926",
+          "sourceArtifact": "star-wars-revenge-of-the-sith-the128rebits.rar",
+          "sourceSha256": "ED33119176EACCD01E802F6E2AF05BEA6174B8818F529F3220B3A3AD2D79CC25",
+          "assetName": "star-wars-episode-iii-the128rebits-sles-53155.zip",
+          "assetParts": [
+            "star-wars-episode-iii-the128rebits-sles-53155.zip.part001",
+            "star-wars-episode-iii-the128rebits-sles-53155.zip.part002"
+          ],
+          "normalizedSha256": "422C51031CA302C32E016E60BDC98FDC99A9224683213D91117D310536BC9C98",
+          "manifestSha256": "C3AF2989F5C75A63011E42B80BD75A719A9CF7FDEC0B42545DA823D8E99D343F",
+          "contentSetSha256": "927E537401971A5F2EC4A795379D41E76C7316DFF817029B2155058C5B137ACD",
+          "comparedAgainst": [
+            "panda-venom-star-wars-episode-iii-20260722",
+            "pcsx2-hd-texture-packs-community-archive-star-wars-episode-iii-revenge-of-the-sith-hd-remaster-community-archive-variant-slus-21143-20260912"
+          ],
+          "sourceVariantEvidence": [
+            {
+              "label": "Original author THE128REBITS, 4,774 textures versus 3,319 in each published pack; direct normalized comparisons found only 14 shared relative paths, zero identical files at shared paths and zero shared file contents.",
+              "sourceUrl": "https://www.moddb.com/mods/star-wars-episode-iii-revenge-of-the-sith-hd-texture-pack-for-pcsx2/downloads/revenge-of-the-sith-hd-texture-pack-pcsx2-pal-usa-region-guide",
+              "manifestSha256": "C3AF2989F5C75A63011E42B80BD75A719A9CF7FDEC0B42545DA823D8E99D343F",
+              "contentSetSha256": "927E537401971A5F2EC4A795379D41E76C7316DFF817029B2155058C5B137ACD",
+              "relationToPublished": "different"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-023i",
+      "verifiedAt": "2026-09-27T07:36:33Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ncaanext-ncaa-football-06-next-24-v14-4-slus-21214-20260927",
+          "sourceArtifact": "ncaa-next-24-v14.4-source.zip",
+          "sourceSha256": "AE67C33253D3EC26C77F846A2E0A4C845BAAE3E5548780E3840B7679ECE50A0C",
+          "assetName": "ncaa-next-24-v14.4-slus-21214.zip",
+          "assetParts": [
+            "ncaa-next-24-v14.4-slus-21214.zip.part001",
+            "ncaa-next-24-v14.4-slus-21214.zip.part002",
+            "ncaa-next-24-v14.4-slus-21214.zip.part003",
+            "ncaa-next-24-v14.4-slus-21214.zip.part004",
+            "ncaa-next-24-v14.4-slus-21214.zip.part005",
+            "ncaa-next-24-v14.4-slus-21214.zip.part006"
+          ],
+          "normalizedSha256": "8695A4DE8FB85DB30EF0DB2E3053422EDAD28A7DB9661F679B5A618A7C14DD33",
+          "manifestSha256": "82951A8A70B3D03E333019CD129F88E8DEB6AB331C1B7DA965F9DC9F933C2929",
+          "contentSetSha256": "B063794F7C7FF850145340779392DAC1125BDF18A4D3F2D3C82A06D421DCC675",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-023p",
+      "verifiedAt": "2026-09-27T07:37:13Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-ultimate-board-game-collection-slus-21366-20260927",
+          "sourceArtifact": "ultimate-board-game-collection-ironhulk33.7z",
+          "sourceSha256": "AF4E7A9712D6AF3F00E0F9AF392E2545E298E5BF0F8645DD7FA19CF9FB85DE9D",
+          "assetName": "ultimate-board-game-collection-ironhulk33.zip",
+          "normalizedSha256": "4F43CB9CC341B1EDD5D1761F84C60F3E6AD940A19D1E9F381641B03BF10E2B2F",
+          "manifestSha256": "59EEC1DDBAC09DF7A08CE96CFA82E2511C95A2BAC642B81B8BB8151E5851F7A7",
+          "contentSetSha256": "7FC3634FFC9709FA1D84D06C9C50FCEA7C2E461AE3076DDA33CD154000CC08C5",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-023q",
+      "verifiedAt": "2026-09-27T07:37:21Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "ironhulk33-spongebob-battle-for-bikini-bottom-slus-20680-20260927",
+          "sourceArtifact": "spongebob-battle-for-bikini-bottom-ironhulk33-slus-20680-source.7z",
+          "sourceSha256": "80A1A58460741B20F86701C7FFEB7B6E3073BE24DC7872120EDBCF35BDDB35AB",
+          "assetName": "spongebob-battle-for-bikini-bottom-ironhulk33-slus-20680.zip",
+          "normalizedSha256": "E4E63CD67227CEB3CE11382C8AD445F5CD8F02315AC571BE3287AE8501B14E76",
+          "manifestSha256": "805E679C1127B1A62A863A099BE640162D1F2DA70F33850AC87D5944CA0A679A",
+          "contentSetSha256": "DC2D9166BD78D9A2F02C1D744BF9920E18C224E7330EDDCFA8041AC6250B107F",
+          "comparedAgainst": []
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-023r",
+      "verifiedAt": "2026-09-27T07:37:25Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "embi-silent-scope-slus-20078-20260927",
+          "sourceArtifact": "silent-scope-embi.zip",
+          "sourceSha256": "CAE47BD12A8326745EF649B2FB646B20D81DE5B3000E669E20467CD0E4044FCF",
+          "assetName": "silent-scope-embi-slus-20078.zip",
+          "normalizedSha256": "2DB770D27B773360EFA4CA935EDB5636947706D63E37A75D8F04564565A1ADE9",
+          "manifestSha256": "E83B19EDD9377B9B89F4F389EC18CAD65EE2C7B6D16197A471E9C93CC4A61538",
+          "contentSetSha256": "CCCF741F6E77C380683E8CD4CF16F31F8FCCA501ACA10D839E44854EA1BBB6F9",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "textures.json and every .texture-work/batches/*/sources.json; exact serial SLUS-20078, exact title Silent Scope, source SHA, normalized SHA, manifest SHA and content-set SHA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-023s",
+      "verifiedAt": "2026-09-27T07:37:25Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "angel06a-dragon-ball-z-budokai-tenkaichi-4-hd-lite-slus-21978-20260927",
+          "sourceArtifact": "bt4-hd-lite-angel06a.zip",
+          "sourceSha256": "81BB05EE9E97539AD5DD001983521BABCF6920E113411C3A892F82E10EF2EBBF",
+          "assetName": "bt4-hd-lite-angel06a-slus-21978.zip",
+          "normalizedSha256": "B145327FA86AFFBF7B436E2E73D9C9E8411A5F0D0E7A2133DD3BF420A19FF3BC",
+          "manifestSha256": "08050104709F5DF592885B231F1CE8681C0AE14A21CB212E93B3D2829DDB6507",
+          "contentSetSha256": "0B09559446828DE8A272E594F53E939E6BFFF12A6BF3BA7B47421CC2FB74BE4E",
+          "comparedAgainst": [],
+          "sourceVariantEvidence": [
+            {
+              "label": "BT4 fan mod v1.07 Lite uses the BT3 serial; direct comparison with the published Santins BT3 pack found zero shared paths and zero identical file contents across 7,192 PNG replacements.",
+              "sourceUrl": "https://github.com/Angel06a/BT4-HD",
+              "manifestSha256": "08050104709F5DF592885B231F1CE8681C0AE14A21CB212E93B3D2829DDB6507",
+              "contentSetSha256": "0B09559446828DE8A272E594F53E939E6BFFF12A6BF3BA7B47421CC2FB74BE4E",
+              "relationToPublished": "different"
+            }
+          ],
+          "reviewNotes": [
+            "existing catalog entry santins-dragon-ball-z-budokai-tenkaichi-3-hd-remaster-community-archive-slus-21978-20260912 (same serial; different BT4 mod title); every .texture-work/batches/*/sources.json"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-023t",
+      "verifiedAt": "2026-09-27T07:37:32Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "bl4ckh4nd-auto-modellista-pal-ntsc-sles-51191-slus-20642-20260927",
+          "sourceArtifact": "auto-modellista-bl4ckh4nd-ntsc.7z",
+          "sourceSha256": "1F5D2F7F0FD8C97B77BF7DB629E5BAEA43C0FAA9C8393B9393C5DE673DBDCAB8",
+          "assetName": "auto-modellista-bl4ckh4nd-sles-51191-slus-20642.zip",
+          "normalizedSha256": "4F67FD4E2EBD0E0CADE91974E1D9BD78C9A54C4B2080BEC811C1B1C99F395B2B",
+          "manifestSha256": "17847E1BA60F8E3CE00ADCF7AD916925DF2FB21A66BE1E45C8BE98EF7FF0717D",
+          "contentSetSha256": "CF5D3289C912657049C1E99F4FAD026E6A92BA628D1DF4E02C00797F0CD7A367",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Full PAL source archive and normalized ZIP: 2,391 shared paths, all 2,391 byte-identical; NTSC has 12 additional DDS files. Both serials and all source/content fingerprints absent from textures.json, catalog-audit.json, and staged manifests."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-023u",
+      "verifiedAt": "2026-09-27T07:37:38Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "1vierock-dragon-quest-viii-journey-of-the-cursed-king-slus-21207-20260927",
+          "sourceArtifact": "dq8-slus-21207-hd-remaster.rar",
+          "sourceSha256": "9264BF160753922227A46D0997815A5FFDC4CC0915590D4573C8ED7820800082",
+          "assetName": "dragon-quest-viii-1vierock-slus-21207.zip",
+          "normalizedSha256": "110ACCF436E11CC35C243B65891811B9555D390BC965B34AE4C6DE2A0CE56979",
+          "manifestSha256": "385ABC84ED093DFF44AA30DF6B02AE113841D72A7C4DC821E1D4A40687B8E205",
+          "contentSetSha256": "41D10808E04FFFCC93BBA203F3E6EF7E8AE8A1F5892BC669E98CB6192C4ABB5D",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Parsed textures.json (671 entries): no exact title or serial match",
+            "All .texture-work/batches/*/sources.json manifests: no exact title or serial match",
+            {
+              "unstructuredSourceVariantEvidence": {
+                "label": "The source RAR contains the distinct path SLUS-21207/replacements/Z-1vierock (6,895 files, 4,714,273,880 uncompressed bytes). The author’s own page identifies their Dragon Quest 8 HD pack and says to install it under PCSX2/textures. The other source subtree, A-ItsJustScufUI v1.2.1, is excluded.",
+                "sourceUrl": "https://www.vierockhd.com/ps2/dragon-quest-8-hd",
+                "relationToPublished": "new"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-023v",
+      "verifiedAt": "2026-09-27T07:37:49Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "darthdarklord-the-thing-slus-20371-20260927",
+          "sourceArtifact": "the-thing-darthdarklord-source.7z",
+          "sourceSha256": "D2C62970AAEAC2D25C8D96F54A7F95C27CEEC1DC74375A36AA779857BC6DD1BC",
+          "assetName": "the-thing-darthdarklord-slus-20371.zip",
+          "normalizedSha256": "4124C6FADA682617C9E4C703A94B950B3E915B6419872088F51393E642D2F3E0",
+          "manifestSha256": "9748CF37EB59D5BF0488B79F4B41DD7C4B21E6FEAEC200EBA1469937F0D31B08",
+          "contentSetSha256": "553A35474258AFBD51C85F0ED425EC183997D1DEAF5EA35B491535B6D05C7C38",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Parsed textures.json (671 entries): no title or SLUS-20371 serial match.",
+            "All staged .texture-work/batches/*/sources.json manifests and catalog-audit.json: no exact title, serial, source SHA-256, normalized SHA-256, manifest SHA-256, or content-set SHA-256 match.",
+            "Author first post gives the PCSX2 install target SLUS-20371/replacements; safe archive inspection found 1,365 PNG files only, no dumps, readme, or non-runtime files."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-023w",
+      "verifiedAt": "2026-09-27T07:37:53Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "darthdarklord-bujingai-the-forsaken-city-slus-20895-20260927",
+          "sourceArtifact": "bujingai-darthdarklord.7z",
+          "sourceSha256": "F67C041DF8CC63E298A92A6FB720880512279F65348883EAF010C74D46DA48A2",
+          "assetName": "bujingai-darthdarklord-slus-20895.zip",
+          "assetParts": [
+            "bujingai-darthdarklord-slus-20895.zip.part001",
+            "bujingai-darthdarklord-slus-20895.zip.part002"
+          ],
+          "normalizedSha256": "D2ED4D6310FAD5E66D83F5C7CA29CDF226DA9C144C98F0D9A9215066CD5A3794",
+          "manifestSha256": "5DE8D6207ED1452337664122DF0C15FAD566E6C32C4F0F9BA52F6CB1BD4C125B",
+          "contentSetSha256": "234EDAC0C628AB7B0C6162BF152B11E7A61100C3DFDF52797FA443608B9853CB",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "textures.json and all current `.texture-work/batches/*/sources.json` manifests: no exact title or serial match; source/normalized fingerprints are absent. The temporary conflicting `.texture-work/batches/2026-09-27-023v` staging entry was copied to 023w and is being restored by release_audit."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-024a",
+      "verifiedAt": "2026-09-27T07:38:04Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "maximo-capcom-ghosts-to-glory-ultimate-slpm-62127-20260927",
+          "sourceArtifact": "maximo-capcom-ultimate-remaster.zip",
+          "sourceSha256": "FFAAE0D60F417831895F6F5869CB993959E97C3AD5580EA414235FCC11BDB113",
+          "assetName": "maximo-ghosts-to-glory-ultimate-maximo-capcom-slpm-62127.zip",
+          "assetParts": [
+            "maximo-capcom-ultimate-maximo-capcom-slpm-62127.zip.part001",
+            "maximo-capcom-ultimate-maximo-capcom-slpm-62127.zip.part002",
+            "maximo-capcom-ultimate-maximo-capcom-slpm-62127.zip.part003",
+            "maximo-capcom-ultimate-maximo-capcom-slpm-62127.zip.part004",
+            "maximo-capcom-ultimate-maximo-capcom-slpm-62127.zip.part005",
+            "maximo-capcom-ultimate-maximo-capcom-slpm-62127.zip.part006"
+          ],
+          "normalizedSha256": "1401B36AC81145001D4C21A26647ABD152FDC62CD12B5F70D37A1B780688E735",
+          "manifestSha256": "15759EF9FBAA2FEE317D171D61494F659FE357EBEE7826F3365F104B1CBC2E83",
+          "contentSetSha256": "B7811737F9AB73D5E5EAB21BDC6602076F58A4D8D5C7D617A8F4B05203274F1F",
+          "comparedAgainst": [
+            "santins-maximo-ghosts-to-glory-slus-20017-20260728",
+            "santins-maximo-ghosts-to-glory-hd-remaster-community-archive-variant-slus-20017-20260912"
+          ],
+          "reviewNotes": [
+            {
+              "unstructuredSourceVariantEvidence": {
+                "label": "Santins North American v1 DDS pack (SLUS-20017)",
+                "sourceUrl": "https://gbatemp.net/threads/maximo-ghosts-to-glory-reimagined-hd-remastered-v1.657861/",
+                "manifestSha256": "12A8A327098923A79EC41D0599FC0F6108480F33445D895D3F225D81730C4F8D",
+                "contentSetSha256": "FFF471F32230A62A6D4D9AAC5E73115164AFB431B33FE28FF87DA46561C9A5E3",
+                "relationToPublished": "Same title, but authoring serial is NTSC-J SLPM-62127 while published entry is NTSC-U SLUS-20017. Exact decoded-RGBA matches: 0. Perceptual comparison of 1,340 Ultimate PNGs to the 294-file Santins v1 DDS pack found 293/1,336 unique Ultimate hash-prefix identifiers (21.9%) with exact matching basename (without extension); the nearest normalized 32x32 RGB MAE among these had median 11.90, with 32 <=4 and 114 <=10. This confirms meaningful shared texture IDs and some re-encodes, but also substantial modified/different imagery. It is retained as a separately labeled NTSC-J author version, not counted as wholly new textures."
+              }
+            },
+            {
+              "unstructuredSourceVariantEvidence": {
+                "label": "Santins North American community archive variant (SLUS-20017)",
+                "sourceUrl": "https://archive.org/details/pcsx2-hd-texture-packs",
+                "manifestSha256": "214C42986EA6F6D581E5A6EB11768C1E52A6273D7E282F94778977B2BB94D73A",
+                "contentSetSha256": "67CF270C9AC35DAB27AF80649DCC646E6903A4D0142DE0822703C0949C731552",
+                "relationToPublished": "Same title, with NTSC-J authoring serial SLPM-62127 rather than published NTSC-U SLUS-20017. Exact decoded-RGBA matches: 0. Perceptual comparison (32x32 aspect-preserving, black-matted RGB thumbnails; 64-bit DCT pHash candidate search and RGB MAE) found 1,289/1,336 Ultimate hash-prefix identifiers (96.5%) in the 3,082-file community snapshot; 330/1,340 images had a nearest pHash-distance <=8 candidate, of which 61 were MAE <=4 and 192 <=10. A seeded random sample of 30 images with no exact basename match in either Santins pack had median nearest-image MAE 9.33; 6/30 were <=4 and 16/30 <=10. Visual review found a mixture of related source layouts with author changes and distinct artwork, not a wholesale re-encode. GBAtemp primary post says MaximoCapcom's Ultimate remaster works on all versions; no Santins derivation/credit was stated there. Preserve as a distinct Japanese-serial, author-created version and disclose substantial overlap; do not describe all 1,340 as novel textures or imply Santins authorship."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-024l",
+      "verifiedAt": "2026-09-27T07:38:37Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "pcwars-18-wheeler-american-pro-trucker-slus-20210-20260927",
+          "sourceArtifact": "18-wheeler-pcwars-slus-20210.7z",
+          "sourceSha256": "F5BC267EC58CB079766758436E6C571CA641F59CBD2EEA6FA48D7FB661DAC01A",
+          "assetName": "18-wheeler-american-pro-trucker-pcwars-slus-20210.zip",
+          "normalizedSha256": "0BF249A4D90C0C92AC56AE7B1A7DD84E9192E50B0626FDC9E025A9788D68EF3D",
+          "manifestSha256": "7DAAC0F7FDCA009638E389F217197CAFAD9C91FB7CAF50E875941642620A2644",
+          "contentSetSha256": "F8CE347F25B1F8639A29A4C1F4A4C24F98249A93F3676925D0A7D3BD25660D03",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "textures.json and all current .texture-work/batches/*/sources.json manifests; exact USA serial SLUS-20210 and exact title, all available source SHA-1/SHA-256, normalized SHA-256, manifest SHA-256, and content-set SHA-256 fingerprints. No title/serial or fingerprint matches found."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-024m",
+      "verifiedAt": "2026-09-27T07:38:39Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "darthdarklord-mr-mosquito-slus-20375-20260927",
+          "sourceArtifact": "mr-mosquito-darthdarklord-source.7z",
+          "sourceSha256": "C22DFF00C8C9571F607C95E42D639A44F9E4AEB73F67E8D92C947CAD12D2CF10",
+          "assetName": "mr-mosquito-darthdarklord-slus-20375.zip",
+          "normalizedSha256": "F76E491D49ED167A8BD757D552C570E5C7F122BCED5E4AC08AC3FB58A6609AD6",
+          "manifestSha256": "D4DA2E6DE3BB485D6626738ACF73234E507D1B6B340A04717524865D2C422479",
+          "contentSetSha256": "66ED7FE5D3F1999A320678A786470C9BC3DD754DFBF16B126D8397FF521873B2",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "All 671 published catalog entries and all staged batch manifests checked by title, serial and content fingerprints; SLUS-20375 already has a Bl4ckH4nd DDS pack, so creator pack was compared against that exact asset.",
+            "Downloaded the published Bl4ckH4nd ZIP and verified 133866248-byte SHA-256 1832C4314A36D0F8538F8EFCDE7DD4E7932B111BA0C44AAAEAF9F422F368063A; 971 DDS vs creator source 882 PNG.",
+            "Normalized archives have zero identical paths/file bytes because PCSX2 hash suffixes and encodings differ; matching by first texture hash found 720 shared texture IDs, 232 Bl4ckH4nd-only IDs and 159 DarthDarklorD-only IDs.",
+            "Deterministic 300-ID decoded RGB sample: 255 same dimensions, 45 changed dimensions, same-size RGB mean absolute error median 7.52, max 28.04. Manual side-by-side review found different edge/detail treatment on shared textures, not just a lossless format change.",
+            "Source SHA-1 4464A7EA78002D3DFB19BDEC2FF35AFB9F545450 and MD5 56D1B650F663B25B17E287205294026A match Internet Archive metadata; 7z integrity passed; 882 runtime PNG only, 159460689 expanded bytes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-024r",
+      "verifiedAt": "2026-09-27T07:38:40Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "cckrizalid-ghost-rider-slus-21306-v1-20260927",
+          "sourceArtifact": "ghost-rider-cckrizalid-slus-21306.7z",
+          "sourceSha256": "60FCD12BCA77F5BED31FD05B13D0404FCFCDD4221BAAB8B80FAA14A41ABB8373",
+          "assetName": "ghost-rider-cckrizalid-slus-21306.zip",
+          "normalizedSha256": "5C66D6C6618DE7E4E2521F0241DB82BC2D6172499EBD00C139F9A44F95496785",
+          "manifestSha256": "4CCD94571D16EE58F5D1951115B5542F8C522FF0F0104829ADE92481B7AC244C",
+          "contentSetSha256": "D8DFC43A7BAA4E0D552E84169E831E3981D32D7C0277616DA03E78337AF114D8",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Parsed textures.json (671 entries): same title and serial exists as the MajidGaming variant; this candidate has a different normalized manifest (4CCD94571D16EE58F5D1951115B5542F8C522FF0F0104829ADE92481B7AC244C vs 5CAB9036D5FAD7F0B964FBF8F17C2C251083B62B773C35704092D524356CB80E) and different content set (D8DFC43A7BAA4E0D552E84169E831E3981D32D7C0277616DA03E78337AF114D8 vs FADD607AE4253F5A619F07309B8D81DEAB090A2D8A82DEF258D8E85537542A2B); not an exact duplicate",
+            "All .texture-work/batches/*/sources.json manifests: no pending SLUS-21306 candidate",
+            {
+              "unstructuredSourceVariantEvidence": {
+                "label": "The author’s GBAtemp thread is titled Ghost Rider HD Texture Pack 1.0 by CCKrizalid, dated 2022-08-23, and publishes Google Drive, Mega, and MediaFire download links. The preserved archive is 7z, contains textures/SLUS-21306/replacements with 5,266 DDS files, and passes archive CRC/path safety checks. Compared with the existing MajidGaming catalog variant, normalized content-set SHA256 differs (candidate D8DFC43A7BAA4E0D552E84169E831E3981D32D7C0277616DA03E78337AF114D8; existing FADD607AE4253F5A619F07309B8D81DEAB090A2D8A82DEF258D8E85537542A2B).",
+                "sourceUrl": "https://gbatemp.net/threads/ghost-rider-hd-texture-pack-1-0-by-cckrizalid.617744/",
+                "relationToPublished": "different"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-025m",
+      "verifiedAt": "2026-09-27T07:38:47Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-mtv-celebrity-deathmatch-slus-20604-20260927",
+          "sourceArtifact": "mtv-celebrity-deathmatch-retrogenerica-source.7z",
+          "sourceSha256": "72BA4CEAF067745450DAB4133D7BFA26D3F629A2155897C9CE1D2AED15BFAD6A",
+          "assetName": "mtv-celebrity-deathmatch-retrogenerica-slus-20604.zip",
+          "normalizedSha256": "1B94CCA0FD31A69B460153539A420ECBA3D5707FDA67AB92C5CDB160F65F69E1",
+          "manifestSha256": "6CCAD838BC6403EA386DB34D1E092B385F1060253CF1BF1CFC0B2169C5BB7EA8",
+          "contentSetSha256": "2E60B9CEC3C6BDA4D93C84A7CD955F7A7412A2EE3952FCA5307B6A0418842610",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "All 671 published catalog entries and staged batch manifests: no MTV Celebrity Deathmatch title, SLUS-20604 serial, or source/normalized/content-set fingerprint matches.",
+            "Author GBAtemp first post links the Google Drive HD Texture Pack file separately from the Xbox button addon; downloaded the complete 465632747-byte 7z, passed 7-Zip CRC/integrity test, and retained all 1182 DDS replacement textures.",
+            "The first-post install sentence mistakenly states SLUS-21627, the Jackass game serial; the author archive itself is rooted at SLUS-20604/replacements, and independent PS2 serial references confirm SLUS-20604 for MTV Celebrity Deathmatch. Catalog uses verified archive/game serial, not the thread typo.",
+            "Normalized app-ready ZIP is rooted at replacements/; Xbox button add-on intentionally excluded as a separately published variant."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-025r",
+      "verifiedAt": "2026-09-27T07:38:49Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "cckrizalid-nfs-underground-slus-20811-v20221016-20260927",
+          "sourceArtifact": "nfs-underground-cckrizalid-slus-20811.7z",
+          "sourceSha256": "A3D6142C9B857F5153F0C4467AB491E2CC6427DE4E9644CBA2D67B24AA20EE59",
+          "assetName": "nfs-underground-cckrizalid-slus-20811.zip",
+          "normalizedSha256": "39F14C9349CC041730C6F2B5264C5BBB234A673A81838A9EAFB47335446D3B05",
+          "manifestSha256": "4DA1553938E035AA310C94E8F84280F7484A7FC91E7B913EC92517461BFC4C16",
+          "contentSetSha256": "516AA3D2DBD84EF29D9597D62BE60A16862BC640E942A316366E5B97B70CA47F",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Parsed textures.json (671 entries): same serial/title has Bl4ckH4nd and PCSX2 HD Texture Packs Community Archive variants; candidate content-set SHA256 516AA3D2DB84EF29D9597D62BE60A16862BC640E942A316366E5B97B70CA47F differs from both.",
+            "Compared normalized candidate with cataloged Bl4ckH4nd asset after normalization: 3,018 vs 2,660 files, 2,445 shared paths, zero identical files at shared paths, zero shared file contents; exact manifest/content-set matches false.",
+            "Compared with cataloged community archive variant: 3,018 vs 2,660 files, 2,445 shared paths, zero identical files at shared paths, zero shared file contents; exact manifest/content-set matches false.",
+            "All .texture-work/batches/*/sources.json manifests: no pending SLUS-20811 candidate.",
+            {
+              "unstructuredSourceVariantEvidence": {
+                "label": "The GBAtemp library is authored by CCKrizalid and lists “Need For Speed Underground PS2 Upscale Textures” with a Mega download. The Internet Archive preserved a 20221016 7z archive; archive metadata size/SHA1 match the downloaded file. Safe extraction confirmed textures/SLUS-20811/replacements with 3,018 DDS files. Candidate content-set SHA256 516AA3D2DB84EF29D9597D62BE60A16862BC640E942A316366E5B97B70CA47F; compared against both existing catalog variants, 2,445 shared paths had zero identical files/content matches.",
+                "sourceUrl": "https://gbatemp.net/threads/mega-library-of-hd-texture-packs-by-cckrizalid.618690/",
+                "relationToPublished": "different"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-026l",
+      "verifiedAt": "2026-09-27T07:38:52Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "1vierock-neo-contra-slus-20961-20260927",
+          "sourceArtifact": "neo-contra-1vierock-slus-20961.7z",
+          "sourceSha256": "02727F800A449A54CD4DC5107081B2C82A541B6D83AB6315C6268BFEC77E7222",
+          "assetName": "neo-contra-1vierock-slus-20961.zip",
+          "normalizedSha256": "C50DA892EE48FAF99E80D180AC0EBE7D0BEE7DE151BE157563F58C6C42718C5B",
+          "manifestSha256": "796B261FC34003D04A63550B032B420C7C50BAA27DE4BD529B5B184466C3D3F4",
+          "contentSetSha256": "FFC014D64184766A6F8904CE714B27053482B2DC71C847AF60673BF9190FBB07",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "textures.json and all current .texture-work/batches/*/sources.json manifests: exact serial SLUS-20961, exact title Neo Contra, source SHA-1/SHA-256, normalized SHA-256, manifest SHA-256, and content-set SHA-256. No title/serial or source/normalized/manifest/content-set fingerprint matches found."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-026m",
+      "verifiedAt": "2026-09-27T07:38:56Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-gitaroo-man-xbox-buttons-slus-20294-20260927",
+          "sourceArtifact": "gitaroo-man-retrogenerica-xbox-source.7z",
+          "sourceSha256": "29C10C4D9CE8A53BBBB2FA95ADF4108CD9F57A9A840FFCF5866787AC9C7FF8D8",
+          "assetName": "gitaroo-man-retrogenerica-xbox-slus-20294.zip",
+          "normalizedSha256": "FCB6D94E5C8960EC0664D8A51FB8411D4B341313F33C79FB03FDEBA76E505071",
+          "manifestSha256": "BB36BC64B12A4D84D1C5EA6E060A1582F4A32350666B30AA51D8F59BFBE27FE2",
+          "contentSetSha256": "81F662D20B2CF4B8D79C59D2B5E487175B7E0350906E36FE357B5FD2647F9F0D",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "The catalog already has Gitaroo Man SLUS-20294 full HD pack by thecoolpup (410 DDS), which was downloaded and SHA-256 verified; these are separate 24-texture controller overlays, not another copy of the full HD pack.",
+            "All 24 texture paths are shared between RetroGenerica Xbox and PS5 editions but all 24 file bytes differ; side-by-side decoded images show Xbox vs PS5 controller hardware and face-button glyphs in the main menu and controller atlas.",
+            "Both source 7z archives passed 7-Zip CRC/integrity validation and are rooted at SLUS-20294/replacements; normalized ZIPs contain only the 24 DDS runtime textures.",
+            "Compared first texture-ID segments with the published full HD pack: 18 of 23 distinct controller-pack IDs overlap, but side-by-side manual review of those textures confirms altered controller button art (PS2 to Xbox/PS5).",
+            {
+              "unstructuredSourceVariantEvidence": "This is the author-published Xbox controller overlay, downloaded from its own Google Drive archive rather than reconstructed from the other variant."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The Xbox and PS5 archives have 24 shared PCSX2 texture paths but zero byte-identical files; decoded side-by-side review shows different physical controller artwork and Xbox A/B/X/Y versus PlayStation circle/cross/square/triangle prompts."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The two normalized archives have different SHA-256, manifest SHA-256 and content-set SHA-256 values; they cannot be substituted for each other for the intended controller."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-gitaroo-man-ps5-buttons-slus-20294-20260927",
+          "sourceArtifact": "gitaroo-man-retrogenerica-ps5-source.7z",
+          "sourceSha256": "6D3A147F5B6C5FC3B7F2E20667E66F9C0FFF2DE39499CA59B11E4EF76F578F94",
+          "assetName": "gitaroo-man-retrogenerica-ps5-slus-20294.zip",
+          "normalizedSha256": "01FA6E194F7BCC76901025DBEC1705BC6706A30EC4F77E817341516A312E8657",
+          "manifestSha256": "048C7F0BED82BE9FCF581E5AFB7189309DC6905DFB2ABC64C586B67BF54B29EB",
+          "contentSetSha256": "68C275E0A2BED002FB5B35DB6420AC22BFCB19367D903E780080840AA905B0E8",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "The catalog already has Gitaroo Man SLUS-20294 full HD pack by thecoolpup (410 DDS), which was downloaded and SHA-256 verified; these are separate 24-texture controller overlays, not another copy of the full HD pack.",
+            "All 24 texture paths are shared between RetroGenerica Xbox and PS5 editions but all 24 file bytes differ; side-by-side decoded images show Xbox vs PS5 controller hardware and face-button glyphs in the main menu and controller atlas.",
+            "Both source 7z archives passed 7-Zip CRC/integrity validation and are rooted at SLUS-20294/replacements; normalized ZIPs contain only the 24 DDS runtime textures.",
+            "Compared first texture-ID segments with the published full HD pack: 18 of 23 distinct controller-pack IDs overlap, but side-by-side manual review of those textures confirms altered controller button art (PS2 to Xbox/PS5).",
+            {
+              "unstructuredSourceVariantEvidence": "This is the author-published PS5 controller overlay, downloaded from its own Google Drive archive rather than reconstructed from the other variant."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The Xbox and PS5 archives have 24 shared PCSX2 texture paths but zero byte-identical files; decoded side-by-side review shows different physical controller artwork and Xbox A/B/X/Y versus PlayStation circle/cross/square/triangle prompts."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The two normalized archives have different SHA-256, manifest SHA-256 and content-set SHA-256 values; they cannot be substituted for each other for the intended controller."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-027l",
+      "verifiedAt": "2026-09-27T07:38:56Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "1vierock-rogue-galaxy-pal-eur-sces-54552-20260927",
+          "sourceArtifact": "rogue-galaxy-1vierock-sces-54552.7z",
+          "sourceSha256": "409701DF65822DD54BA4F58C5E0E925987C34131CC51EFE6D0DE8E0E489E1C6F",
+          "assetName": "rogue-galaxy-1vierock-sces-54552.zip",
+          "assetParts": [
+            "rogue-galaxy-1vierock-sces-54552.zip.part001",
+            "rogue-galaxy-1vierock-sces-54552.zip.part002",
+            "rogue-galaxy-1vierock-sces-54552.zip.part003"
+          ],
+          "normalizedSha256": "00E2C428FABDDD52419F2FE37A3BCF8896BA32E016916A786C1C7E667E017BCF",
+          "manifestSha256": "221F7F4C28B1BA5DFF351DD358B8FC5C1C3CC3FC6021E5C120E374F1488102AA",
+          "contentSetSha256": "4EE24EFBABD245928C3AF08AEF206BA08B96DC5805711C9EC9C48DA83E97CB32",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "textures.json and all current .texture-work/batches/*/sources.json manifests scanned immediately before registration: no exact serial SCES-54552, Rogue Galaxy title, source SHA-256, normalized SHA-256, manifest SHA-256, or content-set SHA-256 match found."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-027m",
+      "verifiedAt": "2026-09-27T07:39:26Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-nicktoons-unite-xbox-buttons-slus-21284-20260927",
+          "sourceArtifact": "nicktoons-unite-retrogenerica-xbox-source.7z",
+          "sourceSha256": "ED88C095668F3A39A3437DEC0F885324C37DF4E20FC8CDEACB751F19DDCD3A09",
+          "assetName": "nicktoons-unite-retrogenerica-xbox-slus-21284.zip",
+          "normalizedSha256": "E1334A099D9AFD52CE062B7403BBFDAA68581B64187BD023238F4B4C2605C883",
+          "manifestSha256": "023109EAD6BDD124295433CDDF49009F1F006C78979B366FDAEA1C46F35F13A8",
+          "contentSetSha256": "A2EA21C81AF51F1D43AA265B0E7D665E76C4774D420547342A27D95B2A530FD8",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "No Nicktoons Unite! title or SLUS-21284 serial is present among 671 published catalog entries or any staged batch manifest; source/normalized/content-set fingerprints are absent.",
+            "Author GBAtemp first post links the Xbox overlay separately from SimonVideoGames25’s Windows/Android HD remaster; the complete linked 846919-byte 7z was downloaded and passed 7-Zip CRC/integrity validation.",
+            "Source archive is rooted at SLUS-21284/replacements and contains six DDS runtime textures plus two Windows desktop.ini metadata files; normalization keeps all six textures and excludes only metadata.",
+            "The two Google Drive links for the separate SimonVideoGames25 HD remaster currently return HTTP 404; this entry is explicitly labeled as the standalone controller overlay."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-028m",
+      "verifiedAt": "2026-09-27T07:39:26Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-family-guy-modern-xbox-buttons-slus-21560-20260927",
+          "sourceArtifact": "family-guy-retrogenerica-modern-xbox-source.zip",
+          "sourceSha256": "852A47C6FE836A8C06636BE1EB63DA7DA49EF23674056FECA56BA62087467504",
+          "assetName": "family-guy-retrogenerica-modern-xbox-slus-21560.zip",
+          "normalizedSha256": "3E506E3A6F1716AA9A1A935A9F3AD92B258259515808DECD617C58C5EF6CBC13",
+          "manifestSha256": "1E4AB9A8127BBA776214B272C1B01979A9467A6C7EEA7F03F602A1D3EEE720B1",
+          "contentSetSha256": "45D499EE77F059E9A35CFCE912B08438831D51331C0C6DD93146BEC95A68A68E",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "No Family Guy Video Game! title or SLUS-21560 serial in 671 published catalog entries or staged batch manifests; source/normalized/content-set fingerprints are absent.",
+            "Each creator ZIP was downloaded directly, passed central-directory path/link/encryption checks and ZIP CRC test, and contains only PCSX2 PNG replacement textures under SLUS-21560/replacements.",
+            "These are two authored Xbox controller design choices, not alternate compression of the same art; side-by-side review confirmed graphical differences on common paths.",
+            {
+              "unstructuredSourceVariantEvidence": "Author first post explicitly offers separate Modern Xbox button archives; this entry uses its own complete Google Drive ZIP."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The modern and classic normalized packs share 25 paths but have zero byte-identical textures; manual side-by-side review shows materially different controller button shape, arrangement, color and overlay design (RGB/RGBA MAE up to 25.36 on shared images)."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Modern pack includes one additional texture; both preserve all textures from their respective author archives."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-family-guy-classic-xbox-buttons-slus-21560-20260927",
+          "sourceArtifact": "family-guy-retrogenerica-classic-xbox-source.zip",
+          "sourceSha256": "865804455F12888D6FC07DC8E7EF17395AA3BCA9B1A225DB39AF71A87438083C",
+          "assetName": "family-guy-retrogenerica-classic-xbox-slus-21560.zip",
+          "normalizedSha256": "FD092C54A8509C09135200C5D7E30F4B538B589421E817E29FFAC88B0086DF94",
+          "manifestSha256": "349AB6C3BA6BA5290F9123E5A76345143A7084CDFF48E91B5DCAACDED5EE111D",
+          "contentSetSha256": "59D0287BB3144A03D987844A2E6234DD6AA8C99A4946B1C9310A93B3934C300B",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "No Family Guy Video Game! title or SLUS-21560 serial in 671 published catalog entries or staged batch manifests; source/normalized/content-set fingerprints are absent.",
+            "Each creator ZIP was downloaded directly, passed central-directory path/link/encryption checks and ZIP CRC test, and contains only PCSX2 PNG replacement textures under SLUS-21560/replacements.",
+            "These are two authored Xbox controller design choices, not alternate compression of the same art; side-by-side review confirmed graphical differences on common paths.",
+            {
+              "unstructuredSourceVariantEvidence": "Author first post explicitly offers separate Classic Xbox button archives; this entry uses its own complete Google Drive ZIP."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The modern and classic normalized packs share 25 paths but have zero byte-identical textures; manual side-by-side review shows materially different controller button shape, arrangement, color and overlay design (RGB/RGBA MAE up to 25.36 on shared images)."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Modern pack includes one additional texture; both preserve all textures from their respective author archives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-029m",
+      "verifiedAt": "2026-09-27T07:39:26Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-ssx-ssx-xbox-buttons-slus-20095-20260927",
+          "sourceArtifact": "ssx-retrogenerica-xbox-source.7z",
+          "sourceSha256": "77104CE6514CC2284F289AD76B5E72F4DB621AB8C1F15603A7DED9FBD8B4D70D",
+          "assetName": "ssx-retrogenerica-xbox-slus-20095.zip",
+          "normalizedSha256": "0C21FB0DE8FBF87CD93556A60CFB19A0E598EC4975622A606AD2A76ACCC38763",
+          "manifestSha256": "264F833771E337404AEF6A87E91BCFEF58C5C06AF59D0EB613B0B9489DC25EE7",
+          "contentSetSha256": "B5BE48CFCDAC656ACDF40C0FBD159BB346D9345466DC285EE85C3F5EE3BC601F",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact game serial/title, SHA-256 and content-set fingerprints against 671 published catalog entries and all staged batch manifests; no matching asset exists.",
+            "Downloaded the published Bl4ckH4nd full-game pack for this serial and verified its catalog size/SHA-256 before decoded-image comparison; SSX Tricky was also compared against the second published SomberShroud pack.",
+            "Source 7z integrity/CRC check passed; archive contains 12 DDS runtime textures rooted at SLUS-20095/replacements, all retained in the normalized ZIP.",
+            {
+              "unstructuredSourceVariantEvidence": "The author first post links this Xbox button overlay separately from Bl4ckH4nd’s HD remaster; the entire linked archive was downloaded and normalized."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Bl4ckH4nd 1784-file HD pack; 11 shared texture IDs; same-size decoded RGB MAE median 19.77, max 59.14."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Manual decoded-image contact sheet confirms Xbox controller hardware and A/B/X/Y art replacing original PlayStation controller/face-button imagery, so this is a functional visual variant rather than a file re-encoding."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-ssx-tricky-xbox-buttons-slus-20326-20260927",
+          "sourceArtifact": "ssx-tricky-retrogenerica-xbox-source.7z",
+          "sourceSha256": "CFDF8661F347CF51E73052010E5A332805666749605554D1BC1E8C4DAF6D970C",
+          "assetName": "ssx-tricky-retrogenerica-xbox-slus-20326.zip",
+          "normalizedSha256": "A488570FEB73D6F2905AFBED2C8A6079EFD38135D14376185FC9866755995044",
+          "manifestSha256": "51808F676DEDA1F86B24196004C8BB6BC0C7DA887D072FF11F538B67365CC55E",
+          "contentSetSha256": "28A23E0EB3B49A11592E94FE98E7663BA1B391F7787F0F8252CAC1A118F4D93D",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact game serial/title, SHA-256 and content-set fingerprints against 671 published catalog entries and all staged batch manifests; no matching asset exists.",
+            "Downloaded the published Bl4ckH4nd full-game pack for this serial and verified its catalog size/SHA-256 before decoded-image comparison; SSX Tricky was also compared against the second published SomberShroud pack.",
+            "Source 7z integrity/CRC check passed; archive contains 5 DDS runtime textures rooted at SLUS-20326/replacements, all retained in the normalized ZIP.",
+            {
+              "unstructuredSourceVariantEvidence": "The author first post links this Xbox button overlay separately from Bl4ckH4nd’s HD remaster; the entire linked archive was downloaded and normalized."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Bl4ckH4nd 3968-file HD pack and SomberShroud 6419-file pack; 4-5 shared texture IDs; decoded RGB differences reach MAE 76.91 and 78.41 respectively."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Manual decoded-image contact sheet confirms Xbox controller hardware and A/B/X/Y art replacing original PlayStation controller/face-button imagery, so this is a functional visual variant rather than a file re-encoding."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-ssx-ssx3-xbox-buttons-slus-20772-20260927",
+          "sourceArtifact": "ssx-3-retrogenerica-xbox-source.7z",
+          "sourceSha256": "6260C5311BE6EFC79785AC2ED22435AF0EF25112A0F682A1CEE5D74ABD353043",
+          "assetName": "ssx-3-retrogenerica-xbox-slus-20772.zip",
+          "normalizedSha256": "633C93C2428B2438AD464AD6725E12055DF72B71E72A92B958114CC1B3F17FD8",
+          "manifestSha256": "61FFC5C1DFFC7DB4D21AC5577D2DB779CFDEF5C1A680D3ADCE00D9EB3F99B637",
+          "contentSetSha256": "4ECE48AE6B649DEFFA81DD4A0563B58592018B3BC1358666F2227EF558C32948",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact game serial/title, SHA-256 and content-set fingerprints against 671 published catalog entries and all staged batch manifests; no matching asset exists.",
+            "Downloaded the published Bl4ckH4nd full-game pack for this serial and verified its catalog size/SHA-256 before decoded-image comparison; SSX Tricky was also compared against the second published SomberShroud pack.",
+            "Source 7z integrity/CRC check passed; archive contains 1 DDS runtime textures rooted at SLUS-20772/replacements, all retained in the normalized ZIP.",
+            {
+              "unstructuredSourceVariantEvidence": "The author first post links this Xbox button overlay separately from Bl4ckH4nd’s HD remaster; the entire linked archive was downloaded and normalized."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Bl4ckH4nd 1640-file HD pack; the only shared controller texture ID has decoded RGB MAE 18.45 and visibly changes PlayStation controller/button glyphs to Xbox."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Manual decoded-image contact sheet confirms Xbox controller hardware and A/B/X/Y art replacing original PlayStation controller/face-button imagery, so this is a functional visual variant rather than a file re-encoding."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-ssx-ontour-xbox-buttons-slus-21278-20260927",
+          "sourceArtifact": "ssx-on-tour-retrogenerica-xbox-source.7z",
+          "sourceSha256": "754B0B02C81FA9C6ECB37307965F059552770964AA1B1D6A343C2770BE1A479F",
+          "assetName": "ssx-on-tour-retrogenerica-xbox-slus-21278.zip",
+          "normalizedSha256": "40E7B1583C85598DA42870845676031B38B34F52E120B4D9C727A6137B9BD489",
+          "manifestSha256": "5F96C803F86989A4E4821255EB3E9B108589342088B0D236818FF6AB1E73B1A5",
+          "contentSetSha256": "DBF76706024488CB5ECCEE1D890B5C290DF197FD03CC18CAA0F692AEB8F4665A",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact game serial/title, SHA-256 and content-set fingerprints against 671 published catalog entries and all staged batch manifests; no matching asset exists.",
+            "Downloaded the published Bl4ckH4nd full-game pack for this serial and verified its catalog size/SHA-256 before decoded-image comparison; SSX Tricky was also compared against the second published SomberShroud pack.",
+            "Source 7z integrity/CRC check passed; archive contains 13 DDS runtime textures rooted at SLUS-21278/replacements, all retained in the normalized ZIP.",
+            {
+              "unstructuredSourceVariantEvidence": "The author first post links this Xbox button overlay separately from Bl4ckH4nd’s HD remaster; the entire linked archive was downloaded and normalized."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Bl4ckH4nd 3452-file HD pack; 12 shared texture IDs, 11 same-size, decoded RGB MAE median 18.78, max 52.09."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Manual decoded-image contact sheet confirms Xbox controller hardware and A/B/X/Y art replacing original PlayStation controller/face-button imagery, so this is a functional visual variant rather than a file re-encoding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-030m",
+      "verifiedAt": "2026-09-27T07:39:26Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-ratchet-deadlocked-xbox-buttons-scus-97465-20260927",
+          "sourceArtifact": "ratchet-deadlocked-retrogenerica-xbox-source.7z",
+          "sourceSha256": "D31653EF237A725CEEC3ABAC2C9B41E8256A56432F71664BF1AC7668E9305BBA",
+          "assetName": "ratchet-deadlocked-retrogenerica-xbox-scus-97465.zip",
+          "normalizedSha256": "45002536EEA9DD22D13D6DB44FA2113D68B4F30FD9720207EC6EDC0F0036BA47",
+          "manifestSha256": "1D328A58401B11A93675C05876FE3434935D971C35D72AF631BD6511348BF328",
+          "contentSetSha256": "047B42E80B998910F6A1CC31B32B9330FA7E1A52B90762BC947622A59D806DAA",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z CRC passed, safe path/extraction checks passed, and every source runtime texture was retained in the normalized ZIP.",
+            "Published SkyfighterZX v0.2 (415 PNG) and community archive snapshot (8135 files) have zero common basenames with this overlay; downloaded and SHA-verified all compared published archives.",
+            {
+              "unstructuredSourceVariantEvidence": "9 source PNGs; Xbox button art visibly differs from the author’s PS5 edition on all 9 shared paths."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "8 texture IDs overlap published Knuckles 4K pack, 0 byte matches; 64px RGB MAE 9.20-69.56 and manual contact sheet confirms different glyph style/controller illustration."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The remaining source filename is dddddddddddddddddddddddddddddddd.png, retained unchanged for provenance; it is not a standard PCSX2 texture key."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-ratchet-deadlocked-ps5-buttons-scus-97465-20260927",
+          "sourceArtifact": "ratchet-deadlocked-retrogenerica-ps5-source.7z",
+          "sourceSha256": "899FE426C87DC004D9343D185CEE5651AA47FAFA154007C21A5DE77DC94C43DD",
+          "assetName": "ratchet-deadlocked-retrogenerica-ps5-scus-97465.zip",
+          "normalizedSha256": "DBB81396B84C3EC08C4676CD87A1690008F9A4111DA2CB8999B72A2C5486BB0E",
+          "manifestSha256": "3175684501D48AFB6CB1B2C0EDE5AB5A2FEE7CF267F2E604E0EA8955C55DA196",
+          "contentSetSha256": "4C1BA4735C91F68810A501D6D8ABB9BC2E69EF04124C5B08588726F1412AAAC1",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z CRC passed, safe path/extraction checks passed, and every source runtime texture was retained in the normalized ZIP.",
+            "Published SkyfighterZX v0.2 (415 PNG) and community archive snapshot (8135 files) have zero common basenames with this overlay; downloaded and SHA-verified all compared published archives.",
+            {
+              "unstructuredSourceVariantEvidence": "9 source PNGs; PS5 DualSense/controller glyph art visibly differs from the author’s Xbox edition on all 9 shared paths."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "8 texture IDs overlap published Knuckles 4K pack, 0 byte matches; 64px RGB MAE 14.40-34.97 and manual contact sheet confirms altered glyph/controller illustration and different style."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The remaining source filename is dddddddddddddddddddddddddddddddd.png, retained unchanged for provenance; it is not a standard PCSX2 texture key."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-crash-tag-team-racing-xbox-buttons-slus-21191-20260927",
+          "sourceArtifact": "crash-tag-team-racing-retrogenerica-xbox-source.7z",
+          "sourceSha256": "0AF7976B7F7EAD318C918BD54F0F0B117FDD9D32F89A79C34D914D26FA7CB4E6",
+          "assetName": "crash-tag-team-racing-retrogenerica-xbox-slus-21191.zip",
+          "normalizedSha256": "8F882EEBABCA5DFAC3D9DF374F7CA4DDB81C7557DA2959237353D7F72DD8711C",
+          "manifestSha256": "DB9818FDA84310424ED2E6A85DF51AD6BC1359E65001877E2A321BBC26DBB6CA",
+          "contentSetSha256": "3FBE8A7F3C887DD23C3ABEBFE2D86255C5BD7E0ED9606FB03C0F573B8E50FF8F",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z CRC passed, safe path/extraction checks passed, and every source runtime texture was retained in the normalized ZIP.",
+            "Published CRASHARKI source snapshot (1172 runtime PNGs) was available locally and compared by texture ID and decoded visual contact sheet.",
+            {
+              "unstructuredSourceVariantEvidence": "All 17 candidate texture IDs overlap the published CRASHARKI pack, but all candidate PNGs have different dimensions (typically 4x), no exact byte matches."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Manual side-by-side review shows PlayStation button/controller graphics changed to Xbox A/B/X/Y and Xbox controller hardware, establishing functional variant rather than a simple upscale."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-maximo-ghosts-xbox-buttons-slus-20017-20260927",
+          "sourceArtifact": "maximo-ghosts-retrogenerica-xbox-source.7z",
+          "sourceSha256": "E60C4F838BCF169541C66AE8C9E928085A87ECF419ECA36644703CF06075F145",
+          "assetName": "maximo-ghosts-retrogenerica-xbox-slus-20017.zip",
+          "normalizedSha256": "BA0EE4BD5BDEB7DC9D4740BFBB2F61D344CCA756ABCFE0F9E762ECADCBCF0CF7",
+          "manifestSha256": "0167EA7315A511844BF40057D54258822C922193DA3D88799F86C77E3DB6E417",
+          "contentSetSha256": "788C10BA11CCA9F03655B53113563AFA6D43D7EC031D6EA9A48FC905DE371828",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z CRC passed, safe path/extraction checks passed, and every source runtime texture was retained in the normalized ZIP.",
+            "Both Santins published packs (294 DDS v1 and 3082-file community snapshot) were downloaded, catalog SHA-verified, and compared by texture ID.",
+            {
+              "unstructuredSourceVariantEvidence": "All 4 texture IDs overlap published Santins community pack and zero files match byte-for-byte."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "Same-size 64px RGB MAE 1.23-27.86; lower overall MAE reflects mostly unchanged texture atlases, but manually inspected atlases clearly replace PlayStation controller art, face-button glyphs, and on-screen controller with Xbox variants."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-031m",
+      "verifiedAt": "2026-09-27T07:39:26Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-timesplitters-2-xbox-buttons-slus-20314-20260927",
+          "sourceArtifact": "timesplitters2-source.7z",
+          "sourceSha256": "8AE300E74938326A809D60ED52ABB4DF9415A2F3BA66D3F4444729893E37ED4C",
+          "assetName": "timesplitters-2-retrogenerica-xbox-slus-20314.zip",
+          "normalizedSha256": "8A33F2BE49B0B78FFC2A74AAE0CF852951813578EFF7237E427F5882800D06EF",
+          "manifestSha256": "E6E13305D45F94FE984FD9B0A09A7D1D0646EC130C21D1279AD84F347C96176C",
+          "contentSetSha256": "863B3025A3512C0B749DEE1449E48AD4CE8119AB0D55F7760B6452999F1C5B1C",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z integrity and CRC passed; safe extraction checks passed; all runtime textures retained and auxiliary files excluded.",
+            "Published Bl4ckH4nd full-game pack for the same serial was downloaded, catalog SHA-256 verified, and compared by texture ID, decoded image differences, and manual contact sheet.",
+            {
+              "unstructuredSourceVariantEvidence": "8/8 common texture IDs with the 4160-file published Bl4ckH4nd pack; none byte-identical; 64px RGB MAE 26.19-213.91. Manual review shows PlayStation glyphs/controller replaced by Xbox variants."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-socom-1-xbox-buttons-scus-97134-20260927",
+          "sourceArtifact": "socom1-source.7z",
+          "sourceSha256": "7CD0AD89F1B3F2B4603880A0BCEDD5F8E81E4C85C241E60067AC224004BCA687",
+          "assetName": "socom-1-retrogenerica-xbox-scus-97134.zip",
+          "normalizedSha256": "7E51DA2FA1741D826E0C25424EFD90F1C04A45FAFD9468DAF7459A03018FBC8C",
+          "manifestSha256": "BECF2FEDD9FB350717EB993AE2022E12DEB3B1216347F4A5DCA083BDF89914EA",
+          "contentSetSha256": "EBAE0515ECC522C04833975A3805AFD99B7252947B3AB7532C2FB23CFD077DB4",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z integrity and CRC passed; safe extraction checks passed; all runtime textures retained and auxiliary files excluded.",
+            "Published Bl4ckH4nd full-game pack for the same serial was downloaded, catalog SHA-256 verified, and compared by texture ID, decoded image differences, and manual contact sheet.",
+            {
+              "unstructuredSourceVariantEvidence": "15 shared texture IDs with the 1817-file Bl4ckH4nd pack, zero byte matches; 64px RGB MAE 1.22-28.50. Contact sheet confirms changed button icons and controller graphics; small MAE on mostly unchanged UI atlases is expected."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The author thread contains a copied install path for SLUS-21560; the source archive root is SCUS-97134, matching the published full-game pack and serial reference."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-socom-2-xbox-buttons-scus-97275-20260927",
+          "sourceArtifact": "socom2-source.7z",
+          "sourceSha256": "18FA667B6343C457B92588065249D21F1DEDC569E04C746F804181DBE6648E4D",
+          "assetName": "socom-2-retrogenerica-xbox-scus-97275.zip",
+          "normalizedSha256": "F0EAD3D2B481BFBCC3509A76ACDCEA6BC5C92693E6AFD4DE4894841CD087197D",
+          "manifestSha256": "8DA76CA18A0C9EC8DFE0BAE9AADF24A921D7289911D8375D95D083B77BF53844",
+          "contentSetSha256": "24CE62852C718BDFB9C89BF418054B6E3AF5426251715B84DF68D118AF23B513",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z integrity and CRC passed; safe extraction checks passed; all runtime textures retained and auxiliary files excluded.",
+            "Published Bl4ckH4nd full-game pack for the same serial was downloaded, catalog SHA-256 verified, and compared by texture ID, decoded image differences, and manual contact sheet.",
+            {
+              "unstructuredSourceVariantEvidence": "5 shared texture IDs with the 3936-file Bl4ckH4nd pack, zero byte matches; 64px RGB MAE 16.64-31.07 and contact sheet shows Xbox button/controller replacements."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The author thread contains a copied install path for SLUS-21560; the source archive root is SCUS-97275, matching the published full-game pack and serial reference."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-socom-3-xbox-buttons-scus-97474-20260927",
+          "sourceArtifact": "socom3-source.7z",
+          "sourceSha256": "3A5706FA1F07E20BE9D2E1AC7614E6C45D64437F83B8AAD25E0B123DFBBF6E67",
+          "assetName": "socom-3-retrogenerica-xbox-scus-97474.zip",
+          "normalizedSha256": "9831B5926C7607CF928CE752D501D7363DEBD05C791B6E937A82C35824E21286",
+          "manifestSha256": "4A05FD541791A7CF394014134DD54768092BB557A208B1919974E42399DA7715",
+          "contentSetSha256": "9A5B7C333D5DEDE8BF38343BFFDA9EB90166995C1B4FA46A0070BB8127CE7366",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z integrity and CRC passed; safe extraction checks passed; all runtime textures retained and auxiliary files excluded.",
+            "Published Bl4ckH4nd full-game pack for the same serial was downloaded, catalog SHA-256 verified, and compared by texture ID, decoded image differences, and manual contact sheet.",
+            {
+              "unstructuredSourceVariantEvidence": "6 shared texture IDs with the 2786-file Bl4ckH4nd pack, zero byte matches; 64px RGB MAE 5.25-63.03; contact sheet confirms Xbox icons/controller. Shares 5 of 6 file contents with the distinct-game Combined Assault overlay but has different game serial and texture IDs."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The author thread contains a copied install path for SLUS-21560; the source archive root is SCUS-97474, matching the published full-game pack and serial reference."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-socom-combined-assault-xbox-buttons-scus-97545-20260927",
+          "sourceArtifact": "socomca-source.7z",
+          "sourceSha256": "732315386E3B3AD799395CF1A0EB73A749A21031BFDFFFFE6CCD46F38B75EF16",
+          "assetName": "socom-combined-assault-retrogenerica-xbox-scus-97545.zip",
+          "normalizedSha256": "AA768929AD721D0A8A948D57476EA6C42A525B9DDC526AC0C5A16F6DDBB81088",
+          "manifestSha256": "F2F5DD3CEFE0385560AEA0B061D7C0E38C04A357F7CE8192329C3205CCB6D070",
+          "contentSetSha256": "E957A1E45692C09F6BA52927AA56068CF2616CB0DC3F2C38C17DE5BF63BB0DFB",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z integrity and CRC passed; safe extraction checks passed; all runtime textures retained and auxiliary files excluded.",
+            "Published Bl4ckH4nd full-game pack for the same serial was downloaded, catalog SHA-256 verified, and compared by texture ID, decoded image differences, and manual contact sheet.",
+            {
+              "unstructuredSourceVariantEvidence": "6 shared texture IDs with the 3528-file Bl4ckH4nd pack, zero byte matches; 64px RGB MAE 4.28-64.37; contact sheet confirms Xbox icons/controller. Shares 5 of 6 file contents with the distinct-game SOCOM 3 overlay but has different game serial and texture IDs."
+            },
+            {
+              "unstructuredSourceVariantEvidence": "The author thread contains a copied install path for SLUS-21560; the source archive root is SCUS-97545, matching the published full-game pack and serial reference."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-disney-extreme-skate-xbox-buttons-slus-20607-20260927",
+          "sourceArtifact": "extremeskate-source.7z",
+          "sourceSha256": "32A9EC901F2272670C524E806A6BD661717B863C7C34D4305217FB04A063A3B4",
+          "assetName": "disney-extreme-skate-retrogenerica-xbox-slus-20607.zip",
+          "normalizedSha256": "6D9D15606C674756EB7DCD7B1D85005EA31A5AAA9B6072BF592BA729001966A7",
+          "manifestSha256": "BFAF44E82D7333BAD9A1BFEF545C13A7BD95559252608D5A280D0E9A216BB692",
+          "contentSetSha256": "021AA605D5BCD9E72BB7BC0A8BA47960147A80931940D8E0468E04A6690B29DB",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared game serial/title and normalized content fingerprint with 671 published catalog entries and staged batch manifests; no matching archive.",
+            "Source 7z integrity and CRC passed; safe extraction checks passed; all runtime textures retained and auxiliary files excluded.",
+            "Published Bl4ckH4nd full-game pack for the same serial was downloaded, catalog SHA-256 verified, and compared by texture ID, decoded image differences, and manual contact sheet.",
+            {
+              "unstructuredSourceVariantEvidence": "2 shared texture IDs with the 3758-file Bl4ckH4nd pack, zero byte matches; 64px RGB MAE 48.30 on each. Contact sheet shows PlayStation symbol and shoulder prompts replaced by Xbox A/B/X/Y and LB/RB/LT/RT."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-033m",
+      "verifiedAt": "2026-09-27T07:39:27Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-monsters-xbox-buttons-sces-50595-20260927",
+          "sourceArtifact": "monsters-xbox-source.7z",
+          "sourceSha256": "1097074F8894434CB8E542CDC2F019BBC25BB7409F748785D028CA05DCA72592",
+          "assetName": "monsters-inc-scare-island-retrogenerica-xbox-sces-50595.zip",
+          "normalizedSha256": "BA0281BA58A8B94C2A58688AC1A96802CC7838CE600EBDFA914CDEEB9C3F75DA",
+          "manifestSha256": "97E66C5F83F4D46B13BCAA23A683285D754786310E822183C2E3CBC04FA38CDD",
+          "contentSetSha256": "D8F1C05F2BEEBFFDD85005E3819DEC42480516E9526F04A6F41A5B4262AA7789",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact serial/title and content fingerprint with 671 published catalog entries plus all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized runtime ZIP was validated.",
+            "Author full HD pack has zero shared texture paths or file contents with this overlay; source normalized and compared before upload.",
+            {
+              "unstructuredSourceVariantEvidence": "21 runtime textures; all 21 paths match the author PS5 overlay, 0 same file contents. Visual sheet confirms Xbox button glyphs instead of PlayStation symbols."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-monsters-ps5-buttons-sces-50595-20260927",
+          "sourceArtifact": "monsters-ps5-source.7z",
+          "sourceSha256": "4113CD941ABAD70C4EA882FFF526EC735F93659F912832193184F967936F2748",
+          "assetName": "monsters-inc-scare-island-retrogenerica-ps5-sces-50595.zip",
+          "normalizedSha256": "58458B9AAEB065CFE3D5E5A44432107029A1130ECDEB1A1FD8AF578456349ACF",
+          "manifestSha256": "C521DAE1890B04A4DA97DC5297B04F34839811B029C468CA11BDCDEDA6EE23DC",
+          "contentSetSha256": "E2D0BD4EB3AF74F36BEC41372C1C1F14E5E8DB0B5A6EE47D1950ABE660A2886D",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact serial/title and content fingerprint with 671 published catalog entries plus all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized runtime ZIP was validated.",
+            "Author full HD pack has zero shared texture paths or file contents with this overlay; source normalized and compared before upload.",
+            {
+              "unstructuredSourceVariantEvidence": "21 runtime textures; all 21 paths match the author Xbox overlay, 0 same file contents. Visual sheet confirms PlayStation face-button glyphs instead of Xbox."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-spyro-xbox-buttons-slus-20884-20260927",
+          "sourceArtifact": "spyro-xbox-source.7z",
+          "sourceSha256": "AE83ADA2D9D3A590F37799A8519E689DB9B25ABDC6A43AC9BE2424873C5C93CA",
+          "assetName": "spyro-hero-tail-retrogenerica-xbox-slus-20884.zip",
+          "normalizedSha256": "BBE0A1D640F5DF336B165C06FFA8FB00FC316983BA173235EFD3D4C431FAE383",
+          "manifestSha256": "1FA35F902432754B03EE0B7E65B6BA088ED467EFD71BF69F5A2CDFF292710D4D",
+          "contentSetSha256": "F679845E4E57995D2B4A900116454F353E6D2DC4B445D7F79DB8FA4F36EFAC33",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact serial/title and content fingerprint with 671 published catalog entries plus all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized runtime ZIP was validated.",
+            "All 7 texture IDs match published CRASHARKI HD pack but no byte matches and manual visual review shows replaced art; published Panda_Venom pack has zero shared basenames. Both published full packs locally available or catalog SHA-verified.",
+            {
+              "unstructuredSourceVariantEvidence": "7 runtime PNGs; all paths match author PS5 edition, no equal file contents; visual sheet shows distinct Xbox A/B/X/Y and LB/RB/RT artwork."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-spyro-ps5-buttons-slus-20884-20260927",
+          "sourceArtifact": "spyro-ps5-source.7z",
+          "sourceSha256": "8835F5EB369ACFA7BE7F19F5D1DB50362B8EDEDAC213A03B50D7AE106E81FD47",
+          "assetName": "spyro-hero-tail-retrogenerica-ps5-slus-20884.zip",
+          "normalizedSha256": "87B70813BC3C7158302A9A7351728939D375A46921969C6515403865C9FCE660",
+          "manifestSha256": "C3C7F1097B07B2C6C3C94D78A26E06288E478E92F99B9CB6B4E2C9B816E40C27",
+          "contentSetSha256": "AB83078722AC92C3BA558A76F2DF4D5ECF6A35DF46AE0A85574F39AD805D64AD",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact serial/title and content fingerprint with 671 published catalog entries plus all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized runtime ZIP was validated.",
+            "All 7 texture IDs match published CRASHARKI HD pack but no byte matches and manual visual review shows different glyph style; published Panda_Venom pack has zero shared basenames.",
+            {
+              "unstructuredSourceVariantEvidence": "7 runtime PNGs; all paths match author Xbox edition, no equal file contents; visual sheet shows distinct PS5-style glyphs and shoulder-button artwork."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-rugrats-xbox-buttons-slus-20443-20260927",
+          "sourceArtifact": "rugrats-xbox-source.7z",
+          "sourceSha256": "2DB32B7770F02E92A1A6B24A91DA3B01C7B55BFEFEFF68D8EC0196BDDABCC9FA",
+          "assetName": "rugrats-royal-ransom-retrogenerica-xbox-slus-20443.zip",
+          "normalizedSha256": "4FAFBC6526BA54C7463B5A87D610626F642BDF202122DCDE78278CFBC1E39E91",
+          "manifestSha256": "0D20A8901F85DEBE0FB0741F1EDEA5B819FE4246EFD5BB48B5A30423C2995BBA",
+          "contentSetSha256": "DB8760B031DDCB77CF13DF94C3DA566667FDFC17E34D09D09FBE35D24D14D84F",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact serial/title and content fingerprint with 671 published catalog entries plus all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized runtime ZIP was validated.",
+            "Author HD source archive was downloaded and inspected directly, with exact texture IDs extracted. Standalone PS5 archive is an exact 9/9 subset of the published HD source and was rejected.",
+            {
+              "unstructuredSourceVariantEvidence": "9 DDS textures; 6 are byte-identical to the already published author HD pack/standalone PS5 archive, while 3 have Xbox A/Y/X art replacing PS symbols. Manual sheet confirms the 3 distinct functional textures."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-winnie-xbox-buttons-slus-21084-20260927",
+          "sourceArtifact": "winnie-xbox-source.7z",
+          "sourceSha256": "78C3FEA595E2E19A6245DFC831DC9FA488CB2E2D08C4879EFC55FB519F3C425A",
+          "assetName": "winnie-rumbly-tumbly-retrogenerica-xbox-slus-21084.zip",
+          "normalizedSha256": "EC788827643F113A33E25967D853931C5C3F403580284EAB9382E77CD624E6EF",
+          "manifestSha256": "82EA7DAAA6A185C4EB650E01809208179F308A755B6E7298D30B2F8C38BB1FA0",
+          "contentSetSha256": "523C6512B38C22937FE5EFA17087400717FA4C04A0ADDA6FADC92F5BB1B7DC17",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact serial/title and content fingerprint with 671 published catalog entries plus all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized runtime ZIP was validated.",
+            "Author HD source archive was downloaded and inspected directly. Standalone PS5 archive matches the published HD source on all 15/15 files and was rejected.",
+            {
+              "unstructuredSourceVariantEvidence": "15 DDS textures; all 15 texture IDs overlap published author HD pack, zero byte matches. Contact sheet shows changed D-pad and face-button art."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-backyard-xbox-buttons-slus-20638-20260927",
+          "sourceArtifact": "backyard-xbox-source.7z",
+          "sourceSha256": "3774E2A78AFD034ACF41505D999CC937AD3AAE87E27E6C7114243B77FC3A98C2",
+          "assetName": "backyard-wrestling-retrogenerica-xbox-slus-20638.zip",
+          "normalizedSha256": "C5B5A48F2CF727F8688A7350C3CB725A9282328EF8EA5E51999A72F71E4935D4",
+          "manifestSha256": "91D6F67441962700BB60E167E88AB10FD0646E3C320BC9A22B2F5AA949DE901E",
+          "contentSetSha256": "69DE1F95F8DEA18531ED7B28FE287003A8B6E26356D55FF8664A7255A749BCED",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact serial/title and content fingerprint with 671 published catalog entries plus all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized runtime ZIP was validated.",
+            "Author HD source archive was downloaded and inspected directly. Standalone PS5 archive matches the published HD source on all 10/10 files and was rejected.",
+            {
+              "unstructuredSourceVariantEvidence": "10 DDS textures; all 10 texture IDs overlap published author HD pack, zero byte matches. Contact sheet shows Xbox face-button glyphs substituted in prompts and font atlases."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-jackass-xbox-buttons-slus-21627-20260927",
+          "sourceArtifact": "jackass-xbox-source.7z",
+          "sourceSha256": "259B1CD3C267FDA316D10058200A6F7B40D32FD44C7FF6314513B19D34F471C7",
+          "assetName": "jackass-game-retrogenerica-xbox-slus-21627.zip",
+          "normalizedSha256": "55C01ECABED3A76B4FD970FDF92CA5CA9E21242DCD8420DF1423031FA17F53E0",
+          "manifestSha256": "7EBB984A1A3F6ED8F9EA08591257027983C5D522475FFAA92010918B596F7D79",
+          "contentSetSha256": "FD570DA0FA80FCDE01182F573794E128920189862BBBA140E7D175DFCB937437",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact serial/title and content fingerprint with 671 published catalog entries plus all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized runtime ZIP was validated.",
+            "Author full HD pack downloaded and normalized from separate archive locally for comparison; overlay visually distinct and complete. UberHD is credited by the author for recovering lost Xbox button source assets.",
+            {
+              "unstructuredSourceVariantEvidence": "26 DDS runtime textures; 23 texture IDs overlap the author HD remaster, 0 byte-identical. Decoded 64px RGB MAE median 52.22, range 3.86-145.35. Contact sheet shows Xbox prompts and D-pad replacing PlayStation artwork."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-034m",
+      "verifiedAt": "2026-09-27T07:39:28Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "retrogenerica-timesplitters-xbox-buttons-slus-20090-20260927",
+          "sourceArtifact": "timesplitters1-xbox-source.7z",
+          "sourceSha256": "AA5F3E66B6EF9201F7668EA62486B42AFB8E64A5865A3EF4DA46D2F0D8C5418F",
+          "assetName": "timesplitters-retrogenerica-xbox-slus-20090.zip",
+          "normalizedSha256": "F1C487D7891DDE084BA88CBD91D666B67073572BD3E6CFD03A8CAC172C996B29",
+          "manifestSha256": "2B3455475A7FEC8AF58229A3BE570CE0E02D20C8142468216BEAE21373C17625",
+          "contentSetSha256": "E5BC11F41B9F2CCB5C4379D393AB637A84BF63D1F3FA6E800CD844F952DC7805",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact title/serial, source SHA, normalized manifest and content-set fingerprints against 671 published entries and all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized ZIP was validated.",
+            "Published RetroGenerica HD source has zero common basenames; published Bl4ckH4nd full pack has 12 matching texture IDs and zero byte matches. Decoded RGB MAE64 median 25.62 (16.80-31.47); contact sheet confirms Xbox glyphs replacing PlayStation.",
+            {
+              "unstructuredSourceVariantEvidence": "26 DDS runtime textures in the author’s updated 2024 Xbox controller edition. The author notes L1/L2/L3/R1/R2/R3 cannot generally be changed in this game, although some custom-level menu prompts work."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-nightmare-oogies-xbox-buttons-slus-20860-20260927",
+          "sourceArtifact": "nightmare-xbox-source.7z",
+          "sourceSha256": "DAD8F806D26A1EE70EEC00526FE1E4FB548F6A5C576BA768BB351840E57AD674",
+          "assetName": "nightmare-oogies-retrogenerica-xbox-slus-20860.zip",
+          "normalizedSha256": "794093D98B0FABB7C8BEB90C961F93CAD8385C4C8B4E8C5E663783FC77CD0C49",
+          "manifestSha256": "433A2C6C57B4E2D091B5E8F49F3B252683ACD5D4380FFBAD362D5C1799EAE855",
+          "contentSetSha256": "509428BC7926B29F2BC5A10455ADA47153D6EA4D26467CB8112D9093EB33ECCD",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact title/serial, source SHA, normalized manifest and content-set fingerprints against 671 published entries and all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized ZIP was validated.",
+            "Against author full HD source and published community archive, 17 shared texture IDs and zero byte matches; median normalized RGB MAE64 ~1.9 because most text atlases are unchanged, but contact sheet shows Xbox controller and glyph changes, plus four Xbox-only IDs. Solid Snack is credited by author for a combo-menu workaround.",
+            {
+              "unstructuredSourceVariantEvidence": "Author archive has 21 texture IDs, each present as both PNG and DDS with identical dimensions and 64px RGB MAE 0.00-0.48. The 21 DDS runtime textures were retained; redundant PNG encodings omitted."
+            }
+          ]
+        },
+        {
+          "catalogId": "retrogenerica-digimon-rumble-arena-2-xbox-buttons-slus-21067-20260927",
+          "sourceArtifact": "digimon-xbox-source.7z",
+          "sourceSha256": "663E91F16E2E970871D23D9487869B9157329D7D9488ED049A5C5E0557F40BAC",
+          "assetName": "digimon-rumble-arena-2-retrogenerica-xbox-slus-21067.zip",
+          "normalizedSha256": "F1075DB8F317193C555DA1F17A06E6BBF11B3E1F2C28DE1E6AA4BF943BDB390E",
+          "manifestSha256": "325DB3C2AA6B988ABC5F50C5DB1EDDD17E4B2D040F81461065C84079D32E1079",
+          "contentSetSha256": "27D91F065522B3BF69D5792B253C5508C44A48E3C31FCFBDBCFCFC142A9EE6FA",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "Compared exact title/serial, source SHA, normalized manifest and content-set fingerprints against 671 published entries and all staged manifests; no same-pack match.",
+            "Source 7z integrity/CRC and safe extraction checks passed; normalized ZIP was validated.",
+            "85 texture IDs overlap the author’s published HD source, zero byte matches. Decoded RGB MAE64 median 7.96, max 69.28; manual sheet confirms changed Xbox glyphs in control prompts and gameplay textures. One texture ID is unique to the overlay.",
+            {
+              "unstructuredSourceVariantEvidence": "86 DDS runtime textures from the author’s updated 2024 Xbox edition."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-025a",
+      "verifiedAt": "2026-09-27T07:39:28Z",
+      "releaseTag": "texture-catalog-2026-07-22",
+      "entries": [
+        {
+          "catalogId": "teodor-max-headhunter-redemption-slus-20817-20260927",
+          "sourceArtifact": "headhunter-redemption-teodor-max-slus-20817.7z",
+          "sourceSha256": "B56C9B4B6E03DD1D5CDDA99D5791FC0F4B0111EB9DD94516CA84F0060ADD3C46",
+          "assetName": "headhunter-redemption-teodor-max-slus-20817.zip",
+          "assetParts": [
+            "headhunter-redemption-teodor-max-slus-20817.zip.part001",
+            "headhunter-redemption-teodor-max-slus-20817.zip.part002",
+            "headhunter-redemption-teodor-max-slus-20817.zip.part003",
+            "headhunter-redemption-teodor-max-slus-20817.zip.part004"
+          ],
+          "normalizedSha256": "F719EC6D96100DA68D0A6039689E9A90DF94CBA4E4562C28C5EFF0FF7FD3868B",
+          "manifestSha256": "4C81A86A6A564CD989243DEFCD69271EE2EC75A613F8DD1416BED8304E90152E",
+          "contentSetSha256": "D34265213445838085515DCBA438130BDB89CDCCCF412ABEBBDECF48C4095292",
+          "comparedAgainst": [],
+          "reviewNotes": [
+            "textures.json and all current .texture-work/batches/*/sources.json manifests; exact USA serial SLUS-20817 and exact game title; normalized ZIP, source SHA-256, manifest SHA-256 and content-set SHA-256 fingerprints. No exact title/serial match or staged same-title pack was found."
+          ]
+        }
+      ]
     }
   ]
 }
